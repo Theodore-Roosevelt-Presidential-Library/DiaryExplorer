@@ -1,0 +1,93 @@
+{
+ "seq": "0361",
+ "side": "left",
+ "page_type": "diary-day",
+ "date": "1884-12-05",
+ "printed": {
+  "header": {
+   "raw": "December, Friday 5. 1884.",
+   "month": "December",
+   "weekday": "Friday",
+   "day": 5,
+   "year": 1884
+  },
+  "title": null,
+  "ruling": "lined",
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "kind": "entry",
+   "position": "body",
+   "medium": "pencil",
+   "hand": "TR",
+   "lines": [
+    "M. & I went out after",
+    "sheep but saw none.",
+    "Need meat for winter",
+    "killed 3 blacktail;",
+    "a doe at 50 yards,",
+    "a young buck at 120;",
+    "a buck at 60;"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "'3' in line 4 written darker/overwritten. Punctuation after 'none' and 'yards' faint."
+  },
+  {
+   "id": "b2",
+   "kind": "tally",
+   "position": "bottom",
+   "medium": "pencil",
+   "hand": "TR",
+   "lines": [
+    "3 blacktail"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "faint mirrored show-through of Dec 4 header and text from facing/reverse page"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "M.",
+    "identified_as": "A. W. Merrifield",
+    "certain": false
+   }
+  ],
+  "places": [],
+  "animals": [
+   {
+    "as_written": "sheep",
+    "count": 0,
+    "taken": false
+   },
+   {
+    "as_written": "blacktail",
+    "count": 3,
+    "taken": true
+   }
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "Pencil. Unchanged from pass 1.",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

@@ -1,0 +1,47 @@
+{
+  "seq": "0340",
+  "side": "right",
+  "page_type": "diary-day",
+  "date": "1884-11-14",
+  "printed": {
+    "header": {
+      "raw": "November, Friday 14. 1884.",
+      "month": "November",
+      "weekday": "Friday",
+      "day": 14,
+      "year": 1884
+    },
+    "title": null,
+    "ruling": "lined",
+    "description": null
+  },
+  "handwriting": [],
+  "marks": [
+    {
+      "kind": "show-through",
+      "value": null,
+      "position": "body",
+      "note": "Faint un-mirrored writing in upper body ('Reached Little Missouri; went out to Chimney Butte Ranche') is show-through of the Nov 16 entry (0342) on a following leaf; faint mirrored printed header from reverse also visible"
+    },
+    {
+      "kind": "debris",
+      "value": null,
+      "position": "body",
+      "note": "small spots mid-page"
+    }
+  ],
+  "mentions": {
+    "people": [],
+    "places": [],
+    "animals": [],
+    "dates": []
+  },
+  "has_tr_writing": false,
+  "confidence": "high",
+  "transcriber_notes": "Blank day. Only show-through and small spots.",
+  "review": {
+    "status": "unreviewed",
+    "reviewer": null,
+    "date": null
+  }
+}

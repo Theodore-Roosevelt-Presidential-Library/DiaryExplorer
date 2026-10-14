@@ -1,0 +1,41 @@
+{
+  "_about": "Curator's notes shown beside a page. status: 'draft' (shown with a Draft label while meta showDrafts is true) or 'approved'. Facts here must be verified by TRPL staff before approval.",
+  "notes": [
+    {
+      "seq": "0066",
+      "title": "February 14, 1884",
+      "status": "draft",
+      "body": "On this day Theodore Roosevelt lost his mother and his wife in the same house in New York City, hours apart. His mother, Martha Bulloch Roosevelt, died of typhoid fever early that morning. His wife, Alice Hathaway Lee Roosevelt, died that afternoon, two days after giving birth to their daughter. Roosevelt marked the page with an X and wrote a single line."
+    },
+    {
+      "seq": "0068",
+      "title": "A tribute to Alice",
+      "status": "draft",
+      "body": "Two days later, across this page and the next, Roosevelt set down the outline of Alice's life and their time together, from their first meeting in 1878 to her death."
+    },
+    {
+      "seq": "0069",
+      "title": "\"For joy or for sorrow\"",
+      "status": "draft",
+      "body": "The tribute ends with their daughter's christening as Alice Lee Roosevelt. The pages that follow stay blank for nearly four months."
+    },
+    {
+      "seq": "0182",
+      "title": "Back in the Badlands",
+      "status": "draft",
+      "body": "The diary picks up again in June with Roosevelt at his cattle ranch on the Little Missouri River in Dakota Territory. In the weeks that follow, the entries are short records of riding and hunting."
+    },
+    {
+      "seq": "0342",
+      "title": "A winter on the Little Missouri",
+      "status": "draft",
+      "body": "In mid-November Roosevelt was back on the Little Missouri. Through December his entries record daily hunts, the weather and the work of the ranches, often with a tally of game at the foot of the page."
+    },
+    {
+      "seq": "0390",
+      "title": "Back of the book",
+      "status": "draft",
+      "body": "Roosevelt put the printed account pages at the back of the diary to his own uses: a numbered list of ranch photographs, notes on income, and a season's tally of game."
+    }
+  ]
+}

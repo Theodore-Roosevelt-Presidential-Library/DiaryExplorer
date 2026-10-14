@@ -1,0 +1,53 @@
+{
+  "seq": "0181",
+  "side": "left",
+  "page_type": "diary-day",
+  "date": "1884-06-08",
+  "printed": {
+    "header": {
+      "raw": "June, Sunday 8. 1884.",
+      "month": "June",
+      "weekday": "Sunday",
+      "day": 8,
+      "year": 1884
+    },
+    "title": null,
+    "ruling": "lined",
+    "description": null
+  },
+  "handwriting": [],
+  "marks": [
+    {
+      "kind": "debris",
+      "value": null,
+      "position": "body",
+      "note": "small brown specks/foxing at left-centre"
+    },
+    {
+      "kind": "stain",
+      "value": null,
+      "position": "margin",
+      "note": "yellow-brown discoloration along right (gutter) edge"
+    },
+    {
+      "kind": "show-through",
+      "value": null,
+      "position": "top",
+      "note": "faint mirrored printed header from the reverse visible in header band"
+    }
+  ],
+  "mentions": {
+    "people": [],
+    "places": [],
+    "animals": [],
+    "dates": []
+  },
+  "has_tr_writing": false,
+  "confidence": "high",
+  "transcriber_notes": "Blank day; no handwriting. Right edge of the image shows the facing June 9 page (0182), not part of this page.",
+  "review": {
+    "status": "unreviewed",
+    "reviewer": null,
+    "date": null
+  }
+}

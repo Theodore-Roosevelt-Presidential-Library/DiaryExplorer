@@ -1,0 +1,224 @@
+{
+  "seq": "0403",
+  "side": "left",
+  "page_type": "memoranda",
+  "date": null,
+  "printed": {
+    "header": null,
+    "title": "Memoranda.",
+    "ruling": "cash-columns",
+    "description": "Printed 'Dolls. Cts.' columns at right; vertical column rules; faint show-through of the Cash Account Summary on reverse."
+  },
+  "handwriting": [
+    {
+      "id": "b1",
+      "kind": "other",
+      "position": "top",
+      "medium": "pencil",
+      "hand": "uncertain",
+      "lines": [
+        "11",
+        "117[?]"
+      ],
+      "rows": null,
+      "columns": null,
+      "confidence": "low",
+      "note": "Pencil figures in the top-left margin above the printed rule: '11' above '117' (last figure uncertain, 7 or ?). Purpose unknown - possibly TR's running count; could also be a later notation."
+    },
+    {
+      "id": "b2",
+      "kind": "table",
+      "position": "body",
+      "medium": "pencil",
+      "hand": "TR",
+      "lines": [
+        "Bear  Badger  Elk.  Ant[?].  Blk.  Wht.  Hare",
+        "11)  ~~2~~[?]  1  2  1",
+        "111)  3  6  5  2  4",
+        "~~5~~",
+        "Bighorn  3  1  5",
+        "1  1",
+        "1",
+        "3  1  6  3  8  4  11",
+        "36"
+      ],
+      "rows": [
+        [
+          "11)",
+          "~~2~~[?]",
+          "1",
+          "",
+          "2",
+          "",
+          "",
+          "1"
+        ],
+        [
+          "111)",
+          "3",
+          "",
+          "6",
+          "",
+          "5",
+          "2",
+          "4"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "~~5~~"
+        ],
+        [
+          "Bighorn",
+          "",
+          "",
+          "",
+          "",
+          "3",
+          "1",
+          "5"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "1",
+          "",
+          "",
+          "1"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "1",
+          ""
+        ],
+        [
+          "",
+          "3",
+          "1",
+          "6",
+          "3",
+          "8",
+          "4",
+          "11"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "36",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "columns": [
+        "",
+        "Bear",
+        "Badger",
+        "Elk.",
+        "Ant.[?]",
+        "Blk.",
+        "Wht.",
+        "Hare"
+      ],
+      "confidence": "medium",
+      "note": "Game tally. Column headings written by TR; Wht. and Hare sit in the printed Dolls./Cts. columns. Fourth heading looks like 'Cnt.'/'Clnt.', probably 'Ant.' (antelope). Row labels '11)' and '111)' (perhaps II and III; second has an extra joined stroke). Struck Bear figure in row 11) is a 2/3 overwritten and crossed out. 'Bighorn' is written across the Elk/Ant columns as a row label (place or trip name, not a count). '36' is the grand total written large under a bracket (placed in the Ant. column only for layout). Column totals check: Bear 3, Badger 1, Elk 6, Ant 2+1=3, Blk 5+3=8, Wht 2+1+1=4 (the 4 written over another figure, possibly 8), Hare 1+4+5+1=11; sum 36. Cell alignment approximate."
+    },
+    {
+      "id": "b3",
+      "kind": "tally",
+      "position": "bottom",
+      "medium": "pencil",
+      "hand": "TR",
+      "lines": [
+        "3 / 1 / 6 / 15 / 11"
+      ],
+      "rows": null,
+      "columns": null,
+      "confidence": "high",
+      "note": "Summary at the foot of the page, figures separated by long slanting strokes: Bear 3, Badger 1, Elk 6, deer (Ant+Blk+Wht = 3+8+4) 15, Hare 11."
+    }
+  ],
+  "marks": [
+    {
+      "kind": "show-through",
+      "value": null,
+      "position": "body",
+      "note": "Mirrored printed month names and 'Cash Account—Summary' from reverse page 0402."
+    },
+    {
+      "kind": "other",
+      "value": null,
+      "position": "margin",
+      "note": "Fragment of facing page 0404 ('Sage G.', '14') visible at right edge - not this page."
+    }
+  ],
+  "mentions": {
+    "people": [],
+    "places": [
+      {
+        "as_written": "Bighorn",
+        "certain": false
+      }
+    ],
+    "animals": [
+      {
+        "as_written": "Bear",
+        "count": 3,
+        "taken": true
+      },
+      {
+        "as_written": "Badger",
+        "count": 1,
+        "taken": true
+      },
+      {
+        "as_written": "Elk.",
+        "count": 6,
+        "taken": true
+      },
+      {
+        "as_written": "Ant.[?]",
+        "count": 3,
+        "taken": true
+      },
+      {
+        "as_written": "Blk.",
+        "count": 8,
+        "taken": true
+      },
+      {
+        "as_written": "Wht.",
+        "count": 4,
+        "taken": true
+      },
+      {
+        "as_written": "Hare",
+        "count": 11,
+        "taken": true
+      }
+    ],
+    "dates": []
+  },
+  "has_tr_writing": true,
+  "confidence": "low",
+  "transcriber_notes": "Mammal game tally (pencil). 'Bighorn' is listed under places as a row label - it could alternatively denote bighorn sheep, but its figures fall under Blk./Wht./Hare. Animal counts are TR's column totals; 'taken' assumed from context of a game tally. Pass-1 text unchanged in substance; restructured into rows/columns.",
+  "review": {
+    "status": "unreviewed",
+    "reviewer": null,
+    "date": null
+  }
+}

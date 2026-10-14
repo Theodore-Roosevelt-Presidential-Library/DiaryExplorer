@@ -1,0 +1,87 @@
+{
+  "seq": "0405",
+  "side": "left",
+  "page_type": "name-address",
+  "date": null,
+  "printed": {
+    "header": null,
+    "title": "Memoranda.",
+    "ruling": "cash-columns",
+    "description": "Printed 'Dolls. Cts.' columns at right."
+  },
+  "handwriting": [
+    {
+      "id": "b1",
+      "kind": "address",
+      "position": "body",
+      "medium": "unknown",
+      "hand": "TR",
+      "lines": [
+        "S. M. Ferris",
+        "Grand Lake",
+        "Whites Cove",
+        "Queen Co.",
+        "New Brunswick",
+        "",
+        "Express Co",
+        "St. John",
+        "New Brunswick."
+      ],
+      "rows": null,
+      "columns": null,
+      "confidence": "high",
+      "note": "Grey/faded ink or pencil; each line indented further right. TR's crossed F in 'Ferris' resembles a J/T. 'Whites' no apostrophe; 'Queen Co.' as written. Second 'Brunswick' cramped. 'Express Co' lightly written."
+    }
+  ],
+  "marks": [
+    {
+      "kind": "show-through",
+      "value": null,
+      "position": "body",
+      "note": "Faint mirrored pencil figures from reverse page 0404 visible."
+    }
+  ],
+  "mentions": {
+    "people": [
+      {
+        "as_written": "S. M. Ferris",
+        "identified_as": "Sylvane M. Ferris",
+        "certain": false
+      }
+    ],
+    "places": [
+      {
+        "as_written": "Grand Lake",
+        "certain": false
+      },
+      {
+        "as_written": "Whites Cove",
+        "certain": false
+      },
+      {
+        "as_written": "Queen Co.",
+        "identified_as": "Queens County, New Brunswick",
+        "certain": false
+      },
+      {
+        "as_written": "New Brunswick",
+        "certain": false
+      },
+      {
+        "as_written": "St. John",
+        "identified_as": "Saint John, New Brunswick",
+        "certain": false
+      }
+    ],
+    "animals": [],
+    "dates": []
+  },
+  "has_tr_writing": true,
+  "confidence": "high",
+  "transcriber_notes": "Printed title is Memoranda; page used for an address, so page_type name-address.",
+  "review": {
+    "status": "unreviewed",
+    "reviewer": null,
+    "date": null
+  }
+}

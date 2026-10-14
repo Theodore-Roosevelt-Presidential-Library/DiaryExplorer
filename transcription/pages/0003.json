@@ -1,0 +1,47 @@
+{
+  "seq": "0003",
+  "side": "left",
+  "page_type": "cover",
+  "date": null,
+  "printed": {
+    "header": null,
+    "title": null,
+    "ruling": "none",
+    "description": "Inside front cover (pastedown); no printed matter."
+  },
+  "handwriting": [],
+  "marks": [
+    {
+      "kind": "crease",
+      "value": null,
+      "position": "body",
+      "note": "Vertical crack/split running the length of the pastedown with lifted, abraded patches"
+    },
+    {
+      "kind": "stain",
+      "value": null,
+      "position": "body",
+      "note": "General discoloration and a darker tide-mark area lower left"
+    },
+    {
+      "kind": "other",
+      "value": null,
+      "position": "margin",
+      "note": "Clear conservation mounting tabs top-left and bottom-left; edge of facing endpaper (0004) with start of 'Th...' inscription visible at right, not on this page"
+    }
+  ],
+  "mentions": {
+    "people": [],
+    "places": [],
+    "animals": [],
+    "dates": []
+  },
+  "has_tr_writing": false,
+  "confidence": "high",
+  "transcriber_notes": "No writing on this page.",
+  "review": {
+    "status": "unreviewed",
+    "reviewer": null,
+    "date": null
+  }
+}

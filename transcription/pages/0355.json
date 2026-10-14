@@ -1,0 +1,96 @@
+{
+  "seq": "0355",
+  "side": "left",
+  "page_type": "diary-day",
+  "date": "1884-11-29",
+  "printed": {
+    "header": {
+      "raw": "November, Saturday 29. 1884.",
+      "month": "November",
+      "weekday": "Saturday",
+      "day": 29,
+      "year": 1884
+    },
+    "title": null,
+    "ruling": "lined",
+    "description": null
+  },
+  "handwriting": [
+    {
+      "id": "b1",
+      "kind": "entry",
+      "position": "body",
+      "medium": "ink",
+      "hand": "TR",
+      "lines": [
+        "Shot 2 sharptail grouse,",
+        "Rode in town and",
+        "lunched with Marquis."
+      ],
+      "rows": null,
+      "columns": null,
+      "confidence": "high",
+      "note": "Long horizontal stroke over 'town' is read as the t-cross, not a strike-through."
+    },
+    {
+      "id": "b2",
+      "kind": "tally",
+      "position": "bottom",
+      "medium": "ink",
+      "hand": "TR",
+      "lines": [
+        "2 sharptail grouse"
+      ],
+      "rows": null,
+      "columns": null,
+      "confidence": "high",
+      "note": "Last word cramped."
+    }
+  ],
+  "marks": [
+    {
+      "kind": "stain",
+      "value": null,
+      "position": "body",
+      "note": "Purplish smudge below 'town'"
+    },
+    {
+      "kind": "stain",
+      "value": null,
+      "position": "margin",
+      "note": "Grey mark in left margin near header"
+    },
+    {
+      "kind": "show-through",
+      "value": null,
+      "position": "top",
+      "note": "Faint mirrored show-through of header from reverse"
+    }
+  ],
+  "mentions": {
+    "people": [
+      {
+        "as_written": "Marquis",
+        "identified_as": "Marquis de Morès",
+        "certain": false
+      }
+    ],
+    "places": [],
+    "animals": [
+      {
+        "as_written": "sharptail grouse",
+        "count": 2,
+        "taken": true
+      }
+    ],
+    "dates": []
+  },
+  "has_tr_writing": true,
+  "confidence": "high",
+  "transcriber_notes": "Ink.",
+  "review": {
+    "status": "unreviewed",
+    "reviewer": null,
+    "date": null
+  }
+}

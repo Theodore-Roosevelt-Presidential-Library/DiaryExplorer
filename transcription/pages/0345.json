@@ -1,0 +1,62 @@
+{
+  "seq": "0345",
+  "side": "left",
+  "page_type": "diary-day",
+  "date": "1884-11-19",
+  "printed": {
+    "header": {
+      "raw": "November, Wednesday 19. 1884.",
+      "month": "November",
+      "weekday": "Wednesday",
+      "day": 19,
+      "year": 1884
+    },
+    "title": null,
+    "ruling": "lined",
+    "description": null
+  },
+  "handwriting": [
+    {
+      "id": "b1",
+      "kind": "entry",
+      "position": "body",
+      "medium": "ink",
+      "hand": "TR",
+      "lines": [
+        "Located ranche house."
+      ],
+      "rows": null,
+      "columns": null,
+      "confidence": "high",
+      "note": "A small dot/mark after 'Located' and one above the line appear to be stray marks, not punctuation or a word."
+    }
+  ],
+  "marks": [
+    {
+      "kind": "stain",
+      "value": null,
+      "position": "top-left",
+      "note": "Brown stain at upper left over start of printed 'November'"
+    },
+    {
+      "kind": "show-through",
+      "value": null,
+      "position": "body",
+      "note": "Mirrored show-through of Nov 18 entry and its '5 sharptail grouse' tally in body and at bottom"
+    }
+  ],
+  "mentions": {
+    "people": [],
+    "places": [],
+    "animals": [],
+    "dates": []
+  },
+  "has_tr_writing": true,
+  "confidence": "high",
+  "transcriber_notes": "Ink.",
+  "review": {
+    "status": "unreviewed",
+    "reviewer": null,
+    "date": null
+  }
+}

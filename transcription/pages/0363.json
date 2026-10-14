@@ -1,0 +1,87 @@
+{
+ "seq": "0363",
+ "side": "left",
+ "page_type": "diary-day",
+ "date": "1884-12-07",
+ "printed": {
+  "header": {
+   "raw": "December, Sunday 7. 1884.",
+   "month": "December",
+   "weekday": "Sunday",
+   "day": 7,
+   "year": 1884
+  },
+  "title": null,
+  "ruling": "lined",
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "kind": "entry",
+   "position": "body",
+   "medium": "pencil",
+   "hand": "TR",
+   "lines": [
+    "Sent for Seawall",
+    "and Dow to get",
+    "Elkhorn ponies."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "'Seawall' as written (Sewall)."
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "faint text of Dec 5 (0361) entry visible in upper-middle ('...blacktail; / ...at 50 yards / ...buck at 120; / ...at 60;') and its tally '3 blacktail' at bottom"
+  },
+  {
+   "kind": "stain",
+   "value": null,
+   "position": "body",
+   "note": "faint grey smudge right of mid-page (offset of Dec 6 smudge)"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Seawall",
+    "identified_as": "William Wingate Sewall",
+    "certain": false
+   },
+   {
+    "as_written": "Dow",
+    "identified_as": "Wilmot Dow",
+    "certain": false
+   }
+  ],
+  "places": [
+   {
+    "as_written": "Elkhorn",
+    "identified_as": "Elkhorn Ranch",
+    "certain": false
+   }
+  ],
+  "animals": [
+   {
+    "as_written": "ponies",
+    "count": null,
+    "taken": false
+   }
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "Pencil. Unchanged from pass 1.",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

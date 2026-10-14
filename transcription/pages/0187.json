@@ -1,0 +1,64 @@
+{
+  "seq": "0187",
+  "side": "left",
+  "page_type": "diary-day",
+  "date": "1884-06-14",
+  "printed": {
+    "header": {
+      "raw": "June, Saturday 14. 1884.",
+      "month": "June",
+      "weekday": "Saturday",
+      "day": 14,
+      "year": 1884
+    },
+    "title": null,
+    "ruling": "lined",
+    "description": null
+  },
+  "handwriting": [
+    {
+      "id": "b1",
+      "kind": "entry",
+      "position": "body",
+      "medium": "ink",
+      "hand": "TR",
+      "lines": [
+        "Two curlew, one on",
+        "wing, both with",
+        "rifle; good shots."
+      ],
+      "rows": null,
+      "columns": null,
+      "confidence": "high",
+      "note": "Brown ink."
+    }
+  ],
+  "marks": [
+    {
+      "kind": "show-through",
+      "value": null,
+      "position": "body",
+      "note": "faint mirrored show-through of the June 13 entry (0186) on the reverse, below the written text"
+    }
+  ],
+  "mentions": {
+    "animals": [
+      {
+        "as_written": "curlew",
+        "count": 2,
+        "taken": true
+      }
+    ],
+    "people": [],
+    "places": [],
+    "dates": []
+  },
+  "has_tr_writing": true,
+  "confidence": "high",
+  "transcriber_notes": "Entry confirmed against image; no changes from pass 1.",
+  "review": {
+    "status": "unreviewed",
+    "reviewer": null,
+    "date": null
+  }
+}

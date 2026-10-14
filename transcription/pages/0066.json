@@ -1,0 +1,71 @@
+{
+  "seq": "0066",
+  "side": "right",
+  "page_type": "diary-day",
+  "date": "1884-02-14",
+  "printed": {
+    "header": {
+      "raw": "February, Thursday 14. 1884.",
+      "month": "February",
+      "weekday": "Thursday",
+      "day": 14,
+      "year": 1884
+    },
+    "title": null,
+    "ruling": "lined",
+    "description": null
+  },
+  "handwriting": [
+    {
+      "id": "b1",
+      "kind": "other",
+      "position": "body",
+      "medium": "ink",
+      "hand": "TR",
+      "lines": [
+        "X"
+      ],
+      "rows": null,
+      "columns": null,
+      "confidence": "high",
+      "note": "Large bold X drawn in brown ink just below the printed header"
+    },
+    {
+      "id": "b2",
+      "kind": "entry",
+      "position": "body",
+      "medium": "ink",
+      "hand": "TR",
+      "lines": [
+        "The light has gone",
+        "out of my life"
+      ],
+      "rows": null,
+      "columns": null,
+      "confidence": "high",
+      "note": "Brown ink. No terminal punctuation visible after 'life'."
+    }
+  ],
+  "marks": [
+    {
+      "kind": "show-through",
+      "value": null,
+      "position": "body",
+      "note": "Mirrored printed header of Feb 15 (0067) at top and faint marks lower on page from reverse of leaf; ignored"
+    }
+  ],
+  "mentions": {
+    "people": [],
+    "places": [],
+    "animals": [],
+    "dates": []
+  },
+  "has_tr_writing": true,
+  "confidence": "high",
+  "transcriber_notes": "Pass-2 check agrees with pass 1. The X is recorded as its own block.",
+  "review": {
+    "status": "unreviewed",
+    "reviewer": null,
+    "date": null
+  }
+}

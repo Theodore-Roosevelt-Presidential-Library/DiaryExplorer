@@ -1,0 +1,35 @@
+{
+  "seq": "0007",
+  "side": "left",
+  "page_type": "printed-matter",
+  "date": null,
+  "printed": {
+    "header": null,
+    "title": "CALENDAR FOR 1884.",
+    "ruling": "other",
+    "description": "Printed full-year calendar grid for 1884 in two columns (Jan-June, July-Dec), ornamental border."
+  },
+  "handwriting": [],
+  "marks": [
+    {
+      "kind": "other",
+      "value": null,
+      "position": "margin",
+      "note": "Clear conservation mounting tabs top-left and bottom-left"
+    }
+  ],
+  "mentions": {
+    "people": [],
+    "places": [],
+    "animals": [],
+    "dates": []
+  },
+  "has_tr_writing": false,
+  "confidence": "high",
+  "transcriber_notes": "Printed only; no handwriting.",
+  "review": {
+    "status": "unreviewed",
+    "reviewer": null,
+    "date": null
+  }
+}

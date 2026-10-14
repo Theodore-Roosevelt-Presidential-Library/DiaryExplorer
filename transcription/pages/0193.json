@@ -1,0 +1,47 @@
+{
+  "seq": "0193",
+  "side": "left",
+  "page_type": "diary-day",
+  "date": "1884-06-20",
+  "printed": {
+    "header": {
+      "raw": "June, Friday 20. 1884.",
+      "month": "June",
+      "weekday": "Friday",
+      "day": 20,
+      "year": 1884
+    },
+    "title": null,
+    "ruling": "lined",
+    "description": null
+  },
+  "handwriting": [],
+  "marks": [
+    {
+      "kind": "show-through",
+      "value": null,
+      "position": "body",
+      "note": "Faint grey non-mirrored text fills the page: transmitted show-through of the June 18 entry (seq 0191, '1 buck antelope, fine horns. A group of buck...shot through both shoulders'), line ends matching 0191."
+    },
+    {
+      "kind": "stain",
+      "value": null,
+      "position": "body",
+      "note": "small brown speck mid-page (right of centre)"
+    }
+  ],
+  "mentions": {
+    "people": [],
+    "places": [],
+    "animals": [],
+    "dates": []
+  },
+  "has_tr_writing": false,
+  "confidence": "high",
+  "transcriber_notes": "Blank day. All visible writing is show-through of 0191; could be cross-checked against 0191 if any doubt. Text at right edge belongs to facing June 21 page (0194).",
+  "review": {
+    "status": "unreviewed",
+    "reviewer": null,
+    "date": null
+  }
+}

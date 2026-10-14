@@ -1,0 +1,91 @@
+{
+  "seq": "0348",
+  "side": "right",
+  "page_type": "diary-day",
+  "date": "1884-11-22",
+  "printed": {
+    "header": {
+      "raw": "November, Saturday 22. 1884.",
+      "month": "November",
+      "weekday": "Saturday",
+      "day": 22,
+      "year": 1884
+    },
+    "title": null,
+    "ruling": "lined",
+    "description": null
+  },
+  "handwriting": [
+    {
+      "id": "b1",
+      "kind": "entry",
+      "position": "body",
+      "medium": "ink",
+      "hand": "TR",
+      "lines": [
+        "Shot ~~three~~ ^six^ grouse, Seawall",
+        "& I rode into town &",
+        "back, thermometer 20° below",
+        "zero."
+      ],
+      "rows": null,
+      "columns": null,
+      "confidence": "high",
+      "note": "'three' struck, 'six' above. First digit of '20' heavy/retraced but reads 2."
+    },
+    {
+      "id": "b2",
+      "kind": "tally",
+      "position": "bottom",
+      "medium": "ink",
+      "hand": "TR",
+      "lines": [
+        "6 sharptail grouse"
+      ],
+      "rows": null,
+      "columns": null,
+      "confidence": "medium",
+      "note": "Numeral heavily overwritten: reads as 6 written over another figure (probably 3, matching the correction); could conceivably be read 8."
+    }
+  ],
+  "marks": [
+    {
+      "kind": "show-through",
+      "value": null,
+      "position": "bottom-right",
+      "note": "Faint mirrored show-through at bottom right (tally from reverse)"
+    },
+    {
+      "kind": "offset",
+      "value": null,
+      "position": "body",
+      "note": "Faint grey offset mark mid-page"
+    }
+  ],
+  "mentions": {
+    "people": [
+      {
+        "as_written": "Seawall",
+        "identified_as": "William Wingate Sewall",
+        "certain": false
+      }
+    ],
+    "places": [],
+    "animals": [
+      {
+        "as_written": "grouse",
+        "count": 6,
+        "taken": true
+      }
+    ],
+    "dates": []
+  },
+  "has_tr_writing": true,
+  "confidence": "medium",
+  "transcriber_notes": "Ink.",
+  "review": {
+    "status": "unreviewed",
+    "reviewer": null,
+    "date": null
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "seq": "0069",
+  "side": "left",
+  "page_type": "diary-day",
+  "date": "1884-02-17",
+  "printed": {
+    "header": {
+      "raw": "February, Sunday 17. 1884.",
+      "month": "February",
+      "weekday": "Sunday",
+      "day": 17,
+      "year": 1884
+    },
+    "title": null,
+    "ruling": "lined",
+    "description": null
+  },
+  "handwriting": [
+    {
+      "id": "b1",
+      "kind": "entry",
+      "position": "body",
+      "medium": "ink",
+      "hand": "TR",
+      "lines": [
+        "her baby was born,",
+        "and on Feb 14th she",
+        "died in my arms;",
+        "On my mother had",
+        "died in the same",
+        "house, on the same",
+        "day, but a few",
+        "hours previously, On",
+        "Feb 16th they were",
+        "buried together in",
+        "Greenwood.",
+        "On Feb 17th I",
+        "christenned the baby",
+        "Alice Lee Roosevelt.",
+        "",
+        "For joy or for sorrow",
+        "my life has now been",
+        "lived out"
+      ],
+      "rows": null,
+      "columns": null,
+      "confidence": "medium",
+      "note": "Brown ink; continuation of Feb 16 (0068). Line 2: 'on' and '14' are retraced/overwritten in darker, heavier ink (underlying figure not legible). Line 4 begins 'On my mother had' exactly as written. 'christenned' spelled thus (a gap/dot after 'chris'). Comma after 'previously' then capital 'On', as written. 'Roosevelt.' ends with a period. No terminal punctuation after 'lived out'."
+    }
+  ],
+  "marks": [
+    {
+      "kind": "show-through",
+      "value": null,
+      "position": "body",
+      "note": "Faint mirrored show-through of Feb 16 (0068) writing from reverse of leaf; mirrored Feb 16 header at top"
+    }
+  ],
+  "mentions": {
+    "people": [
+      {
+        "as_written": "her baby",
+        "identified_as": "Alice Lee Roosevelt",
+        "certain": false
+      },
+      {
+        "as_written": "my mother",
+        "identified_as": "Martha Bulloch Roosevelt",
+        "certain": false
+      },
+      {
+        "as_written": "Alice Lee Roosevelt",
+        "identified_as": "Alice Lee Roosevelt",
+        "certain": false
+      }
+    ],
+    "places": [
+      {
+        "as_written": "Greenwood",
+        "identified_as": "Green-Wood Cemetery, Brooklyn",
+        "certain": false
+      }
+    ],
+    "animals": [],
+    "dates": [
+      {
+        "as_written": "Feb 14th",
+        "iso": "1884-02-14"
+      },
+      {
+        "as_written": "Feb 16th",
+        "iso": "1884-02-16"
+      },
+      {
+        "as_written": "Feb 17th",
+        "iso": "1884-02-17"
+      }
+    ]
+  },
+  "has_tr_writing": true,
+  "confidence": "medium",
+  "transcriber_notes": "Re-checked against full-res crop; pass-1 text confirmed. Medium because of the retraced 'on' and '14'.",
+  "review": {
+    "status": "unreviewed",
+    "reviewer": null,
+    "date": null
+  }
+}

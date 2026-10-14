@@ -1,0 +1,135 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Roosevelt's 1884 Diary</title>
+<meta name="description" content="Turn the pages of Theodore Roosevelt's 1884 pocket diary, on loan from the Library of Congress to the Theodore Roosevelt Presidential Library, with a page-by-page transcription.">
+<meta property="og:title" content="Theodore Roosevelt's 1884 Diary">
+<meta property="og:description" content="Turn the pages of Theodore Roosevelt's 1884 pocket diary, with a page-by-page transcription.">
+<meta property="og:image" content="https://diary.labs.trlibrary.com/pages/0066.jpg">
+<meta property="og:url" content="https://diary.labs.trlibrary.com/">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Oswald:wght@500;600&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;1,8..60,400&family=Source+Sans+3:wght@400;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="app.css">
+</head>
+<body>
+<div id="app">
+  <header class="topbar">
+    <div class="brand">
+      <span class="eyebrow">Theodore Roosevelt Presidential Library</span>
+      <h1>Roosevelt's 1884 Diary</h1>
+    </div>
+    <div class="topbar-actions">
+      <button class="btn ghost" id="btnEntries" aria-haspopup="dialog">All entries</button>
+      <button class="btn ghost" id="btnAbout" aria-haspopup="dialog">About</button>
+    </div>
+  </header>
+
+  <main class="layout">
+    <section class="stage" aria-label="Diary">
+      <div class="book-wrap" id="bookWrap">
+        <div id="book" class="book"></div>
+      </div>
+      <div class="gap-chip" id="gapChip" hidden>
+        <span id="gapText"></span>
+        <button class="btn small" id="gapSkip">Skip ahead</button>
+      </div>
+    </section>
+
+    <aside class="panel" id="panel" aria-live="polite">
+      <div class="draft-banner" id="draftBanner" hidden></div>
+      <div class="panel-inner" id="panelBody"></div>
+    </aside>
+  </main>
+
+  <nav class="controls" aria-label="Page controls">
+    <button class="btn nav" id="btnPrev" aria-label="Previous"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M15 5l-7 7 7 7"/></svg></button>
+    <div class="nav-center">
+      <div class="where" id="where">Cover</div>
+      <label class="switch">
+        <input type="checkbox" id="skipBlank" checked>
+        <span class="track" aria-hidden="true"></span>
+        <span class="switch-label">Skip blank days</span>
+      </label>
+    </div>
+    <button class="btn nav" id="btnNext" aria-label="Next"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M9 5l7 7-7 7"/></svg></button>
+  </nav>
+
+  <div class="timeline" id="timeline" aria-label="1884 at a glance"></div>
+
+  <footer class="credit">
+    Original: <a href="https://www.loc.gov/item/mss382990724/" target="_blank" rel="noopener">Library of Congress, Manuscript Division, Theodore Roosevelt Papers</a>. Transcription by the Theodore Roosevelt Presidential Library.
+  </footer>
+</div>
+
+<!-- Intro -->
+<div class="overlay intro" id="intro" role="dialog" aria-modal="true" aria-labelledby="introTitle">
+  <div class="intro-card">
+    <span class="eyebrow">Library of Congress · Theodore Roosevelt Papers</span>
+    <h2 id="introTitle">A year in Roosevelt's pocket</h2>
+    <p>This small leather pocket diary carried Theodore Roosevelt through 1884. In February he marked one page with an X. By summer he was riding the Badlands. Turn its pages, read every entry, and see what he left blank.</p>
+    <div class="intro-actions">
+      <button class="btn primary" id="introFeb14">Open to February 14</button>
+      <button class="btn" id="introCover">Start at the cover</button>
+    </div>
+    <p class="hint">Drag a page corner, swipe, or use the arrows to turn pages.</p>
+  </div>
+</div>
+
+<!-- Entries -->
+<div class="overlay sheet" id="entries" role="dialog" aria-modal="true" aria-labelledby="entriesTitle" hidden>
+  <div class="sheet-card">
+    <div class="sheet-head">
+      <h2 id="entriesTitle">Every page with writing</h2>
+      <button class="btn icon close" data-close aria-label="Close">×</button>
+    </div>
+    <input type="search" id="search" placeholder="Search the transcription — try “Elkhorn” or “antelope”" aria-label="Search the transcription">
+    <div id="highlights"></div>
+    <ol class="entry-list" id="entryList"></ol>
+  </div>
+</div>
+
+<!-- About -->
+<div class="overlay sheet" id="about" role="dialog" aria-modal="true" aria-labelledby="aboutTitle" hidden>
+  <div class="sheet-card prose">
+    <div class="sheet-head">
+      <h2 id="aboutTitle">About the diary</h2>
+      <button class="btn icon close" data-close aria-label="Close">×</button>
+    </div>
+    <p>An “Excelsior Diary” for 1884, with one printed page for each day of the year and account pages at the back. Roosevelt wrote on about fifty of its 400-plus pages. Most of the other days are blank.</p>
+    <h3>Reading the transcription</h3>
+    <ul class="legend">
+      <li><span class="unc">word<sup>?</sup></span> uncertain reading</li>
+      <li><span class="ill">[illegible]</span> can't be read</li>
+      <li><del>word</del> struck through by Roosevelt</li>
+      <li><ins>word</ins> added above the line</li>
+    </ul>
+    <p>Roosevelt's spelling and punctuation are kept exactly as written. Printed headings, later archive markings and the condition of the page are listed separately from his handwriting.</p>
+    <div class="about-photos">
+      <figure><img src="pages/0001.jpg" alt="Front cover of the diary, black leather with a tab closure" loading="lazy"><figcaption>Front cover</figcaption></figure>
+      <figure><img id="aboutBinding" alt="The diary's binding opened flat, showing the inside of the leather wallet flap" loading="lazy"><figcaption>The wallet binding, opened</figcaption></figure>
+    </div>
+    <p class="small">Images and the original diary: <a href="https://www.loc.gov/item/mss382990724/" target="_blank" rel="noopener">Library of Congress, Manuscript Division, Theodore Roosevelt Papers</a> (mss38299, Series 8, Vol. 7).</p>
+  </div>
+</div>
+
+<!-- Zoom -->
+<div class="overlay zoom" id="zoom" role="dialog" aria-modal="true" aria-label="Zoomed page" hidden>
+  <div id="osd" class="osd"></div>
+  <div class="zoom-bar">
+    <span id="zoomLabel"></span>
+    <div>
+      <button class="btn small" id="zoomIn" aria-label="Zoom in">+</button>
+      <button class="btn small" id="zoomOut" aria-label="Zoom out">−</button>
+      <button class="btn small" data-close>Close</button>
+    </div>
+  </div>
+</div>
+
+<script src="vendor/page-flip.browser.js"></script>
+<script src="vendor/openseadragon.min.js"></script>
+<script src="app.js"></script>
+</body>
+</html>

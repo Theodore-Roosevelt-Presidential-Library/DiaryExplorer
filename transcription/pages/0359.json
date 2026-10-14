@@ -1,0 +1,70 @@
+{
+ "seq": "0359",
+ "side": "left",
+ "page_type": "diary-day",
+ "date": "1884-12-03",
+ "printed": {
+  "header": {
+   "raw": "December, Wednesday 3. 1884.",
+   "month": "December",
+   "weekday": "Wednesday",
+   "day": 3,
+   "year": 1884
+  },
+  "title": null,
+  "ruling": "lined",
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "kind": "entry",
+   "position": "body",
+   "medium": "pencil",
+   "hand": "TR",
+   "lines": [
+    "M. & I went all day",
+    "after ~",
+    "Feverish ; so stayed in house"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": "Line 1 has a small mark after 'went' (stray comma?). Line 2 ends in a short wavy stroke after 'after' (rendered '~'), apparently an abandoned entry, after which TR wrote 'Feverish; so stayed in house' indented; 'house' written small and cramped."
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "faint text from Dec 1 (0357) entry visible beneath lines 1-4 and its tally 'grouse' at bottom"
+  },
+  {
+   "kind": "debris",
+   "value": null,
+   "position": "body",
+   "note": "scattered small dark specks mid- and lower page, and a grey smudge lower-middle; not writing"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "M.",
+    "identified_as": "A. W. Merrifield",
+    "certain": false
+   }
+  ],
+  "places": [],
+  "animals": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "medium",
+ "transcriber_notes": "Pencil. Entry appears begun as a hunting report then abandoned ('after ~') and replaced by 'Feverish; so stayed in house'. Unchanged from pass 1.",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

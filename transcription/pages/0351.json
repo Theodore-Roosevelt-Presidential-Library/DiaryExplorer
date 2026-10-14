@@ -1,0 +1,67 @@
+{
+  "seq": "0351",
+  "side": "left",
+  "page_type": "diary-day",
+  "date": "1884-11-25",
+  "printed": {
+    "header": {
+      "raw": "November, Tuesday 25. 1884.",
+      "month": "November",
+      "weekday": "Tuesday",
+      "day": 25,
+      "year": 1884
+    },
+    "title": null,
+    "ruling": "lined",
+    "description": null
+  },
+  "handwriting": [
+    {
+      "id": "b1",
+      "kind": "entry",
+      "position": "body",
+      "medium": "ink",
+      "hand": "TR",
+      "lines": [
+        "Seawall & I rode up to",
+        "Lang"
+      ],
+      "rows": null,
+      "columns": null,
+      "confidence": "medium",
+      "note": "'&' is TR's ampersand. Second line reads 'Lang'; the final upward stroke looks like the exit of the 'g' rather than an 's', but 'Langs' cannot be ruled out."
+    }
+  ],
+  "marks": [
+    {
+      "kind": "show-through",
+      "value": null,
+      "position": "body",
+      "note": "Mirrored show-through of Nov 24 entry and its tally"
+    }
+  ],
+  "mentions": {
+    "people": [
+      {
+        "as_written": "Seawall",
+        "identified_as": "William Wingate Sewall",
+        "certain": false
+      },
+      {
+        "as_written": "Lang",
+        "certain": false
+      }
+    ],
+    "places": [],
+    "animals": [],
+    "dates": []
+  },
+  "has_tr_writing": true,
+  "confidence": "medium",
+  "transcriber_notes": "Pass 1 read 'Langs[?]'; changed to 'Lang' on close inspection.",
+  "review": {
+    "status": "unreviewed",
+    "reviewer": null,
+    "date": null
+  }
+}

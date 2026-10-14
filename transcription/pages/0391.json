@@ -1,0 +1,139 @@
+{
+  "seq": "0391",
+  "side": "left",
+  "page_type": "cash-account",
+  "date": null,
+  "printed": {
+    "header": null,
+    "title": "Cash Account—February.",
+    "ruling": "cash-columns",
+    "description": "Printed 'Received.' and 'Paid.' dollar/cents column rules at right; blue horizontal rules."
+  },
+  "handwriting": [
+    {
+      "id": "b1",
+      "kind": "heading",
+      "position": "over-printed-title",
+      "medium": "ink",
+      "hand": "TR",
+      "lines": [
+        "Income Acct"
+      ],
+      "rows": null,
+      "columns": null,
+      "confidence": "high",
+      "note": "Written above the printed title at top right in dark brown ink; the printed title is NOT struck. Begins an income account continued on facing page 0392 (payees and amounts)."
+    },
+    {
+      "id": "b2",
+      "kind": "table",
+      "position": "body",
+      "medium": "ink",
+      "hand": "TR",
+      "lines": [
+        "Date",
+        "Jan 1st",
+        "Feb 1st",
+        "Mar 1st",
+        "\" 15th"
+      ],
+      "rows": [
+        [
+          "Jan 1st"
+        ],
+        [
+          "Feb 1st"
+        ],
+        [
+          "Mar 1st"
+        ],
+        [
+          "\" 15th"
+        ]
+      ],
+      "columns": [
+        "Date"
+      ],
+      "confidence": "medium",
+      "note": "Dark brown ink. '15th' is cramped, written partly over the '1' of 'Mar 1st'; the ditto under 'Mar' gives Mar 15th. The four dates appear to pair with the five payee/amount lines on 0392 (counts do not match one-to-one)."
+    },
+    {
+      "id": "b3",
+      "kind": "list",
+      "position": "body",
+      "medium": "unknown",
+      "hand": "TR",
+      "lines": [
+        "5 Long Butte",
+        "6 \"  \"",
+        "7 Chimney Butte (spoiled)",
+        "8 \"  \"",
+        "9 Horses & men in corral",
+        "10 \"  \"  \"",
+        "11 ram & elk skulls",
+        "12 \"  \"  \"",
+        "C",
+        "1 Horseman, instantaneous",
+        "2 Sylvane on horse"
+      ],
+      "rows": null,
+      "columns": null,
+      "confidence": "medium",
+      "note": "Fainter grey ink/pencil: continuation of photograph section B from 0390 (B 5-12), then section C 1-2 (continued on 0392). Ditto marks are written between the numbered lines (above the text of 7, 9, 11 and below 11); each set assigned to the empty even-numbered line (6, 8, 10, 12) as ditto of the line above - an interpretation. '(spoiled)' after Chimney Butte faint. 'Sylvane' as written."
+    }
+  ],
+  "marks": [
+    {
+      "kind": "show-through",
+      "value": null,
+      "position": "body",
+      "note": "Faint mirrored writing from the reverse page (0390) visible."
+    }
+  ],
+  "mentions": {
+    "people": [
+      {
+        "as_written": "Sylvane",
+        "identified_as": "Sylvane Ferris",
+        "certain": false
+      }
+    ],
+    "places": [
+      {
+        "as_written": "Long Butte",
+        "certain": false
+      },
+      {
+        "as_written": "Chimney Butte",
+        "certain": false
+      }
+    ],
+    "animals": [],
+    "dates": [
+      {
+        "as_written": "Jan 1st",
+        "iso": "1884-01-01"
+      },
+      {
+        "as_written": "Feb 1st",
+        "iso": "1884-02-01"
+      },
+      {
+        "as_written": "Mar 1st",
+        "iso": "1884-03-01"
+      },
+      {
+        "as_written": "\" 15th",
+        "iso": "1884-03-15"
+      }
+    ]
+  },
+  "has_tr_writing": true,
+  "confidence": "medium",
+  "transcriber_notes": "Two uses: income-account dates (dark ink) and photograph list (grey). Year 1884 for the dates is inferred from '1884' written on facing page 0392. CHANGE from pass-1: pass-1 note called lines 5-12 'section A'; they continue section B (B 1-4 are on 0390).",
+  "review": {
+    "status": "unreviewed",
+    "reviewer": null,
+    "date": null
+  }
+}

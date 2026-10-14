@@ -1,0 +1,57 @@
+{
+  "seq": "0198",
+  "side": "right",
+  "page_type": "diary-day",
+  "date": "1884-06-25",
+  "printed": {
+    "header": {
+      "raw": "June, Wednesday 25. 1884.",
+      "month": "June",
+      "weekday": "Wednesday",
+      "day": 25,
+      "year": 1884
+    },
+    "title": null,
+    "ruling": "lined",
+    "description": null
+  },
+  "handwriting": [
+    {
+      "id": "b1",
+      "kind": "entry",
+      "position": "body",
+      "medium": "ink",
+      "hand": "TR",
+      "lines": [
+        "One mallard drake,",
+        "shot with rifle for",
+        "pot."
+      ],
+      "rows": null,
+      "columns": null,
+      "confidence": "high",
+      "note": "Brown ink, three lines at top of page; rest blank. Terminal mark after 'pot' is a comma-like tick (full stop)."
+    }
+  ],
+  "marks": [],
+  "mentions": {
+    "people": [],
+    "places": [],
+    "animals": [
+      {
+        "as_written": "mallard drake",
+        "count": 1,
+        "taken": true
+      }
+    ],
+    "dates": []
+  },
+  "has_tr_writing": true,
+  "confidence": "high",
+  "transcriber_notes": "",
+  "review": {
+    "status": "unreviewed",
+    "reviewer": null,
+    "date": null
+  }
+}

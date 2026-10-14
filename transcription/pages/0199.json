@@ -1,0 +1,47 @@
+{
+  "seq": "0199",
+  "side": "left",
+  "page_type": "diary-day",
+  "date": "1884-06-26",
+  "printed": {
+    "header": {
+      "raw": "June, Thursday 26. 1884.",
+      "month": "June",
+      "weekday": "Thursday",
+      "day": 26,
+      "year": 1884
+    },
+    "title": null,
+    "ruling": "lined",
+    "description": null
+  },
+  "handwriting": [],
+  "marks": [
+    {
+      "kind": "show-through",
+      "value": null,
+      "position": "body",
+      "note": "Mirrored bleed-through of the June 25 entry (seq 0198, 'One mallard drake...') at top of page."
+    },
+    {
+      "kind": "stain",
+      "value": null,
+      "position": "body",
+      "note": "several small brown stain specks, at top and mid-page"
+    }
+  ],
+  "mentions": {
+    "people": [],
+    "places": [],
+    "animals": [],
+    "dates": []
+  },
+  "has_tr_writing": false,
+  "confidence": "high",
+  "transcriber_notes": "Blank day.",
+  "review": {
+    "status": "unreviewed",
+    "reviewer": null,
+    "date": null
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "seq": "0008",
+  "side": "right",
+  "page_type": "printed-matter",
+  "date": null,
+  "printed": {
+    "header": null,
+    "title": "DECEMBER, 1884.",
+    "ruling": "other",
+    "description": "Printed almanac table for December 1884 (day of month/week, sunrise, sunset, moon sets, moon's phases) with engraved Christmas/winter illustrations (children round a tree, girl in medallion, girl with snowball framed by icicled branches); footer 'Heavy-face figures indicate from 6 P. M. to 6 A. M.'"
+  },
+  "handwriting": [],
+  "marks": [
+    {
+      "kind": "other",
+      "value": null,
+      "position": "bottom-right",
+      "note": "Clear conservation mounting tab at bottom; leather wallet flap at right; edge of calendar page (0007) visible at left"
+    }
+  ],
+  "mentions": {
+    "people": [],
+    "places": [],
+    "animals": [],
+    "dates": []
+  },
+  "has_tr_writing": false,
+  "confidence": "high",
+  "transcriber_notes": "Printed only; no handwriting.",
+  "review": {
+    "status": "unreviewed",
+    "reviewer": null,
+    "date": null
+  }
+}

@@ -1,0 +1,63 @@
+{
+ "seq": "0365",
+ "side": "left",
+ "page_type": "diary-day",
+ "date": "1884-12-09",
+ "printed": {
+  "header": {
+   "raw": "December, Tuesday 9. 1884.",
+   "month": "December",
+   "weekday": "Tuesday",
+   "day": 9,
+   "year": 1884
+  },
+  "title": null,
+  "ruling": "lined",
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "kind": "entry",
+   "position": "body",
+   "medium": "pencil",
+   "hand": "TR",
+   "lines": [
+    "again out after",
+    "mountain sheep."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "lowercase 'again' as written."
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "faint mirrored show-through (incl. mirrored 'DECEMBER' in header line) from reverse of leaf"
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [],
+  "animals": [
+   {
+    "as_written": "mountain sheep",
+    "count": 0,
+    "taken": false
+   }
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "Pencil. Unchanged from pass 1.",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

@@ -1,0 +1,76 @@
+{
+  "seq": "0194",
+  "side": "right",
+  "page_type": "diary-day",
+  "date": "1884-06-21",
+  "printed": {
+    "header": {
+      "raw": "June, Saturday 21. 1884.",
+      "month": "June",
+      "weekday": "Saturday",
+      "day": 21,
+      "year": 1884
+    },
+    "title": null,
+    "ruling": "lined",
+    "description": null
+  },
+  "handwriting": [
+    {
+      "id": "b1",
+      "kind": "entry",
+      "position": "body",
+      "medium": "ink",
+      "hand": "TR",
+      "lines": [
+        "One antelope.",
+        "    On riding round",
+        "a little knoll, I",
+        "saw two antelope a",
+        "long distance off,",
+        "looking at me; I",
+        "dismounted and",
+        "fired off hand, with",
+        "careful aim, holding",
+        "a foot over him, and",
+        "breaking his neck",
+        "near the shoulder. By",
+        "actual measurement",
+        "the distance was",
+        "three hundred yards;",
+        "the best shot I ever",
+        "made with the rifle."
+      ],
+      "rows": null,
+      "columns": null,
+      "confidence": "high",
+      "note": "Brown ink, fills the page. 'little': end of word appears reworked/overwritten in ink, reading 'little'. 'dismounted': the s is a minimal stroke; could be read 'dimounted' but 'dismounted' is the likely reading. Terminal stops are TR's comma-like ticks. 'rifle' at bottom right partly in the shadow of the scanner clamp but legible."
+    }
+  ],
+  "marks": [],
+  "mentions": {
+    "people": [],
+    "places": [],
+    "animals": [
+      {
+        "as_written": "antelope",
+        "count": 1,
+        "taken": true
+      },
+      {
+        "as_written": "two antelope",
+        "count": 2,
+        "taken": false
+      }
+    ],
+    "dates": []
+  },
+  "has_tr_writing": true,
+  "confidence": "high",
+  "transcriber_notes": "Second animal entry records the pair sighted; one of them was shot (the 'One antelope' tally). Distance stated: three hundred yards.",
+  "review": {
+    "status": "unreviewed",
+    "reviewer": null,
+    "date": null
+  }
+}

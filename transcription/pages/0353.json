@@ -1,0 +1,56 @@
+{
+  "seq": "0353",
+  "side": "left",
+  "page_type": "diary-day",
+  "date": "1884-11-27",
+  "printed": {
+    "header": {
+      "raw": "November, Thursday 27. 1884.",
+      "month": "November",
+      "weekday": "Thursday",
+      "day": 27,
+      "year": 1884
+    },
+    "title": null,
+    "ruling": "lined",
+    "description": null
+  },
+  "handwriting": [
+    {
+      "id": "b1",
+      "kind": "entry",
+      "position": "body",
+      "medium": "ink",
+      "hand": "TR",
+      "lines": [
+        "Rode home"
+      ],
+      "rows": null,
+      "columns": null,
+      "confidence": "high",
+      "note": null
+    }
+  ],
+  "marks": [
+    {
+      "kind": "show-through",
+      "value": null,
+      "position": "body",
+      "note": "Mirrored show-through of Nov 25 entry ('Seawall & I rode up to Lang') following on the same and next line"
+    }
+  ],
+  "mentions": {
+    "people": [],
+    "places": [],
+    "animals": [],
+    "dates": []
+  },
+  "has_tr_writing": true,
+  "confidence": "high",
+  "transcriber_notes": "Ink.",
+  "review": {
+    "status": "unreviewed",
+    "reviewer": null,
+    "date": null
+  }
+}

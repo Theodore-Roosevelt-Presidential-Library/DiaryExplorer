@@ -1,0 +1,47 @@
+{
+  "seq": "0407",
+  "side": "left",
+  "page_type": "endpaper",
+  "date": null,
+  "printed": {
+    "header": null,
+    "title": null,
+    "ruling": "none",
+    "description": "Plain tan endpaper."
+  },
+  "handwriting": [],
+  "marks": [
+    {
+      "kind": "catalog-mark",
+      "value": "2.02.237.54.2 T16",
+      "position": "bottom",
+      "note": "Line 1 of three lines of small modern upright pencil figures; separators mix commas and periods."
+    },
+    {
+      "kind": "catalog-mark",
+      "value": "2.00.237.54.2 T12",
+      "position": "bottom",
+      "note": "Line 2."
+    },
+    {
+      "kind": "catalog-mark",
+      "value": "~~2.98.237.54.2~~",
+      "position": "bottom",
+      "note": "Line 3, faint and apparently erased; first digits ('2.98'/'2:98') and last digit uncertain."
+    }
+  ],
+  "mentions": {
+    "people": [],
+    "places": [],
+    "animals": [],
+    "dates": []
+  },
+  "has_tr_writing": false,
+  "confidence": "high",
+  "transcriber_notes": "CHANGE from pass-1: the pencil figures are now recorded as catalog marks (later library/conservation notation in a modern hand), not as handwriting. Page otherwise blank.",
+  "review": {
+    "status": "unreviewed",
+    "reviewer": null,
+    "date": null
+  }
+}

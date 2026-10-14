@@ -1,0 +1,41 @@
+{
+  "seq": "0389",
+  "side": "left",
+  "page_type": "name-address",
+  "date": null,
+  "printed": {
+    "header": null,
+    "title": "Name and Address.",
+    "ruling": "lined",
+    "description": "Six printed 'Name, / Address,' slots."
+  },
+  "handwriting": [],
+  "marks": [
+    {
+      "kind": "show-through",
+      "value": null,
+      "position": "top",
+      "note": "Faint mirrored printed header (appears to read 'December ... 1884') near the printed title."
+    },
+    {
+      "kind": "stain",
+      "value": null,
+      "position": "bottom-right",
+      "note": "A few small dark spots/stains near the last Name/Address slot."
+    }
+  ],
+  "mentions": {
+    "people": [],
+    "places": [],
+    "animals": [],
+    "dates": []
+  },
+  "has_tr_writing": false,
+  "confidence": "high",
+  "transcriber_notes": "All six Name/Address slots blank. Handwriting visible at the right edge belongs to the facing page 0390.",
+  "review": {
+    "status": "unreviewed",
+    "reviewer": null,
+    "date": null
+  }
+}

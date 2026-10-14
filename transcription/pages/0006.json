@@ -1,0 +1,35 @@
+{
+  "seq": "0006",
+  "side": "right",
+  "page_type": "title",
+  "date": null,
+  "printed": {
+    "header": null,
+    "title": "EXCELSIOR DIARY for 1884",
+    "ruling": "none",
+    "description": "Printed title page within ornamental border: 'EXCELSIOR DIARY for 1884' with engraving of a winged hourglass, scythe, wheat sheaf and flowers."
+  },
+  "handwriting": [],
+  "marks": [
+    {
+      "kind": "other",
+      "value": null,
+      "position": "bottom-right",
+      "note": "Clear conservation mounting tab at bottom; leather wallet flap visible at right"
+    }
+  ],
+  "mentions": {
+    "people": [],
+    "places": [],
+    "animals": [],
+    "dates": []
+  },
+  "has_tr_writing": false,
+  "confidence": "high",
+  "transcriber_notes": "Printed only; no handwriting.",
+  "review": {
+    "status": "unreviewed",
+    "reviewer": null,
+    "date": null
+  }
+}

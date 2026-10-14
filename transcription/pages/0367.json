@@ -1,0 +1,62 @@
+{
+ "seq": "0367",
+ "side": "left",
+ "page_type": "diary-day",
+ "date": "1884-12-11",
+ "printed": {
+  "header": {
+   "raw": "December, Thursday 11. 1884.",
+   "month": "December",
+   "weekday": "Thursday",
+   "day": 11,
+   "year": 1884
+  },
+  "title": null,
+  "ruling": "lined",
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "kind": "entry",
+   "position": "body",
+   "medium": "pencil",
+   "hand": "TR",
+   "lines": [
+    "Breaking ponies"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "faint show-through under line 1 and at bottom ('1 cottontail rabbit' from Dec 10, 0366)"
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [],
+  "animals": [
+   {
+    "as_written": "ponies",
+    "count": null,
+    "taken": false
+   }
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "Pencil. Unchanged from pass 1.",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

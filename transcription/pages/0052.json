@@ -1,0 +1,47 @@
+{
+  "seq": "0052",
+  "side": "right",
+  "page_type": "diary-day",
+  "date": "1884-01-31",
+  "printed": {
+    "header": {
+      "raw": "January, Thursday 31. 1884.",
+      "month": "January",
+      "weekday": "Thursday",
+      "day": 31,
+      "year": 1884
+    },
+    "title": null,
+    "ruling": "lined",
+    "description": null
+  },
+  "handwriting": [],
+  "marks": [
+    {
+      "kind": "show-through",
+      "value": null,
+      "position": "top",
+      "note": "faint mirrored printed heading from the reverse of the leaf"
+    },
+    {
+      "kind": "stain",
+      "value": null,
+      "position": "body",
+      "note": "small reddish fleck at left of lower half"
+    }
+  ],
+  "mentions": {
+    "people": [],
+    "places": [],
+    "animals": [],
+    "dates": []
+  },
+  "has_tr_writing": false,
+  "confidence": "high",
+  "transcriber_notes": "Blank diary day; no handwriting. Header verified against image.",
+  "review": {
+    "status": "unreviewed",
+    "reviewer": null,
+    "date": null
+  }
+}

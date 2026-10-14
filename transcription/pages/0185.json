@@ -1,0 +1,47 @@
+{
+  "seq": "0185",
+  "side": "left",
+  "page_type": "diary-day",
+  "date": "1884-06-12",
+  "printed": {
+    "header": {
+      "raw": "June, Thursday 12. 1884.",
+      "month": "June",
+      "weekday": "Thursday",
+      "day": 12,
+      "year": 1884
+    },
+    "title": null,
+    "ruling": "lined",
+    "description": null
+  },
+  "handwriting": [],
+  "marks": [
+    {
+      "kind": "show-through",
+      "value": null,
+      "position": "body",
+      "note": "faint show-through of writing in upper body; source not certain (the reverse, June 11, is blank, so likely the June 13 entry on the next leaf)"
+    },
+    {
+      "kind": "debris",
+      "value": null,
+      "position": "body",
+      "note": "several small brown ink specks/foxing at mid-left"
+    }
+  ],
+  "mentions": {
+    "people": [],
+    "places": [],
+    "animals": [],
+    "dates": []
+  },
+  "has_tr_writing": false,
+  "confidence": "high",
+  "transcriber_notes": "Blank day; no handwriting. Right edge of image shows the facing June 13 page (0186).",
+  "review": {
+    "status": "unreviewed",
+    "reviewer": null,
+    "date": null
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "seq": "0002",
+  "side": "right",
+  "page_type": "cover",
+  "date": null,
+  "printed": {
+    "header": null,
+    "title": null,
+    "ruling": "none",
+    "description": null
+  },
+  "handwriting": [],
+  "marks": [],
+  "mentions": {
+    "people": [],
+    "places": [],
+    "animals": [],
+    "dates": []
+  },
+  "has_tr_writing": false,
+  "confidence": "high",
+  "transcriber_notes": "Binding opened flat: exterior of front cover with tab slot (left) and inside of the wallet flap with tan leather lining and pencil-loop pocket (right). No inscription or marks found.",
+  "review": {
+    "status": "unreviewed",
+    "reviewer": null,
+    "date": null
+  }
+}

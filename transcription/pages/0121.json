@@ -1,0 +1,41 @@
+{
+  "seq": "0121",
+  "side": "left",
+  "page_type": "diary-day",
+  "date": "1884-04-09",
+  "printed": {
+    "header": {
+      "raw": "April, Wednesday 9. 1884.",
+      "month": "April",
+      "weekday": "Wednesday",
+      "day": 9,
+      "year": 1884
+    },
+    "title": null,
+    "ruling": "lined",
+    "description": null
+  },
+  "handwriting": [],
+  "marks": [
+    {
+      "kind": "show-through",
+      "value": null,
+      "position": "top",
+      "note": "faint mirrored printed heading from the reverse of the leaf"
+    }
+  ],
+  "mentions": {
+    "people": [],
+    "places": [],
+    "animals": [],
+    "dates": []
+  },
+  "has_tr_writing": false,
+  "confidence": "high",
+  "transcriber_notes": "Blank diary day; no handwriting. Header verified against image.",
+  "review": {
+    "status": "unreviewed",
+    "reviewer": null,
+    "date": null
+  }
+}

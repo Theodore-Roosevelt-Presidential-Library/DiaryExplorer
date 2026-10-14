@@ -1,0 +1,94 @@
+{
+ "seq": "0357",
+ "side": "left",
+ "page_type": "diary-day",
+ "date": "1884-12-01",
+ "printed": {
+  "header": {
+   "raw": "December, Monday 1. 1884.",
+   "month": "December",
+   "weekday": "Monday",
+   "day": 1,
+   "year": 1884
+  },
+  "title": null,
+  "ruling": "lined",
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "kind": "entry",
+   "position": "body",
+   "medium": "pencil",
+   "hand": "TR",
+   "lines": [
+    "Tramped all round",
+    "Square Butte after deer",
+    "saw none ; shot 5 grouse from",
+    "tree"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "'deer' written loosely; final letter could be read as 's' ('dees') but 'deer' intended reading."
+  },
+  {
+   "id": "b2",
+   "kind": "tally",
+   "position": "bottom",
+   "medium": "pencil",
+   "hand": "TR",
+   "lines": [
+    "5 grouse"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "faint mirrored show-through from reverse of leaf"
+  },
+  {
+   "kind": "debris",
+   "value": null,
+   "position": "body",
+   "note": "small speck mid-page"
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [
+   {
+    "as_written": "Square Butte"
+   }
+  ],
+  "animals": [
+   {
+    "as_written": "deer",
+    "count": 0,
+    "taken": false
+   },
+   {
+    "as_written": "grouse",
+    "count": 5,
+    "taken": true
+   }
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "Pencil. Text checked against image; unchanged from pass 1.",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

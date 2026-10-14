@@ -1,0 +1,56 @@
+{
+ "seq": "0371",
+ "side": "left",
+ "page_type": "diary-day",
+ "date": "1884-12-15",
+ "printed": {
+  "header": {
+   "raw": "December, Monday 15. 1884.",
+   "month": "December",
+   "weekday": "Monday",
+   "day": 15,
+   "year": 1884
+  },
+  "title": null,
+  "ruling": "lined",
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "kind": "entry",
+   "position": "body",
+   "medium": "pencil",
+   "hand": "TR",
+   "lines": [
+    "Bitterly cold."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "Two small marks after 'cold.' appear to be stray marks, not words."
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "heavy text of Dec 14 (0370) entry visible through the page, incl. '1 Bighorn' at bottom"
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [],
+  "animals": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "Pencil. Unchanged from pass 1.",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

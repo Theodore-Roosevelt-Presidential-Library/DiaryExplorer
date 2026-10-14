@@ -1,0 +1,47 @@
+{
+  "seq": "0197",
+  "side": "left",
+  "page_type": "diary-day",
+  "date": "1884-06-24",
+  "printed": {
+    "header": {
+      "raw": "June, Tuesday 24. 1884.",
+      "month": "June",
+      "weekday": "Tuesday",
+      "day": 24,
+      "year": 1884
+    },
+    "title": null,
+    "ruling": "lined",
+    "description": null
+  },
+  "handwriting": [],
+  "marks": [
+    {
+      "kind": "show-through",
+      "value": null,
+      "position": "body",
+      "note": "Mirrored bleed-through of the June 23 entry (seq 0196, 'Two field plover...') at top of page."
+    },
+    {
+      "kind": "stain",
+      "value": null,
+      "position": "body",
+      "note": "small brown specks at top and mid-page"
+    }
+  ],
+  "mentions": {
+    "people": [],
+    "places": [],
+    "animals": [],
+    "dates": []
+  },
+  "has_tr_writing": false,
+  "confidence": "high",
+  "transcriber_notes": "Blank day.",
+  "review": {
+    "status": "unreviewed",
+    "reviewer": null,
+    "date": null
+  }
+}

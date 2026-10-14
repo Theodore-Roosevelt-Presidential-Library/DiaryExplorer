@@ -1,0 +1,75 @@
+{
+ "seq": "0358",
+ "side": "right",
+ "page_type": "diary-day",
+ "date": "1884-12-02",
+ "printed": {
+  "header": {
+   "raw": "December, Tuesday 2. 1884.",
+   "month": "December",
+   "weekday": "Tuesday",
+   "day": 2,
+   "year": 1884
+  },
+  "title": null,
+  "ruling": "lined",
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "kind": "entry",
+   "position": "body",
+   "medium": "pencil",
+   "hand": "TR",
+   "lines": [
+    "M. & I, went all day",
+    "after sheep ; saw none"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "faint text from Dec 4 (0360) entry ('...yds with rifle and / four sharptail / grouse with shotgun') visible mid-page and its tally ('1 whitetail 4 grouse') at bottom"
+  },
+  {
+   "kind": "ink-blot",
+   "value": null,
+   "position": "body",
+   "note": "dark graphite/ink smudge with a drag streak lower-middle of page; not writing"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "M.",
+    "identified_as": "A. W. Merrifield",
+    "certain": false
+   }
+  ],
+  "places": [],
+  "animals": [
+   {
+    "as_written": "sheep",
+    "count": 0,
+    "taken": false
+   }
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "Pencil. Unchanged from pass 1.",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

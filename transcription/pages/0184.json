@@ -1,0 +1,41 @@
+{
+  "seq": "0184",
+  "side": "right",
+  "page_type": "diary-day",
+  "date": "1884-06-11",
+  "printed": {
+    "header": {
+      "raw": "June, Wednesday 11. 1884.",
+      "month": "June",
+      "weekday": "Wednesday",
+      "day": 11,
+      "year": 1884
+    },
+    "title": null,
+    "ruling": "lined",
+    "description": null
+  },
+  "handwriting": [],
+  "marks": [
+    {
+      "kind": "show-through",
+      "value": null,
+      "position": "body",
+      "note": "faint grey, un-mirrored text in upper body (\"One jack rabbit, one curlew. Both killed with double barrelled express rifle ... 150 grains of powder\") — the June 13 entry (0186) seen through the intervening leaf; matches it in wording, position and line breaks"
+    }
+  ],
+  "mentions": {
+    "people": [],
+    "places": [],
+    "animals": [],
+    "dates": []
+  },
+  "has_tr_writing": false,
+  "confidence": "medium",
+  "transcriber_notes": "Blank day. The faint upper text duplicates June 13 (0186) exactly and reads normally (later right page showing through), so it is show-through, not writing on this page.",
+  "review": {
+    "status": "unreviewed",
+    "reviewer": null,
+    "date": null
+  }
+}

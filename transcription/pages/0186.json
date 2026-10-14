@@ -1,0 +1,72 @@
+{
+  "seq": "0186",
+  "side": "right",
+  "page_type": "diary-day",
+  "date": "1884-06-13",
+  "printed": {
+    "header": {
+      "raw": "June, Friday 13. 1884.",
+      "month": "June",
+      "weekday": "Friday",
+      "day": 13,
+      "year": 1884
+    },
+    "title": null,
+    "ruling": "lined",
+    "description": null
+  },
+  "handwriting": [
+    {
+      "id": "b1",
+      "kind": "entry",
+      "position": "body",
+      "medium": "ink",
+      "hand": "TR",
+      "lines": [
+        "One jack rabbit,",
+        "one curlew.",
+        "Both killed",
+        "with double barrelled",
+        "express rifle, 50 calibre",
+        "150 grains of powder."
+      ],
+      "rows": null,
+      "columns": null,
+      "confidence": "high",
+      "note": "Brown ink. Dot of the j in \"jack\" falls over the a (not an accent). \"express\" written with a long-s form for ss. \"50 calibre\" cramped at the right edge (nearly \"50calibre\")."
+    }
+  ],
+  "marks": [
+    {
+      "kind": "show-through",
+      "value": null,
+      "position": "body",
+      "note": "faint mirrored show-through of the June 14 entry (0187) on the reverse, upper right"
+    }
+  ],
+  "mentions": {
+    "animals": [
+      {
+        "as_written": "jack rabbit",
+        "count": 1,
+        "taken": true
+      },
+      {
+        "as_written": "curlew",
+        "count": 1,
+        "taken": true
+      }
+    ],
+    "people": [],
+    "places": [],
+    "dates": []
+  },
+  "has_tr_writing": true,
+  "confidence": "high",
+  "transcriber_notes": "Entry confirmed against image; no changes from pass 1.",
+  "review": {
+    "status": "unreviewed",
+    "reviewer": null,
+    "date": null
+  }
+}

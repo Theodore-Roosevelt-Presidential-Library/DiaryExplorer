@@ -1,0 +1,67 @@
+{
+  "seq": "0189",
+  "side": "left",
+  "page_type": "diary-day",
+  "date": "1884-06-16",
+  "printed": {
+    "header": {
+      "raw": "June, Monday 16. 1884.",
+      "month": "June",
+      "weekday": "Monday",
+      "day": 16,
+      "year": 1884
+    },
+    "title": null,
+    "ruling": "lined",
+    "description": null
+  },
+  "handwriting": [
+    {
+      "id": "b1",
+      "kind": "entry",
+      "position": "body",
+      "medium": "ink",
+      "hand": "TR",
+      "lines": [
+        "one badger; found",
+        "out on plains",
+        "away from hole,",
+        "gallopped up to",
+        "him and killed",
+        "him with revolver,"
+      ],
+      "rows": null,
+      "columns": null,
+      "confidence": "high",
+      "note": "Brown ink. First word lowercase \"one\" (the o is x-height, unlike the capital O of \"One\" on June 13). \"gallopped\" with double p as written (cf. \"galloped\" June 18). \"him\" at start of line 5 has an extra initial stroke, possibly an overwrite/correction. Final mark after \"revolver\" is a comma."
+    }
+  ],
+  "marks": [
+    {
+      "kind": "stain",
+      "value": null,
+      "position": "margin",
+      "note": "yellow-brown discoloration along right (gutter) edge"
+    }
+  ],
+  "mentions": {
+    "animals": [
+      {
+        "as_written": "badger",
+        "count": 1,
+        "taken": true
+      }
+    ],
+    "people": [],
+    "places": [],
+    "dates": []
+  },
+  "has_tr_writing": true,
+  "confidence": "high",
+  "transcriber_notes": "Changed from pass 1: first word now \"one\" (lowercase) after zoomed inspection. Right edge of image shows the facing June 17 page.",
+  "review": {
+    "status": "unreviewed",
+    "reviewer": null,
+    "date": null
+  }
+}

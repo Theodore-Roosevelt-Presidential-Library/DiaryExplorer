@@ -1,0 +1,47 @@
+{
+  "seq": "0195",
+  "side": "left",
+  "page_type": "diary-day",
+  "date": "1884-06-22",
+  "printed": {
+    "header": {
+      "raw": "June, Sunday 22. 1884.",
+      "month": "June",
+      "weekday": "Sunday",
+      "day": 22,
+      "year": 1884
+    },
+    "title": null,
+    "ruling": "lined",
+    "description": null
+  },
+  "handwriting": [],
+  "marks": [
+    {
+      "kind": "show-through",
+      "value": null,
+      "position": "body",
+      "note": "Mirrored bleed-through of the June 21 entry (seq 0194, recto of the same leaf) fills the page."
+    },
+    {
+      "kind": "stain",
+      "value": null,
+      "position": "body",
+      "note": "a few small brown ink spots/specks near lines 2-3 and mid-page"
+    }
+  ],
+  "mentions": {
+    "people": [],
+    "places": [],
+    "animals": [],
+    "dates": []
+  },
+  "has_tr_writing": false,
+  "confidence": "high",
+  "transcriber_notes": "Blank day. Brown specks are stains, not writing.",
+  "review": {
+    "status": "unreviewed",
+    "reviewer": null,
+    "date": null
+  }
+}

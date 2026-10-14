@@ -1,0 +1,47 @@
+{
+  "seq": "0038",
+  "side": "right",
+  "page_type": "diary-day",
+  "date": "1884-01-17",
+  "printed": {
+    "header": {
+      "raw": "January, Thursday 17. 1884.",
+      "month": "January",
+      "weekday": "Thursday",
+      "day": 17,
+      "year": 1884
+    },
+    "title": null,
+    "ruling": "lined",
+    "description": null
+  },
+  "handwriting": [],
+  "marks": [
+    {
+      "kind": "show-through",
+      "value": null,
+      "position": "top",
+      "note": "faint mirrored printed heading from the reverse of the leaf"
+    },
+    {
+      "kind": "debris",
+      "value": null,
+      "position": "bottom-left",
+      "note": "small dark curled fibre/hair lying on the bottom edge of the page; not writing"
+    }
+  ],
+  "mentions": {
+    "people": [],
+    "places": [],
+    "animals": [],
+    "dates": []
+  },
+  "has_tr_writing": false,
+  "confidence": "high",
+  "transcriber_notes": "Blank diary day; no handwriting. Header verified against image.",
+  "review": {
+    "status": "unreviewed",
+    "reviewer": null,
+    "date": null
+  }
+}

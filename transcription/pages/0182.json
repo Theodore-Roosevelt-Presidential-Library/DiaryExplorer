@@ -1,0 +1,76 @@
+{
+  "seq": "0182",
+  "side": "right",
+  "page_type": "diary-day",
+  "date": "1884-06-09",
+  "printed": {
+    "header": {
+      "raw": "June, Monday 9. 1884.",
+      "month": "June",
+      "weekday": "Monday",
+      "day": 9,
+      "year": 1884
+    },
+    "title": null,
+    "ruling": "lined",
+    "description": null
+  },
+  "handwriting": [
+    {
+      "id": "b1",
+      "kind": "entry",
+      "position": "body",
+      "medium": "ink",
+      "hand": "TR",
+      "lines": [
+        "arrived at my",
+        "cattle ranche (\"Chimney",
+        "Butte Ranche\") on the",
+        "Little Missouri,"
+      ],
+      "rows": null,
+      "columns": null,
+      "confidence": "high",
+      "note": "Brown ink. Opening word lowercase \"arrived\". \"ranche\"/\"Ranche\" as written. Opening quotation mark cramped against the parenthesis. Ends with a comma-like mark after \"Missouri\"."
+    }
+  ],
+  "marks": [
+    {
+      "kind": "archival-page-number",
+      "value": null,
+      "position": "bottom-left",
+      "note": "tops of a pencil numeral (apparently two digits) at the very bottom-left edge, mostly hidden by the binding/cover strip in the scan; value unreadable"
+    },
+    {
+      "kind": "show-through",
+      "value": null,
+      "position": "top",
+      "note": "faint mirrored printed header from the reverse in the header band"
+    }
+  ],
+  "mentions": {
+    "places": [
+      {
+        "as_written": "Chimney Butte Ranche",
+        "identified_as": "Chimney Butte (Maltese Cross) Ranch",
+        "certain": false
+      },
+      {
+        "as_written": "Little Missouri",
+        "identified_as": "Little Missouri River",
+        "certain": false
+      }
+    ],
+    "people": [],
+    "animals": [],
+    "dates": []
+  },
+  "has_tr_writing": true,
+  "confidence": "high",
+  "transcriber_notes": "Entry confirmed against image; no changes from pass 1. Possible archival page number at bottom-left is cut off by the scan; consider re-imaging or checking the physical item.",
+  "review": {
+    "status": "unreviewed",
+    "reviewer": null,
+    "date": null
+  }
+}

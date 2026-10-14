@@ -1,0 +1,47 @@
+{
+  "seq": "0071",
+  "side": "left",
+  "page_type": "diary-day",
+  "date": "1884-02-19",
+  "printed": {
+    "header": {
+      "raw": "February, Tuesday 19. 1884.",
+      "month": "February",
+      "weekday": "Tuesday",
+      "day": 19,
+      "year": 1884
+    },
+    "title": null,
+    "ruling": "lined",
+    "description": null
+  },
+  "handwriting": [],
+  "marks": [
+    {
+      "kind": "show-through",
+      "value": null,
+      "position": "top",
+      "note": "faint mirrored printed heading from the reverse of the leaf"
+    },
+    {
+      "kind": "other",
+      "value": null,
+      "position": "top",
+      "note": "pink header rules very faded; general light staining"
+    }
+  ],
+  "mentions": {
+    "people": [],
+    "places": [],
+    "animals": [],
+    "dates": []
+  },
+  "has_tr_writing": false,
+  "confidence": "high",
+  "transcriber_notes": "Blank diary day; no handwriting. Header verified against image.",
+  "review": {
+    "status": "unreviewed",
+    "reviewer": null,
+    "date": null
+  }
+}

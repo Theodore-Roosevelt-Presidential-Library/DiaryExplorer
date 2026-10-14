@@ -1,0 +1,109 @@
+{
+  "seq": "0068",
+  "side": "right",
+  "page_type": "diary-day",
+  "date": "1884-02-16",
+  "printed": {
+    "header": {
+      "raw": "February, Saturday 16. 1884.",
+      "month": "February",
+      "weekday": "Saturday",
+      "day": 16,
+      "year": 1884
+    },
+    "title": null,
+    "ruling": "lined",
+    "description": null
+  },
+  "handwriting": [
+    {
+      "id": "b1",
+      "kind": "entry",
+      "position": "body",
+      "medium": "ink",
+      "hand": "TR",
+      "lines": [
+        "Alice Hathaway Lee.",
+        "Born at Chestnut",
+        "Hill, July 29th 1861.",
+        "I saw her first on",
+        "Oct    1878; I wooed",
+        "her for over a year",
+        "before I won her; we",
+        "were betrothed on Jan",
+        "25th 1880, and it was",
+        "announced on Feb 16th;",
+        "on Oct 27th of the",
+        "same year we were",
+        "married; we spent three",
+        "years of happiness greater",
+        "and more unalloyed",
+        "than I have ever known",
+        "fall to the lot of",
+        "others; on Feb 12th 1884"
+      ],
+      "rows": null,
+      "columns": null,
+      "confidence": "medium",
+      "note": "Brown ink, fills page; continues on Feb 17 (0069). After 'Oct' a deliberate blank space before '1878' (day of month left unwritten) - spacing preserved. Last line: the day figure in 'Feb 12th' is retouched/overwritten (second digit heavy and malformed); '12' is the most likely reading. 'to the' is written run together ('tothe'), transcribed as two words. Superscript ordinals inline."
+    }
+  ],
+  "marks": [
+    {
+      "kind": "show-through",
+      "value": null,
+      "position": "body",
+      "note": "Faint mirrored show-through of Feb 17 (0069) writing and header from reverse of leaf"
+    }
+  ],
+  "mentions": {
+    "people": [
+      {
+        "as_written": "Alice Hathaway Lee",
+        "identified_as": "Alice Hathaway Lee Roosevelt",
+        "certain": false
+      }
+    ],
+    "places": [
+      {
+        "as_written": "Chestnut Hill",
+        "certain": false
+      }
+    ],
+    "animals": [],
+    "dates": [
+      {
+        "as_written": "July 29th 1861",
+        "iso": "1861-07-29"
+      },
+      {
+        "as_written": "Oct    1878",
+        "iso": "1878-10"
+      },
+      {
+        "as_written": "Jan 25th 1880",
+        "iso": "1880-01-25"
+      },
+      {
+        "as_written": "Feb 16th",
+        "iso": "1880-02-16"
+      },
+      {
+        "as_written": "Oct 27th of the same year",
+        "iso": "1880-10-27"
+      },
+      {
+        "as_written": "Feb 12th 1884",
+        "iso": "1884-02-12"
+      }
+    ]
+  },
+  "has_tr_writing": true,
+  "confidence": "medium",
+  "transcriber_notes": "Re-checked against full-res crop; pass-1 text confirmed. 'Lee.' ends with a period. Medium only because of the overwritten day in 'Feb 12th'.",
+  "review": {
+    "status": "unreviewed",
+    "reviewer": null,
+    "date": null
+  }
+}

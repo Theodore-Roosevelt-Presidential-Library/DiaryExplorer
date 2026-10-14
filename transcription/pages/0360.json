@@ -1,0 +1,86 @@
+{
+ "seq": "0360",
+ "side": "right",
+ "page_type": "diary-day",
+ "date": "1884-12-04",
+ "printed": {
+  "header": {
+   "raw": "December, Thursday 4. 1884.",
+   "month": "December",
+   "weekday": "Thursday",
+   "day": 4,
+   "year": 1884
+  },
+  "title": null,
+  "ruling": "lined",
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "kind": "entry",
+   "position": "body",
+   "medium": "pencil",
+   "hand": "TR",
+   "lines": [
+    "Went out near house",
+    "on bottom; killed a",
+    "whitetail doe at",
+    "40 yds with rifle and",
+    "four sharptail",
+    "grouse with shotgun"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "'whitetail' written with a slight gap between 'white' and 'tail'."
+  },
+  {
+   "id": "b2",
+   "kind": "tally",
+   "position": "bottom",
+   "medium": "pencil",
+   "hand": "TR",
+   "lines": [
+    "1 whitetail 4 grouse"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "faint mirrored show-through from reverse of leaf (Dec 5 header and text) in upper half"
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [],
+  "animals": [
+   {
+    "as_written": "whitetail doe",
+    "count": 1,
+    "taken": true
+   },
+   {
+    "as_written": "sharptail grouse",
+    "count": 4,
+    "taken": true
+   }
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "Pencil. Unchanged from pass 1.",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

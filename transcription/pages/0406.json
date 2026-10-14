@@ -1,0 +1,35 @@
+{
+  "seq": "0406",
+  "side": "right",
+  "page_type": "endpaper",
+  "date": null,
+  "printed": {
+    "header": null,
+    "title": null,
+    "ruling": "none",
+    "description": "Plain tan back free endpaper."
+  },
+  "handwriting": [],
+  "marks": [
+    {
+      "kind": "other",
+      "value": null,
+      "position": "margin",
+      "note": "Edge of 0405 Memoranda page visible at left."
+    }
+  ],
+  "mentions": {
+    "people": [],
+    "places": [],
+    "animals": [],
+    "dates": []
+  },
+  "has_tr_writing": false,
+  "confidence": "high",
+  "transcriber_notes": "Blank.",
+  "review": {
+    "status": "unreviewed",
+    "reviewer": null,
+    "date": null
+  }
+}

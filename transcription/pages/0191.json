@@ -1,0 +1,80 @@
+{
+  "seq": "0191",
+  "side": "left",
+  "page_type": "diary-day",
+  "date": "1884-06-18",
+  "printed": {
+    "header": {
+      "raw": "June, Wednesday 18. 1884.",
+      "month": "June",
+      "weekday": "Wednesday",
+      "day": 18,
+      "year": 1884
+    },
+    "title": null,
+    "ruling": "lined",
+    "description": null
+  },
+  "handwriting": [
+    {
+      "id": "b1",
+      "kind": "entry",
+      "position": "body",
+      "medium": "ink",
+      "hand": "TR",
+      "lines": [
+        "1 buck antelope, fine",
+        "horns.",
+        "A group of buck[?]",
+        "six or eight feeding",
+        "together started to",
+        "run across my",
+        "path, while I was",
+        "riding alone on the",
+        "prairie; I was on a",
+        "first rate pony, and",
+        "galloped at full",
+        "speed diagonally to",
+        "their course; I leaped",
+        "off as they passed",
+        "within twenty five",
+        "yards, and gave them",
+        "both barrels, killing",
+        "a fine buck, shot through",
+        "both shoulders."
+      ],
+      "rows": null,
+      "columns": null,
+      "confidence": "medium",
+      "note": "Brown ink, fills the page to the bottom. Line 3: \"buck\" is written over another word (overwritten letters), hence [?]. \"within\" (line 15) is smudged/blotted at its start. \"across\" with long-s form for ss."
+    }
+  ],
+  "marks": [
+    {
+      "kind": "show-through",
+      "value": null,
+      "position": "body",
+      "note": "faint mirrored show-through of the June 16 entry (0189) on the reverse, upper right"
+    }
+  ],
+  "mentions": {
+    "animals": [
+      {
+        "as_written": "buck antelope",
+        "count": 1,
+        "taken": true
+      }
+    ],
+    "people": [],
+    "places": [],
+    "dates": []
+  },
+  "has_tr_writing": true,
+  "confidence": "medium",
+  "transcriber_notes": "Entry confirmed against image; no changes from pass 1. Medium confidence because of the overwritten word in line 3.",
+  "review": {
+    "status": "unreviewed",
+    "reviewer": null,
+    "date": null
+  }
+}

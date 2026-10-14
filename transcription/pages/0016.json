@@ -1,0 +1,35 @@
+{
+  "seq": "0016",
+  "side": "right",
+  "page_type": "printed-matter",
+  "date": null,
+  "printed": {
+    "header": null,
+    "title": "JUNE, 1884.",
+    "ruling": "other",
+    "description": "Printed monthly calendar for June 1884: table of day of month/week, sunrise, sunset, moon sets and moon's phases, with engraved seasonal vignettes (signed Karst); footnote 'Heavy-face figures indicate from 6 P. M. to 6 A. M.'"
+  },
+  "handwriting": [],
+  "marks": [
+    {
+      "kind": "archival-page-number",
+      "value": "11",
+      "position": "bottom-left",
+      "note": "pencil, later archival pagination (front-matter sequence = seq minus 5); very faint; read under contrast enhancement"
+    }
+  ],
+  "mentions": {
+    "people": [],
+    "places": [],
+    "animals": [],
+    "dates": []
+  },
+  "has_tr_writing": false,
+  "confidence": "high",
+  "transcriber_notes": "Printed calendar page; no handwriting. Pencil archival page numbers run continuously 6-20 on seq 0011-0025 and stop after 0025 (none seen on later pages in this batch). Page-number reading is uncertain/faint (see mark note).",
+  "review": {
+    "status": "unreviewed",
+    "reviewer": null,
+    "date": null
+  }
+}

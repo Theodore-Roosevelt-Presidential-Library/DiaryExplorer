@@ -1,0 +1,47 @@
+{
+  "seq": "0190",
+  "side": "right",
+  "page_type": "diary-day",
+  "date": "1884-06-17",
+  "printed": {
+    "header": {
+      "raw": "June, Tuesday 17. 1884.",
+      "month": "June",
+      "weekday": "Tuesday",
+      "day": 17,
+      "year": 1884
+    },
+    "title": null,
+    "ruling": "lined",
+    "description": null
+  },
+  "handwriting": [],
+  "marks": [
+    {
+      "kind": "show-through",
+      "value": null,
+      "position": "body",
+      "note": "mirrored show-through of the June 18 antelope entry (0191) on the reverse, filling the page"
+    },
+    {
+      "kind": "offset",
+      "value": null,
+      "position": "body",
+      "note": "scattered brown ink fragments in upper-left body, apparently wet-ink offset from the facing June 16 entry (0189); not writing on this page"
+    }
+  ],
+  "mentions": {
+    "people": [],
+    "places": [],
+    "animals": [],
+    "dates": []
+  },
+  "has_tr_writing": false,
+  "confidence": "high",
+  "transcriber_notes": "Blank day; no handwriting.",
+  "review": {
+    "status": "unreviewed",
+    "reviewer": null,
+    "date": null
+  }
+}

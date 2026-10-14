@@ -1,0 +1,41 @@
+{
+ "seq": "0374",
+ "side": "right",
+ "page_type": "diary-day",
+ "date": "1884-12-18",
+ "printed": {
+  "header": {
+   "raw": "December, Thursday 18. 1884.",
+   "month": "December",
+   "weekday": "Thursday",
+   "day": 18,
+   "year": 1884
+  },
+  "title": null,
+  "ruling": "lined",
+  "description": null
+ },
+ "handwriting": [],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "faint mirrored header show-through from reverse of leaf"
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [],
+  "animals": [],
+  "dates": []
+ },
+ "has_tr_writing": false,
+ "confidence": "high",
+ "transcriber_notes": "Blank day; no writing.",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

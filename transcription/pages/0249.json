@@ -1,0 +1,47 @@
+{
+ "seq": "0249",
+ "side": "left",
+ "page_type": "diary-day",
+ "date": "1884-08-15",
+ "printed": {
+  "header": {
+   "raw": "August, Friday 15. 1884.",
+   "month": "August",
+   "weekday": "Friday",
+   "day": 15,
+   "year": 1884
+  },
+  "title": null,
+  "ruling": "lined",
+  "description": null
+ },
+ "handwriting": [],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "top",
+   "note": "faint mirrored show-through of the printed header from the reverse of the leaf"
+  },
+  {
+   "kind": "crease",
+   "value": null,
+   "position": "bottom-right",
+   "note": "short vertical crease/nick at bottom edge near right; same crease as on reverse (0248)"
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [],
+  "animals": [],
+  "dates": []
+ },
+ "has_tr_writing": false,
+ "confidence": "high",
+ "transcriber_notes": "Blank diary day; no handwriting. Opened at full composite with enlarged corners; no archival page number found in any corner.",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

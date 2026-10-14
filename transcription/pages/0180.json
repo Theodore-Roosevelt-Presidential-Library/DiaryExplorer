@@ -1,0 +1,47 @@
+{
+  "seq": "0180",
+  "side": "right",
+  "page_type": "diary-day",
+  "date": "1884-06-07",
+  "printed": {
+    "header": {
+      "raw": "June, Saturday 7. 1884.",
+      "month": "June",
+      "weekday": "Saturday",
+      "day": 7,
+      "year": 1884
+    },
+    "title": null,
+    "ruling": "lined",
+    "description": null
+  },
+  "handwriting": [],
+  "marks": [
+    {
+      "kind": "show-through",
+      "value": null,
+      "position": "body",
+      "note": "faint mirrored show-through in upper right of the page body, from the reverse of the leaf (June 6)"
+    },
+    {
+      "kind": "stain",
+      "value": null,
+      "position": "margin",
+      "note": "light yellow-brown discoloration along the left (gutter) side"
+    }
+  ],
+  "mentions": {
+    "people": [],
+    "places": [],
+    "animals": [],
+    "dates": []
+  },
+  "has_tr_writing": false,
+  "confidence": "high",
+  "transcriber_notes": "Blank day; no handwriting. Faint marks in upper body are mirrored show-through only.",
+  "review": {
+    "status": "unreviewed",
+    "reviewer": null,
+    "date": null
+  }
+}

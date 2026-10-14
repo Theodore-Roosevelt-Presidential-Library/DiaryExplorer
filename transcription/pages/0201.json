@@ -1,0 +1,41 @@
+{
+  "seq": "0201",
+  "side": "left",
+  "page_type": "diary-day",
+  "date": "1884-06-28",
+  "printed": {
+    "header": {
+      "raw": "June, Saturday 28. 1884.",
+      "month": "June",
+      "weekday": "Saturday",
+      "day": 28,
+      "year": 1884
+    },
+    "title": null,
+    "ruling": "lined",
+    "description": null
+  },
+  "handwriting": [],
+  "marks": [
+    {
+      "kind": "show-through",
+      "value": null,
+      "position": "body",
+      "note": "Mirrored bleed-through of the June 27 entry (seq 0200, 'One cock pintail grouse...') at top of page."
+    }
+  ],
+  "mentions": {
+    "people": [],
+    "places": [],
+    "animals": [],
+    "dates": []
+  },
+  "has_tr_writing": false,
+  "confidence": "high",
+  "transcriber_notes": "Blank day.",
+  "review": {
+    "status": "unreviewed",
+    "reviewer": null,
+    "date": null
+  }
+}

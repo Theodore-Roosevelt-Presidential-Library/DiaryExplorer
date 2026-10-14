@@ -1,0 +1,64 @@
+{
+  "seq": "0196",
+  "side": "right",
+  "page_type": "diary-day",
+  "date": "1884-06-23",
+  "printed": {
+    "header": {
+      "raw": "June, Monday 23. 1884.",
+      "month": "June",
+      "weekday": "Monday",
+      "day": 23,
+      "year": 1884
+    },
+    "title": null,
+    "ruling": "lined",
+    "description": null
+  },
+  "handwriting": [
+    {
+      "id": "b1",
+      "kind": "entry",
+      "position": "body",
+      "medium": "ink",
+      "hand": "TR",
+      "lines": [
+        "Two field plover;",
+        "shot with rifle, for",
+        "pot."
+      ],
+      "rows": null,
+      "columns": null,
+      "confidence": "high",
+      "note": "Brown ink, three lines at top of page; rest blank. Final stop after 'pot' is a comma-like tick (TR's usual full stop)."
+    }
+  ],
+  "marks": [
+    {
+      "kind": "stain",
+      "value": null,
+      "position": "body",
+      "note": "small dark speck mid-page"
+    }
+  ],
+  "mentions": {
+    "people": [],
+    "places": [],
+    "animals": [
+      {
+        "as_written": "field plover",
+        "count": 2,
+        "taken": true
+      }
+    ],
+    "dates": []
+  },
+  "has_tr_writing": true,
+  "confidence": "high",
+  "transcriber_notes": "",
+  "review": {
+    "status": "unreviewed",
+    "reviewer": null,
+    "date": null
+  }
+}

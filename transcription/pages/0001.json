@@ -1,0 +1,28 @@
+{
+  "seq": "0001",
+  "side": "left",
+  "page_type": "cover",
+  "date": null,
+  "printed": {
+    "header": null,
+    "title": null,
+    "ruling": "none",
+    "description": null
+  },
+  "handwriting": [],
+  "marks": [],
+  "mentions": {
+    "people": [],
+    "places": [],
+    "animals": [],
+    "dates": []
+  },
+  "has_tr_writing": false,
+  "confidence": "high",
+  "transcriber_notes": "Front cover exterior: black leather binding with wallet flap and tuck-in tab. No inscription, label or marks found (corners checked under enhancement).",
+  "review": {
+    "status": "unreviewed",
+    "reviewer": null,
+    "date": null
+  }
+}

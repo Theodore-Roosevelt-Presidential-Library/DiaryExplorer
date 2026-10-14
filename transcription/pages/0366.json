@@ -1,0 +1,87 @@
+{
+ "seq": "0366",
+ "side": "right",
+ "page_type": "diary-day",
+ "date": "1884-12-10",
+ "printed": {
+  "header": {
+   "raw": "December, Wednesday 10. 1884.",
+   "month": "December",
+   "weekday": "Wednesday",
+   "day": 10,
+   "year": 1884
+  },
+  "title": null,
+  "ruling": "lined",
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "kind": "entry",
+   "position": "body",
+   "medium": "pencil",
+   "hand": "TR",
+   "lines": [
+    "Seawall & Dow arrived."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "'Seawall' as written (Sewall)."
+  },
+  {
+   "id": "b2",
+   "kind": "tally",
+   "position": "bottom",
+   "medium": "pencil",
+   "hand": "TR",
+   "lines": [
+    "1 cottontail rabbit"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "extensive faint text of Dec 12 (0368) entry visible mid-page ('George in buckboard ... shack on Oxbow')"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Seawall",
+    "identified_as": "William Wingate Sewall",
+    "certain": false
+   },
+   {
+    "as_written": "Dow",
+    "identified_as": "Wilmot Dow",
+    "certain": false
+   }
+  ],
+  "places": [],
+  "animals": [
+   {
+    "as_written": "cottontail rabbit",
+    "count": 1,
+    "taken": true
+   }
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "Pencil. Unchanged from pass 1.",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

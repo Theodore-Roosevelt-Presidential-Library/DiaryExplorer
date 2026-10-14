@@ -1,0 +1,41 @@
+{
+ "seq": "0281",
+ "side": "left",
+ "page_type": "diary-day",
+ "date": "1884-09-16",
+ "printed": {
+  "header": {
+   "raw": "September, Tuesday 16. 1884.",
+   "month": "September",
+   "weekday": "Tuesday",
+   "day": 16,
+   "year": 1884
+  },
+  "title": null,
+  "ruling": "lined",
+  "description": null
+ },
+ "handwriting": [],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "top",
+   "note": "faint mirrored show-through of the printed header on the reverse of the leaf"
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [],
+  "animals": [],
+  "dates": []
+ },
+ "has_tr_writing": false,
+ "confidence": "high",
+ "transcriber_notes": "Blank diary day. Printed header verified against the full-resolution image. All four corners checked at full resolution with contrast enhancement: no archival pencil page number or other later mark. Body checked with contrast enhancement: no writing.",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

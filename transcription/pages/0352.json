@@ -1,0 +1,62 @@
+{
+  "seq": "0352",
+  "side": "right",
+  "page_type": "diary-day",
+  "date": "1884-11-26",
+  "printed": {
+    "header": {
+      "raw": "November, Wednesday 26. 1884.",
+      "month": "November",
+      "weekday": "Wednesday",
+      "day": 26,
+      "year": 1884
+    },
+    "title": null,
+    "ruling": "lined",
+    "description": null
+  },
+  "handwriting": [
+    {
+      "id": "b1",
+      "kind": "entry",
+      "position": "body",
+      "medium": "ink",
+      "hand": "TR",
+      "lines": [
+        "Rained."
+      ],
+      "rows": null,
+      "columns": null,
+      "confidence": "high",
+      "note": null
+    }
+  ],
+  "marks": [
+    {
+      "kind": "show-through",
+      "value": null,
+      "position": "body",
+      "note": "Faint text to right on the same line (incl. a darker ')' -like mark) is show-through of a later page ('Rode home'), ignored"
+    },
+    {
+      "kind": "ink-blot",
+      "value": null,
+      "position": "body",
+      "note": "Small ink specks mid-right"
+    }
+  ],
+  "mentions": {
+    "people": [],
+    "places": [],
+    "animals": [],
+    "dates": []
+  },
+  "has_tr_writing": true,
+  "confidence": "high",
+  "transcriber_notes": "Ink.",
+  "review": {
+    "status": "unreviewed",
+    "reviewer": null,
+    "date": null
+  }
+}

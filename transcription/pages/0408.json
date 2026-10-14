@@ -1,0 +1,47 @@
+{
+  "seq": "0408",
+  "side": "right",
+  "page_type": "endpaper",
+  "date": null,
+  "printed": {
+    "header": null,
+    "title": null,
+    "ruling": "none",
+    "description": "Back pastedown, plain tan paper."
+  },
+  "handwriting": [],
+  "marks": [
+    {
+      "kind": "catalog-mark",
+      "value": "8[?]",
+      "position": "top-left",
+      "note": "Small pencil '8' or 'B' near the gutter."
+    },
+    {
+      "kind": "catalog-mark",
+      "value": null,
+      "position": "margin",
+      "note": "Short pencil mark resembling 'ab'/'ad', about a third down near the gutter."
+    },
+    {
+      "kind": "catalog-mark",
+      "value": null,
+      "position": "margin",
+      "note": "Looped pencil mark lower down near the gutter, possibly written sideways, resembling '6.08' or 'Eg'."
+    }
+  ],
+  "mentions": {
+    "people": [],
+    "places": [],
+    "animals": [],
+    "dates": []
+  },
+  "has_tr_writing": false,
+  "confidence": "high",
+  "transcriber_notes": "CHANGE from pass-1: faint gutter-side pencil marks moved from handwriting to catalog marks - they look like later binder's/cataloguer's notations, not TR's writing, and are not legible as words. If a reviewer judges them TR's, restore as hand 'uncertain'.",
+  "review": {
+    "status": "unreviewed",
+    "reviewer": null,
+    "date": null
+  }
+}

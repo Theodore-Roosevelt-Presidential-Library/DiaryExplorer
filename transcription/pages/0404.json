@@ -1,0 +1,195 @@
+{
+  "seq": "0404",
+  "side": "right",
+  "page_type": "memoranda",
+  "date": null,
+  "printed": {
+    "header": null,
+    "title": "Memoranda.",
+    "ruling": "cash-columns",
+    "description": "Printed 'Dolls. Cts.' columns at right; vertical column rules."
+  },
+  "handwriting": [
+    {
+      "id": "b1",
+      "kind": "other",
+      "position": "top",
+      "medium": "pencil",
+      "hand": "uncertain",
+      "lines": [
+        "174[?]"
+      ],
+      "rows": null,
+      "columns": null,
+      "confidence": "low",
+      "note": "Pencil figure at top centre above the printed rule; middle/last digit uncertain (174 or 177). Purpose unknown; possibly TR's, possibly later."
+    },
+    {
+      "id": "b2",
+      "kind": "tally",
+      "position": "top",
+      "medium": "pencil",
+      "hand": "TR",
+      "lines": [
+        "Doves[?]",
+        "2"
+      ],
+      "rows": null,
+      "columns": null,
+      "confidence": "medium",
+      "note": "Top right above the rule: 'Doves' (last letter could be r) with 2 beneath - a separate bird count."
+    },
+    {
+      "id": "b3",
+      "kind": "table",
+      "position": "body",
+      "medium": "pencil",
+      "hand": "TR",
+      "lines": [
+        "Sage G.  Shp. G.  Blue G.  Duck  Curlew  Plover",
+        "1  1  3  2",
+        "14  36  21  26  2",
+        "~~20~~",
+        "32",
+        "1",
+        "1",
+        "71",
+        "106  27  7"
+      ],
+      "rows": [
+        [
+          "",
+          "1",
+          "",
+          "1",
+          "3",
+          "2"
+        ],
+        [
+          "14",
+          "36",
+          "21",
+          "26",
+          "",
+          "2"
+        ],
+        [
+          "",
+          "~~20~~",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "32",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "1",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "1",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "71",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "106",
+          "",
+          "27",
+          "7",
+          ""
+        ]
+      ],
+      "columns": [
+        "Sage G.",
+        "Shp. G.",
+        "Blue G.[?]",
+        "Duck",
+        "Curlew",
+        "Plover"
+      ],
+      "confidence": "medium",
+      "note": "Bird tally continuing 0403. Heading 'Sage. G.' / 'Shp. G.' / 'Blu G.' or 'Blue G.'; Curlew/Plover in the printed Dolls./Cts. columns. The Curlew figure in row 1 is an open-topped 3 resembling an 8; read 3 because the bracket total is 7. '20' crossed out. Shp. G. column: 1+36+32+1+1 = 71. Bracket under Sage/Shp./Blue totals 106 (14+71+21), written under the Shp. G. column. Duck 27 (1+26). Curlew/Plover bracketed to 7 (3+2+2), written under Curlew. Cell alignment approximate."
+    }
+  ],
+  "marks": [
+    {
+      "kind": "show-through",
+      "value": null,
+      "position": "body",
+      "note": "Faint mirrored writing from reverse page 0405 (address) visible."
+    }
+  ],
+  "mentions": {
+    "people": [],
+    "places": [],
+    "animals": [
+      {
+        "as_written": "Sage G.",
+        "count": 14,
+        "taken": true
+      },
+      {
+        "as_written": "Shp. G.",
+        "count": 71,
+        "taken": true
+      },
+      {
+        "as_written": "Blue G.[?]",
+        "count": 21,
+        "taken": true
+      },
+      {
+        "as_written": "Duck",
+        "count": 27,
+        "taken": true
+      },
+      {
+        "as_written": "Curlew",
+        "count": 3,
+        "taken": true
+      },
+      {
+        "as_written": "Plover",
+        "count": 4,
+        "taken": true
+      },
+      {
+        "as_written": "Doves[?]",
+        "count": 2,
+        "taken": true
+      }
+    ],
+    "dates": []
+  },
+  "has_tr_writing": true,
+  "confidence": "low",
+  "transcriber_notes": "Bird game tally (pencil). Counts are column totals. No substantive change from pass-1.",
+  "review": {
+    "status": "unreviewed",
+    "reviewer": null,
+    "date": null
+  }
+}

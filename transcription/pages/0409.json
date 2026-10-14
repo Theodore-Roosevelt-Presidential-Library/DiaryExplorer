@@ -1,0 +1,35 @@
+{
+ "seq": "0409",
+ "side": "left",
+ "page_type": "cover",
+ "date": null,
+ "printed": {
+  "header": null,
+  "title": null,
+  "ruling": "none",
+  "description": null
+ },
+ "handwriting": [],
+ "marks": [
+  {
+   "kind": "other",
+   "value": null,
+   "position": "body",
+   "note": "back cover exterior photographed open with the wallet/tuck flap extended; worn black grained leather with scuffed, abraded edges; no inscription, label, stamp or catalog mark"
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [],
+  "animals": [],
+  "dates": []
+ },
+ "has_tr_writing": false,
+ "confidence": "high",
+ "transcriber_notes": "Back cover with flap extended. Checked full-resolution image: no writing or archival marks.",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

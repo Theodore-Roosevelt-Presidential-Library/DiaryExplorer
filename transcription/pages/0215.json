@@ -1,0 +1,41 @@
+{
+ "seq": "0215",
+ "side": "left",
+ "page_type": "diary-day",
+ "date": "1884-07-12",
+ "printed": {
+  "header": {
+   "raw": "July, Saturday 12. 1884.",
+   "month": "July",
+   "weekday": "Saturday",
+   "day": 12,
+   "year": 1884
+  },
+  "title": null,
+  "ruling": "lined",
+  "description": null
+ },
+ "handwriting": [],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "top",
+   "note": "faint mirrored show-through of the printed header from the reverse of the leaf"
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [],
+  "animals": [],
+  "dates": []
+ },
+ "has_tr_writing": false,
+ "confidence": "high",
+ "transcriber_notes": "Blank diary day; no handwriting. Opened at full composite with enlarged corners; no archival page number found in any corner.",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

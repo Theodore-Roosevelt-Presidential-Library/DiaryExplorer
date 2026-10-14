@@ -1,0 +1,72 @@
+{
+  "seq": "0343",
+  "side": "left",
+  "page_type": "diary-day",
+  "date": "1884-11-17",
+  "printed": {
+    "header": {
+      "raw": "November, Monday 17. 1884.",
+      "month": "November",
+      "weekday": "Monday",
+      "day": 17,
+      "year": 1884
+    },
+    "title": null,
+    "ruling": "lined",
+    "description": null
+  },
+  "handwriting": [
+    {
+      "id": "b1",
+      "kind": "entry",
+      "position": "body",
+      "medium": "ink",
+      "hand": "TR",
+      "lines": [
+        "Rode down (alone) to",
+        "the first shack on",
+        "Elkhorn Ranche; very",
+        "cold; had to rustle for",
+        "myself."
+      ],
+      "rows": null,
+      "columns": null,
+      "confidence": "high",
+      "note": "'for' is in TR's abbreviated letterform that looks like 'fa'; transcribed as 'for'."
+    }
+  ],
+  "marks": [
+    {
+      "kind": "stain",
+      "value": null,
+      "position": "top-left",
+      "note": "Dark stain/adhered patch at upper left over start of printed 'November'"
+    },
+    {
+      "kind": "show-through",
+      "value": null,
+      "position": "body",
+      "note": "Faint mirrored printed header and writing from reverse of leaf"
+    }
+  ],
+  "mentions": {
+    "people": [],
+    "places": [
+      {
+        "as_written": "Elkhorn Ranche",
+        "identified_as": "Elkhorn Ranch",
+        "certain": false
+      }
+    ],
+    "animals": [],
+    "dates": []
+  },
+  "has_tr_writing": true,
+  "confidence": "high",
+  "transcriber_notes": "Ink.",
+  "review": {
+    "status": "unreviewed",
+    "reviewer": null,
+    "date": null
+  }
+}

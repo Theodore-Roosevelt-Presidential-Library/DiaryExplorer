@@ -1,0 +1,35 @@
+{
+ "seq": "0410",
+ "side": "right",
+ "page_type": "cover",
+ "date": null,
+ "printed": {
+  "header": null,
+  "title": null,
+  "ruling": "none",
+  "description": null
+ },
+ "handwriting": [],
+ "marks": [
+  {
+   "kind": "other",
+   "value": null,
+   "position": "body",
+   "note": "back cover exterior, closed; worn black grained leather with scuffed edges and corners; no inscription, label, stamp or catalog mark"
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [],
+  "animals": [],
+  "dates": []
+ },
+ "has_tr_writing": false,
+ "confidence": "high",
+ "transcriber_notes": "Back cover, closed. Checked full-resolution image: no writing or archival marks.",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

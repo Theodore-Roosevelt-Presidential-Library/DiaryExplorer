@@ -1,0 +1,35 @@
+{
+  "seq": "0402",
+  "side": "right",
+  "page_type": "cash-account",
+  "date": null,
+  "printed": {
+    "header": null,
+    "title": "Cash Account—Summary.",
+    "ruling": "cash-columns",
+    "description": "Printed month names January-December with leader dots and Received/Paid columns."
+  },
+  "handwriting": [],
+  "marks": [
+    {
+      "kind": "show-through",
+      "value": null,
+      "position": "body",
+      "note": "Faint mirrored pencil game tally from the reverse page 0403 (Memoranda)."
+    }
+  ],
+  "mentions": {
+    "people": [],
+    "places": [],
+    "animals": [],
+    "dates": []
+  },
+  "has_tr_writing": false,
+  "confidence": "high",
+  "transcriber_notes": "Printed Summary page; no amounts entered.",
+  "review": {
+    "status": "unreviewed",
+    "reviewer": null,
+    "date": null
+  }
+}

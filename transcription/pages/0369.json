@@ -1,0 +1,85 @@
+{
+ "seq": "0369",
+ "side": "left",
+ "page_type": "diary-day",
+ "date": "1884-12-13",
+ "printed": {
+  "header": {
+   "raw": "December, Saturday 13. 1884.",
+   "month": "December",
+   "weekday": "Saturday",
+   "day": 13,
+   "year": 1884
+  },
+  "title": null,
+  "ruling": "lined",
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "kind": "entry",
+   "position": "body",
+   "medium": "pencil",
+   "hand": "TR",
+   "lines": [
+    "Tramped all over",
+    "Bullion's Butte; saw",
+    "nothing. Thermometer",
+    "ranges from +25 to -10°"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": "After '-10°' there is a 'Z'-like flourish (possibly a semicolon or end stroke); not transcribed as a letter."
+  },
+  {
+   "id": "b2",
+   "kind": "tally",
+   "position": "bottom",
+   "medium": "pencil",
+   "hand": "TR",
+   "lines": [
+    "1 sharptail grouse."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "faint text of Dec 12 (0368) entry visible mid-page ('Rode and walked ... shack on Oxbow')"
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [
+   {
+    "as_written": "Bullion's Butte",
+    "identified_as": "Bullion Butte",
+    "certain": false
+   }
+  ],
+  "animals": [
+   {
+    "as_written": "sharptail grouse",
+    "count": 1,
+    "taken": true
+   }
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "medium",
+ "transcriber_notes": "Pencil. Removed pass-1 '[?]' after '-10°' (the degree sign itself is clear; the uncertain trailing mark is described in the block note).",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

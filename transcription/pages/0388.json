@@ -1,0 +1,35 @@
+{
+  "seq": "0388",
+  "side": "right",
+  "page_type": "memoranda",
+  "date": null,
+  "printed": {
+    "header": null,
+    "title": "Memoranda.",
+    "ruling": "lined",
+    "description": null
+  },
+  "handwriting": [],
+  "marks": [
+    {
+      "kind": "show-through",
+      "value": null,
+      "position": "body",
+      "note": "Mirrored printed 'Name, / Address,' labels from the reverse of the leaf (0389), plus TR's photograph list from 0390 visible faintly and un-mirrored ('Cattle', 'cattle & cowboys', 'Merrifield' etc.) through the leaves; none of it is writing on this page."
+    }
+  ],
+  "mentions": {
+    "people": [],
+    "places": [],
+    "animals": [],
+    "dates": []
+  },
+  "has_tr_writing": false,
+  "confidence": "high",
+  "transcriber_notes": "Blank ruled Memoranda page. Edge of the facing page ('1884.') visible at left.",
+  "review": {
+    "status": "unreviewed",
+    "reviewer": null,
+    "date": null
+  }
+}

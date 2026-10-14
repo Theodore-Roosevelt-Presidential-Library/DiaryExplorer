@@ -1,0 +1,64 @@
+{
+  "seq": "0200",
+  "side": "right",
+  "page_type": "diary-day",
+  "date": "1884-06-27",
+  "printed": {
+    "header": {
+      "raw": "June, Friday 27. 1884.",
+      "month": "June",
+      "weekday": "Friday",
+      "day": 27,
+      "year": 1884
+    },
+    "title": null,
+    "ruling": "lined",
+    "description": null
+  },
+  "handwriting": [
+    {
+      "id": "b1",
+      "kind": "entry",
+      "position": "body",
+      "medium": "ink",
+      "hand": "TR",
+      "lines": [
+        "One cock pintail",
+        "grouse, shot with",
+        "rifle, for pot."
+      ],
+      "rows": null,
+      "columns": null,
+      "confidence": "high",
+      "note": "Brown ink, three lines at top of page; rest blank. 'pintail' begins with a small lead-in stroke before the p. Initial 'O' of 'One' is small but reads as a capital."
+    }
+  ],
+  "marks": [
+    {
+      "kind": "stain",
+      "value": null,
+      "position": "body",
+      "note": "small brown specks right of centre below the entry"
+    }
+  ],
+  "mentions": {
+    "people": [],
+    "places": [],
+    "animals": [
+      {
+        "as_written": "cock pintail grouse",
+        "count": 1,
+        "taken": true
+      }
+    ],
+    "dates": []
+  },
+  "has_tr_writing": true,
+  "confidence": "high",
+  "transcriber_notes": "",
+  "review": {
+    "status": "unreviewed",
+    "reviewer": null,
+    "date": null
+  }
+}

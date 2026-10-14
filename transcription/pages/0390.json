@@ -1,0 +1,120 @@
+{
+  "seq": "0390",
+  "side": "right",
+  "page_type": "cash-account",
+  "date": null,
+  "printed": {
+    "header": null,
+    "title": "Cash Account—January.",
+    "ruling": "cash-columns",
+    "description": "Printed 'Received.' and 'Paid.' dollar/cents column rules at right; blue horizontal rules."
+  },
+  "handwriting": [
+    {
+      "id": "b1",
+      "kind": "heading",
+      "position": "over-printed-title",
+      "medium": "ink",
+      "hand": "TR",
+      "lines": [
+        "Photographs"
+      ],
+      "rows": null,
+      "columns": null,
+      "confidence": "high",
+      "note": "Written above the printed title; TR struck through the printed words 'Cash Account—' leaving 'January.' unstruck. The page is reused for a numbered list of photographs."
+    },
+    {
+      "id": "b2",
+      "kind": "list",
+      "position": "body",
+      "medium": "ink",
+      "hand": "TR",
+      "lines": [
+        "A",
+        "1 corral",
+        "2 corral",
+        "3 House & shack",
+        "4 House & shack (fur coat)",
+        "5 Butte, snow",
+        "6 do. (spoiled).",
+        "7 Cattle",
+        "8 Cattle & cowboys.",
+        "9 Merrifield, shooting",
+        "10 \"  , at the ready.",
+        "11 cow-corral & stock",
+        "12 \"  \"  (better)"
+      ],
+      "rows": null,
+      "columns": null,
+      "confidence": "medium",
+      "note": "Section A, darker brown ink. '&' renders TR's ampersand. Line 10: ditto under 'Merrifield'. Line 12: the two ditto marks are written just below the line (between 12 and B), under 'cow-corral' and 'stock'; assigned to line 12. '(fur coat)': 'fur' probable. '(better)' is cramped (could look like 'betar') but reads better. Received/Paid columns unused."
+    },
+    {
+      "id": "b3",
+      "kind": "list",
+      "position": "body",
+      "medium": "unknown",
+      "hand": "TR",
+      "lines": [
+        "B",
+        "1 Joe & Wilmot",
+        "2 \"  \"",
+        "3 Seawall \" (spoiled)",
+        "4 do on horseback."
+      ],
+      "rows": null,
+      "columns": null,
+      "confidence": "medium",
+      "note": "Section B in fainter grey ink (or pencil). Continues on 0391 (B 5-12). Three ditto marks sit between lines 2 and 3; assigned to line 2 as ditto of 'Joe & Wilmot', with the mark after 'Seawall' read as a ditto too - assignment is an interpretation. 'Seawall' spelled so (as written). '(spoiled)' on B3 very faint. The '4' of B4 is written low, overlapping the '3'. Ink blot to the left of 'B'."
+    }
+  ],
+  "marks": [
+    {
+      "kind": "ink-blot",
+      "value": null,
+      "position": "margin",
+      "note": "Ink blot left of the 'B' section letter."
+    },
+    {
+      "kind": "show-through",
+      "value": null,
+      "position": "body",
+      "note": "Faint mirrored text from the reverse page (0391) visible behind the columns."
+    }
+  ],
+  "mentions": {
+    "people": [
+      {
+        "as_written": "Merrifield",
+        "identified_as": "A. W. (Bill) Merrifield",
+        "certain": false
+      },
+      {
+        "as_written": "Joe",
+        "certain": false
+      },
+      {
+        "as_written": "Wilmot",
+        "identified_as": "Wilmot Dow",
+        "certain": false
+      },
+      {
+        "as_written": "Seawall",
+        "identified_as": "William Wingate Sewall",
+        "certain": false
+      }
+    ],
+    "places": [],
+    "animals": [],
+    "dates": []
+  },
+  "has_tr_writing": true,
+  "confidence": "medium",
+  "transcriber_notes": "Photograph list (A 1-12, B 1-4) written over a Cash Account page. List continues on 0391 and 0392. No change to the words of the pass-1 transcription; pass-1 note corrected nothing here.",
+  "review": {
+    "status": "unreviewed",
+    "reviewer": null,
+    "date": null
+  }
+}

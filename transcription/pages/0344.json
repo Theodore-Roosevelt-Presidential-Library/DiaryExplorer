@@ -1,0 +1,98 @@
+{
+  "seq": "0344",
+  "side": "right",
+  "page_type": "diary-day",
+  "date": "1884-11-18",
+  "printed": {
+    "header": {
+      "raw": "November, Tuesday 18. 1884.",
+      "month": "November",
+      "weekday": "Tuesday",
+      "day": 18,
+      "year": 1884
+    },
+    "title": null,
+    "ruling": "lined",
+    "description": null
+  },
+  "handwriting": [
+    {
+      "id": "b1",
+      "kind": "entry",
+      "position": "body",
+      "medium": "ink",
+      "hand": "TR",
+      "lines": [
+        "Shot five sharptail",
+        "grouse from trees with",
+        "rifle for Breakfast, went",
+        "on to where Seawall and",
+        "Dow are hewing logs",
+        "for ranche house"
+      ],
+      "rows": null,
+      "columns": null,
+      "confidence": "high",
+      "note": "'Breakfast' ends with a raised 't'; mark after it read as a comma. 'Seawall' is TR's spelling."
+    },
+    {
+      "id": "b2",
+      "kind": "tally",
+      "position": "bottom",
+      "medium": "ink",
+      "hand": "TR",
+      "lines": [
+        "5 sharptail grouse."
+      ],
+      "rows": null,
+      "columns": null,
+      "confidence": "high",
+      "note": null
+    }
+  ],
+  "marks": [
+    {
+      "kind": "stain",
+      "value": null,
+      "position": "top-right",
+      "note": "Dark stain/adhered patch at upper right corner over '1884'"
+    },
+    {
+      "kind": "show-through",
+      "value": null,
+      "position": "body",
+      "note": "Faint mirrored show-through near header"
+    }
+  ],
+  "mentions": {
+    "people": [
+      {
+        "as_written": "Seawall",
+        "identified_as": "William Wingate Sewall",
+        "certain": false
+      },
+      {
+        "as_written": "Dow",
+        "identified_as": "Wilmot Dow",
+        "certain": false
+      }
+    ],
+    "places": [],
+    "animals": [
+      {
+        "as_written": "sharptail grouse",
+        "count": 5,
+        "taken": true
+      }
+    ],
+    "dates": []
+  },
+  "has_tr_writing": true,
+  "confidence": "high",
+  "transcriber_notes": "Ink.",
+  "review": {
+    "status": "unreviewed",
+    "reviewer": null,
+    "date": null
+  }
+}

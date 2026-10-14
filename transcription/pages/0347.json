@@ -1,0 +1,80 @@
+{
+  "seq": "0347",
+  "side": "left",
+  "page_type": "diary-day",
+  "date": "1884-11-21",
+  "printed": {
+    "header": {
+      "raw": "November, Friday 21. 1884.",
+      "month": "November",
+      "weekday": "Friday",
+      "day": 21,
+      "year": 1884
+    },
+    "title": null,
+    "ruling": "lined",
+    "description": null
+  },
+  "handwriting": [
+    {
+      "id": "b1",
+      "kind": "entry",
+      "position": "body",
+      "medium": "ink",
+      "hand": "TR",
+      "lines": [
+        "Rode up to ~~Elkhorn~~ ^Chimney Butte^",
+        "Ranche through snow",
+        "with Seawall & Dow."
+      ],
+      "rows": null,
+      "columns": null,
+      "confidence": "high",
+      "note": "'Elkhorn' struck through with a long stroke; 'Chimney Butte' inserted above. '&' is TR's ampersand (looks like 'v')."
+    }
+  ],
+  "marks": [
+    {
+      "kind": "show-through",
+      "value": null,
+      "position": "bottom",
+      "note": "Faint mirrored show-through of Nov 20 tally at bottom and printed header"
+    }
+  ],
+  "mentions": {
+    "people": [
+      {
+        "as_written": "Seawall",
+        "identified_as": "William Wingate Sewall",
+        "certain": false
+      },
+      {
+        "as_written": "Dow",
+        "identified_as": "Wilmot Dow",
+        "certain": false
+      }
+    ],
+    "places": [
+      {
+        "as_written": "Elkhorn",
+        "identified_as": "Elkhorn Ranch",
+        "certain": false
+      },
+      {
+        "as_written": "Chimney Butte Ranche",
+        "identified_as": "Chimney Butte (Maltese Cross) Ranch",
+        "certain": false
+      }
+    ],
+    "animals": [],
+    "dates": []
+  },
+  "has_tr_writing": true,
+  "confidence": "high",
+  "transcriber_notes": "Elkhorn is struck; Chimney Butte is the corrected destination.",
+  "review": {
+    "status": "unreviewed",
+    "reviewer": null,
+    "date": null
+  }
+}

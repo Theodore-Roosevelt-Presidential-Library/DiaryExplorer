@@ -1,0 +1,91 @@
+{
+ "seq": "0370",
+ "side": "right",
+ "page_type": "diary-day",
+ "date": "1884-12-14",
+ "printed": {
+  "header": {
+   "raw": "December, Sunday 14. 1884.",
+   "month": "December",
+   "weekday": "Sunday",
+   "day": 14,
+   "year": 1884
+  },
+  "title": null,
+  "ruling": "lined",
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "kind": "entry",
+   "position": "body",
+   "medium": "pencil",
+   "hand": "TR",
+   "lines": [
+    "Rode off three miles",
+    "on horseback; then",
+    "tramped a mile on",
+    "foot through the roughest",
+    "kind of ground; came",
+    "on a Bighorn ram",
+    "and shot him at",
+    "about 90 yards. Came",
+    "back to Chimney Butte",
+    "ranche."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "'ranche' as written."
+  },
+  {
+   "id": "b2",
+   "kind": "tally",
+   "position": "bottom",
+   "medium": "pencil",
+   "hand": "TR",
+   "lines": [
+    "1 Bighorn"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "faint mirrored show-through from reverse of leaf near top"
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [
+   {
+    "as_written": "Chimney Butte ranche",
+    "identified_as": "Chimney Butte (Maltese Cross) Ranch",
+    "certain": false
+   }
+  ],
+  "animals": [
+   {
+    "as_written": "Bighorn ram",
+    "count": 1,
+    "taken": true
+   }
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "Pencil. Unchanged from pass 1.",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

@@ -1,0 +1,41 @@
+{
+  "seq": "0188",
+  "side": "right",
+  "page_type": "diary-day",
+  "date": "1884-06-15",
+  "printed": {
+    "header": {
+      "raw": "June, Sunday 15. 1884.",
+      "month": "June",
+      "weekday": "Sunday",
+      "day": 15,
+      "year": 1884
+    },
+    "title": null,
+    "ruling": "lined",
+    "description": null
+  },
+  "handwriting": [],
+  "marks": [
+    {
+      "kind": "show-through",
+      "value": null,
+      "position": "body",
+      "note": "mirrored show-through of the June 16 badger entry (0189) on the reverse, upper body"
+    }
+  ],
+  "mentions": {
+    "people": [],
+    "places": [],
+    "animals": [],
+    "dates": []
+  },
+  "has_tr_writing": false,
+  "confidence": "high",
+  "transcriber_notes": "Blank day; visible writing is mirrored show-through of June 16.",
+  "review": {
+    "status": "unreviewed",
+    "reviewer": null,
+    "date": null
+  }
+}

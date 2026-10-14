@@ -1,0 +1,56 @@
+{
+  "seq": "0354",
+  "side": "right",
+  "page_type": "diary-day",
+  "date": "1884-11-28",
+  "printed": {
+    "header": {
+      "raw": "November, Friday 28. 1884.",
+      "month": "November",
+      "weekday": "Friday",
+      "day": 28,
+      "year": 1884
+    },
+    "title": null,
+    "ruling": "lined",
+    "description": null
+  },
+  "handwriting": [
+    {
+      "id": "b1",
+      "kind": "entry",
+      "position": "body",
+      "medium": "ink",
+      "hand": "TR",
+      "lines": [
+        "Rained,"
+      ],
+      "rows": null,
+      "columns": null,
+      "confidence": "high",
+      "note": "Mark after 'Rained' looks like a comma."
+    }
+  ],
+  "marks": [
+    {
+      "kind": "show-through",
+      "value": null,
+      "position": "body",
+      "note": "Mirrored show-through of Nov 29 entry below and its tally at the bottom"
+    }
+  ],
+  "mentions": {
+    "people": [],
+    "places": [],
+    "animals": [],
+    "dates": []
+  },
+  "has_tr_writing": true,
+  "confidence": "high",
+  "transcriber_notes": "Ink.",
+  "review": {
+    "status": "unreviewed",
+    "reviewer": null,
+    "date": null
+  }
+}

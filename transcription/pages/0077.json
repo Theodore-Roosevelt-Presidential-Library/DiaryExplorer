@@ -1,0 +1,47 @@
+{
+  "seq": "0077",
+  "side": "left",
+  "page_type": "diary-day",
+  "date": "1884-02-25",
+  "printed": {
+    "header": {
+      "raw": "February, Monday 25. 1884.",
+      "month": "February",
+      "weekday": "Monday",
+      "day": 25,
+      "year": 1884
+    },
+    "title": null,
+    "ruling": "lined",
+    "description": null
+  },
+  "handwriting": [],
+  "marks": [
+    {
+      "kind": "show-through",
+      "value": null,
+      "position": "top",
+      "note": "faint mirrored printed heading from the reverse of the leaf"
+    },
+    {
+      "kind": "crease",
+      "value": null,
+      "position": "body",
+      "note": "faint vertical line running down the page (crease/impression)"
+    }
+  ],
+  "mentions": {
+    "people": [],
+    "places": [],
+    "animals": [],
+    "dates": []
+  },
+  "has_tr_writing": false,
+  "confidence": "high",
+  "transcriber_notes": "Blank diary day; no handwriting. Header verified against image.",
+  "review": {
+    "status": "unreviewed",
+    "reviewer": null,
+    "date": null
+  }
+}

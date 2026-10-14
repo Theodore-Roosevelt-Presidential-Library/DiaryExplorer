@@ -1,0 +1,84 @@
+{
+ "seq": "0373",
+ "side": "left",
+ "page_type": "diary-day",
+ "date": "1884-12-17",
+ "printed": {
+  "header": {
+   "raw": "December, Wednesday 17. 1884.",
+   "month": "December",
+   "weekday": "Wednesday",
+   "day": 17,
+   "year": 1884
+  },
+  "title": null,
+  "ruling": "lined",
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "kind": "entry",
+   "position": "body",
+   "medium": "pencil",
+   "hand": "TR",
+   "lines": [
+    "Went out hunting in",
+    "snow through brush; shot",
+    "a fine white tail buck,",
+    "& a prairie chicken"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "'white tail' written with a clear gap (pass 1 had 'whitetail')."
+  },
+  {
+   "id": "b2",
+   "kind": "tally",
+   "position": "bottom",
+   "medium": "pencil",
+   "hand": "TR",
+   "lines": [
+    "1 wht[?] tail buck 1 grouse"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": "First word of tally abbreviated/cramped, reads 'wht'. Tally counts the prairie chicken as 'grouse'."
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "faint mirrored show-through of header from reverse of leaf"
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [],
+  "animals": [
+   {
+    "as_written": "white tail buck",
+    "count": 1,
+    "taken": true
+   },
+   {
+    "as_written": "prairie chicken",
+    "count": 1,
+    "taken": true
+   }
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "medium",
+ "transcriber_notes": "Pencil. Changed 'whitetail' to 'white tail' in body and tally first word to 'wht[?] tail' to match the page.",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

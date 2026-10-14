@@ -1,0 +1,68 @@
+{
+  "seq": "0004",
+  "side": "right",
+  "page_type": "endpaper",
+  "date": null,
+  "printed": {
+    "header": null,
+    "title": null,
+    "ruling": "none",
+    "description": "Front free endpaper; no printed matter."
+  },
+  "handwriting": [
+    {
+      "id": "b1",
+      "kind": "inscription",
+      "position": "top",
+      "medium": "ink",
+      "hand": "uncertain",
+      "lines": [
+        "Theodore Roosevelt"
+      ],
+      "rows": null,
+      "columns": null,
+      "confidence": "medium",
+      "note": "Dark ink signature across the top. The hand is somewhat stylized; may or may not be TR's own signature - flag for curatorial check."
+    }
+  ],
+  "marks": [
+    {
+      "kind": "catalog-mark",
+      "value": "[ 7 ]",
+      "position": "body",
+      "note": "Pencil bracketed numeral in upper-middle of page; appears to be a later archival/cataloguer mark, not TR"
+    },
+    {
+      "kind": "stain",
+      "value": null,
+      "position": "body",
+      "note": "Light foxing/discoloration in centre of page"
+    },
+    {
+      "kind": "other",
+      "value": null,
+      "position": "bottom-right",
+      "note": "Clear conservation mounting tab at bottom; leather wallet flap/pocket of binding visible at right"
+    }
+  ],
+  "mentions": {
+    "people": [
+      {
+        "as_written": "Theodore Roosevelt",
+        "identified_as": "Theodore Roosevelt",
+        "certain": false
+      }
+    ],
+    "places": [],
+    "animals": [],
+    "dates": []
+  },
+  "has_tr_writing": false,
+  "confidence": "medium",
+  "transcriber_notes": "Inscription hand flagged as uncertain (signature vs. later owner/library inscription). '[ 7 ]' in pencil treated as catalog mark.",
+  "review": {
+    "status": "unreviewed",
+    "reviewer": null,
+    "date": null
+  }
+}

@@ -1,0 +1,149 @@
+{
+  "seq": "0392",
+  "side": "right",
+  "page_type": "cash-account",
+  "date": null,
+  "printed": {
+    "header": null,
+    "title": "Cash Account—March.",
+    "ruling": "cash-columns",
+    "description": "Printed 'Received.' and 'Paid.' dollar/cents column rules at right; blue horizontal rules."
+  },
+  "handwriting": [
+    {
+      "id": "b1",
+      "kind": "heading",
+      "position": "over-printed-title",
+      "medium": "ink",
+      "hand": "TR",
+      "lines": [
+        "1884"
+      ],
+      "rows": null,
+      "columns": null,
+      "confidence": "high",
+      "note": "Written above the printed title; title not struck."
+    },
+    {
+      "id": "b2",
+      "kind": "table",
+      "position": "body",
+      "medium": "ink",
+      "hand": "TR",
+      "lines": [
+        "Dalugue[?] & Dar[?]  150,00",
+        "Dun[?] & Dubrege[?]  75,00",
+        "Roch[?] & Pitt[?]  150,00[?]",
+        "Putnam  91,65.",
+        "Roosevelt & Son  1912.62"
+      ],
+      "rows": [
+        [
+          "Dalugue[?] & Dar[?]",
+          "150,00"
+        ],
+        [
+          "Dun[?] & Dubrege[?]",
+          "75,00"
+        ],
+        [
+          "Roch[?] & Pitt[?]",
+          "150,00[?]"
+        ],
+        [
+          "Putnam",
+          "91,65."
+        ],
+        [
+          "Roosevelt & Son",
+          "1912.62"
+        ]
+      ],
+      "columns": null,
+      "confidence": "low",
+      "note": "Payees/sources and amounts, presumably the income account begun on 0391. Amounts sit in the Paid column (1912.62 extends into Received). Separators in the first four amounts are written as commas (kept as written); the fifth uses a period. Third amount: a tall stroke makes it look like '150,100' - read as 150,00. First three names hard: first may be 'Dalugue'/'Dabigue', partner 'Dar'/'Day'/'Das'; second 'Dubrege'/'Dubrgl'; third 'Roch'/'Roche'. 'Putnam' and 'Roosevelt & Son' clear."
+    },
+    {
+      "id": "b3",
+      "kind": "list",
+      "position": "body",
+      "medium": "ink",
+      "hand": "TR",
+      "lines": [
+        "3 Ram's head",
+        "4 Sylvane",
+        "5 Snowy Butte",
+        "6 Broken"
+      ],
+      "rows": null,
+      "columns": null,
+      "confidence": "high",
+      "note": "Continues photograph section C from 0391 (C 1-2). Dark ink. 'Sylvane' as written."
+    }
+  ],
+  "marks": [
+    {
+      "kind": "tear",
+      "value": null,
+      "position": "top",
+      "note": "Small notch/tear at top centre through the '4' of '1884'."
+    },
+    {
+      "kind": "show-through",
+      "value": null,
+      "position": "body",
+      "note": "Faint mirrored printed 'Received. Paid.' and writing from the reverse page (0393 side) visible."
+    }
+  ],
+  "mentions": {
+    "people": [
+      {
+        "as_written": "Dalugue[?] & Dar[?]",
+        "certain": false
+      },
+      {
+        "as_written": "Dun[?] & Dubrege[?]",
+        "certain": false
+      },
+      {
+        "as_written": "Roch[?] & Pitt[?]",
+        "certain": false
+      },
+      {
+        "as_written": "Putnam",
+        "certain": false
+      },
+      {
+        "as_written": "Roosevelt & Son",
+        "identified_as": "Roosevelt & Son (family firm, New York)",
+        "certain": false
+      },
+      {
+        "as_written": "Sylvane",
+        "identified_as": "Sylvane Ferris",
+        "certain": false
+      }
+    ],
+    "places": [
+      {
+        "as_written": "Snowy Butte",
+        "certain": false
+      }
+    ],
+    "animals": [],
+    "dates": [
+      {
+        "as_written": "1884",
+        "iso": "1884"
+      }
+    ]
+  },
+  "has_tr_writing": true,
+  "confidence": "low",
+  "transcriber_notes": "CHANGES from pass-1: amounts now keep TR's comma separators as written ('150,00', '75,00', '91,65.') instead of normalized periods; first payee reread 'Dalugue[?] & Dar[?]' (pass-1 'Dalrque[?] & Day[?]'). Payee names need expert verification against TR's 1884 finances before publication.",
+  "review": {
+    "status": "unreviewed",
+    "reviewer": null,
+    "date": null
+  }
+}

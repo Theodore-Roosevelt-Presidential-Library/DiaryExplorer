@@ -1,0 +1,53 @@
+{
+  "seq": "0070",
+  "side": "right",
+  "page_type": "diary-day",
+  "date": "1884-02-18",
+  "printed": {
+    "header": {
+      "raw": "February, Monday 18. 1884.",
+      "month": "February",
+      "weekday": "Monday",
+      "day": 18,
+      "year": 1884
+    },
+    "title": null,
+    "ruling": "lined",
+    "description": null
+  },
+  "handwriting": [],
+  "marks": [
+    {
+      "kind": "show-through",
+      "value": null,
+      "position": "top",
+      "note": "Mirrored printed header of Feb 19 from reverse of leaf"
+    },
+    {
+      "kind": "stain",
+      "value": null,
+      "position": "body",
+      "note": "Small brown mark at right near the 4th ruled line, and brown specks near bottom; stains, not writing"
+    },
+    {
+      "kind": "other",
+      "value": null,
+      "position": "margin",
+      "note": "Writing at left edge belongs to the facing Feb 17 page (0069)"
+    }
+  ],
+  "mentions": {
+    "people": [],
+    "places": [],
+    "animals": [],
+    "dates": []
+  },
+  "has_tr_writing": false,
+  "confidence": "high",
+  "transcriber_notes": "Blank day; no writing.",
+  "review": {
+    "status": "unreviewed",
+    "reviewer": null,
+    "date": null
+  }
+}

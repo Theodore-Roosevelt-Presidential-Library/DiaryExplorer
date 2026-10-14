@@ -1,0 +1,47 @@
+{
+  "seq": "0106",
+  "side": "right",
+  "page_type": "diary-day",
+  "date": "1884-03-25",
+  "printed": {
+    "header": {
+      "raw": "March, Tuesday 25. 1884.",
+      "month": "March",
+      "weekday": "Tuesday",
+      "day": 25,
+      "year": 1884
+    },
+    "title": null,
+    "ruling": "lined",
+    "description": null
+  },
+  "handwriting": [],
+  "marks": [
+    {
+      "kind": "show-through",
+      "value": null,
+      "position": "top",
+      "note": "faint mirrored printed heading from the reverse of the leaf"
+    },
+    {
+      "kind": "debris",
+      "value": null,
+      "position": "bottom",
+      "note": "small dark smudge/particle near the bottom lines"
+    }
+  ],
+  "mentions": {
+    "people": [],
+    "places": [],
+    "animals": [],
+    "dates": []
+  },
+  "has_tr_writing": false,
+  "confidence": "high",
+  "transcriber_notes": "Blank diary day; no handwriting. Header verified against image.",
+  "review": {
+    "status": "unreviewed",
+    "reviewer": null,
+    "date": null
+  }
+}

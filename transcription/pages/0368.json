@@ -1,0 +1,78 @@
+{
+ "seq": "0368",
+ "side": "right",
+ "page_type": "diary-day",
+ "date": "1884-12-12",
+ "printed": {
+  "header": {
+   "raw": "December, Friday 12. 1884.",
+   "month": "December",
+   "weekday": "Friday",
+   "day": 12,
+   "year": 1884
+  },
+  "title": null,
+  "ruling": "lined",
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "kind": "entry",
+   "position": "body",
+   "medium": "pencil",
+   "hand": "TR",
+   "lines": [
+    "George in buckboard,",
+    "Merrifield and I",
+    "on horseback started",
+    "on sheephunt",
+    "Rode and walked",
+    "all day through",
+    "frightfully rough",
+    "ground, but saw",
+    "nothing; camped in",
+    "shack on Oxbow."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "'sheephunt' run together. Punctuation after 'ground' reads as a comma (pass 1 had ';'); punctuation after 'nothing' could be ';' or ',' ."
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "faint mirrored show-through from reverse of leaf; mirrored 'sharptail grouse' (Dec 13 tally) at bottom"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "George"
+   },
+   {
+    "as_written": "Merrifield",
+    "identified_as": "A. W. Merrifield",
+    "certain": false
+   }
+  ],
+  "places": [
+   {
+    "as_written": "Oxbow"
+   }
+  ],
+  "animals": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "Pencil. Changed 'ground;' to 'ground,' after re-checking image.",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

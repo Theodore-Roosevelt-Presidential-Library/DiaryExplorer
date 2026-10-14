@@ -1,0 +1,35 @@
+{
+  "seq": "0009",
+  "side": "left",
+  "page_type": "printed-matter",
+  "date": null,
+  "printed": {
+    "header": null,
+    "title": "RATES OF POSTAGE.",
+    "ruling": "none",
+    "description": "Printed domestic and foreign postage rates, money order fees, within ornamental border."
+  },
+  "handwriting": [],
+  "marks": [
+    {
+      "kind": "other",
+      "value": null,
+      "position": "margin",
+      "note": "Clear conservation mounting tabs top-left and bottom-left"
+    }
+  ],
+  "mentions": {
+    "people": [],
+    "places": [],
+    "animals": [],
+    "dates": []
+  },
+  "has_tr_writing": false,
+  "confidence": "high",
+  "transcriber_notes": "Printed only; no handwriting.",
+  "review": {
+    "status": "unreviewed",
+    "reviewer": null,
+    "date": null
+  }
+}

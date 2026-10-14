@@ -1,0 +1,41 @@
+{
+  "seq": "0005",
+  "side": "left",
+  "page_type": "endpaper",
+  "date": null,
+  "printed": {
+    "header": null,
+    "title": null,
+    "ruling": "none",
+    "description": "Verso of front free endpaper; no printed matter."
+  },
+  "handwriting": [],
+  "marks": [
+    {
+      "kind": "show-through",
+      "value": null,
+      "position": "top",
+      "note": "Faint mirrored show-through of the 'Theodore Roosevelt' inscription from 0004 on the reverse of the leaf"
+    },
+    {
+      "kind": "other",
+      "value": null,
+      "position": "margin",
+      "note": "Clear conservation mounting tabs top-left and bottom-left; sewing thread visible in gutter at right"
+    }
+  ],
+  "mentions": {
+    "people": [],
+    "places": [],
+    "animals": [],
+    "dates": []
+  },
+  "has_tr_writing": false,
+  "confidence": "high",
+  "transcriber_notes": "No writing on this page.",
+  "review": {
+    "status": "unreviewed",
+    "reviewer": null,
+    "date": null
+  }
+}

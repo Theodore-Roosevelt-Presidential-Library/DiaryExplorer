@@ -1,0 +1,41 @@
+{
+  "seq": "0202",
+  "side": "right",
+  "page_type": "diary-day",
+  "date": "1884-06-29",
+  "printed": {
+    "header": {
+      "raw": "June, Sunday 29. 1884.",
+      "month": "June",
+      "weekday": "Sunday",
+      "day": 29,
+      "year": 1884
+    },
+    "title": null,
+    "ruling": "lined",
+    "description": null
+  },
+  "handwriting": [],
+  "marks": [
+    {
+      "kind": "tear",
+      "value": null,
+      "position": "top",
+      "note": "small paper abrasion/loss at top edge above the header"
+    }
+  ],
+  "mentions": {
+    "people": [],
+    "places": [],
+    "animals": [],
+    "dates": []
+  },
+  "has_tr_writing": false,
+  "confidence": "high",
+  "transcriber_notes": "Blank day. No show-through of note.",
+  "review": {
+    "status": "unreviewed",
+    "reviewer": null,
+    "date": null
+  }
+}

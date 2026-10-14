@@ -1,0 +1,68 @@
+{
+  "seq": "0356",
+  "side": "right",
+  "page_type": "diary-day",
+  "date": "1884-11-30",
+  "printed": {
+    "header": {
+      "raw": "November, Sunday 30. 1884.",
+      "month": "November",
+      "weekday": "Sunday",
+      "day": 30,
+      "year": 1884
+    },
+    "title": null,
+    "ruling": "lined",
+    "description": null
+  },
+  "handwriting": [
+    {
+      "id": "b1",
+      "kind": "entry",
+      "position": "body",
+      "medium": "ink",
+      "hand": "TR",
+      "lines": [
+        "Sent Seawall & Dow",
+        "back."
+      ],
+      "rows": null,
+      "columns": null,
+      "confidence": "high",
+      "note": "'&' is TR's ampersand."
+    }
+  ],
+  "marks": [
+    {
+      "kind": "show-through",
+      "value": null,
+      "position": "body",
+      "note": "Faint lines below and at bottom are show-through from Dec 1 on the following leaf; grey offset mark lower body"
+    }
+  ],
+  "mentions": {
+    "people": [
+      {
+        "as_written": "Seawall",
+        "identified_as": "William Wingate Sewall",
+        "certain": false
+      },
+      {
+        "as_written": "Dow",
+        "identified_as": "Wilmot Dow",
+        "certain": false
+      }
+    ],
+    "places": [],
+    "animals": [],
+    "dates": []
+  },
+  "has_tr_writing": true,
+  "confidence": "high",
+  "transcriber_notes": "Ink.",
+  "review": {
+    "status": "unreviewed",
+    "reviewer": null,
+    "date": null
+  }
+}

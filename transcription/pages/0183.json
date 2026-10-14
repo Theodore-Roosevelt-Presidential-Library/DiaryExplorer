@@ -1,0 +1,41 @@
+{
+  "seq": "0183",
+  "side": "left",
+  "page_type": "diary-day",
+  "date": "1884-06-10",
+  "printed": {
+    "header": {
+      "raw": "June, Tuesday 10. 1884.",
+      "month": "June",
+      "weekday": "Tuesday",
+      "day": 10,
+      "year": 1884
+    },
+    "title": null,
+    "ruling": "lined",
+    "description": null
+  },
+  "handwriting": [],
+  "marks": [
+    {
+      "kind": "show-through",
+      "value": null,
+      "position": "body",
+      "note": "mirrored show-through of the June 9 entry (0182) on the reverse of the leaf, upper body"
+    }
+  ],
+  "mentions": {
+    "people": [],
+    "places": [],
+    "animals": [],
+    "dates": []
+  },
+  "has_tr_writing": false,
+  "confidence": "high",
+  "transcriber_notes": "Blank day; the visible writing is mirrored show-through of June 9.",
+  "review": {
+    "status": "unreviewed",
+    "reviewer": null,
+    "date": null
+  }
+}

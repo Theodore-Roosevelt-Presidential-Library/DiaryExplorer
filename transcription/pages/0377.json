@@ -1,0 +1,47 @@
+{
+ "seq": "0377",
+ "side": "left",
+ "page_type": "diary-day",
+ "date": "1884-12-21",
+ "printed": {
+  "header": {
+   "raw": "December, Sunday 21. 1884.",
+   "month": "December",
+   "weekday": "Sunday",
+   "day": 21,
+   "year": 1884
+  },
+  "title": null,
+  "ruling": "lined",
+  "description": null
+ },
+ "handwriting": [],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "top",
+   "note": "faint mirrored show-through of the printed header on the reverse of the leaf"
+  },
+  {
+   "kind": "other",
+   "value": null,
+   "position": "bottom-right",
+   "note": "small puncture/hole at the gutter edge of the leaf in the lower quarter of the page (recurs through the final December leaves); physical damage, not writing"
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [],
+  "animals": [],
+  "dates": []
+ },
+ "has_tr_writing": false,
+ "confidence": "high",
+ "transcriber_notes": "Blank diary day. Printed header verified against the full-resolution image. All four corners checked at full resolution with contrast enhancement: no archival pencil page number or other later mark. Body checked with contrast enhancement: no writing. Upper body re-checked at higher contrast; only mirrored header show-through and a small brown speck near the header.",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

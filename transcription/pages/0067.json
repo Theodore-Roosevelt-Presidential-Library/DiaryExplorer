@@ -1,0 +1,53 @@
+{
+  "seq": "0067",
+  "side": "left",
+  "page_type": "diary-day",
+  "date": "1884-02-15",
+  "printed": {
+    "header": {
+      "raw": "February, Friday 15. 1884.",
+      "month": "February",
+      "weekday": "Friday",
+      "day": 15,
+      "year": 1884
+    },
+    "title": null,
+    "ruling": "lined",
+    "description": null
+  },
+  "handwriting": [],
+  "marks": [
+    {
+      "kind": "show-through",
+      "value": null,
+      "position": "body",
+      "note": "Mirrored X and 'The light has gone out of my life' from Feb 14 (0066) on reverse of leaf, plus mirrored Feb 14 header"
+    },
+    {
+      "kind": "ink-blot",
+      "value": null,
+      "position": "body",
+      "note": "Two small dark blue-black ink smudges in lower left; colour differs from TR's brown ink; not letters"
+    },
+    {
+      "kind": "debris",
+      "value": null,
+      "position": "bottom-left",
+      "note": "Small brown specks near bottom-left corner"
+    }
+  ],
+  "mentions": {
+    "people": [],
+    "places": [],
+    "animals": [],
+    "dates": []
+  },
+  "has_tr_writing": false,
+  "confidence": "high",
+  "transcriber_notes": "Blank day; no writing. Visible text is show-through only.",
+  "review": {
+    "status": "unreviewed",
+    "reviewer": null,
+    "date": null
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "seq": "0350",
+  "side": "right",
+  "page_type": "diary-day",
+  "date": "1884-11-24",
+  "printed": {
+    "header": {
+      "raw": "November, Monday 24. 1884.",
+      "month": "November",
+      "weekday": "Monday",
+      "day": 24,
+      "year": 1884
+    },
+    "title": null,
+    "ruling": "lined",
+    "description": null
+  },
+  "handwriting": [
+    {
+      "id": "b1",
+      "kind": "entry",
+      "position": "body",
+      "medium": "ink",
+      "hand": "TR",
+      "lines": [
+        "Went out to wait",
+        "for beaver. shot 3",
+        "grouse"
+      ],
+      "rows": null,
+      "columns": null,
+      "confidence": "high",
+      "note": "Punctuation after 'beaver' is a single dot sitting low; read as a period (pass 1 had a colon)."
+    },
+    {
+      "id": "b2",
+      "kind": "tally",
+      "position": "bottom",
+      "medium": "ink",
+      "hand": "TR",
+      "lines": [
+        "3 sharptail grouse"
+      ],
+      "rows": null,
+      "columns": null,
+      "confidence": "high",
+      "note": null
+    }
+  ],
+  "marks": [
+    {
+      "kind": "show-through",
+      "value": null,
+      "position": "body",
+      "note": "Faint show-through to the right of the entry"
+    }
+  ],
+  "mentions": {
+    "people": [],
+    "places": [],
+    "animals": [
+      {
+        "as_written": "beaver",
+        "taken": false
+      },
+      {
+        "as_written": "grouse",
+        "count": 3,
+        "taken": true
+      }
+    ],
+    "dates": []
+  },
+  "has_tr_writing": true,
+  "confidence": "high",
+  "transcriber_notes": "Ink.",
+  "review": {
+    "status": "unreviewed",
+    "reviewer": null,
+    "date": null
+  }
+}

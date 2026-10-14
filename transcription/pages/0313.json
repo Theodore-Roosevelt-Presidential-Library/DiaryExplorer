@@ -1,0 +1,47 @@
+{
+ "seq": "0313",
+ "side": "left",
+ "page_type": "diary-day",
+ "date": "1884-10-18",
+ "printed": {
+  "header": {
+   "raw": "October, Saturday 18. 1884.",
+   "month": "October",
+   "weekday": "Saturday",
+   "day": 18,
+   "year": 1884
+  },
+  "title": null,
+  "ruling": "lined",
+  "description": null
+ },
+ "handwriting": [],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "top",
+   "note": "faint mirrored show-through of the printed header on the reverse of the leaf"
+  },
+  {
+   "kind": "tear",
+   "value": null,
+   "position": "top",
+   "note": "small tear/crease at top edge of leaf (same leaf as 0312)"
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [],
+  "animals": [],
+  "dates": []
+ },
+ "has_tr_writing": false,
+ "confidence": "high",
+ "transcriber_notes": "Blank diary day. Printed header verified against the full-resolution image. All four corners checked at full resolution with contrast enhancement: no archival pencil page number or other later mark. Body checked with contrast enhancement: no writing.",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

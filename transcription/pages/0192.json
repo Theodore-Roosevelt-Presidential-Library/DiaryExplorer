@@ -1,0 +1,41 @@
+{
+  "seq": "0192",
+  "side": "right",
+  "page_type": "diary-day",
+  "date": "1884-06-19",
+  "printed": {
+    "header": {
+      "raw": "June, Thursday 19. 1884.",
+      "month": "June",
+      "weekday": "Thursday",
+      "day": 19,
+      "year": 1884
+    },
+    "title": null,
+    "ruling": "lined",
+    "description": null
+  },
+  "handwriting": [],
+  "marks": [
+    {
+      "kind": "show-through",
+      "value": null,
+      "position": "body",
+      "note": "Faint grey text reading the right way round (not mirrored) fills the page: transmitted show-through of the June 21 entry (seq 0194, 'One antelope. On riding round a little knoll...made with the rifle'), matching it line for line."
+    }
+  ],
+  "mentions": {
+    "people": [],
+    "places": [],
+    "animals": [],
+    "dates": []
+  },
+  "has_tr_writing": false,
+  "confidence": "high",
+  "transcriber_notes": "Blank day. All visible writing is show-through of 0194. Fragments at left edge belong to the facing June 18 page (0191).",
+  "review": {
+    "status": "unreviewed",
+    "reviewer": null,
+    "date": null
+  }
+}

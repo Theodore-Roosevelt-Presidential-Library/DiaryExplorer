@@ -1,0 +1,35 @@
+{
+  "seq": "0013",
+  "side": "left",
+  "page_type": "printed-matter",
+  "date": null,
+  "printed": {
+    "header": null,
+    "title": "MARCH, 1884.",
+    "ruling": "other",
+    "description": "Printed monthly calendar for March 1884: table of day of month/week, sunrise, sunset, moon sets and moon's phases, with engraved seasonal vignettes (signed Karst); footnote 'Heavy-face figures indicate from 6 P. M. to 6 A. M.'"
+  },
+  "handwriting": [],
+  "marks": [
+    {
+      "kind": "archival-page-number",
+      "value": "8",
+      "position": "bottom-right",
+      "note": "pencil, later archival pagination (front-matter sequence = seq minus 5); the next leaf's '9' is also visible beyond the gutter"
+    }
+  ],
+  "mentions": {
+    "people": [],
+    "places": [],
+    "animals": [],
+    "dates": []
+  },
+  "has_tr_writing": false,
+  "confidence": "high",
+  "transcriber_notes": "Printed calendar page; no handwriting. Pencil archival page numbers run continuously 6-20 on seq 0011-0025 and stop after 0025 (none seen on later pages in this batch).",
+  "review": {
+    "status": "unreviewed",
+    "reviewer": null,
+    "date": null
+  }
+}

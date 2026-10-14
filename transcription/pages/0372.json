@@ -1,0 +1,56 @@
+{
+ "seq": "0372",
+ "side": "right",
+ "page_type": "diary-day",
+ "date": "1884-12-16",
+ "printed": {
+  "header": {
+   "raw": "December, Tuesday 16. 1884.",
+   "month": "December",
+   "weekday": "Tuesday",
+   "day": 16,
+   "year": 1884
+  },
+  "title": null,
+  "ruling": "lined",
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "kind": "entry",
+   "position": "body",
+   "medium": "pencil",
+   "hand": "TR",
+   "lines": [
+    "Bitterly cold."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "faint text of Dec 17 (0373) entry visible in upper third and its tally at bottom"
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [],
+  "animals": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "Pencil. Unchanged from pass 1.",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

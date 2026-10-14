@@ -1,0 +1,47 @@
+{
+ "seq": "0134",
+ "side": "right",
+ "page_type": "diary-day",
+ "date": "1884-04-22",
+ "printed": {
+  "header": {
+   "raw": "April, Tuesday 22. 1884.",
+   "month": "April",
+   "weekday": "Tuesday",
+   "day": 22,
+   "year": 1884
+  },
+  "title": null,
+  "ruling": "lined",
+  "description": null
+ },
+ "handwriting": [],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "top",
+   "note": "faint mirrored show-through of the printed header from the reverse of the leaf"
+  },
+  {
+   "kind": "archival-page-number",
+   "value": "0[?]",
+   "position": "bottom-left",
+   "note": "pencil numeral at the very bottom-left edge; only the upper part of a single closed oval is visible, the lower part hidden by the page edge/binding. Reads as 0 but could be the top of 6, 8 or 9. Later archival foliation, not TR's hand."
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [],
+  "animals": [],
+  "dates": []
+ },
+ "has_tr_writing": false,
+ "confidence": "high",
+ "transcriber_notes": "Blank diary day; no handwriting. Archival page number present (see marks). Pass 1 called the bottom-left loop a possible stray fibre; at full resolution it is a dark pencil numeral (graphite, clearly formed) partly cut off by the page edge, consistent with the archival foliation numbers elsewhere in the volume. Value uncertain.",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

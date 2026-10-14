@@ -1,0 +1,41 @@
+{
+  "seq": "0085",
+  "side": "left",
+  "page_type": "diary-day",
+  "date": "1884-03-04",
+  "printed": {
+    "header": {
+      "raw": "March, Tuesday 4. 1884.",
+      "month": "March",
+      "weekday": "Tuesday",
+      "day": 4,
+      "year": 1884
+    },
+    "title": null,
+    "ruling": "lined",
+    "description": null
+  },
+  "handwriting": [],
+  "marks": [
+    {
+      "kind": "show-through",
+      "value": null,
+      "position": "top",
+      "note": "faint mirrored printed heading from the reverse of the leaf"
+    }
+  ],
+  "mentions": {
+    "people": [],
+    "places": [],
+    "animals": [],
+    "dates": []
+  },
+  "has_tr_writing": false,
+  "confidence": "high",
+  "transcriber_notes": "Blank diary day; no handwriting. Header verified against image.",
+  "review": {
+    "status": "unreviewed",
+    "reviewer": null,
+    "date": null
+  }
+}

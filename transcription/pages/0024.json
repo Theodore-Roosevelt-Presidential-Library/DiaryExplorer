@@ -1,0 +1,47 @@
+{
+  "seq": "0024",
+  "side": "right",
+  "page_type": "diary-day",
+  "date": "1884-01-03",
+  "printed": {
+    "header": {
+      "raw": "January, Thursday 3. 1884.",
+      "month": "January",
+      "weekday": "Thursday",
+      "day": 3,
+      "year": 1884
+    },
+    "title": null,
+    "ruling": "lined",
+    "description": null
+  },
+  "handwriting": [],
+  "marks": [
+    {
+      "kind": "archival-page-number",
+      "value": "19",
+      "position": "bottom-left",
+      "note": "pencil, later archival pagination (front-matter sequence = seq minus 5); NOT visible in this scan (corner lies in the gutter); value read from scan 0023, where it shows on this page across the gutter"
+    },
+    {
+      "kind": "show-through",
+      "value": null,
+      "position": "top",
+      "note": "faint mirrored printed heading from the reverse of the leaf"
+    }
+  ],
+  "mentions": {
+    "people": [],
+    "places": [],
+    "animals": [],
+    "dates": []
+  },
+  "has_tr_writing": false,
+  "confidence": "high",
+  "transcriber_notes": "Blank diary day; no handwriting. Header verified against image. Pencil archival page numbers run continuously 6-20 on seq 0011-0025 and stop after 0025 (none seen on later pages in this batch). Page-number reading is uncertain/faint (see mark note).",
+  "review": {
+    "status": "unreviewed",
+    "reviewer": null,
+    "date": null
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "seq": "0393",
+  "side": "left",
+  "page_type": "cash-account",
+  "date": null,
+  "printed": {
+    "header": null,
+    "title": "Cash Account—April.",
+    "ruling": "cash-columns",
+    "description": "Printed 'Received.' and 'Paid.' dollar/cents column rules at right; blue horizontal rules."
+  },
+  "handwriting": [],
+  "marks": [
+    {
+      "kind": "show-through",
+      "value": null,
+      "position": "body",
+      "note": "Mirrored writing from the reverse page 0392 (payee names, amounts '150,00', '1912,62', photograph list) and fainter marks; none reads normally."
+    },
+    {
+      "kind": "tear",
+      "value": null,
+      "position": "top",
+      "note": "Small notch/tear at top centre in the ruled margin."
+    }
+  ],
+  "mentions": {
+    "people": [],
+    "places": [],
+    "animals": [],
+    "dates": []
+  },
+  "has_tr_writing": false,
+  "confidence": "high",
+  "transcriber_notes": "Blank Cash Account page.",
+  "review": {
+    "status": "unreviewed",
+    "reviewer": null,
+    "date": null
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "seq": "0065",
+  "side": "left",
+  "page_type": "diary-day",
+  "date": "1884-02-13",
+  "printed": {
+    "header": {
+      "raw": "February, Wednesday 13. 1884.",
+      "month": "February",
+      "weekday": "Wednesday",
+      "day": 13,
+      "year": 1884
+    },
+    "title": null,
+    "ruling": "lined",
+    "description": null
+  },
+  "handwriting": [],
+  "marks": [
+    {
+      "kind": "show-through",
+      "value": null,
+      "position": "top",
+      "note": "Mirrored printed header of Feb 12 (0064) from reverse of leaf"
+    },
+    {
+      "kind": "debris",
+      "value": null,
+      "position": "margin",
+      "note": "A few tiny specks at left margin, not writing; ink at far right edge belongs to facing page Feb 14 (0066)"
+    }
+  ],
+  "mentions": {
+    "people": [],
+    "places": [],
+    "animals": [],
+    "dates": []
+  },
+  "has_tr_writing": false,
+  "confidence": "high",
+  "transcriber_notes": "Blank day; no writing.",
+  "review": {
+    "status": "unreviewed",
+    "reviewer": null,
+    "date": null
+  }
+}
