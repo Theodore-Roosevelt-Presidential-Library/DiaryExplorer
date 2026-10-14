@@ -1,0 +1,61 @@
+{
+ "frame": "429_0513",
+ "half": "R",
+ "volume": "1878",
+ "page_type": "diary-day",
+ "dates": [
+  "1878-03-12"
+ ],
+ "printed": {
+  "headers": [
+   "March, Tuesday 12. 1878."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1878-03-12",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "It is really won-",
+    "derful, what",
+    "sweet, unselfish",
+    "letters the dear",
+    "ones at home",
+    "send me. It seems",
+    "so strange never",
+    "to write to him."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "'him' in last line is underlined."
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "faint mirrored writing from reverse of leaf; not transcribed"
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

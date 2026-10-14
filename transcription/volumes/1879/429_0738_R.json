@@ -1,0 +1,106 @@
+{
+ "frame": "429_0738",
+ "half": "R",
+ "volume": "1879",
+ "page_type": "diary-day",
+ "dates": [
+  "1879-06-30"
+ ],
+ "printed": {
+  "headers": [
+   "Monday, June 30, 1879."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1879-06-30",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Re-commenced the old",
+    "Oyster Bay life; spent the",
+    "day putting my rowboat",
+    "in order, building the boat",
+    "house, taking a pull to",
+    "Plum Pt; sailing with",
+    "Uncle Jimmie (who, with",
+    "Aunt Annie, is spending",
+    "the summer here) &c &c.",
+    "I lead just the same",
+    "active, out of door life",
+    "that I always enjoy",
+    "so much - with my",
+    "horse, gun and row boat.",
+    "The swimming is capital.",
+    "Fing[?] & Virginia R. are",
+    "passing the summer with",
+    "West. Em, poor fellow, is still",
+    "very much cut up."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  }
+ ],
+ "marks": [
+  {
+   "kind": "archival-page-number",
+   "value": "125",
+   "position": "top",
+   "note": "pencil, right of header"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Uncle Jimmie",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Aunt Annie",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Fing",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Virginia R.",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "West",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Em",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   "Oyster Bay",
+   "Plum Pt"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

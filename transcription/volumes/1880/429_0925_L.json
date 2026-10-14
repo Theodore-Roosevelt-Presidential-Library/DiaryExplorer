@@ -1,0 +1,82 @@
+{
+ "frame": "429_0925",
+ "half": "L",
+ "volume": "1880",
+ "page_type": "diary-day",
+ "dates": [
+  "1880-06-24"
+ ],
+ "printed": {
+  "headers": [
+   "June, Thursday 24. 1880."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1880-06-24",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "We came up to Boston",
+    "in the morning. Ike Iselin[?]",
+    "came on to spend a",
+    "few days with me in",
+    "the afternoon; I took him",
+    "and Nell up to the",
+    "ΔKE theatricals, which were",
+    "very good, ending up at",
+    "the Club."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": "Surname after 'Ike' uncertain (looks like 'Iselin')."
+  }
+ ],
+ "marks": [
+  {
+   "kind": "ink-blot",
+   "value": null,
+   "position": "body",
+   "note": "Dark smudged marks below the entry (offset/blots), not legible writing."
+  },
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "Mirrored ghost text from reverse."
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Ike Iselin[?]",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Nell",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   "Boston",
+   "the Club"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "medium",
+ "transcriber_notes": "BAD SPLIT: this half also contains the left edge of the facing June 25 page (first letters of its lines); those are transcribed in 429_0925_R from the full frame.",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

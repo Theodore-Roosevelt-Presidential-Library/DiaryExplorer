@@ -1,0 +1,77 @@
+{
+ "frame": "429_0665",
+ "half": "R",
+ "volume": "1878",
+ "page_type": "diary-day",
+ "dates": [
+  "1878-12-31"
+ ],
+ "printed": {
+  "headers": [
+   "December, Tuesday 31. 1878."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1878-12-31",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "At 7.30 started through the",
+    "woods, with Rempson[?] the",
+    "gunner. As there was ^4 inches^ snow",
+    "on the ground we took",
+    "no dog. We tramped",
+    "about 25 miles across",
+    "country, not having a",
+    "mouthful to eat and",
+    "not sitting down till",
+    "we reached home at",
+    "7.30 - having walked",
+    "12 hours. So I am",
+    "tired out, but have never",
+    "had a more glorious",
+    "day; the weather was",
+    "beautiful (clear, cold & still) the",
+    "sport splendid & I shot very well.",
+    "6 quail 8 rabbit 1 squirrel"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "gunner's name uncertain"
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "faint mirrored writing from other side of leaf; ignored"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Rempson[?]",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

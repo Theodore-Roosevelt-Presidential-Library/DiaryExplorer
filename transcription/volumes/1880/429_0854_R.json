@@ -1,0 +1,64 @@
+{
+ "frame": "429_0854",
+ "half": "R",
+ "volume": "1880",
+ "page_type": "diary-day",
+ "dates": [
+  "1880-01-31"
+ ],
+ "printed": {
+  "headers": [
+   "January, Saturday 31. 1880."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1880-01-31",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Went on to tell the Family;",
+    "who of course were all",
+    "perfectly delighted and too",
+    "sweet for anything, though",
+    "very much surprised."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "faint mirrored writing from reverse"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "the Family",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

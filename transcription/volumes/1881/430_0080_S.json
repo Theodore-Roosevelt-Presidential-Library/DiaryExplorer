@@ -1,0 +1,50 @@
+{
+ "frame": "430_0080",
+ "half": "S",
+ "volume": "1881",
+ "page_type": "endpaper",
+ "dates": [],
+ "printed": {
+  "headers": [],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": null,
+   "kind": "address",
+   "position": "top",
+   "medium": "ink",
+   "hand": "uncertain",
+   "lines": [
+    "Joseph E. Murray",
+    "1093[?] 85th St"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": "Third digit of house number uncertain (7 or 9)."
+  }
+ ],
+ "marks": [],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Joseph E. Murray",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": false,
+ "confidence": "medium",
+ "transcriber_notes": "Rear endpaper/board; hand not certainly TR's.",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

@@ -1,0 +1,77 @@
+{
+ "frame": "429_0778",
+ "half": "R",
+ "volume": "1879",
+ "page_type": "diary-day",
+ "dates": [
+  "1879-09-30"
+ ],
+ "printed": {
+  "headers": [
+   "Tuesday, September 30, 1879."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1879-09-30",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "9[?]-1 Steady[?] work at my",
+    "zoology course in the",
+    "Museum. 2-5 Fieldwork",
+    "in Geology. 8-9 study",
+    "Political economy. 8 hours.",
+    "Called on the Lanes in",
+    "the evening; they both",
+    "are just as sweet as",
+    "they can be, and Miss",
+    "Lulu[?] is too pretty",
+    "for anything."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": "first figure (8 or 9) and second word unclear; film dark"
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from reverse of leaf ignored"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "the Lanes",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Miss Lulu[?]",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   "Museum"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "medium",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

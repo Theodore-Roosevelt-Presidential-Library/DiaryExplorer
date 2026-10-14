@@ -1,0 +1,80 @@
+{
+ "frame": "429_0643",
+ "half": "R",
+ "volume": "1878",
+ "page_type": "diary-day",
+ "dates": [
+  "1878-11-09"
+ ],
+ "printed": {
+  "headers": [
+   "November, Saturday 9. 1878."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1878-11-09",
+   "kind": "heading",
+   "position": "over-printed-title",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Friday"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "Written above printed 'SATURDAY 9.', which is struck through by hand (~~Saturday 9.~~)."
+  },
+  {
+   "id": "b2",
+   "date": "1878-11-09",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Prayers 7.45",
+    "Studied 9.00—5.30",
+    "In the evening",
+    "had a supper, with",
+    "8 or ten of the fellows,",
+    "in the club—",
+    "partridges & burgundy.",
+    "Did not get to",
+    "bed till towards",
+    "two. a. m."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from reverse of leaf"
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [
+   "the club"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "Printed 'Saturday 9.' struck through and relabeled 'Friday' by hand. Date field kept as printed date.",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

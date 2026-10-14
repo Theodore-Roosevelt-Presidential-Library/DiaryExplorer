@@ -1,0 +1,56 @@
+{
+ "frame": "429_0971",
+ "half": "R",
+ "volume": "1880",
+ "page_type": "diary-day",
+ "dates": [
+  "1880-09-27"
+ ],
+ "printed": {
+  "headers": [
+   "September, Monday 27. 1880."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1880-09-27",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Left Chicago"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "faint mirrored writing from reverse"
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [
+   "Chicago"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

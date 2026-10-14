@@ -1,0 +1,63 @@
+{
+ "frame": "429_0649",
+ "half": "L",
+ "volume": "1878",
+ "page_type": "diary-day",
+ "dates": [
+  "1878-11-24"
+ ],
+ "printed": {
+  "headers": [
+   "November, Sunday 24. 1878."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1878-11-24",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Went in to Harry",
+    "Shaws for dinner,",
+    "and had a very",
+    "pleasant time."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from reverse of leaf"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Harry Shaw",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

@@ -1,0 +1,78 @@
+{
+ "frame": "429_0699",
+ "half": "L",
+ "volume": "1879",
+ "page_type": "diary-day",
+ "dates": [
+  "1879-03-09"
+ ],
+ "printed": {
+  "headers": [
+   "Sunday, March 9, 1879."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1879-03-09",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "I was pretty well fagged",
+    "out by my two days",
+    "chase after the caribou",
+    "and have been lying",
+    "back and resting all today.",
+    "I have not been bothered",
+    "atall by the asthma since I",
+    "came into camp. I like these",
+    "lumbermen very much,",
+    "and get on capitally with",
+    "them - great, rough, hospit-",
+    "-able fellows. I am great",
+    "friends with one in especial,",
+    "Charley Brown. It has rained",
+    "a little and then frozen,",
+    "improving the snowshoing",
+    "greatly, and makings the forests",
+    "look beautifully, each tree covered",
+    "with glittering icicles."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "'makings' as written."
+  }
+ ],
+ "marks": [
+  {
+   "kind": "archival-page-number",
+   "value": "41",
+   "position": "left-margin",
+   "note": "pencil, top left, partly visible"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Charley Brown",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

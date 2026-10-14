@@ -1,0 +1,82 @@
+{
+ "frame": "429_0808",
+ "half": "L",
+ "volume": "1879",
+ "page_type": "diary-day",
+ "dates": [
+  "1879-12-04"
+ ],
+ "printed": {
+  "headers": [
+   "Thursday, December 4, 1879."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1879-12-04",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Drove Jack Tebbetts and",
+    "Minot Weld over to the",
+    "latter's house, where we",
+    "stay to night. After dinner",
+    "went to a party at the",
+    "Grays, which was very",
+    "pleasant."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  }
+ ],
+ "marks": [
+  {
+   "kind": "archival-page-number",
+   "value": "345",
+   "position": "top",
+   "note": "pencil"
+  },
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from reverse of leaf; ignored"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Jack Tebbetts",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Minot Weld",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "the Grays",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

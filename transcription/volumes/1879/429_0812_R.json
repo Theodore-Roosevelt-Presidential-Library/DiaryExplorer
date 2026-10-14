@@ -1,0 +1,107 @@
+{
+ "frame": "429_0812",
+ "half": "R",
+ "volume": "1879",
+ "page_type": "diary-day",
+ "dates": [
+  "1879-12-13"
+ ],
+ "printed": {
+  "headers": [
+   "Saturday, December 13, 1879."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1879-12-13",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Ran 3 miles (slowly, in 21m) in",
+    "the morning. After lunch",
+    "drove Jack and Dick over",
+    "in the cart to Chestnut",
+    "Hill. Came back to",
+    "Cambridge and went in",
+    "town with Harry Chapin,",
+    "dining at Youngs and",
+    "going to the theatre after-",
+    "wards."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  }
+ ],
+ "marks": [
+  {
+   "kind": "archival-page-number",
+   "value": "551[?]",
+   "position": "top",
+   "note": "pencil folio number, partly obscured by header rule"
+  },
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from reverse of leaf; ignored"
+  },
+  {
+   "kind": "ink-blot",
+   "value": null,
+   "position": "body",
+   "note": "dark stain at right edge near lines 6-7"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Jack",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Dick",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Harry Chapin",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   {
+    "as_written": "Chestnut Hill",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Cambridge",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Youngs",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

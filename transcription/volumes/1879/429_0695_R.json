@@ -1,0 +1,78 @@
+{
+ "frame": "429_0695",
+ "half": "R",
+ "volume": "1879",
+ "page_type": "diary-day",
+ "dates": [
+  "1879-03-02"
+ ],
+ "printed": {
+  "headers": [
+   "Sunday, March 2, 1879."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1879-03-02",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Read my bible in the",
+    "morning. In the af-",
+    "ternoon took a tramp",
+    "through the woods; I",
+    "can not get used to the",
+    "extreme beauty of the",
+    "snow covered pine and",
+    "spruce forests. The cold",
+    "does not bother me atall",
+    "in the woods, but if",
+    "there is any wind",
+    "it is very disagreeable in",
+    "the open. I get along",
+    "very well on snow shoes",
+    "but the swamps are very",
+    "tough work - although per-",
+    "haps not so bad as in",
+    "summer. There is very little",
+    "life in the woods."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": "Heavy show-through from reverse interferes; 'atall' appears run together."
+  }
+ ],
+ "marks": [
+  {
+   "kind": "archival-page-number",
+   "value": "34",
+   "position": "top",
+   "note": "pencil, top right"
+  },
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "heavy mirrored writing from other side"
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "medium",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

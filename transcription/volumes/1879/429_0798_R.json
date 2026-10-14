@@ -1,0 +1,38 @@
+{
+ "frame": "429_0798",
+ "half": "R",
+ "volume": "1879",
+ "page_type": "diary-day",
+ "dates": [
+  "1879-11-13"
+ ],
+ "printed": {
+  "headers": [
+   "Thursday, November 13, 1879."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from reverse of leaf; ignored"
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": false,
+ "confidence": "high",
+ "transcriber_notes": "Blank day; only mirrored show-through visible.",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

@@ -1,0 +1,56 @@
+{
+ "frame": "429_0516",
+ "half": "R",
+ "volume": "1878",
+ "page_type": "diary-day",
+ "dates": [
+  "1878-03-18"
+ ],
+ "printed": {
+  "headers": [
+   "March, Monday 18. 1878."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1878-03-18",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Had a one hour",
+    "examination in",
+    "German. 98%"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "Mirrored writing from reverse of leaf; ignored."
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

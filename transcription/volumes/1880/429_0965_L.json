@@ -1,0 +1,82 @@
+{
+ "frame": "429_0965",
+ "half": "L",
+ "volume": "1880",
+ "page_type": "diary-day",
+ "dates": [
+  "1880-09-14"
+ ],
+ "printed": {
+  "headers": [
+   "September, Tuesday 14. 1880."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1880-09-14",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Left St Pauls in the",
+    "evening, with two new",
+    "guns and a stub-",
+    "tailed old pointer for",
+    "Moorhead, Minnesota, on",
+    "the Dacotah boundary,",
+    "to see old Jack Elliott"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored text of 12–13 Sept; ignored"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Jack Elliott",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   {
+    "as_written": "St Pauls",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Moorhead, Minnesota",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Dacotah",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

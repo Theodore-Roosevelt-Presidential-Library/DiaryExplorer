@@ -1,0 +1,73 @@
+{
+ "frame": "429_0876",
+ "half": "R",
+ "volume": "1880",
+ "page_type": "diary-day",
+ "dates": [
+  "1880-03-15"
+ ],
+ "printed": {
+  "headers": [
+   "March, Monday 15. 1880."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1880-03-15",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Mrs Lee took Alice and I ^to^ over",
+    "New Bedford to see her parents. Alice",
+    "and I returned alone. I enjoyed",
+    "the day very much, with my",
+    "sweet, pretty love, in the quaint",
+    "old house, and its still queerer",
+    "inmates."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "'to' written above 'over'; 'over' not struck"
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "faint mirrored writing from reverse"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Mrs Lee",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Alice",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   "New Bedford"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

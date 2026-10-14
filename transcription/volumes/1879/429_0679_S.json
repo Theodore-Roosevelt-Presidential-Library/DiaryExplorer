@@ -1,0 +1,129 @@
+{
+ "frame": "429_0679",
+ "half": "S",
+ "volume": "1879",
+ "page_type": "diary-day",
+ "dates": [
+  "1879-01-10",
+  "1879-01-11"
+ ],
+ "printed": {
+  "headers": [
+   "Friday, January 10, 1879.",
+   "Saturday, January 11, 1879."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1879-01-11",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "At 10.30 a.m Harry Shaws",
+    "cutter drew up before the Porcel-",
+    "lian, and we drove over to",
+    "the Saltonstalls, where",
+    "we found Dick and",
+    "Minot Weld; also Alice",
+    "and Rose. The sleighing",
+    "was splendid; we",
+    "could not have had",
+    "a better day - cold,",
+    "clear and calm. We",
+    "then drove in town,",
+    "as I wished to see",
+    "Mr Saltonstall about",
+    "Dick's coming into the",
+    "Porc. Spent the evening",
+    "playing whist and billiards",
+    "with Otho Williams, Van Ren-",
+    "-saeler and Charley Morgan."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "Entry on right page (Jan 11)."
+  }
+ ],
+ "marks": [
+  {
+   "kind": "archival-page-number",
+   "value": "10",
+   "position": "top",
+   "note": "pencil, right page"
+  },
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from other side of leaf"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Harry Shaw",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Dick",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Minot Weld",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Alice",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Rose",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Mr Saltonstall",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Otho Williams",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Van Rensaeler",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Charley Morgan",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   "Porcellian",
+   "the Saltonstalls"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "Unsplit spread: Jan 10 (left) blank except mirrored show-through of Jan 8 entry; Jan 11 (right) written.",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

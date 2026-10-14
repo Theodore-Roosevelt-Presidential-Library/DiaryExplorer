@@ -1,0 +1,84 @@
+{
+ "frame": "429_0929",
+ "half": "L",
+ "volume": "1880",
+ "page_type": "diary-day",
+ "dates": [
+  "1880-07-21880"
+ ],
+ "printed": {
+  "headers": [
+   "JULY, FRIDAY 2. 1880."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1880-07-21880",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "It is perfectly delightful",
+    "to have my sweet",
+    "Queen here. In the",
+    "morning I drove her",
+    "with Rose and Ike[?] Iselin",
+    "on the back seat over",
+    "to Laurelton and Syosset.",
+    "In the afternoon we",
+    "played tennis. The",
+    "evening I spent with",
+    "her in the summer",
+    "house."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": "'Ike' uncertain"
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from reverse of leaf ignored"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Queen",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Rose",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Ike Iselin",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   "Laurelton",
+   "Syosset"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "medium",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

@@ -1,0 +1,60 @@
+{
+ "frame": "429_0957",
+ "half": "L",
+ "volume": "1880",
+ "page_type": "diary-day",
+ "dates": [
+  "1880-08-29"
+ ],
+ "printed": {
+  "headers": [
+   "August, Sunday 29. 1880."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1880-08-29",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "In the morning went",
+    "to Methodist Church; I",
+    "liked the earnest though",
+    "rather startling preacher",
+    "and the congregation;",
+    "of the latter the large",
+    "majority were men - generally",
+    "they are women."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "'large majority' underlined."
+  }
+ ],
+ "marks": [],
+ "mentions": {
+  "people": [],
+  "places": [
+   {
+    "as_written": "Methodist Church",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

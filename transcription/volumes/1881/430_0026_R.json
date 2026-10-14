@@ -1,0 +1,129 @@
+{
+ "frame": "430_0026",
+ "half": "R",
+ "volume": "1881",
+ "page_type": "diary-day",
+ "dates": [
+  "1881-04-07",
+  "1881-04-08",
+  "1881-04-09"
+ ],
+ "printed": {
+  "headers": [
+   "April, Thursday 7. 1881.",
+   "Friday 8.",
+   "Saturday 9."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1881-04-07",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "George Minot is staying",
+    "with us. Dinner ^party^ in the",
+    "evening.",
+    "I took Lizzie Moran",
+    "to drive in the dogcart)"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "b2",
+   "date": "1881-04-08",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Geo. took mother to drive,",
+    "Went to Republican",
+    "Primary; grand",
+    "row; very hopeless.",
+    "Afterwards to the John",
+    "Taylor Johnstons."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "b3",
+   "date": "1881-04-09",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Went on to Chestnut",
+    "Hill. Perfectly delight-",
+    "ful to see my darling",
+    "wife, and all the dear",
+    "family again."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "faint mirrored writing from reverse of leaf; ignored"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "George Minot",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Lizzie Moran",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Geo.",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "mother",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "John Taylor Johnstons",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   "Chestnut Hill"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

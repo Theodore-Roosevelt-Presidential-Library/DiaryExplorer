@@ -1,0 +1,183 @@
+{
+ "frame": "429_0669",
+ "half": "R",
+ "volume": "1878",
+ "page_type": "memoranda",
+ "dates": [],
+ "printed": {
+  "headers": [],
+  "title": "Memoranda.",
+  "description": "ruled page with printed 'Dolls. Cts.' column headings"
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": null,
+   "kind": "heading",
+   "position": "top",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "1878"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "written after printed title"
+  },
+  {
+   "id": "b2",
+   "date": null,
+   "kind": "table",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Dress 373.45",
+    "Room 220.75",
+    "Board 305.50",
+    "Education 185.80",
+    "Washing 50.00",
+    "Charity 147.00",
+    "Coal &c 60.60",
+    "Travelling 129.25",
+    "Science 57.50",
+    "Subscriptions 133.75",
+    "Sporting 142.10",
+    "Athletics 30.00",
+    "Presents 80.00",
+    "Small Change 19.30",
+    "~~Change~~ ^Amusement^ 32.75",
+    "Expressage 15.75",
+    "Sundries 65.95",
+    "2049.45"
+   ],
+   "rows": [
+    [
+     "Dress",
+     "373",
+     "45"
+    ],
+    [
+     "Room",
+     "220",
+     "75"
+    ],
+    [
+     "Board",
+     "305",
+     "50"
+    ],
+    [
+     "Education",
+     "185",
+     "80"
+    ],
+    [
+     "Washing",
+     "50",
+     "00"
+    ],
+    [
+     "Charity",
+     "147",
+     "00"
+    ],
+    [
+     "Coal &c",
+     "60",
+     "60"
+    ],
+    [
+     "Travelling",
+     "129",
+     "25"
+    ],
+    [
+     "Science",
+     "57",
+     "50"
+    ],
+    [
+     "Subscriptions",
+     "133",
+     "75"
+    ],
+    [
+     "Sporting",
+     "142",
+     "10"
+    ],
+    [
+     "Athletics",
+     "30",
+     "00"
+    ],
+    [
+     "Presents",
+     "80",
+     "00"
+    ],
+    [
+     "Small Change",
+     "19",
+     "30"
+    ],
+    [
+     "~~Change~~ ^Amusement^",
+     "32",
+     "75"
+    ],
+    [
+     "Expressage",
+     "15",
+     "75"
+    ],
+    [
+     "Sundries",
+     "65",
+     "95"
+    ],
+    [
+     "",
+     "2049",
+     "45"
+    ]
+   ],
+   "columns": [
+    "category",
+    "Dolls.",
+    "Cts."
+   ],
+   "confidence": "high",
+   "note": "1878 expenses by category; 'Amusement' written above 'Change' on the 15th line, which appears cancelled; ink blot over 'Dress' figure but 373 legible; total matches Cash Account Summary"
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "faint mirrored writing from other side of leaf; ignored"
+  },
+  {
+   "kind": "ink-blot",
+   "value": null,
+   "position": "body",
+   "note": "blot over the Dress/Room dollar figures"
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

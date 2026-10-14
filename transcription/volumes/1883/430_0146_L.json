@@ -1,0 +1,89 @@
+{
+ "frame": "430_0146",
+ "half": "L",
+ "volume": "1883",
+ "page_type": "cash-account",
+ "dates": [],
+ "printed": {
+  "headers": [],
+  "title": "Cash APRIL",
+  "description": "ruled cash-account page with printed column headings 'PAID' and 'RECEIVED'"
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": null,
+   "kind": "heading",
+   "position": "top",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Date Income Acc't"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "b2",
+   "date": null,
+   "kind": "table",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Jan 1st 1883 Carried over",
+    "\" 3d \" Income for December[?]",
+    "\" 5th \" Dubuque[?] & Dakota[?]",
+    "\" \" \"",
+    "\" 12th \"",
+    "\" 15th \"",
+    "Feb 3d \" (Rock[?] & Pitts[?] [illegible])",
+    "8th \"",
+    "\"",
+    "\" \" \" From Book[?]",
+    "Mar 3d \" Part income from Dec.[?]",
+    "\"",
+    "\" \" \"",
+    "April 5th \"",
+    "\" \" \" By J.K.G.[?] {",
+    "\" \" \"",
+    "\" \" 22d[?]",
+    "May 4th ([illegible])",
+    "\" [illegible]",
+    "June 2d 7[?]"
+   ],
+   "rows": null,
+   "columns": [
+    "date",
+    "remarks"
+   ],
+   "confidence": "low",
+   "note": "dates written in the left column; ditto marks (\") repeat month and year; short remarks in the PAID/RECEIVED area at right. Rows correspond line-for-line with the payee list on the facing page 430_0146_R. Page very dark on film"
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing and print (e.g. reversed column headings) from reverse of leaf, ignored"
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [],
+  "dates": [
+   "Jan 1st 1883"
+  ]
+ },
+ "has_tr_writing": true,
+ "confidence": "low",
+ "transcriber_notes": "income account for 1883 continued across the spread onto 430_0146_R (Cash MAY page); film dark, many readings uncertain",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

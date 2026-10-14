@@ -1,0 +1,68 @@
+{
+ "frame": "429_0877",
+ "half": "L",
+ "volume": "1880",
+ "page_type": "diary-day",
+ "dates": [
+  "1880-03-16"
+ ],
+ "printed": {
+  "headers": [
+   "March, Tuesday 16. 1880."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1880-03-16",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "R[illegible], so I did not go back to",
+    "Cambridge, but spent the day",
+    "with my sweet Sunshine,",
+    "my own beloved little Queen.",
+    "She is too bewitching, and",
+    "too perfectly lovely with me",
+    "for anything."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "first word blotted/overwritten after 'R'"
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "faint mirrored writing from reverse"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Sunshine",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   "Cambridge"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

@@ -1,0 +1,44 @@
+{
+ "frame": "430_0098",
+ "half": "R",
+ "volume": "1882",
+ "page_type": "diary-day",
+ "dates": [
+  "1882-01-31"
+ ],
+ "printed": {
+  "headers": [
+   "JANUARY 31 Tuesday"
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "faint ghost of Feb 2 entry"
+  },
+  {
+   "kind": "ink-blot",
+   "value": null,
+   "position": "top",
+   "note": "ink spatters near top"
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": false,
+ "confidence": "medium",
+ "transcriber_notes": "Blank day.",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

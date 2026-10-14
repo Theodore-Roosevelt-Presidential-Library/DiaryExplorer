@@ -1,0 +1,76 @@
+{
+ "frame": "430_0039",
+ "half": "R",
+ "volume": "1881",
+ "page_type": "diary-day",
+ "dates": [
+  "1881-06-24",
+  "1881-06-25",
+  "1881-06-26"
+ ],
+ "printed": {
+  "headers": [
+   "June, Friday 24. 1881.",
+   "Saturday 25.",
+   "Sunday 26."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1881-06-25",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "The Lake is too beautiful",
+    "for anything. Nicholas",
+    "Fish & his wife are here,",
+    "Alice & I drove to Como,",
+    "to see the cathedral. Ex-",
+    "cellent hotel."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "faint mirrored writing from reverse of leaf; ignored"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Nicholas Fish",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Alice",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   "Como"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "Friday 24 and Sunday 26 show only show-through.",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

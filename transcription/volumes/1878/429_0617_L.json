@@ -1,0 +1,96 @@
+{
+ "frame": "429_0617",
+ "half": "L",
+ "volume": "1878",
+ "page_type": "diary-day",
+ "dates": [
+  "1878-09-17"
+ ],
+ "printed": {
+  "headers": [
+   "September, Tuesday 17. 1878."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1878-09-17",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "West and I, with",
+    "Dow, took the",
+    "canoe and paddled",
+    "to the upper",
+    "end of the lake",
+    "and shot through",
+    "the slews and",
+    "bogs - with very",
+    "indifferent suc-",
+    "cess. We three",
+    "camped out in",
+    "a wigwam near",
+    "the foo[?] head of",
+    "the lake, taking",
+    "a very frugal",
+    "supper."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": "'foo' may be an uncorrected false start"
+  },
+  {
+   "id": "b2",
+   "date": "1878-09-17",
+   "kind": "tally",
+   "position": "bottom",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "1 ~~ruddy[?]~~ ^dipper^ duck, 1 wood",
+    "duck"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": null
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from reverse of leaf"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "West",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Dow",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "medium",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

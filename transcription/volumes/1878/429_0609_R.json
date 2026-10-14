@@ -1,0 +1,115 @@
+{
+ "frame": "429_0609",
+ "half": "R",
+ "volume": "1878",
+ "page_type": "diary-day",
+ "dates": [
+  "1878-09-02"
+ ],
+ "printed": {
+  "headers": [
+   "SEPTEMBER, MONDAY 2. 1878."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1878-09-02",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Elliott & Alfred stayed",
+    "up for the [illegible].",
+    "There was a",
+    "strong, steady wester-",
+    "-ly wind, [illegible]",
+    "sailed over to Rye",
+    "and [illegible] back & Alfred",
+    "[illegible] I [illegible]",
+    "Mother, Elliott, Jack",
+    "& George",
+    "Minot [illegible]",
+    "[illegible] had",
+    "a [illegible] pleasant",
+    "[illegible]",
+    "Bulkleys, where",
+    "[illegible] Major[?] Lee[?]",
+    "Kitty[?]."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "low",
+   "note": "Page very hard to read: heavy mirrored show-through interleaves the actual entry line by line, and several words appear struck or blotted. Many readings tentative."
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "very heavy mirrored show-through interleaved with entry"
+  },
+  {
+   "kind": "other",
+   "value": null,
+   "position": "bottom",
+   "note": "tiny faint pencil mark at lower left corner"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Elliott",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Alfred",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Mother",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Jack",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "George Minot",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Major Lee",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Kitty",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   "Rye",
+   "Bulkleys"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "low",
+ "transcriber_notes": "Needs checking against the original or a better image.",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

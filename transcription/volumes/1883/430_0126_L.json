@@ -1,0 +1,90 @@
+{
+ "frame": "430_0126",
+ "half": "L",
+ "volume": "1883",
+ "page_type": "diary-day",
+ "dates": [
+  "1883-09-01"
+ ],
+ "printed": {
+  "headers": [
+   "SEPTEMBER 1 Saturday"
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": null,
+   "kind": "heading",
+   "position": "over-printed-title",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Aug 30th"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "Written after printed \"SEPTEMBER\", which TR struck through."
+  },
+  {
+   "id": "b2",
+   "date": "1883-09-01",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Made some 20 miles up",
+    "Clear Creek; travelling",
+    "a little better, but country",
+    "unchanged; large numbers",
+    "of cattle (have crossed off[?] from",
+    "Montana into Wyoming);",
+    "passed a camp of Cheyennes.",
+    "Have had a bath in",
+    "the river every day",
+    "lately."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": "Entry for 30 Aug 1884 per TR's heading."
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from Aug 31 page in lower half"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Cheyennes",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   "Clear Creek",
+   "Montana",
+   "Wyoming"
+  ],
+  "dates": [
+   "Aug 30th [1884]"
+  ]
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "Printed 1883 heading reused in 1884; TR struck the printed month and wrote \"Aug 30th\".",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

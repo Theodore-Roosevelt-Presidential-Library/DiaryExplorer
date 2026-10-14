@@ -1,0 +1,75 @@
+{
+ "frame": "429_0562",
+ "half": "R",
+ "volume": "1878",
+ "page_type": "diary-day",
+ "dates": [
+  "1878-06-12"
+ ],
+ "printed": {
+  "headers": [
+   "June, Wednesday 12. 1878."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1878-06-12",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Rode with Annie",
+    "Murray to Syosset",
+    "and down Laurel",
+    "Hollow; and took",
+    "her out in the",
+    "row boat. She is",
+    "a singularly",
+    "sweet and lady",
+    "like girl; and",
+    "very pretty and",
+    "clever. She",
+    "goes away",
+    "to-morrow"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "faint mirrored writing from reverse of leaf; ignored"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Annie Murray",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   "Syosset",
+   "Laurel Hollow"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

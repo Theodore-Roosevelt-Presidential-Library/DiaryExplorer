@@ -1,0 +1,66 @@
+{
+ "frame": "429_0509",
+ "half": "L",
+ "volume": "1878",
+ "page_type": "diary-day",
+ "dates": [
+  "1878-03-03"
+ ],
+ "printed": {
+  "headers": [
+   "March, Sunday 3. 1878."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1878-03-03",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Have been think-",
+    "-ing about Father",
+    "all the evening,",
+    "have had a good",
+    "square break down,",
+    "and feel much",
+    "the better for it."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "Punctuation after 'evening' uncertain (comma or semicolon)."
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "faint mirrored writing from reverse of leaf; not transcribed"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Father",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

@@ -1,0 +1,65 @@
+{
+ "frame": "429_0537",
+ "half": "R",
+ "volume": "1878",
+ "page_type": "diary-day",
+ "dates": [
+  "1878-04-29"
+ ],
+ "printed": {
+  "headers": [
+   "April, Monday 29. 1878."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1878-04-29",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "I have been getting",
+    "very good marks",
+    "in my studies;",
+    "he took such",
+    "pride in my",
+    "progress"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": "\"he\" underlined; last line has no terminal punctuation visible"
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from other side of leaf / facing page ignored"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "he",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "medium",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

@@ -1,0 +1,115 @@
+{
+ "frame": "430_0020",
+ "half": "R",
+ "volume": "1881",
+ "page_type": "diary-day",
+ "dates": [
+  "1881-03-02",
+  "1881-03-03",
+  "1881-03-04"
+ ],
+ "printed": {
+  "headers": [
+   "March, Wednesday 2. 1881.",
+   "Thursday 3.",
+   "Friday 4."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1881-03-02",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Took Alice a long drive."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "b2",
+   "date": "1881-03-03",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "The Thayers came to",
+    "dinner, I went to a",
+    "primary (Republican)",
+    "after."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "b3",
+   "date": "1881-03-04",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Theatre party with",
+    "John & Nannie Roosevelt",
+    "& Walter Suydam &",
+    "his wife."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": null
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Alice",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Thayers",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "John & Nannie Roosevelt",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Walter Suydam",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

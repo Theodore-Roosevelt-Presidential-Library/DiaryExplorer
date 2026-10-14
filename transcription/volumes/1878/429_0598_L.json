@@ -1,0 +1,120 @@
+{
+ "frame": "429_0598",
+ "half": "L",
+ "volume": "1878",
+ "page_type": "diary-day",
+ "dates": [
+  "1878-08-22"
+ ],
+ "printed": {
+  "headers": [
+   "AUGUST, THURSDAY 22. 1878."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1878-08-22",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Elliott, Jack & I took",
+    "Mother, Edith & Corinne",
+    "out sailing; in the",
+    "evening we all,",
+    "together with Uncle",
+    "Jimmie & Aunt Annie",
+    "and Alfred & Emlen,",
+    "took tea at Wests.",
+    "Afterwards Edith & I",
+    "went up to the",
+    "summer house.",
+    "My ride today was",
+    "so long and hard",
+    "that I am afraid",
+    "it may have injured",
+    "my horse."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from reverse of leaf; ignored"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Elliott",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Jack",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Mother",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Edith",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Corinne",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Uncle Jimmie",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Aunt Annie",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Alfred",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Emlen",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "West",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

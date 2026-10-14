@@ -1,0 +1,79 @@
+{
+ "frame": "429_0732",
+ "half": "L",
+ "volume": "1879",
+ "page_type": "diary-day",
+ "dates": [
+  "1879-06-17"
+ ],
+ "printed": {
+  "headers": [
+   "Tuesday, June 17, 1879."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1879-06-17",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "It was Rose's birthday;",
+    "I rode over to Chestnut",
+    "Hill where I lunched",
+    "and spent the day,",
+    "bringing over two",
+    "fans for Rose &",
+    "Alice. En passant;",
+    "those two young",
+    "ladies have cost me",
+    "over $150 in fans.",
+    "In the evening we[?]",
+    "went to the strawberry",
+    "night of the D.K.[?]"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": null
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from reverse of leaf"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Rose",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Alice",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   "Chestnut Hill"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "medium",
+ "transcriber_notes": "Lower third is mirrored show-through only.",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

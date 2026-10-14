@@ -1,0 +1,147 @@
+{
+ "frame": "429_0982",
+ "half": "L",
+ "volume": "1880",
+ "page_type": "diary-day",
+ "dates": [
+  "1880-10-18"
+ ],
+ "printed": {
+  "headers": [
+   "October, Monday 18. 1880."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1880-10-18",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Went in to New York;",
+    "shall leave for Boston",
+    "on Friday. Until then",
+    "I shall have my",
+    "hands full atten-",
+    "ding to various affairs.",
+    "Alice bridesmaids are",
+    "Corinne, Rosy, Rose and",
+    "Fanny Peabody. My",
+    "ushers are Emlen,",
+    "West, Dick, Frank Lee,",
+    "Tom Lee, Cottie Peabody,",
+    "~~Cottie[?]~~ ^Frank^ Peabody, Jack",
+    "Tel-bots[?], Minot Weld, &",
+    "Walter Trimble."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": "'Alice' may be 'Alices'; struck word before 'Peabody' with 'Frank' interlined; surname 'Tel-bots' uncertain"
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "faint mirrored writing from reverse"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Alice",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Corinne",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Rosy",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Rose",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Fanny Peabody",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Emlen",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "West",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Dick",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Frank Lee",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Tom Lee",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Cottie Peabody",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Frank Peabody",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Jack Tel-bots",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Minot Weld",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Walter Trimble",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   "New York",
+   "Boston"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "medium",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

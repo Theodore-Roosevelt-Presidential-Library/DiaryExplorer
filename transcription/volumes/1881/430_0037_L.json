@@ -1,0 +1,101 @@
+{
+ "frame": "430_0037",
+ "half": "L",
+ "volume": "1881",
+ "page_type": "diary-day",
+ "dates": [
+  "1881-06-09",
+  "1881-06-10",
+  "1881-06-11"
+ ],
+ "printed": {
+  "headers": [
+   "June, Thursday 9. 1881.",
+   "Friday 10.",
+   "Saturday 11."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1881-06-09",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Dorée Gallery; very",
+    "fine. Bought pres-",
+    "ents. Tried on clothes"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "b2",
+   "date": "1881-06-10",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Shopping; British",
+    "museum."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "b3",
+   "date": "1881-06-11",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Came on to Paris",
+    "Hotel Bellevue; very",
+    "good.",
+    "Channel very",
+    "smooth"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "faint mirrored writing from reverse of leaf; ignored"
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [
+   "Dorée Gallery",
+   "British museum",
+   "Paris",
+   "Hotel Bellevue",
+   "Channel"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

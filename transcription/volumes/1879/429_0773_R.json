@@ -1,0 +1,98 @@
+{
+ "frame": "429_0773",
+ "half": "R",
+ "volume": "1879",
+ "page_type": "diary-day",
+ "dates": [
+  "1879-09-20"
+ ],
+ "printed": {
+  "headers": [
+   "Saturday, September 20, 1879."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1879-09-20",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "walked about 20 miles",
+    "through the woods; killed",
+    "2 partridges on a hemlock",
+    "ridge or \"horseback\", and",
+    "afterwards found a",
+    "flock of 8[?] on an",
+    "\"interval\", of which I",
+    "killed 7. In the after-",
+    "noon we practiced",
+    "with our riffles; I shot",
+    "very well, but not as",
+    "well as Dow and",
+    "Seawell."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "b2",
+   "date": "1879-09-20",
+   "kind": "tally",
+   "position": "bottom",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "9 ruffed grouse."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  }
+ ],
+ "marks": [
+  {
+   "kind": "archival-page-number",
+   "value": "185[?]",
+   "position": "top",
+   "note": "pencil numeral at top corner, later mark"
+  },
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from reverse of leaf ignored"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Dow",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Seawell",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

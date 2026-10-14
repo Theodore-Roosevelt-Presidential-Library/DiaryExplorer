@@ -1,0 +1,100 @@
+{
+ "frame": "429_0965",
+ "half": "R",
+ "volume": "1880",
+ "page_type": "diary-day",
+ "dates": [
+  "1880-09-15"
+ ],
+ "printed": {
+  "headers": [
+   "September, Wednesday 15. 1880."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1880-09-15",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Reached Moorhead in the",
+    "morning. In the afternoon",
+    "Nell and I took a buggy",
+    "and drove off to some huge",
+    "stubble fields, which we hunted",
+    "through with great success till",
+    "dark, or rather till old stub-",
+    "tail found and attacked a",
+    "cursed skunk. It was great",
+    "fun to be off entirely alone",
+    "and among a new kind",
+    "of grouse, too. When we went",
+    "back to the miserable old",
+    "hotel we were overjoyed",
+    "to find dear old Jack,",
+    "who is entirely unchanged,",
+    "except that he is more",
+    "of a man and really",
+    "good looking. We stayed",
+    "up till all hours talking",
+    "things over."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "b2",
+   "date": "1880-09-15",
+   "kind": "tally",
+   "position": "bottom",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "2 sharptail grouse 2 golden plover",
+    "E 5 \" \" 3 pinnated grouse."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "ditto marks under 'sharptail grouse'."
+  }
+ ],
+ "marks": [],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Nell",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Jack",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   {
+    "as_written": "Moorhead",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

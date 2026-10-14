@@ -1,0 +1,110 @@
+{
+ "frame": "430_0118",
+ "half": "R",
+ "volume": "1883",
+ "page_type": "diary-day",
+ "dates": [
+  "1883-08-19"
+ ],
+ "printed": {
+  "headers": [
+   "AUGUST 19 Sunday"
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": null,
+   "kind": "heading",
+   "position": "top",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Trip from Little Missouri to the",
+    "Bighorn Mts."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "b2",
+   "date": null,
+   "kind": "heading",
+   "position": "over-printed-title",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "1884",
+    "17"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "\"1884\" after printed \"AUGUST\"; \"17\" below struck printed day number."
+  },
+  {
+   "id": "b3",
+   "date": "1883-08-19",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "^sealskin^ ~~leather~~ chaparajos, ^coon^ ~~fur~~ skin overcoat,",
+    "otter fur robe to sleep in (buttoning",
+    "into a bag form), oil slicker, ^boots^",
+    "and moccasins, sombrero, overalls,",
+    "jersey, 2 flannel shirts, 3 suits of",
+    "light, 3 of heavy underclothing,",
+    "~~[illegible]~~ heavy socks, plenty of handkerchiefs,",
+    "soap, towels, washing & shaving things",
+    "rubber blankets; flour, bacon, beans",
+    "and coffee, sugar & salt. A little",
+    "brandy and cholera mixture.",
+    "My battery consists of a long",
+    ".45 Colt revolver, 150 cartridges.",
+    "a No. 10 choke bore, 300",
+    "cartridges, shotgun; a 45-75",
+    "Winchester repeater, with 1000",
+    "cartridges; a 40-90 Sharps,",
+    "150 cartridges; a 50-150",
+    "double barrelled Webley express,",
+    "100 cartridges."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": "Continues list begun on previous page (16 Aug 1884 entry); dated 17 [Aug 1884] by TR. Struck words under insertions read as \"leather\" and \"fur\" (uncertain); \"40\" in \"40-90\" appears overwritten."
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from reverse"
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [
+   "Little Missouri",
+   "Bighorn Mts."
+  ],
+  "dates": [
+   "17 August 1884"
+  ]
+ },
+ "has_tr_writing": true,
+ "confidence": "medium",
+ "transcriber_notes": "Printed 1883 date heading reused by TR in 1884: he struck/overwrote the printed day number and wrote the 1884 date. Printed day numbers partly obscured; read from 1883 calendar (Aug 18 Saturday / Aug 19 Sunday).",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

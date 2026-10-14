@@ -1,0 +1,96 @@
+{
+ "frame": "429_0631",
+ "half": "R",
+ "volume": "1878",
+ "page_type": "diary-day",
+ "dates": [
+  "1878-10-16"
+ ],
+ "printed": {
+  "headers": [
+   "October, Wednesday 16. 1878."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1878-10-16",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Our table is composed",
+    "of Minot Weld, Harry",
+    "Chapin, Charley",
+    "Ware, Charley Washburn,",
+    "Ralph Ellis, Gorham",
+    "Peters & Dick",
+    "Saltonstall."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from reverse of leaf"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Minot Weld",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Harry Chapin",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Charley Ware",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Charley Washburn",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Ralph Ellis",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Gorham Peters",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Dick Saltonstall",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

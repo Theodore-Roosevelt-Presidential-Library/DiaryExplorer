@@ -1,0 +1,99 @@
+{
+ "frame": "429_0961",
+ "half": "L",
+ "volume": "1880",
+ "page_type": "diary-day",
+ "dates": [
+  "1880-09-06"
+ ],
+ "printed": {
+  "headers": [
+   "September, Monday 6. 1880."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1880-09-06",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Early in the morning",
+    "started back over the rolling",
+    "prarie; our horses work beautifully",
+    "and go any where, except through",
+    "the slews, or where the sluggish",
+    "streams flow in their deep",
+    "narrow beds with steep banks.",
+    "Three of our setters work well;",
+    "the other two are simple",
+    "nuisances. Not only the",
+    "hunting itself is great",
+    "fun, but I enjoy greatly",
+    "riding across country in",
+    "the wagon. We did not",
+    "get in till after dark,",
+    "one horse dead lame, and",
+    "having nearly upset in",
+    "a mud hole. I shot well;",
+    "rather better than Elliott."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "'any where' written as two words."
+  },
+  {
+   "id": "b2",
+   "date": "1880-09-06",
+   "kind": "tally",
+   "position": "bottom",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "8 grouse 1 quail 1 bittern",
+    "E. 6 grouse"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "bottom",
+   "note": "mirrored '8 grouse' at bottom right; ignored"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Elliott",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "E.",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

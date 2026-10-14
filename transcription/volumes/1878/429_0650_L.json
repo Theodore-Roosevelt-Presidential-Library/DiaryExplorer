@@ -1,0 +1,68 @@
+{
+ "frame": "429_0650",
+ "half": "L",
+ "volume": "1878",
+ "page_type": "diary-day",
+ "dates": [
+  "1878-11-26"
+ ],
+ "printed": {
+  "headers": [
+   "November, Tuesday 26. 1878."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1878-11-26",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Took dinner at",
+    "the Hoopers[?]; Miss",
+    "Jeannie Tuckerman",
+    "was there"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": "Ink heavy/smudged; family name in line 2 uncertain; 'there' blotted."
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from reverse of leaf"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Hoopers",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Miss Jeannie Tuckerman",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "medium",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

@@ -1,0 +1,189 @@
+{
+ "frame": "429_0822",
+ "half": "R",
+ "volume": "1879",
+ "page_type": "memoranda",
+ "dates": [],
+ "printed": {
+  "headers": [],
+  "title": "Memoranda.",
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": null,
+   "kind": "table",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Game Bag",
+    "1876 1877 1878 1879",
+    " |  |  | 1",
+    " | 1. |  | 1",
+    " |  | 1 | 4",
+    " |  | 8 | 11",
+    "2 | 4 | 3 | 3",
+    " | 2 | 16 | 28",
+    " | 1 | 1 | 5",
+    "1 |  | 6 | 16",
+    "1 |  | 14 | 26",
+    " |  |  | ",
+    "3 | 6 | 5 | ",
+    "6 | 12 | 8 | 8",
+    " |  | 1 | 2",
+    " |  | 3 | ",
+    "1 | 10 | 8 | 12.",
+    "6 | 10 | 4 | 1",
+    " |  | 1 | 1",
+    "20 | 46 | 79 | 119"
+   ],
+   "rows": [
+    [
+     "",
+     "",
+     "",
+     "1"
+    ],
+    [
+     "",
+     "1.",
+     "",
+     "1"
+    ],
+    [
+     "",
+     "",
+     "1",
+     "4"
+    ],
+    [
+     "",
+     "",
+     "8",
+     "11"
+    ],
+    [
+     "2",
+     "4",
+     "3",
+     "3"
+    ],
+    [
+     "",
+     "2",
+     "16",
+     "28"
+    ],
+    [
+     "",
+     "1",
+     "1",
+     "5"
+    ],
+    [
+     "1",
+     "",
+     "6",
+     "16"
+    ],
+    [
+     "1",
+     "",
+     "14",
+     "26"
+    ],
+    [
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "3",
+     "6",
+     "5",
+     ""
+    ],
+    [
+     "6",
+     "12",
+     "8",
+     "8"
+    ],
+    [
+     "",
+     "",
+     "1",
+     "2"
+    ],
+    [
+     "",
+     "",
+     "3",
+     ""
+    ],
+    [
+     "1",
+     "10",
+     "8",
+     "12."
+    ],
+    [
+     "6",
+     "10",
+     "4",
+     "1"
+    ],
+    [
+     "",
+     "",
+     "1",
+     "1"
+    ],
+    [
+     "20",
+     "46",
+     "79",
+     "119"
+    ]
+   ],
+   "columns": [
+    "1876",
+    "1877",
+    "1878",
+    "1879"
+   ],
+   "confidence": "high",
+   "note": "Rows align with species on facing page (Raccoon to Loons, then totals); row 10 (Snipe) empty. Final digit of '1879' heading written over another digit."
+  }
+ ],
+ "marks": [
+  {
+   "kind": "archival-page-number",
+   "value": "571[?]",
+   "position": "top",
+   "note": "partly visible"
+  },
+  {
+   "kind": "ink-blot",
+   "value": null,
+   "position": "body",
+   "note": "heavy dark vertical line between 1878 and 1879 columns"
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "Continuation of Game Bag table from 429_0822_L.",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

@@ -1,0 +1,65 @@
+{
+ "frame": "430_0078",
+ "half": "L",
+ "volume": "1881",
+ "page_type": "cash-account",
+ "dates": [],
+ "printed": {
+  "headers": [],
+  "title": "Cash Account—October.",
+  "description": "Ruled cash account page with Received/Paid columns"
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": null,
+   "kind": "list",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "~~Dress~~",
+    "House expenses &c",
+    "Stable",
+    "Education & Business",
+    "Presents",
+    "Charity & Subscriptions",
+    "Travelling",
+    "Amusements",
+    "Alice",
+    "Sundries."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": "Category labels; amounts for 1880 on facing page (430_0078_R). 'Dress' struck through (or underlined) with a long stroke."
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from reverse of leaf"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Alice",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "medium",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

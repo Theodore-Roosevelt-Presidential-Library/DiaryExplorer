@@ -1,0 +1,75 @@
+{
+ "frame": "429_0703",
+ "half": "R",
+ "volume": "1879",
+ "page_type": "diary-day",
+ "dates": [
+  "1879-03-22"
+ ],
+ "printed": {
+  "headers": [
+   "Saturday, March 22, 1879."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1879-03-22",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Sparred for the light",
+    "weight cup; won",
+    "against my first",
+    "man but was",
+    "beaten by Hanks,",
+    "the champion.",
+    "I have been",
+    "studying extremely",
+    "hard the past week",
+    "and have succeeded",
+    "in making up",
+    "pretty much all I",
+    "lost while I was",
+    "in Maine."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "'against' begins with an overwritten/blotted letter."
+  }
+ ],
+ "marks": [
+  {
+   "kind": "archival-page-number",
+   "value": "48",
+   "position": "top",
+   "note": "pencil, top right"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Hanks",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   "Maine"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

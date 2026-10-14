@@ -1,0 +1,76 @@
+{
+ "frame": "429_0937",
+ "half": "L",
+ "volume": "1880",
+ "page_type": "diary-day",
+ "dates": [
+  "1880-07-201880"
+ ],
+ "printed": {
+  "headers": [
+   "JULY, TUESDAY 20. 1880."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1880-07-201880",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Rose and Richard, and",
+    "Alice and myself took",
+    "the night train for",
+    "Mt Desert; at 11 p.m.",
+    "got into the boat."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": "ink smeared in places"
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from reverse of leaf ignored"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Rose",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Richard",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Alice",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   "Mt Desert"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "medium",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

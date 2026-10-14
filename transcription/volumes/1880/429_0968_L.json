@@ -1,0 +1,90 @@
+{
+ "frame": "429_0968",
+ "half": "L",
+ "volume": "1880",
+ "page_type": "diary-day",
+ "dates": [
+  "1880-09-20"
+ ],
+ "printed": {
+  "headers": [
+   "September, Monday 20. 1880."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1880-09-20",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Had a lovely night; I had to",
+    "sleep on the floor under a",
+    "buffalo robe, the wind howling",
+    "round the neat but frail little",
+    "house. We started off before sunrise",
+    "lying in the cornfields for",
+    "ducks, and during the day",
+    "tramping a long distance",
+    "over the fields after chickens;",
+    "we both shot well. All day",
+    "long there was a furious,",
+    "cold northwesterly gale blowing",
+    "with continual rain showers.",
+    "We have had very good food",
+    "(principally what we have",
+    "shot ourselves lately) and",
+    "accomodations lately, and",
+    "are having the best time",
+    "we have yet had on this",
+    "trip; now I am feeling",
+    "in superb health."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "b2",
+   "date": "1880-09-20",
+   "kind": "tally",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "8 prairie chicken 4 duck",
+    "E10 \" \" 5 \" \""
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "faint mirrored writing from reverse"
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

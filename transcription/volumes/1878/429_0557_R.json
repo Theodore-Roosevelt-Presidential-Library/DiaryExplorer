@@ -1,0 +1,76 @@
+{
+ "frame": "429_0557",
+ "half": "R",
+ "volume": "1878",
+ "page_type": "diary-day",
+ "dates": [
+  "1878-06-02"
+ ],
+ "printed": {
+  "headers": [
+   "June, Sunday 2. 1878."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1878-06-02",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Thanks[?] fortune,",
+    "all the hard work",
+    "for this spring",
+    "is over.",
+    "Very often,",
+    "when I have",
+    "done well in",
+    "something, I find",
+    "my self thinking",
+    "\"How pleased",
+    "Father will be!\"",
+    "It seems perfectly",
+    "terrible some times",
+    "to think of never",
+    "seeing him again;",
+    "I long for him",
+    "so."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": "First word has an ink blot; 'Thank' or 'Thanks'. 'never' partly blotted."
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "faint mirrored writing from reverse of leaf; ignored"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Father",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

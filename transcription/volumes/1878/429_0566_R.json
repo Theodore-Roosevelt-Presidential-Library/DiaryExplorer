@@ -1,0 +1,86 @@
+{
+ "frame": "429_0566",
+ "half": "R",
+ "volume": "1878",
+ "page_type": "diary-day",
+ "dates": [
+  "1878-06-20"
+ ],
+ "printed": {
+  "headers": [
+   "June, Thursday 20. 1878."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1878-06-19",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "with me in his",
+    "arms [illegible] for hours",
+    "together, night",
+    "after night; and",
+    "oh how my",
+    "heart pains me",
+    "when I think",
+    "that I never was",
+    "able to do anything",
+    "for him during",
+    "his last illness!"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": "continues from previous page (June 19 entry); struck/blotted short word after 'arms'."
+  },
+  {
+   "id": "b2",
+   "date": "1878-06-20",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Made hideous",
+    "scores with the rifle",
+    "in the morning;",
+    "rowed to Plain",
+    "Point, and had",
+    "a horseback ride."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "faint mirrored writing from reverse of leaf; ignored"
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [
+   "Plain Point"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

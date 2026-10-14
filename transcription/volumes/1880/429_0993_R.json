@@ -1,0 +1,91 @@
+{
+ "frame": "429_0993",
+ "half": "R",
+ "volume": "1880",
+ "page_type": "diary-day",
+ "dates": [
+  "1880-11-12"
+ ],
+ "printed": {
+  "headers": [
+   "November, Friday 12. 1880."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1880-11-12",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "We took a long walk",
+    "\"across country\" almost",
+    "to Syosset; Alice is a",
+    "fast walker, but our",
+    "progress is not very rapid,",
+    "as she stops to pet or to",
+    "tease every blessed calf, cow",
+    "or horse we meet, and runs",
+    "away if she sees a bull",
+    "or a turkey cock — the",
+    "latter — or still more, a",
+    "guinea hen — being an object",
+    "of intense interest to her.",
+    "Dear old Dare, the Colley,",
+    "accompanies us on all our",
+    "walks, and in fact every",
+    "where, and is a great",
+    "companion; lying by the log",
+    "fire in the cosy little",
+    "parlor at night.",
+    "This is the last day of our",
+    "honeymoon; how sorry I am!",
+    "We have had an ideal time; but",
+    "what a happy life we look for-",
+    "ward to!"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "faint mirrored writing from reverse"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Alice",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Dare",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   "Syosset"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

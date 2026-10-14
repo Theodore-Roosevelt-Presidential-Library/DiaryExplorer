@@ -1,0 +1,91 @@
+{
+ "frame": "429_0745",
+ "half": "R",
+ "volume": "1879",
+ "page_type": "diary-day",
+ "dates": [
+  "1879-07-18"
+ ],
+ "printed": {
+  "headers": [
+   "Friday, July 18, 1879."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1879-07-18",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Alfred, West and I started",
+    "off for a weeks cruise on",
+    "the Meteor - a 24[?] foot",
+    "jib & mainsail open boat.",
+    "Our provisions consisted of",
+    "hard tack, canned",
+    "meats & coffee.",
+    "We started in the",
+    "afternoon at 3.30 with",
+    "a light wind on our",
+    "quarter, which failed",
+    "us at 8.30, when we",
+    "anchored off the mouth",
+    "of the Saugatuck river.",
+    "This trip we have sailors",
+    "hammocks, which we sling",
+    "in the back[?] pit[?] - a great",
+    "improvement on our former way",
+    "of sleeping on the boards"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": "Heavy show-through overlaps the writing. Entry continues onto next page."
+  }
+ ],
+ "marks": [
+  {
+   "kind": "archival-page-number",
+   "value": "136",
+   "position": "top",
+   "note": "pencil, right of header"
+  },
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "heavy"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Alfred",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "West",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   "Saugatuck river"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "medium",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

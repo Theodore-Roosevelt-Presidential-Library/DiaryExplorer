@@ -1,0 +1,61 @@
+{
+ "frame": "430_0113",
+ "half": "R",
+ "volume": "1883",
+ "page_type": "diary-day",
+ "dates": [
+  "1883-01-03"
+ ],
+ "printed": {
+  "headers": [
+   "JANUARY 3 Wednesday"
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1883-01-03",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Back again in my own",
+    "lovely little home, with",
+    "the sweetest and prettiest",
+    "of all little wives —",
+    "my own sunny, darling.",
+    "I can imagine nothing",
+    "more happy in life than",
+    "~~in~~ an evening spent in",
+    "my cozy little sitting",
+    "room, before a bright",
+    "fire of soft coal, my",
+    "books all around me,",
+    "and playing backgam-",
+    "mon with my own",
+    "dainty mistress."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  }
+ ],
+ "marks": [],
+ "mentions": {
+  "people": [],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

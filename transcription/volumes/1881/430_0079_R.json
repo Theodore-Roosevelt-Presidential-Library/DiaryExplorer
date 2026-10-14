@@ -1,0 +1,82 @@
+{
+ "frame": "430_0079",
+ "half": "R",
+ "volume": "1881",
+ "page_type": "cash-account",
+ "dates": [],
+ "printed": {
+  "headers": [],
+  "title": "Cash Account—Summary.",
+  "description": "Printed month list with Received/Paid columns"
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": null,
+   "kind": "heading",
+   "position": "over-printed-title",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "1880",
+    "1881"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "'1880' over struck-through printed 'Received.'; '1881' over struck-through printed 'Paid'."
+  },
+  {
+   "id": "b2",
+   "date": null,
+   "kind": "table",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "January 282.87 482.60",
+    "February 172.96 200.40",
+    "March 39.02 203.00",
+    "April 460.15 114.00",
+    "May 481.47",
+    "June 904.57",
+    "July 989.16",
+    "August 101.00",
+    "September 660.40",
+    "October 3300.90",
+    "November 195.00",
+    "December 405.00",
+    "7992.50"
+   ],
+   "rows": null,
+   "columns": [
+    "month (printed)",
+    "1880",
+    "1881"
+   ],
+   "confidence": "high",
+   "note": "Month names are printed; figures handwritten. First column 1880, second 1881 (Jan–Apr only). Total ruled."
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from reverse of leaf"
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

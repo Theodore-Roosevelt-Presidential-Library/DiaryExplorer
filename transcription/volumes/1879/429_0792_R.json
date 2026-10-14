@@ -1,0 +1,76 @@
+{
+ "frame": "429_0792",
+ "half": "R",
+ "volume": "1879",
+ "page_type": "diary-day",
+ "dates": [
+  "1879-10-30"
+ ],
+ "printed": {
+  "headers": [
+   "Thursday, October 30, 1879."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1879-10-30",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Went out sailing in the sound",
+    "for ducks. There were but",
+    "few birds, and these were very",
+    "shy; the wind, moreover, blew",
+    "so that with the jib bobbed",
+    "and three reefs in the mainsail",
+    "it was all I could do to",
+    "keep the clumsy old fishboat",
+    "going; so I did not get a",
+    "shot. In the bay I found",
+    "a stray loon who succumbed",
+    "after a great deal of powder",
+    "had been wasted.",
+    "1 loon."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "'1 loon.' tally at foot of page"
+  }
+ ],
+ "marks": [
+  {
+   "kind": "archival-page-number",
+   "value": "316[?]",
+   "position": "top",
+   "note": "pencil"
+  },
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from reverse of leaf; ignored"
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [
+   "the sound",
+   "the bay"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

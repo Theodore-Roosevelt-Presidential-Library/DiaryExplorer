@@ -1,0 +1,64 @@
+{
+ "frame": "429_0857",
+ "half": "R",
+ "volume": "1880",
+ "page_type": "diary-day",
+ "dates": [
+  "1880-02-06"
+ ],
+ "printed": {
+  "headers": [
+   "February, Friday 6. 1880."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1880-02-06",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Drove over to the Saltonstalls",
+    "in my sleigh. Took dinner",
+    "there, and spent the evening",
+    "with my pretty darling.",
+    "I am almost too happy."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "'too' is underlined."
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "faint mirrored writing from reverse"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Saltonstalls",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

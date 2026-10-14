@@ -1,0 +1,89 @@
+{
+ "frame": "429_0479",
+ "half": "R",
+ "volume": "1878",
+ "page_type": "diary-day",
+ "dates": [
+  "1878-01-01"
+ ],
+ "printed": {
+  "headers": [
+   "JANUARY, TUESDAY 1. 1878."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1878-01-01",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "New York.",
+    "Made about 20 calls.",
+    "A particularly",
+    "pleasant one on",
+    "Annie Murray;",
+    "she is a singular-",
+    "-ly neat girl, and",
+    "one whom I wish",
+    "I could see. Little",
+    "Fan[?] Smith is also",
+    "a great favourite",
+    "of mine—a pure,",
+    "religious, bright",
+    "girl, well read",
+    "and I think a",
+    "true friend. Edith",
+    "C. makes up my",
+    "trio of \"Freundinnen\"."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "'Fan' could also be read 'Fal'"
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from reverse"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Annie Murray",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Fan[?] Smith",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Edith C.",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   "New York"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

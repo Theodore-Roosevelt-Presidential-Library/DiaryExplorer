@@ -1,0 +1,73 @@
+{
+ "frame": "429_0622",
+ "half": "L",
+ "volume": "1878",
+ "page_type": "diary-day",
+ "dates": [
+  "1878-09-27"
+ ],
+ "printed": {
+  "headers": [
+   "September, Friday 27. 1878."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1878-09-27",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "All the fellows",
+    "greeted me with",
+    "enthusiasm. To",
+    "my great sur-",
+    "prise I was offered",
+    "the Porcellian; of",
+    "course I could not",
+    "accept, being a",
+    "member of the",
+    "A.D - but I wish",
+    "I could. It is very",
+    "pleasant to get back",
+    "among all the",
+    "fellows again; but",
+    "I can't help feeling",
+    "a little bit home",
+    "sick."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from reverse of leaf"
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [
+   "Porcellian",
+   "A.D"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

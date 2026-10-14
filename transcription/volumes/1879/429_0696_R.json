@@ -1,0 +1,98 @@
+{
+ "frame": "429_0696",
+ "half": "R",
+ "volume": "1879",
+ "page_type": "diary-day",
+ "dates": [
+  "1879-03-04"
+ ],
+ "printed": {
+  "headers": [
+   "Tuesday, March 4, 1879."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1879-03-04",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Spent the day tramping",
+    "through the woods with",
+    "Will Seawall. We saw a",
+    "good many tracks of",
+    "lucivees, foxes, rabbits, otters,",
+    "minks, weasels, squirrels, porcupines, &c;",
+    "but the only living creatures",
+    "were a couple of chickadees &",
+    "a woodpecker. Finally we",
+    "found the ~~tra~~footprints of a",
+    "partridge on some hard-",
+    "wood ground, and following",
+    "them up roused the bird",
+    "from under a fallen birch",
+    "top, and I shot it. The",
+    "snowshoing is poor, the snow",
+    "being wet & heavy, and the",
+    "weather warmish."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": "'tra' overwritten by 'footprints'. 'Seawall' as written here."
+  },
+  {
+   "id": "b2",
+   "date": "1879-03-04",
+   "kind": "tally",
+   "position": "bottom",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "1 ruffed grouse."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "game tally written below entry, same form as tally on 10 March"
+  }
+ ],
+ "marks": [
+  {
+   "kind": "archival-page-number",
+   "value": "36",
+   "position": "top",
+   "note": "pencil, top right"
+  },
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from reverse"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Will Seawall",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "medium",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

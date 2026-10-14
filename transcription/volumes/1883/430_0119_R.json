@@ -1,0 +1,93 @@
+{
+ "frame": "430_0119",
+ "half": "R",
+ "volume": "1883",
+ "page_type": "diary-day",
+ "dates": [
+  "1883-08-21"
+ ],
+ "printed": {
+  "headers": [
+   "AUGUST 21 Tuesday"
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1883-08-21",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Heavy rain storm",
+    "all day. Left",
+    "Langs after break-",
+    "fast; stopped to",
+    "kill a few mallard",
+    "flappers and white",
+    "belly grouse down",
+    "among ^a^ lot of",
+    "slews, ^with rifle^ no lunch;",
+    "overtook wagon at",
+    "dusk, at Lake Station",
+    "on old Keogh Trail.",
+    "Heavy rain all",
+    "night; no water except",
+    "rain water from",
+    "rubber blankets. Slept",
+    "in wagon. Made",
+    "fire of logs of old",
+    "station house; good",
+    "supper ~~[illegible]~~ fried",
+    "duck."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": "1884 entry (19 Aug 1884 by sequence; TR wrote no date here). Small dash before printed \"21\" may be a stroke."
+  },
+  {
+   "id": "b2",
+   "date": "1883-08-21",
+   "kind": "tally",
+   "position": "bottom",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "4 grouse 5 duck"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing"
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [
+   "Langs",
+   "Lake Station",
+   "Keogh Trail"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "medium",
+ "transcriber_notes": "Printed 1883 heading reused in 1884.",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

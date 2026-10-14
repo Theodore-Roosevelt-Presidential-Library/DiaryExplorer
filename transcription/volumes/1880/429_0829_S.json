@@ -1,0 +1,27 @@
+{
+ "frame": "429_0829",
+ "half": "S",
+ "volume": "1880",
+ "page_type": "printed-matter",
+ "dates": [],
+ "printed": {
+  "headers": [],
+  "title": "Calendar for 1880",
+  "description": "Full-year calendar (left) and January 1880 almanac page (moon's phases, sunrise/sunset tables) on right."
+ },
+ "handwriting": [],
+ "marks": [],
+ "mentions": {
+  "people": [],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": false,
+ "confidence": "high",
+ "transcriber_notes": "Full spread delivered as single half; no handwriting.",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

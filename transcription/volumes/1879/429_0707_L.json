@@ -1,0 +1,103 @@
+{
+ "frame": "429_0707",
+ "half": "L",
+ "volume": "1879",
+ "page_type": "diary-day",
+ "dates": [
+  "1879-03-31"
+ ],
+ "printed": {
+  "headers": [
+   "Monday, March 31, 1879."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1879-03-31",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "In the evening drove over",
+    "to Minot Welds to see",
+    "some private theatricals;",
+    "Miss Bacon and Miss",
+    "Frothingham both acted,",
+    "and very well to. I sat",
+    "by pretty Alice Lee[?] before",
+    "and during the perform-",
+    "-ance, and spent most",
+    "of the remainder of the",
+    "evening with Nana",
+    "Rotch; so it is needless",
+    "to say I enjoyed",
+    "myself very much.",
+    "Got back about one oclock",
+    "and stayed in the Porc,",
+    "singing and talking,",
+    "till three."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "'Lee' cramped and faint between 'Alice' and 'before'."
+  }
+ ],
+ "marks": [
+  {
+   "kind": "archival-page-number",
+   "value": "54",
+   "position": "left-margin",
+   "note": "pencil, top left"
+  },
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from reverse; ignored"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Minot Weld",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Miss Bacon",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Miss Frothingham",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Alice Lee[?]",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Nana Rotch",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

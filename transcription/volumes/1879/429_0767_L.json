@@ -1,0 +1,81 @@
+{
+ "frame": "429_0767",
+ "half": "L",
+ "volume": "1879",
+ "page_type": "diary-day",
+ "dates": [
+  "1879-09-07"
+ ],
+ "printed": {
+  "headers": [
+   "Sunday, September 7, 1879."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1879-09-07",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "We started as usual, as",
+    "there was no use ~~to~~[?] of",
+    "laying up; but I",
+    "compromised by not",
+    "shooting or fishing.",
+    "We poled up the Aroostook",
+    "till lunch time, when",
+    "we were near the",
+    "mouth of the Mun-",
+    "-sungun; up this we",
+    "had to wade, dragging",
+    "our boats — the water",
+    "now up to ^our^ ankles, now",
+    "to our hips. It was",
+    "heavy work; moreover",
+    "it was raining heavily, and",
+    "towards dusk we pitched",
+    "camp, drenched through",
+    "& tired out. Midges bad."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": null
+  }
+ ],
+ "marks": [
+  {
+   "kind": "archival-page-number",
+   "value": "17[?]",
+   "position": "top",
+   "note": null
+  },
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from reverse of leaf; ignored"
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [
+   "Aroostook",
+   "Munsungun"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "medium",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

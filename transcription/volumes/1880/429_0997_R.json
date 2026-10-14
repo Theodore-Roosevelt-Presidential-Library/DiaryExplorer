@@ -1,0 +1,38 @@
+{
+ "frame": "429_0997",
+ "half": "R",
+ "volume": "1880",
+ "page_type": "diary-day",
+ "dates": [
+  "1880-11-20"
+ ],
+ "printed": {
+  "headers": [
+   "November, Saturday 20. 1880."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "faint mirrored writing from reverse"
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": false,
+ "confidence": "high",
+ "transcriber_notes": "Blank day. Next frame (429_0998) begins with November 23; the leaf for November 21-22 does not appear in this sequence.",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

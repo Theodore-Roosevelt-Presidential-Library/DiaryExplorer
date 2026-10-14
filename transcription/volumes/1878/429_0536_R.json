@@ -1,0 +1,68 @@
+{
+ "frame": "429_0536",
+ "half": "R",
+ "volume": "1878",
+ "page_type": "diary-day",
+ "dates": [
+  "1878-04-27"
+ ],
+ "printed": {
+  "headers": [
+   "April, Saturday 27. 1878."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1878-04-27",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "chapters in the",
+    "bible that he was",
+    "especially fond",
+    "of (such as",
+    "John XIV), always",
+    "brings him",
+    "before me so vivid-",
+    "-ly that it gives",
+    "me both ^happiness^ ~~joy~~ and",
+    "sadness; it is",
+    "lovely to have",
+    "such memories,",
+    "but so sad to",
+    "think they are",
+    "only memories."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "continues from previous page; struck word under happiness read as joy[?]"
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from other side of leaf / facing page ignored"
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "Run-on of entry from previous page; written under April 27 heading but no separate April 27 entry.",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

@@ -1,0 +1,89 @@
+{
+ "frame": "429_0633",
+ "half": "L",
+ "volume": "1878",
+ "page_type": "diary-day",
+ "dates": [
+  "1878-10-19"
+ ],
+ "printed": {
+  "headers": [
+   "October, Saturday 19. 1878."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1878-10-19",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "I spent the morning",
+    "walking through the",
+    "woods with Dick, his",
+    "sister Miss Rose, and",
+    "their cousin, Miss",
+    "Alice Lee - a very",
+    "sweet pretty girl.",
+    "About midday we",
+    "drove over to the",
+    "Whitneys where we",
+    "took dinner and tea.",
+    "We spent the evening",
+    "dancing and sing-",
+    "ing, driving back",
+    "about 11 oclock."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "'Miss' written with long-s ligature"
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from reverse of leaf"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Dick",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Miss Rose",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Miss Alice Lee",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Whitneys",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

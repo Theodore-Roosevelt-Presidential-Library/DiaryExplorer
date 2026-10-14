@@ -1,0 +1,104 @@
+{
+ "frame": "429_0636",
+ "half": "R",
+ "volume": "1878",
+ "page_type": "diary-day",
+ "dates": [
+  "1878-10-26"
+ ],
+ "printed": {
+  "headers": [
+   "October, Saturday 26. 1878."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1878-10-26",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Breakfasted with",
+    "West; poor old Doc[?]",
+    "is awfully cut up",
+    "about Cornel's[?] insane",
+    "marriage. Spent the",
+    "morning with",
+    "darling little",
+    "Aunt Annie,",
+    "lunched with",
+    "West and Alfred",
+    "and came out",
+    "to Oyster Bay in",
+    "afternoon. It is",
+    "just lovely to be",
+    "back with the",
+    "family again.",
+    "All look beautifully",
+    "except dear old Nell"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": "'Doc' has a small raised mark after it (possibly a superscript letter). Last line runs off the page; sentence not visibly continued on next page."
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from reverse of leaf"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "West",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Doc",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Cornel",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Aunt Annie",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Alfred",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Nell",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   "Oyster Bay"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "medium",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

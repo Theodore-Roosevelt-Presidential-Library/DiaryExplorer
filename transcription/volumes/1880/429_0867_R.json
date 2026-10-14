@@ -1,0 +1,91 @@
+{
+ "frame": "429_0867",
+ "half": "R",
+ "volume": "1880",
+ "page_type": "diary-day",
+ "dates": [
+  "1880-02-26"
+ ],
+ "printed": {
+  "headers": [
+   "February, Thursday 26. 1880."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1880-02-26",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Drove over to lunch at",
+    "Chestnut Hill; took my pretty",
+    "love out in the cart in the",
+    "afternoon; in the evening drove",
+    "in with her and ^Rose^ ~~[illegible]~~ to a",
+    "dinner at the Bartletts, Sat",
+    "between Miss Whitney & Miss",
+    "~~Perkins~~ Sears, and spent the",
+    "rest of the evening with",
+    "Miss Perkins"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "struck word under 'Rose' unreadable"
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "faint mirrored writing from reverse"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Rose",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Bartletts",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Miss Whitney",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Miss Sears",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Miss Perkins",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   "Chestnut Hill"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

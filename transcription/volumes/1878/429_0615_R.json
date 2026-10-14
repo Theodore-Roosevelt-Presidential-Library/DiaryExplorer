@@ -1,0 +1,77 @@
+{
+ "frame": "429_0615",
+ "half": "R",
+ "volume": "1878",
+ "page_type": "diary-day",
+ "dates": [
+  "1878-09-14"
+ ],
+ "printed": {
+  "headers": [
+   "SEPTEMBER, SATURDAY 14. 1878."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1878-09-14",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Rained till noon;",
+    "then it cleared and",
+    "I took a fifteen",
+    "mile tramp through",
+    "the woods with",
+    "Sewell, but got noth-",
+    "-ing. I had two shots",
+    "with the rifle at",
+    "a couple of foxes a-",
+    "-bout sixty yards",
+    "off across the river,",
+    "but missed both;",
+    "I don't think I ever",
+    "made as many con-",
+    "-secutive bad shots",
+    "as I have this week.",
+    "I am disgusted with",
+    "myself."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from reverse of leaf; ignored"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Sewell",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

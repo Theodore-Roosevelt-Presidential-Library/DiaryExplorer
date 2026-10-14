@@ -1,0 +1,65 @@
+{
+ "frame": "429_0651",
+ "half": "R",
+ "volume": "1878",
+ "page_type": "diary-day",
+ "dates": [
+  "1878-12-01"
+ ],
+ "printed": {
+  "headers": [
+   "December, Sunday 1. 1878."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1878-12-01",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Breakfasted as usual",
+    "at the Porcellian;",
+    "these Sunday break-",
+    "-fasts are a great",
+    "institution, taking",
+    "place about 9.30.",
+    "The food is capital,",
+    "and it is pleasant",
+    "to be with the",
+    "fellows."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from reverse of leaf"
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [
+   "the Porcellian"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "Facing page jumps from Nov. 28 to Dec. 1; Nov. 29-30 not seen in this spread (possible missing leaf or frame-order issue).",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

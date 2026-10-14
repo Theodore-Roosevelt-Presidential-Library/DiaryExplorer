@@ -1,0 +1,90 @@
+{
+ "frame": "429_0682",
+ "half": "L",
+ "volume": "1879",
+ "page_type": "diary-day",
+ "dates": [
+  "1879-01-16"
+ ],
+ "printed": {
+  "headers": [
+   "Thursday, January 16, 1879."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1879-01-16",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Bad weather, but",
+    "Grace church was",
+    "crowded. I ushered",
+    "on the middle aisle",
+    "with Livingstone,",
+    "Rutherford, and",
+    "Cruger.",
+    "Took the night",
+    "train for Harvard;",
+    "driving down to it",
+    "in the cutter was",
+    "upset."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "Punctuation after \"weather\" a small faint mark, read as comma."
+  }
+ ],
+ "marks": [
+  {
+   "kind": "archival-page-number",
+   "value": "15",
+   "position": "top",
+   "note": "pencil"
+  },
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from other side of leaf"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Livingstone",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Rutherford",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Cruger",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   "Grace church",
+   "Harvard"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

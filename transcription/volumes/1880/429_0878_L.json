@@ -1,0 +1,76 @@
+{
+ "frame": "429_0878",
+ "half": "L",
+ "volume": "1880",
+ "page_type": "diary-day",
+ "dates": [
+  "1880-03-18"
+ ],
+ "printed": {
+  "headers": [
+   "March, Thursday 18. 1880."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1880-03-18",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Dear old West[?] came on to day,",
+    "I took him over in the cart to",
+    "dine at Chestnut Hill, and",
+    "spent the late evening in the",
+    "Porc.",
+    "The dear old man has been",
+    "rejected by Fanny. I think she",
+    "has behaved abominably to him;",
+    "he means to try again."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "name 'West' uncertain (W letterform)"
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "faint mirrored writing from reverse"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "West",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Fanny",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   "Chestnut Hill",
+   "Porc."
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

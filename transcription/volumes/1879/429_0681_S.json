@@ -1,0 +1,104 @@
+{
+ "frame": "429_0681",
+ "half": "S",
+ "volume": "1879",
+ "page_type": "diary-day",
+ "dates": [
+  "1879-01-14",
+  "1879-01-15"
+ ],
+ "printed": {
+  "headers": [
+   "Tuesday, January 14, 1879.",
+   "Wednesday, January 15, 1879."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1879-01-14",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Went on by night",
+    "boat to New York",
+    "to Ludlows wedding."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "b2",
+   "date": "1879-01-15",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Arrived at N.Y. Went",
+    "to a rehearsal of",
+    "the wedding. One",
+    "of my old flames,",
+    "pretty Helen White,",
+    "is a bridesmaid."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  }
+ ],
+ "marks": [
+  {
+   "kind": "archival-page-number",
+   "value": "13",
+   "position": "top",
+   "note": "pencil, left page"
+  },
+  {
+   "kind": "archival-page-number",
+   "value": "14",
+   "position": "top",
+   "note": "pencil, right page"
+  },
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from other side of leaf"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Ludlow",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Helen White",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   "New York",
+   "N.Y."
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "Unsplit two-page spread (Jan 14 left, Jan 15 right).",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

@@ -1,0 +1,79 @@
+{
+ "frame": "429_0656",
+ "half": "R",
+ "volume": "1878",
+ "page_type": "diary-day",
+ "dates": [
+  "1878-12-11"
+ ],
+ "printed": {
+  "headers": [
+   "December, Wednesday 11. 1878."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1878-12-11",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "It is strange how much",
+    "I am pressed at Harvard;",
+    "I have absolutely no",
+    "time to think, ex-",
+    "-cept about my studies.",
+    "Sometimes however, at",
+    "night especially, I get",
+    "thinking about my",
+    "loved Father, and",
+    "then I feel very",
+    "desolate and heart=",
+    "sore. It seems so",
+    "terrible to think",
+    "that he will not be",
+    "with~~x~~ us at Christmas.",
+    "It often does not seem",
+    "possible that he is",
+    "really dead. I can"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "'with' followed by a cancelled letter or two; entry continues on next page (Dec 12)"
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "faint mirrored writing from other side of leaf; ignored"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Father",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   "Harvard"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

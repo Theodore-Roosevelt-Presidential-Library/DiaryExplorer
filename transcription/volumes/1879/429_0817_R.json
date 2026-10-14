@@ -1,0 +1,87 @@
+{
+ "frame": "429_0817",
+ "half": "R",
+ "volume": "1879",
+ "page_type": "diary-day",
+ "dates": [
+  "1879-12-23"
+ ],
+ "printed": {
+  "headers": [
+   "Tuesday, December 23, 1879."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1879-12-23",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Snowed hard; sleighing excellent.",
+    "In afternoon Nell and",
+    "I drove up in a cutter",
+    "to Jerome Park, where",
+    "we had a very cosy",
+    "little dinner, coming",
+    "home by moonlight",
+    "towards ten; then I",
+    "went to the University",
+    "Club, to a supper given",
+    "by the Harvard Glee Club."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  }
+ ],
+ "marks": [
+  {
+   "kind": "archival-page-number",
+   "value": "561[?]",
+   "position": "top",
+   "note": "pencil folio number, partly obscured by header rule"
+  },
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from reverse of leaf; ignored"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Nell",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   {
+    "as_written": "Jerome Park",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "University Club",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

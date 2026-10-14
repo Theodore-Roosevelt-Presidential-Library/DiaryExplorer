@@ -1,0 +1,70 @@
+{
+ "frame": "430_0018",
+ "half": "R",
+ "volume": "1881",
+ "page_type": "diary-day",
+ "dates": [
+  "1881-02-18",
+  "1881-02-19",
+  "1881-02-20"
+ ],
+ "printed": {
+  "headers": [
+   "February, Friday 18. 1881.",
+   "Saturday 19.",
+   "Sunday 20."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1881-02-18",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Musical at the Betts.",
+    "Drove Corinne"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "Second line slightly lighter."
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "Mirrored show-through under Saturday 19 and Sunday 20."
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Betts",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Corinne",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "Saturday 19 and Sunday 20 blank.",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

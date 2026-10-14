@@ -1,0 +1,84 @@
+{
+ "frame": "429_0558",
+ "half": "L",
+ "volume": "1878",
+ "page_type": "diary-day",
+ "dates": [
+  "1878-06-03"
+ ],
+ "printed": {
+  "headers": [
+   "June, Monday 3. 1878."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1878-06-03",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "All my Bostonian",
+    "friends have been",
+    "very hospitable",
+    "and kind; and",
+    "by so doing have",
+    "added wonderfully",
+    "to the enjoyment",
+    "of my college",
+    "course. Jack",
+    "Tebbets[?] has just",
+    "asked me to",
+    "spend a month",
+    "with him at",
+    "Schooner Head and",
+    "Harry ^Shaw^ wishes me",
+    "to stay with him",
+    "next Sunday.",
+    "Our Club Table"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": "Stray mark after 'hospitable'. Entry continues on next page."
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "faint mirrored writing from reverse of leaf; ignored"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Jack Tebbets",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Harry Shaw",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   "Schooner Head"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

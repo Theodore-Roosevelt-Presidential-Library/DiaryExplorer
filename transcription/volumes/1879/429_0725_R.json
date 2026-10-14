@@ -1,0 +1,99 @@
+{
+ "frame": "429_0725",
+ "half": "R",
+ "volume": "1879",
+ "page_type": "diary-day",
+ "dates": [
+  "1879-05-31"
+ ],
+ "printed": {
+  "headers": [
+   "Saturday, May 31, 1879."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1879-05-31",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "I drove over to the Bacons",
+    "to take tea and had",
+    "a very jolly evening.",
+    "George Minot was there.",
+    "I like both Miss Nellie",
+    "and Miss Julia very",
+    "much. After tea we",
+    "went to the Frothinghams."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  }
+ ],
+ "marks": [
+  {
+   "kind": "archival-page-number",
+   "value": "102[?]",
+   "position": "top",
+   "note": "pencil, reading uncertain"
+  },
+  {
+   "kind": "other",
+   "value": null,
+   "position": "left-margin",
+   "note": "short vertical pencil stroke beside first line"
+  },
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from reverse of leaf; ignored"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "the Bacons",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "George Minot",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Miss Nellie",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Miss Julia",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "the Frothinghams",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "Lower half is mirrored show-through; ignored.",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

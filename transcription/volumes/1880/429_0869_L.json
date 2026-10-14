@@ -1,0 +1,78 @@
+{
+ "frame": "429_0869",
+ "half": "L",
+ "volume": "1880",
+ "page_type": "diary-day",
+ "dates": [
+  "1880-02-29"
+ ],
+ "printed": {
+  "headers": [
+   "February, Sunday 29. 1880."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1880-02-29",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "After Sunday School I",
+    "as usual drove over to",
+    "Chestnut Hill, and took",
+    "my sweet darling out",
+    "in the cart for a long",
+    "drive through Forrest",
+    "Hills and Milton.",
+    "Spent the night at the",
+    "Lees."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "faint mirrored writing from reverse"
+  },
+  {
+   "kind": "ink-blot",
+   "value": null,
+   "position": "bottom",
+   "note": "small dark specks lower page"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Lees",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   "Chestnut Hill",
+   "Forrest Hills",
+   "Milton"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

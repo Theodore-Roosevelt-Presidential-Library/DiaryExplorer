@@ -1,0 +1,71 @@
+{
+ "frame": "429_0594",
+ "half": "R",
+ "volume": "1878",
+ "page_type": "diary-day",
+ "dates": [
+  "1878-08-15"
+ ],
+ "printed": {
+  "headers": [
+   "August, Thursday 15. 1878."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1878-08-15",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Went out woodcock",
+    "shooting, tramping",
+    "from 8 a.m. till",
+    "5 p.m. (9 consecutive",
+    "hours) through awful",
+    "ground, without",
+    "food & rest; going of",
+    "course at a slow",
+    "pace. I tried my",
+    "new knickerbockers",
+    "gaiters and hunting",
+    "shoes, which worked",
+    "to a charm. The",
+    "cover was fearful, so I",
+    "missed two thirds of my",
+    "shots; but had glorious sport,",
+    "& funnily enough, feel",
+    "fresh as a lark. 6 woodcock"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": "Lines 4-8 are partly obscured by show-through; \"9 consecutive\" and \"food & rest\" are the least certain readings. \"6 woodcock\" tally written at end of last line."
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "faint mirrored writing from reverse"
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "medium",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

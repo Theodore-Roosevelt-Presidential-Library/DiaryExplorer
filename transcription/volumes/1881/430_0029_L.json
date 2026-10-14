@@ -1,0 +1,129 @@
+{
+ "frame": "430_0029",
+ "half": "L",
+ "volume": "1881",
+ "page_type": "diary-day",
+ "dates": [
+  "1881-04-22",
+  "1881-04-23",
+  "1881-04-24"
+ ],
+ "printed": {
+  "headers": [
+   "April, Friday 22. 1881.",
+   "Saturday 23.",
+   "Sunday 24."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1881-04-22",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Corinne acted Private",
+    "theatricals with Paul",
+    "Tuckerman. Excellent;",
+    "Dancing afterwards,"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "b2",
+   "date": "1881-04-23",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Mamie Saltonstall &",
+    "Hattie Lee arrived for",
+    "a few days visit.",
+    "I am working tolerably",
+    "hard at my law."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "b3",
+   "date": "1881-04-24",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Went to the News boys",
+    "lodging house for",
+    "the last time",
+    "till October.",
+    "Douglas Robinson is",
+    "a perfect old",
+    "trump."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "faint mirrored writing from reverse of leaf; ignored"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Corinne",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Paul Tuckerman",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Mamie Saltonstall",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Hattie Lee",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Douglas Robinson",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   "News boys lodging house"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

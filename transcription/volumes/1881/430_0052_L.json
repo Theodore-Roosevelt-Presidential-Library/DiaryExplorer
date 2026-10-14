@@ -1,0 +1,105 @@
+{
+ "frame": "430_0052",
+ "half": "L",
+ "volume": "1881",
+ "page_type": "diary-day",
+ "dates": [
+  "1881-09-07",
+  "1881-09-08",
+  "1881-09-09"
+ ],
+ "printed": {
+  "headers": [
+   "September, Wednesday 7. 1881.",
+   "Thursday 8.",
+   "Friday 9."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1881-09-07",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Capt A. Thompson gave",
+    "us a dinner and a",
+    "box at the theatre."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "b2",
+   "date": "1881-09-08",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "National Gallery"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "b3",
+   "date": "1881-09-09",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Went to see Colonel",
+    "Gawler[?] at the Tower."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": null
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from reverse of leaf; ignored"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Capt A. Thompson",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Colonel Gawler",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   "National Gallery",
+   "the Tower"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "medium",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

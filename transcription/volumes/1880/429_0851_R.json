@@ -1,0 +1,84 @@
+{
+ "frame": "429_0851",
+ "half": "R",
+ "volume": "1880",
+ "page_type": "diary-day",
+ "dates": [
+  "1880-01-25"
+ ],
+ "printed": {
+  "headers": [
+   "January, Sunday 25. 1880."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1880-01-25",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "At last everything is settled; but it",
+    "seems impossible to realize it. I",
+    "am so happy that I dare not",
+    "trust in my own happiness. I",
+    "drove over to the Lees determined to",
+    "make an end of things at last;",
+    "it was over ^nearly^ eight months since I had",
+    "first proposed to her, and I had been",
+    "nearly crazy during the past year; and",
+    "after much pleading my own sweet,",
+    "pretty darling consented to be my wife.",
+    "Oh, how bewitchingly pretty she looked!",
+    "If loving her with my whole heart and",
+    "soul can make her happy, she shall",
+    "be happy; a year ago last Thanksgiving",
+    "I made a vow that win her I would",
+    "if it were possible; and now that I have",
+    "done so, the aim of my whole life shall",
+    "be to make her happy, and to shield",
+    "her and guard her from every trial;",
+    "and, oh, how I shall cherish my sweet",
+    "queen! How she, so pure and sweet and",
+    "beautiful can think of marrying me I can",
+    "not understand; but I praise and thank God",
+    "it is so."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "Line 7: 'nearly' written above 'over'; 'over' may be lightly struck through. Minor punctuation (commas around 'oh', semicolon after 'understand') read from faint marks."
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "faint mirrored writing from reverse"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Lees",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

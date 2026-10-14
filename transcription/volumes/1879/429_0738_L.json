@@ -1,0 +1,116 @@
+{
+ "frame": "429_0738",
+ "half": "L",
+ "volume": "1879",
+ "page_type": "diary-day",
+ "dates": [
+  "1879-06-29"
+ ],
+ "printed": {
+  "headers": [
+   "Sunday, June 29, 1879."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1879-06-29",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Went out to Oyster",
+    "Bay; Russell, Haddon,",
+    "Betts, Maud Elliott",
+    "& the two Miss Kanes",
+    "are passing Sunday",
+    "with us. I was",
+    "perfectly delighted",
+    "to see all the",
+    "family again;",
+    "Muffie & the two",
+    "darling girls",
+    "greeted me so lovingly.",
+    "I spent the whole",
+    "day talking with",
+    "them all. All the",
+    "\"Roosevelt boys\"",
+    "are out here.",
+    "Aunt Lucy & Maud",
+    "Elliott are staying with us."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  }
+ ],
+ "marks": [
+  {
+   "kind": "archival-page-number",
+   "value": "124",
+   "position": "left-margin",
+   "note": "pencil, partly cut off at upper left"
+  },
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": null
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Russell",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Haddon",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Betts",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Maud Elliott",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Miss Kanes",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Muffie",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Aunt Lucy",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   "Oyster Bay"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

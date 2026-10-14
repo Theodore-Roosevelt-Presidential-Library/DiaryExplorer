@@ -1,0 +1,92 @@
+{
+ "frame": "429_0955",
+ "half": "R",
+ "volume": "1880",
+ "page_type": "diary-day",
+ "dates": [
+  "1880-08-26"
+ ],
+ "printed": {
+  "headers": [
+   "August, Thursday 26. 1880."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1880-08-26",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Spent the day shooting",
+    "but with very poor",
+    "luck.",
+    "Alice is always",
+    "the first thing I think",
+    "about in the morning,",
+    "and the last at night,",
+    "and I doubt if she",
+    "is ever absent five",
+    "minutes from my thoughts,",
+    "— or even from my",
+    "dreams."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "b2",
+   "date": "1880-08-26",
+   "kind": "tally",
+   "position": "bottom",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "1 Bittern 2 sandsnipe",
+    "E. 1 grouse."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": null
+  }
+ ],
+ "marks": [
+  {
+   "kind": "ink-blot",
+   "value": null,
+   "position": "body",
+   "note": "scattered specks below entry"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Alice",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "E.",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "medium",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

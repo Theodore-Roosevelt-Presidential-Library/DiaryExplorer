@@ -1,0 +1,67 @@
+{
+ "frame": "429_0527",
+ "half": "R",
+ "volume": "1878",
+ "page_type": "diary-day",
+ "dates": [
+  "1878-04-09"
+ ],
+ "printed": {
+  "headers": [
+   "April, Tuesday 9. 1878."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1878-04-09",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "[Two months ago]",
+    "",
+    "I left for New York",
+    "in the night boat,",
+    "in company with",
+    "Harry Chapin."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "First line is set between two heavy black bracket-like marks, rendered here as [ ]."
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "Mirrored writing from reverse of leaf; ignored."
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Harry Chapin",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   "New York"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "Faint writing in lower half reads normally but matches the April 11 page; treated as show-through.",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

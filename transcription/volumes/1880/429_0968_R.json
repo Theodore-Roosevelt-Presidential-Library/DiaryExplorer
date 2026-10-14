@@ -1,0 +1,93 @@
+{
+ "frame": "429_0968",
+ "half": "R",
+ "volume": "1880",
+ "page_type": "diary-day",
+ "dates": [
+  "1880-09-21"
+ ],
+ "printed": {
+  "headers": [
+   "September, Tuesday 21. 1880."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1880-09-21",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Cold but quite clear. We",
+    "started off in good season,",
+    "driving straight across",
+    "country and nearly",
+    "getting mired in a slew.",
+    "We shot some grouse in",
+    "the stubble fields, the old",
+    "pointer working ^well^; we also",
+    "~~killed~~ several ducks",
+    "from the wagon, and",
+    "finally hid behind",
+    "some wheat sheafs and",
+    "shot two geese out of",
+    "a flock which flew",
+    "overhead. When night over-",
+    "-took us we went into",
+    "camp among the timber on",
+    "a bend of the buffalo river.",
+    "We feasted on roast duck & ",
+    "chicken, and then lay down",
+    "under our blankets before the",
+    "roaring wood fire"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": "'wheat' appears written over another word; '&' after 'duck' uncertain"
+  },
+  {
+   "id": "b2",
+   "date": "1880-09-21",
+   "kind": "tally",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "1 goose 4 ducks 2 sharptail 3 prairie chicken",
+    "E 1 \" 4 \" 2 \" 5 \""
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "faint mirrored writing from reverse"
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [
+   "buffalo river"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "medium",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

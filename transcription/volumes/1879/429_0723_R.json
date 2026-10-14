@@ -1,0 +1,83 @@
+{
+ "frame": "429_0723",
+ "half": "R",
+ "volume": "1879",
+ "page_type": "diary-day",
+ "dates": [
+  "1879-05-27"
+ ],
+ "printed": {
+  "headers": [
+   "Tuesday, May 27, 1879."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1879-05-27",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "I drove over in a buggy",
+    "to Chestnut Hill, where I",
+    "spent the afternoon with",
+    "the two girls; I then",
+    "drove over to the Whit-",
+    "-neys where I took tea",
+    "and spent a very",
+    "pleasant evening with",
+    "pretty \"Bessie\" (we are very",
+    "intimate now). It was",
+    "pretty dark driving home"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "\"very\" (second) underlined."
+  }
+ ],
+ "marks": [
+  {
+   "kind": "archival-page-number",
+   "value": "8[?]",
+   "position": "top",
+   "note": "pencil, partly legible"
+  },
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from reverse of leaf; ignored"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "the Whit-neys",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Bessie",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   "Chestnut Hill"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

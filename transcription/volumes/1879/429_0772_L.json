@@ -1,0 +1,91 @@
+{
+ "frame": "429_0772",
+ "half": "L",
+ "volume": "1879",
+ "page_type": "diary-day",
+ "dates": [
+  "1879-09-17"
+ ],
+ "printed": {
+  "headers": [
+   "Wednesday, September 17, 1879."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1879-09-17",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Walked about 25",
+    "miles on through the",
+    "woods, to a clearing",
+    "kept by a man named",
+    "Littlefield - where we",
+    "were very well treated.",
+    "Shot one spruce partridge",
+    "in a low spruce",
+    "thicket, and another",
+    "in a tamarack",
+    "swamp."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "b2",
+   "date": "1879-09-17",
+   "kind": "tally",
+   "position": "bottom",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "2 spruce Grouse."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  }
+ ],
+ "marks": [
+  {
+   "kind": "archival-page-number",
+   "value": "182[?]",
+   "position": "top",
+   "note": "pencil numeral at top corner, later mark"
+  },
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from reverse of leaf ignored"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Littlefield",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

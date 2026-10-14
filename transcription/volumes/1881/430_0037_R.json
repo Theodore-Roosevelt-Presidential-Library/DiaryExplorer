@@ -1,0 +1,115 @@
+{
+ "frame": "430_0037",
+ "half": "R",
+ "volume": "1881",
+ "page_type": "diary-day",
+ "dates": [
+  "1881-06-12",
+  "1881-06-13",
+  "1881-06-14"
+ ],
+ "printed": {
+  "headers": [
+   "June, Sunday 12. 1881.",
+   "Monday 13.",
+   "Tuesday 14."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1881-06-12",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "[illegible] Church.",
+    "Walked to place de",
+    "la concorde &",
+    "champs Elysees."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": "first word smudged"
+  },
+  {
+   "id": "b2",
+   "date": "1881-06-13",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Shopping. Bois de",
+    "Boulogne. Column",
+    "Vendome, Magnif-",
+    "icent Arc de",
+    "Triumphe."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "b3",
+   "date": "1881-06-14",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Louvre. Venus de Milo.",
+    "Rubens and Murillo.",
+    "superb."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "faint mirrored writing from reverse of leaf; ignored"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Rubens",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Murillo",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   "place de la concorde",
+   "champs Elysees",
+   "Bois de Boulogne",
+   "Column Vendome",
+   "Arc de Triumphe",
+   "Louvre"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "medium",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

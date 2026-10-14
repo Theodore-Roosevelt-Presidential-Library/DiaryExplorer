@@ -1,0 +1,77 @@
+{
+ "frame": "429_0951",
+ "half": "L",
+ "volume": "1880",
+ "page_type": "diary-day",
+ "dates": [
+  "1880-08-17"
+ ],
+ "printed": {
+  "headers": [
+   "August, Tuesday 17. 1880."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1880-08-17",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Travelled all day through",
+    "the wooded hills of",
+    "Pensylvania and the",
+    "rolling prairies of",
+    "Ohio. It is great",
+    "fun to be off",
+    "with old Nell; he",
+    "and I can do about",
+    "anything together; we",
+    "never lose our",
+    "temper under diffi-",
+    "culties and always",
+    "accomplish what we",
+    "set about."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": "'Pensylvania' appears spelled with one n; 'prairies' letters partly unclear."
+  }
+ ],
+ "marks": [],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Nell",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   {
+    "as_written": "Pensylvania",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Ohio",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "medium",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

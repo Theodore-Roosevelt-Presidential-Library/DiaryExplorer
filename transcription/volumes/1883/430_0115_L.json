@@ -1,0 +1,54 @@
+{
+ "frame": "430_0115",
+ "half": "L",
+ "volume": "1883",
+ "page_type": "diary-day",
+ "dates": [
+  "1883-01-06"
+ ],
+ "printed": {
+  "headers": [
+   "JANUARY 6 Saturday"
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1883-01-06",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "All through to day, as",
+    "also yesterday, the com-",
+    "mittee, has been wading",
+    "through the mass of perjury",
+    "involved in the Brooklyn",
+    "contested election cases."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  }
+ ],
+ "marks": [],
+ "mentions": {
+  "people": [],
+  "places": [
+   "Brooklyn"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

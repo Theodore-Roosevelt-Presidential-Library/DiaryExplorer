@@ -1,0 +1,63 @@
+{
+ "frame": "430_0027",
+ "half": "R",
+ "volume": "1881",
+ "page_type": "diary-day",
+ "dates": [
+  "1881-04-13",
+  "1881-04-14",
+  "1881-04-15"
+ ],
+ "printed": {
+  "headers": [
+   "April, Wednesday 13. 1881.",
+   "Thursday 14.",
+   "Friday 15."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1881-04-13",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Came back to N.Y.",
+    "succeeded in arresting",
+    "a swindler, had quite",
+    "a struggle with him,"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "faint mirrored writing from reverse of leaf; ignored"
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [
+   "N.Y."
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "Friday 15 shows only show-through from reverse.",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

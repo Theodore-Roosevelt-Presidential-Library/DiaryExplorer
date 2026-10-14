@@ -1,0 +1,67 @@
+{
+ "frame": "430_0089",
+ "half": "R",
+ "volume": "1882",
+ "page_type": "diary-day",
+ "dates": [
+  "1882-01-05"
+ ],
+ "printed": {
+  "headers": [
+   "JANUARY 5 Thursday"
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1882-01-05",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Went down to New",
+    "York. Katie Lowell,",
+    "and dear little",
+    "Rosy are passing a",
+    "few days with us.",
+    "My book seems",
+    "to be getting on",
+    "rather slowly"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  }
+ ],
+ "marks": [],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Katie Lowell",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Rosy",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   "New York"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "Next frame begins Jan 8; Jan 6-7 not in this batch.",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

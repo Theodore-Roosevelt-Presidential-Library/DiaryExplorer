@@ -1,0 +1,74 @@
+{
+ "frame": "429_0752",
+ "half": "R",
+ "volume": "1879",
+ "page_type": "diary-day",
+ "dates": [
+  "1879-08-05"
+ ],
+ "printed": {
+  "headers": [
+   "Tuesday, August 5, 1879."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1879-08-05",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "One of the prettiest girls",
+    "in Oyster Bay, and",
+    "one of the most charming",
+    "is Miss Emily Swan.",
+    "I have had several",
+    "very pleasant rows",
+    "and rides with her."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  }
+ ],
+ "marks": [
+  {
+   "kind": "archival-page-number",
+   "value": "14[?]",
+   "position": "top",
+   "note": "last digit unclear"
+  },
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from reverse of leaf; ignored"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Miss Emily Swan",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   "Oyster Bay"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

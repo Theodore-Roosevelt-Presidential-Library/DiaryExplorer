@@ -1,0 +1,84 @@
+{
+ "frame": "429_0742",
+ "half": "L",
+ "volume": "1879",
+ "page_type": "diary-day",
+ "dates": [
+  "1879-07-09"
+ ],
+ "printed": {
+  "headers": [
+   "Wednesday, July 9, 1879."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1879-07-09",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Rowed round Loyds",
+    "neck ^(16 miles)^. I am now",
+    "getting into beautiful",
+    "condition, and am deep",
+    "brown from the waist",
+    "up. In the afternoons",
+    "after Will has come",
+    "up from the city I",
+    "~~see~~[?] play lawn tennis,",
+    "wrestle, and swim with",
+    "him. I spend the",
+    "whole time out in the",
+    "open air; and at night",
+    "am always tired enough",
+    "to sleep like a top. Natu-",
+    "rally I am in magnifi-",
+    "cent health and spirits."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  }
+ ],
+ "marks": [
+  {
+   "kind": "archival-page-number",
+   "value": "131",
+   "position": "left-margin",
+   "note": "pencil, upper left"
+  },
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "faint"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Will",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   "Loyds neck"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

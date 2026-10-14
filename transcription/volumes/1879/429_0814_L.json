@@ -1,0 +1,86 @@
+{
+ "frame": "429_0814",
+ "half": "L",
+ "volume": "1879",
+ "page_type": "diary-day",
+ "dates": [
+  "1879-12-16"
+ ],
+ "printed": {
+  "headers": [
+   "Tuesday, December 16, 1879."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1879-12-16",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Dined at the Amorys; after",
+    "wards went to see a",
+    "very funny play at the",
+    "Gaiety, with Harry Chapin",
+    "and John Tebbetts[?]."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  }
+ ],
+ "marks": [
+  {
+   "kind": "archival-page-number",
+   "value": "554[?]",
+   "position": "top",
+   "note": "pencil folio number, partly obscured by header rule"
+  },
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from reverse of leaf; ignored"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "the Amorys",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Harry Chapin",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "John Tebbetts[?]",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   {
+    "as_written": "Gaiety",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

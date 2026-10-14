@@ -1,0 +1,51 @@
+{
+ "frame": "429_0825",
+ "half": "R",
+ "volume": "1879",
+ "page_type": "endpaper",
+ "dates": [],
+ "printed": {
+  "headers": [],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": null,
+   "kind": "other",
+   "position": "body",
+   "medium": "unknown",
+   "hand": "uncertain",
+   "lines": [
+    "275[?]",
+    "930.79"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "low",
+   "note": "Small figures in upper left; a short illegible scribble mid-page [illegible] not transcribed as text."
+  }
+ ],
+ "marks": [
+  {
+   "kind": "other",
+   "value": null,
+   "position": "body",
+   "note": "small dark mark beside figures"
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "low",
+ "transcriber_notes": "Unprinted page (back endpaper or flyleaf). Figures may relate to cash summaries; hand not certain.",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

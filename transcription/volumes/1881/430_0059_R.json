@@ -1,0 +1,83 @@
+{
+ "frame": "430_0059",
+ "half": "R",
+ "volume": "1881",
+ "page_type": "diary-day",
+ "dates": [
+  "1881-10-22",
+  "1881-10-23",
+  "1881-10-24"
+ ],
+ "printed": {
+  "headers": [
+   "October, Saturday 22. 1881.",
+   "Sunday 23.",
+   "Monday 24."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1881-10-22",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Uncle Jim, Em & Al",
+    "bitterly opposed to",
+    "my candidacy of",
+    "course."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from reverse of leaf; ignored"
+  },
+  {
+   "kind": "other",
+   "value": null,
+   "position": "body",
+   "note": "heavy diagonal ink strokes and dashes in Monday 24 space; not words"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Uncle Jim",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Em",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Al",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "Sunday 23 blank (show-through only). Monday 24 has only diagonal ink strokes, no writing.",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

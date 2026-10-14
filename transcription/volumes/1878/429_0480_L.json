@@ -1,0 +1,77 @@
+{
+ "frame": "429_0480",
+ "half": "L",
+ "volume": "1878",
+ "page_type": "diary-day",
+ "dates": [
+  "1878-01-02"
+ ],
+ "printed": {
+  "headers": [
+   "JANUARY, WEDNESDAY 2. 1878."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1878-01-02",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "The vacation has",
+    "now come to a",
+    "happy end, al-",
+    "-though it opened",
+    "so gloomily; but",
+    "I wish my",
+    "dearest Father were",
+    "better. Today he",
+    "told me I had",
+    "never caused him",
+    "a moments pain;",
+    "I should be less",
+    "than human if",
+    "I ever had, for he",
+    "is the best, wisest and",
+    "most loving of men,",
+    "the type of all that is",
+    "noble, brave, wise & good."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": null
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Father",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

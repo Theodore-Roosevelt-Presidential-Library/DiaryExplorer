@@ -1,0 +1,113 @@
+{
+ "frame": "429_0620",
+ "half": "L",
+ "volume": "1878",
+ "page_type": "diary-day",
+ "dates": [
+  "1878-09-23"
+ ],
+ "printed": {
+  "headers": [
+   "September, Monday 23. 1878."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1878-09-23",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Broke camp and",
+    "started for Island",
+    "Falls in the batteau",
+    "- a clumsy looking",
+    "craft. Sewell paddled,",
+    "Dow and I rowed,",
+    "Thomson trolled, and",
+    "West and Emlen,",
+    "with rifle and",
+    "shot gun, watched",
+    "from the bow for",
+    "loons and ducks.",
+    "We made very good",
+    "time; I spent the",
+    "afternoon tramping",
+    "through the woods",
+    "with West."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "b2",
+   "date": "1878-09-23",
+   "kind": "tally",
+   "position": "bottom",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "1 ruffed grouse."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from reverse of leaf"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Sewell",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Dow",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Thomson",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "West",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Emlen",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   "Island Falls"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

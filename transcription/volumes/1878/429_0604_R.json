@@ -1,0 +1,38 @@
+{
+ "frame": "429_0604",
+ "half": "R",
+ "volume": "1878",
+ "page_type": "diary-day",
+ "dates": [
+  "1878-08-23"
+ ],
+ "printed": {
+  "headers": [
+   "AUGUST, FRIDAY 23. 1878."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from reverse of leaf; ignored"
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": false,
+ "confidence": "high",
+ "transcriber_notes": "Blank day; only mirrored show-through of the Aug. 24 entry. Re-filming of the same page as 429_0598_R; transcription checked against this image and agrees.",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

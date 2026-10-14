@@ -1,0 +1,122 @@
+{
+ "frame": "430_0027",
+ "half": "L",
+ "volume": "1881",
+ "page_type": "diary-day",
+ "dates": [
+  "1881-04-10",
+  "1881-04-11",
+  "1881-04-12"
+ ],
+ "printed": {
+  "headers": [
+   "April, Sunday 10. 1881.",
+   "Monday 11.",
+   "Tuesday 12."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1881-04-10",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Church as usual in the",
+    "dear little chapel.",
+    "Tea at the Salton-",
+    "stalls.",
+    "Took Georgie & Bella to",
+    "walk."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "b2",
+   "date": "1881-04-11",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Went to the Porcellian",
+    "Club, and to see",
+    "Cotty Peabody.",
+    "The country and every-",
+    "thing is lovely."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "b3",
+   "date": "1881-04-12",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Played with the children,",
+    "and loafed round all",
+    "day."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "faint mirrored writing from reverse of leaf; ignored"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Saltonstalls",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Georgie",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Bella",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Cotty Peabody",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   "Porcellian Club"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

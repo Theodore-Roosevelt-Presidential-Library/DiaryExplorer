@@ -1,0 +1,78 @@
+{
+ "frame": "429_0882",
+ "half": "L",
+ "volume": "1880",
+ "page_type": "diary-day",
+ "dates": [
+  "1880-03-26"
+ ],
+ "printed": {
+  "headers": [
+   "March, Friday 26. 1880."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1880-03-26",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "In the afternoon walked over to",
+    "Chestnut Hill to spend the night:",
+    "I passed the evening with my",
+    "own sweet little queen. It is",
+    "perfectly impossible to tell how",
+    "much I love her; it is not merely",
+    "thinking of her all the time,",
+    "it is much more than that;",
+    "she is always present in my",
+    "mind. She is so sweet and",
+    "tender and loving, and so",
+    "absolutely pure and innocent,",
+    "and with such a laughing,",
+    "sunshiny temper; and, oh, so",
+    "bewitchingly pretty. I can",
+    "never thank Heaven enough that",
+    "I am perfectly pure; and can",
+    "tell her everything I have ever done;",
+    "and so can she tell me; there",
+    "is not one thing secret between us.",
+    "\"When first we love we seldom wed\";",
+    "but we shall prove exceptions",
+    "to this rule."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "'always' and 'everything' underlined in original; 'with' appears written over a false start"
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "faint mirrored writing from reverse"
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [
+   "Chestnut Hill"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

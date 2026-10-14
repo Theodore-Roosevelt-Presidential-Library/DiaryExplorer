@@ -1,0 +1,70 @@
+{
+ "frame": "429_0533",
+ "half": "R",
+ "volume": "1878",
+ "page_type": "diary-day",
+ "dates": [
+  "1878-04-21"
+ ],
+ "printed": {
+  "headers": [
+   "April, Sunday 21. 1878."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1878-04-20",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "sweet sympathy in",
+    "return; no one but",
+    "my wife, if ever I",
+    "marry, will ever",
+    "be able to take his",
+    "place.",
+    "I so wonder who",
+    "my wife will be!",
+    "\"A rare and radi-",
+    "-ant maiden\" I hope;",
+    "one who will be as",
+    "sweet, pure and",
+    "innocent as she",
+    "is wise. Thank",
+    "Heaven, I am at",
+    "least perfectly",
+    "pure."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "Continues from previous page (entry begun April 20)."
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "Mirrored writing from reverse of leaf; ignored."
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

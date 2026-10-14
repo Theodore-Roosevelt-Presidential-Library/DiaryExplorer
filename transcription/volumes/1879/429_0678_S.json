@@ -1,0 +1,82 @@
+{
+ "frame": "429_0678",
+ "half": "S",
+ "volume": "1879",
+ "page_type": "diary-day",
+ "dates": [
+  "1879-01-08",
+  "1879-01-09"
+ ],
+ "printed": {
+  "headers": [
+   "Wednesday, January 8, 1879.",
+   "Thursday, January 9, 1879."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1879-01-08",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Examination in",
+    "Natural History in",
+    "which I am afraid",
+    "I did poorly. (Too true)",
+    "Am studying",
+    "hard\"; and am",
+    "also working on",
+    "an article for the",
+    "Finance Club",
+    "(Municipal Taxation)",
+    "and on a catalogue",
+    "of the Birds of",
+    "Oyster Bay."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": "\"(Too true)\" in smaller writing, probably added later. Mark after \"hard\" looks like a superscript double stroke/ditto; rendered as \"."
+  }
+ ],
+ "marks": [
+  {
+   "kind": "archival-page-number",
+   "value": "8",
+   "position": "top",
+   "note": "pencil, left page"
+  },
+  {
+   "kind": "archival-page-number",
+   "value": "9",
+   "position": "top",
+   "note": "pencil, right page"
+  },
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from other side of leaf"
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [
+   "Oyster Bay"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "Unsplit two-page spread: Jan 8 (left) written; Jan 9 (right) blank except mirrored show-through of Jan 11 entry.",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

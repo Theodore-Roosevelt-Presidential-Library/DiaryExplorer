@@ -1,0 +1,67 @@
+{
+ "frame": "430_0065",
+ "half": "R",
+ "volume": "1881",
+ "page_type": "diary-day",
+ "dates": [
+  "1881-10-28",
+  "1881-10-29",
+  "1881-10-30"
+ ],
+ "printed": {
+  "headers": [
+   "October, Friday 28. 1881.",
+   "Saturday 29.",
+   "Sunday 30."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1881-10-28",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Much to my surprise",
+    "was nominated to",
+    "the Assembly from our[?]",
+    "district."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": "'our' uncertain."
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from reverse of leaf"
+  },
+  {
+   "kind": "ink-blot",
+   "value": null,
+   "position": "body",
+   "note": "several heavy dark strokes under Saturday 29; not letters - possibly ink offset/blot (cf. strokes over Oct 26 entry)"
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "medium",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

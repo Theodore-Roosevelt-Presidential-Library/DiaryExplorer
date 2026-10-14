@@ -1,0 +1,83 @@
+{
+ "frame": "429_0786",
+ "half": "R",
+ "volume": "1879",
+ "page_type": "diary-day",
+ "dates": [
+  "1879-10-18"
+ ],
+ "printed": {
+  "headers": [
+   "Saturday, October 18, 1879."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1879-10-18",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Spent the morning play-",
+    "ing Tennis with the",
+    "Miss Lanes. In the after-",
+    "noon I drove Harry Guild",
+    "over in my cart to his",
+    "house, to spend Sunday.",
+    "I like the Guilds very",
+    "much."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  }
+ ],
+ "marks": [
+  {
+   "kind": "archival-page-number",
+   "value": "204[?]",
+   "position": "top",
+   "note": "pencil numeral at top corner, later mark"
+  },
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from reverse of leaf ignored"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Miss Lanes",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Harry Guild",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Guilds",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

@@ -1,0 +1,144 @@
+{
+ "frame": "429_0874",
+ "half": "L",
+ "volume": "1880",
+ "page_type": "diary-day",
+ "dates": [
+  "1880-03-10"
+ ],
+ "printed": {
+  "headers": [
+   "March, Wednesday 10. 1880."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1880-03-10",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Went to a bowling party in the",
+    "afternoon, and a stag dinner in",
+    "the evening.",
+    "These bowling parties are great",
+    "fun. There are to be six in all,",
+    "given by Alice, Rose, Rosy[?],",
+    "Frank & Tom Lee, and myself.",
+    "Each time six outsiders are",
+    "invited — Hora[?], Grant, Katy",
+    "Lowell, Harriett Lawrence, Gus",
+    "Hemminway, Bob Grant, Bob Russell.",
+    "The stag dinner was",
+    "very pleasant; Dick[?], Ralph",
+    "Ellis & Peters were awfully",
+    "funny."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": "names 'Rosy', 'Hora', 'Dick' uncertain; small quote-like marks before 'Peters' and 'The' may be ink specks"
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "faint mirrored writing from reverse"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Alice",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Rose",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Rosy",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Frank Lee",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Tom Lee",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Hora",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Grant",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Katy Lowell",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Harriett Lawrence",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Gus Hemminway",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Bob Grant",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Bob Russell",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Dick",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Ralph Ellis",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Peters",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "medium",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

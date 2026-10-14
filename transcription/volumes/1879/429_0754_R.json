@@ -1,0 +1,97 @@
+{
+ "frame": "429_0754",
+ "half": "R",
+ "volume": "1879",
+ "page_type": "diary-day",
+ "dates": [
+  "1879-08-11"
+ ],
+ "printed": {
+  "headers": [
+   "Monday, August 11, 1879."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1879-08-11",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "I row almost every",
+    "day — either to Loyds",
+    "neck or round Centre",
+    "Island. If any of",
+    "the boys stay up I",
+    "generally play lawn",
+    "tennis with them.",
+    "I often take Motherling",
+    "out walking, or ~~one~~",
+    "Bysie or Pussie out",
+    "rowing. I am teaching",
+    "pretty Miss Emily",
+    "Swan to play",
+    "lawn tennis."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  }
+ ],
+ "marks": [
+  {
+   "kind": "archival-page-number",
+   "value": "148",
+   "position": "top",
+   "note": null
+  },
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from reverse of leaf; ignored"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Motherling",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Bysie",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Pussie",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Miss Emily Swan",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   "Loyds neck",
+   "Centre Island"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

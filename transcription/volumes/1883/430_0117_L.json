@@ -1,0 +1,82 @@
+{
+ "frame": "430_0117",
+ "half": "L",
+ "volume": "1883",
+ "page_type": "diary-day",
+ "dates": [
+  "1883-01-10"
+ ],
+ "printed": {
+  "headers": [
+   "JANUARY 10 Wednesday"
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1883-01-10",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Had another fight with",
+    "the stalwarts in the caucus",
+    "to nominate a regent,",
+    "and beat them again;",
+    "my nominee, Matthew",
+    "Hale, receiving the some-",
+    "what empty honor.",
+    "On the floor of the house",
+    "I opened the session by",
+    "a brush with Murphy",
+    "& \"Tim\" Campbell, and",
+    "got the better of these",
+    "\"renowned leaders.\""
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": "Show-through heavy; closing quote of last line uncertain."
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored Jan 9 heading and writing (\"Hunt, O'Neil, Howe and myself...\") in lower half"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Matthew Hale",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Murphy",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "\"Tim\" Campbell",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "medium",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

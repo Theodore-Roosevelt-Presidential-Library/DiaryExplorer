@@ -1,0 +1,70 @@
+{
+ "frame": "429_1013",
+ "half": "L",
+ "volume": "1880",
+ "page_type": "diary-day",
+ "dates": [
+  "1880-12-25"
+ ],
+ "printed": {
+  "headers": [
+   "December, Saturday 25. 1880."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1880-12-25",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Xmas. In the morning",
+    "I saw all the little",
+    "Lees receive their presents;",
+    "then we went coasting;",
+    "all the Saltonstalls came",
+    "over to dinner."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "faint mirrored writing from reverse of leaf, ignored"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Lees",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Saltonstalls",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

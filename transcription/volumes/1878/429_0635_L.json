@@ -1,0 +1,73 @@
+{
+ "frame": "429_0635",
+ "half": "L",
+ "volume": "1878",
+ "page_type": "diary-day",
+ "dates": [
+  "1878-10-23"
+ ],
+ "printed": {
+  "headers": [
+   "October, Wednesday 23. 1878."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1878-10-23",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "I am very much",
+    "interested in the",
+    "Political Economy,",
+    "although I by no",
+    "means altogether",
+    "agree with Mill.",
+    "I am getting",
+    "rather disgusted",
+    "with Ferrier's Philosop[?]"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": "last word runs into the gutter/page edge; ending not visible"
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from reverse of leaf"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Mill",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Ferrier",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "medium",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

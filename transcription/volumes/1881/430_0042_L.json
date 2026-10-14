@@ -1,0 +1,102 @@
+{
+ "frame": "430_0042",
+ "half": "L",
+ "volume": "1881",
+ "page_type": "diary-day",
+ "dates": [
+  "1881-07-09",
+  "1881-07-10",
+  "1881-07-11"
+ ],
+ "printed": {
+  "headers": [
+   "July, Saturday 9. 1881.",
+   "Sunday 10.",
+   "Monday 11."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1881-07-09",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Drove down through",
+    "the beautiful Inn-Thal,",
+    "with alternate rain and",
+    "sunshine. Are staying",
+    "at Imst, at a regular",
+    "old gutyrollese[?] Gasthaus."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": "'gutyrollese' possibly 'gut tyrollese'"
+  },
+  {
+   "id": "b2",
+   "date": "1881-07-10",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Came on through the",
+    "beautiful valley of the",
+    "Inn to Innsbruck."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "b3",
+   "date": "1881-07-11",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Came on to Munich,",
+    "after having seen the",
+    "sights of Innsbruck."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from reverse of leaf; ignored"
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [
+   "Inn-Thal",
+   "Imst",
+   "Innsbruck",
+   "Munich"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "medium",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

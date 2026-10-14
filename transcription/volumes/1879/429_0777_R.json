@@ -1,0 +1,73 @@
+{
+ "frame": "429_0777",
+ "half": "R",
+ "volume": "1879",
+ "page_type": "diary-day",
+ "dates": [
+  "1879-09-28"
+ ],
+ "printed": {
+  "headers": [
+   "Sunday, September 28, 1879."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1879-09-28",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "I am having a",
+    "lovely time. Dear",
+    "Mr and Mrs Saltonstall",
+    "are just too sweet for",
+    "anything, and the",
+    "girls are as lovely",
+    "as ever,",
+    "In the afternoon",
+    "took Rose out walking."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from reverse of leaf ignored"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Mr and Mrs Saltonstall",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Rose",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

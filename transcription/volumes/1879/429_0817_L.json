@@ -1,0 +1,104 @@
+{
+ "frame": "429_0817",
+ "half": "L",
+ "volume": "1879",
+ "page_type": "diary-day",
+ "dates": [
+  "1879-12-22"
+ ],
+ "printed": {
+  "headers": [
+   "Monday, December 22, 1879."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1879-12-22",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "In the evening Ike",
+    "Iselin gave me a",
+    "dinner; there were present",
+    "(besides Nell) Harold Hadden,",
+    "Doug Robinson, Bob",
+    "Sedgwick, Sydney Stratton",
+    "and Archie Russell",
+    "—all very good fellows,",
+    "We had capital fun."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  }
+ ],
+ "marks": [
+  {
+   "kind": "archival-page-number",
+   "value": "560[?]",
+   "position": "top",
+   "note": "pencil folio number, partly obscured by header rule"
+  },
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from reverse of leaf; ignored"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Ike Iselin",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Nell",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Harold Hadden",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Doug Robinson",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Bob Sedgwick",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Sydney Stratton",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Archie Russell",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

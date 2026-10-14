@@ -1,0 +1,80 @@
+{
+ "frame": "429_0783",
+ "half": "L",
+ "volume": "1879",
+ "page_type": "diary-day",
+ "dates": [
+  "1879-10-09"
+ ],
+ "printed": {
+  "headers": [
+   "Thursday, October 9, 1879."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1879-10-09",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Drove over with",
+    "Dick, to call at",
+    "Chestnut Hill, but",
+    "only stayed a very",
+    "short time, as I",
+    "had to get back",
+    "to go to the theatre",
+    "with Harry Shaw."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": "heavy mirrored show-through interleaved with the lines"
+  }
+ ],
+ "marks": [
+  {
+   "kind": "archival-page-number",
+   "value": "199[?]",
+   "position": "top",
+   "note": "pencil numeral at top corner, later mark"
+  },
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from reverse of leaf ignored"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Dick",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Harry Shaw",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   "Chestnut Hill"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "medium",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

@@ -1,0 +1,102 @@
+{
+ "frame": "430_0044",
+ "half": "R",
+ "volume": "1881",
+ "page_type": "diary-day",
+ "dates": [
+  "1881-07-24",
+  "1881-07-25",
+  "1881-07-26"
+ ],
+ "printed": {
+  "headers": [
+   "July, Sunday 24. 1881.",
+   "Monday 25.",
+   "Tuesday 26."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1881-07-24",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "At 8.15 a.m. left for the",
+    "Jungfrau, with the guides",
+    "Peter Egger and Hans",
+    "Baumann - both excellent;",
+    "Reached the Bergli Hütte",
+    "at 4.45, and there spent night."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "b2",
+   "date": "1881-07-25",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Started off at 3.15; very",
+    "windy and somewhat",
+    "cloudy. Over the Mönchjoch,",
+    "Jungfraufirn and Roththal sattel",
+    "to the top at 8.55. Great",
+    "fun coming down. Grindel-",
+    "wald at 6.p.m. Rather tired"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": "'Roththal sattel' reading uncertain"
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from reverse of leaf; ignored"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Peter Egger",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Hans Baumann",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   "Jungfrau",
+   "Bergli Hütte",
+   "Mönchjoch",
+   "Jungfraufirn",
+   "Roththal",
+   "Grindelwald"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "medium",
+ "transcriber_notes": "Tuesday 26 blank (show-through only).",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

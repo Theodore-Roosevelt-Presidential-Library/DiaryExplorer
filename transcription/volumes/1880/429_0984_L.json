@@ -1,0 +1,95 @@
+{
+ "frame": "429_0984",
+ "half": "L",
+ "volume": "1880",
+ "page_type": "diary-day",
+ "dates": [
+  "1880-10-24"
+ ],
+ "printed": {
+  "headers": [
+   "October, Sunday 24. 1880."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1880-10-24",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Cottie and I walked into",
+    "Salem to church; then",
+    "I went in to see sweet,",
+    "old \"Grandma Lee\". We",
+    "took tea at ~~[illegible]~~",
+    "Fanny Peabodys; she was",
+    "just as pretty and",
+    "cunning as ever.",
+    "Franks fiançée is",
+    "also visiting here; she is",
+    "Miss Rosamund Laurence,",
+    "a strikingly handsome",
+    "and exceedingly well",
+    "cultivated girl."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": "struck word at end of line 5 illegible"
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "faint mirrored writing from reverse"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Cottie",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Grandma Lee",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Fanny Peabody",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Frank",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Rosamund Laurence",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   "Salem"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "medium",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

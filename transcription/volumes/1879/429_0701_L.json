@@ -1,0 +1,74 @@
+{
+ "frame": "429_0701",
+ "half": "L",
+ "volume": "1879",
+ "page_type": "diary-day",
+ "dates": [
+  "1879-03-13"
+ ],
+ "printed": {
+  "headers": [
+   "Thursday, March 13, 1879."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1879-03-13",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "We broke camp pretty early",
+    "and reached Island",
+    "Falls in time for dinner.",
+    "The day was clear, calm",
+    "and cool, but not",
+    "cold, and I enjoyed",
+    "the walk extremely. We",
+    "came home the entire",
+    "distance over the lake",
+    "and river, only needing",
+    "our snow shoes about",
+    "half the time. We saw no",
+    "living thing, but amused",
+    "ourselves by practising",
+    "at long ranges (300-500",
+    "yards) with the rifle,",
+    "and all ^three^ of us made",
+    "~~some~~ very good shots with",
+    "the \"old reliable\" (Sharp's business[?] - .45[?]"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": "'some' struck; 'three' inserted above. Last line runs past the ruled frame into the margin; closing reading uncertain."
+  }
+ ],
+ "marks": [
+  {
+   "kind": "archival-page-number",
+   "value": "45",
+   "position": "left-margin",
+   "note": "pencil, top left"
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [
+   "Island Falls"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "medium",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

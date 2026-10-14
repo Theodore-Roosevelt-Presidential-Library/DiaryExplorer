@@ -1,0 +1,69 @@
+{
+ "frame": "430_0123",
+ "half": "L",
+ "volume": "1883",
+ "page_type": "diary-day",
+ "dates": [
+  "1883-08-26"
+ ],
+ "printed": {
+  "headers": [
+   "AUGUST 26 Sunday"
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1883-08-26",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Spent the morning travelling",
+    "down a creek through the",
+    "Powder River Bad Lands;",
+    "soon after lunch struck",
+    "the Powder, and went on",
+    "till dusk through great",
+    "sage brush bottoms; made",
+    "a dry camp; poor food",
+    "for ponies; no sign of",
+    "game. There are quite",
+    "a number of cattle",
+    "ranches along this river."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "1884 entry."
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "faint mirrored writing in lower half (from Aug 25 page)"
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [
+   "Powder River",
+   "Bad Lands",
+   "Powder"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "Printed 1883 heading reused in 1884.",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

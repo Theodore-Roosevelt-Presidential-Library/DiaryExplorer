@@ -1,0 +1,85 @@
+{
+ "frame": "429_0863",
+ "half": "R",
+ "volume": "1880",
+ "page_type": "diary-day",
+ "dates": [
+  "1880-02-18"
+ ],
+ "printed": {
+  "headers": [
+   "February, Wednesday 18. 1880."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1880-02-18",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Drove Nell over to the Saltonstalls",
+    "to lunch; all my family came",
+    "out; my own sweet love",
+    "looked oh so pretty; I spent",
+    "the ^afternoon^ ~~evening~~ with her; we",
+    "dined at the Lees, driving",
+    "home at 10, and spending",
+    "several hours in the Porc.",
+    "Alice has received 42 bouquets."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "Line 5: 'evening' struck, 'afternoon' written above. '42' is underlined."
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "faint mirrored writing from reverse"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Nell",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Saltonstalls",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Lees",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Alice",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   "Porc."
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

@@ -1,0 +1,99 @@
+{
+ "frame": "429_0593",
+ "half": "L",
+ "volume": "1878",
+ "page_type": "diary-day",
+ "dates": [
+  "1878-08-12"
+ ],
+ "printed": {
+  "headers": [
+   "August, Monday 12. 1878."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1878-08-12",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Jack & I rowed to Plum",
+    "Point, paddled up the",
+    "marsh on this side of",
+    "it, portaged (for 200 yds",
+    "over awful ground, with",
+    "clouds of mosquitoes)",
+    "into the great marsh",
+    "on the north side of",
+    "Centre Island, shot through",
+    "it, rowed to the neck,",
+    "lunched, shot through",
+    "the pine woods &",
+    "sailed home.",
+    "Edith C. has written",
+    "me a very sweet little",
+    "note of thanks for",
+    "the bonbonierre[?]."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": "Spelling of the last word uncertain."
+  },
+  {
+   "id": "b2",
+   "date": "1878-08-12",
+   "kind": "tally",
+   "position": "bottom",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "1 sand snipe."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "faint mirrored writing from reverse"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Jack",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Edith C.",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   "Plum Point",
+   "Centre Island"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "medium",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

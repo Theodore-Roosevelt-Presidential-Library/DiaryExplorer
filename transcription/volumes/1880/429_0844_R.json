@@ -1,0 +1,70 @@
+{
+ "frame": "429_0844",
+ "half": "R",
+ "volume": "1880",
+ "page_type": "diary-day",
+ "dates": [
+  "1880-01-11"
+ ],
+ "printed": {
+  "headers": [
+   "January, Sunday 11. 1880."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1880-01-11",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "I was requested to resign my",
+    "Sunday School Class, as I am",
+    "a Presbyterian and would",
+    "not become an Episcopalian!",
+    "As I have taught there 3½",
+    "years I thought this rather",
+    "hard.",
+    "Breakfasted in the Club,",
+    "as usual. In the afternoon",
+    "I drove over to the Saltonstalls;",
+    "took Mamie out in the",
+    "cart; stayed to tea and",
+    "spent the evening there."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  }
+ ],
+ "marks": [],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Saltonstalls",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Mamie",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

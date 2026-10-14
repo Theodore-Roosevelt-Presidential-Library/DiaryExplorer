@@ -1,0 +1,69 @@
+{
+ "frame": "430_0054",
+ "half": "R",
+ "volume": "1881",
+ "page_type": "diary-day",
+ "dates": [
+  "1881-09-22",
+  "1881-09-23",
+  "1881-09-24"
+ ],
+ "printed": {
+  "headers": [
+   "September, Thursday 22. 1881.",
+   "Friday 23.",
+   "Saturday 24."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1881-09-22",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Sailed in the",
+    "Britannic.",
+    "Bob Grant aboard",
+    "very pleasant"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from reverse of leaf; ignored"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Bob Grant",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   "Britannic"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "Friday 23 and Saturday 24 blank (show-through only).",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

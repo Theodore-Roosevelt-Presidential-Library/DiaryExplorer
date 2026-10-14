@@ -1,0 +1,71 @@
+{
+ "frame": "429_0572",
+ "half": "R",
+ "volume": "1878",
+ "page_type": "diary-day",
+ "dates": [
+  "1878-07-02"
+ ],
+ "printed": {
+  "headers": [
+   "July, Tuesday 2. 1878."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1878-07-02",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Tried the rifle; 71",
+    "out of 100.",
+    "Went in town",
+    "in the afternoon",
+    "to see off Annie",
+    "Murray, who sails",
+    "for Europe tomorrow.",
+    "Paid her a very",
+    "pleasant visit",
+    "in the evening"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "Score '71' slightly uncertain."
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "faint mirrored writing from reverse of leaf; ignored"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Annie Murray",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   "Europe"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

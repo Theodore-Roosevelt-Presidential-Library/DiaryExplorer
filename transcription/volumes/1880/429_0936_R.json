@@ -1,0 +1,81 @@
+{
+ "frame": "429_0936",
+ "half": "R",
+ "volume": "1880",
+ "page_type": "diary-day",
+ "dates": [
+  "1880-07-191880"
+ ],
+ "printed": {
+  "headers": [
+   "JULY, MONDAY 19. 1880."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1880-07-191880",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "As yesterday, I spent",
+    "most of the day with",
+    "my Queen; for about",
+    "three hours I took",
+    "Georgie, Cottie[?] and",
+    "Bella on a",
+    "blackberry picnic."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": "'Cottie' uncertain; a stray mark after 'and'"
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from reverse of leaf ignored"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "my Queen",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Georgie",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Cottie",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Bella",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "medium",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

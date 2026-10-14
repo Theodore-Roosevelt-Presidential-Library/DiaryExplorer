@@ -1,0 +1,64 @@
+{
+ "frame": "430_0088",
+ "half": "L",
+ "volume": "1882",
+ "page_type": "diary-day",
+ "dates": [
+  "1882-01-02"
+ ],
+ "printed": {
+  "headers": [
+   "JANUARY 2 Monday"
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1882-01-02",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Went up to Albany",
+    "to begin my duties",
+    "in the legislature.",
+    "Attended the",
+    "Republican Caucus,",
+    "at which \"Old salt\"",
+    "Alvord was nomin-",
+    "ated for speaker;",
+    "I voted against",
+    "him."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  }
+ ],
+ "marks": [],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Alvord",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   "Albany"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "refilm of 430_0087 (left page, Jan 2)",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

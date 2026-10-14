@@ -1,0 +1,34 @@
+{
+ "frame": "429_0672",
+ "half": "L",
+ "volume": "1879",
+ "page_type": "endpaper",
+ "dates": [],
+ "printed": {
+  "headers": [],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [],
+ "marks": [
+  {
+   "kind": "ink-blot",
+   "value": null,
+   "position": "top",
+   "note": "small specks"
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": false,
+ "confidence": "high",
+ "transcriber_notes": "Blank inside cover/endpaper.",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

@@ -1,0 +1,79 @@
+{
+ "frame": "429_0871",
+ "half": "L",
+ "volume": "1880",
+ "page_type": "diary-day",
+ "dates": [
+  "1880-03-04"
+ ],
+ "printed": {
+  "headers": [
+   "March, Thursday 4. 1880."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1880-03-04",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Drove DeKoven[?] in my",
+    "cart to a very pleasant",
+    "dinner at the Lees. Sat",
+    "between Mrs Jack Peabody",
+    "and Fanny Peabody."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "name 'DeKoven' uncertain"
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "faint mirrored writing from reverse"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "DeKoven",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Lees",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Mrs Jack Peabody",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Fanny Peabody",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

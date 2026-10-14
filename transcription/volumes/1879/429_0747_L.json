@@ -1,0 +1,86 @@
+{
+ "frame": "429_0747",
+ "half": "L",
+ "volume": "1879",
+ "page_type": "diary-day",
+ "dates": [
+  "1879-07-21"
+ ],
+ "printed": {
+  "headers": [
+   "Monday, July 21, 1879."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1879-07-21",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "In the morning we",
+    "sailed round to the",
+    "Chapins house where we",
+    "took dinner; in the",
+    "afternoon started back,",
+    "against a strong",
+    "S. W. wind; at sunset",
+    "we put into Saybrook",
+    "harbour. Saw a shark",
+    "(5[?] or [illegible]) and a good",
+    "many porpoises - all",
+    "serving as targets",
+    "for our revolvers."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": "Line 10 obscured by an ink blot and show-through."
+  }
+ ],
+ "marks": [
+  {
+   "kind": "archival-page-number",
+   "value": "139",
+   "position": "left-margin",
+   "note": "pencil, upper left"
+  },
+  {
+   "kind": "ink-blot",
+   "value": null,
+   "position": "body",
+   "note": "line 10"
+  },
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "lower third mirrored text"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Chapins",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   "Saybrook harbour"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "medium",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

@@ -1,0 +1,75 @@
+{
+ "frame": "429_0900",
+ "half": "R",
+ "volume": "1880",
+ "page_type": "diary-day",
+ "dates": [
+  "1880-05-02"
+ ],
+ "printed": {
+  "headers": [
+   "May, Sunday 2. 1880."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1880-05-02",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Went to the dear little",
+    "church in the morning; took",
+    "Alice out driving in the",
+    "afternoon. Chestnut Hill",
+    "is an absolutely ideal place;",
+    "and the Lee's house is",
+    "awfully pleasant to stay at;",
+    "they are all too sweet to me",
+    "for anything."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "'stay at' written nearly joined"
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "faint mirrored writing from reverse"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Alice",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "the Lee's",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   "Chestnut Hill"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

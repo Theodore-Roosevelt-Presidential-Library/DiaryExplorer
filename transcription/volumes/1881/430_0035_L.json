@@ -1,0 +1,79 @@
+{
+ "frame": "430_0035",
+ "half": "L",
+ "volume": "1881",
+ "page_type": "diary-day",
+ "dates": [
+  "1881-05-28",
+  "1881-05-29",
+  "1881-05-30"
+ ],
+ "printed": {
+  "headers": [
+   "May, Saturday 28. 1881.",
+   "Sunday 29.",
+   "Monday 30."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1881-05-29",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Spent the afternoon",
+    "with Uncle Irvine",
+    "& Aunt Ella; they",
+    "have a most",
+    "lovely little house"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "very heavy, blotted ink"
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "heavy mirrored writing from reverse of leaf; ignored"
+  },
+  {
+   "kind": "ink-blot",
+   "value": null,
+   "position": "bottom",
+   "note": "dark bleed-through patches in Monday 30 space"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Uncle Irvine",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Aunt Ella",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "Saturday 28 shows only show-through. Monday 30 has dark ink patches that appear to be bleed-through of the heavy ink on the reverse (Friday 27 'Boat to Holyhead'), not writing on this page; uncertain.",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

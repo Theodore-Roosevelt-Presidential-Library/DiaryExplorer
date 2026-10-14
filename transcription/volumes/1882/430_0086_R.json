@@ -1,0 +1,104 @@
+{
+ "frame": "430_0086",
+ "half": "R",
+ "volume": "1882",
+ "page_type": "diary-day",
+ "dates": [
+  "1882-01-01"
+ ],
+ "printed": {
+  "headers": [
+   "JANUARY 1 Sunday"
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1882-01-01",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "New York. Alice is at",
+    "Montreal with the",
+    "girls on their great party;",
+    "so I am keeping",
+    "house with Mother, while",
+    "we [illegible] it alone[?].",
+    "Aunt Annie and",
+    "Uncle Jimmie[?], Aunt",
+    "Ella and Uncle",
+    "[illegible], Aunt Susie[?]",
+    "& Uncle Hill, took",
+    "tea with us."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "low",
+   "note": "Heavy show-through from Jan 2 overlies lines 2-10; line 6 and names in lines 7 and 9-10 uncertain."
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from reverse (Jan 2) across upper half"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Alice",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Mother",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Aunt Annie",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Uncle Jimmie[?]",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Aunt Ella",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Aunt Susie[?]",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Uncle Hill",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   "New York",
+   "Montreal"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "medium",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

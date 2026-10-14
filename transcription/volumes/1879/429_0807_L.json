@@ -1,0 +1,82 @@
+{
+ "frame": "429_0807",
+ "half": "L",
+ "volume": "1879",
+ "page_type": "diary-day",
+ "dates": [
+  "1879-12-02"
+ ],
+ "printed": {
+  "headers": [
+   "Tuesday, December 2, 1879."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1879-12-02",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Went to a party at the",
+    "Wares[?]; it was Alice's and",
+    "Rose's coming out party",
+    "and I was much amused",
+    "at seeing all the buds.",
+    "I am going out into",
+    "society this winter."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": "surname on line 2 uncertain"
+  }
+ ],
+ "marks": [
+  {
+   "kind": "archival-page-number",
+   "value": "343",
+   "position": "top",
+   "note": "pencil"
+  },
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from reverse of leaf; ignored"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Wares[?]",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Alice",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Rose",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "medium",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

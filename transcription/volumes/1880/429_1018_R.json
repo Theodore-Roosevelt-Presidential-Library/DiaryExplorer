@@ -1,0 +1,170 @@
+{
+ "frame": "429_1018",
+ "half": "R",
+ "volume": "1880",
+ "page_type": "cash-account",
+ "dates": [],
+ "printed": {
+  "headers": [],
+  "title": "Cash Account—January.",
+  "description": "Printed column heads 'Date.', 'Received.', 'Paid.'; title struck through by TR"
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": null,
+   "kind": "heading",
+   "position": "over-printed-title",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Expenditures",
+    "1879 1880"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "printed title 'Cash Account—January.' struck through; ink blot before 1879"
+  },
+  {
+   "id": "b2",
+   "date": null,
+   "kind": "table",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Dolls. Cts Dolls Cts",
+    "685.80 761.59",
+    "367.50 293.15",
+    "288.00 171.50",
+    "930.79 449.78",
+    "320.80 350.48",
+    "50.00 60.00",
+    "1050.22 3889.80",
+    "224.00 235.55",
+    "21.96 19.38",
+    "343.23 558.07",
+    "15.00 .45",
+    "401.00 545.92",
+    "85.84 231.00",
+    "319.50 293.20",
+    "102.95 132.73",
+    "5206.59 7992.50"
+   ],
+   "rows": [
+    [
+     "Dress",
+     "685.80",
+     "761.59"
+    ],
+    [
+     "Room",
+     "367.50",
+     "293.15"
+    ],
+    [
+     "Board",
+     "288.00",
+     "171.50"
+    ],
+    [
+     "Stable",
+     "930.79",
+     "449.78"
+    ],
+    [
+     "Education",
+     "320.80",
+     "350.48"
+    ],
+    [
+     "Washing",
+     "50.00",
+     "60.00"
+    ],
+    [
+     "Presents",
+     "1050.22",
+     "3889.80"
+    ],
+    [
+     "Charity",
+     "224.00",
+     "235.55"
+    ],
+    [
+     "Coal &c",
+     "21.96",
+     "19.38"
+    ],
+    [
+     "Travelling",
+     "343.23",
+     "558.07"
+    ],
+    [
+     "Science",
+     "15.00",
+     ".45"
+    ],
+    [
+     "Club Dues & subscriptions",
+     "401.00",
+     "545.92"
+    ],
+    [
+     "Sporting",
+     "85.84",
+     "231.00"
+    ],
+    [
+     "Amusements",
+     "319.50",
+     "293.20"
+    ],
+    [
+     "Sundries",
+     "102.95",
+     "132.73"
+    ],
+    [
+     "(total)",
+     "5206.59",
+     "7992.50"
+    ]
+   ],
+   "columns": [
+    "Category (from facing page 429_1018_L, not written here)",
+    "1879",
+    "1880"
+   ],
+   "confidence": "medium",
+   "note": "Rows align with the category labels on the facing page. 1879 column sums exactly to 5206.59; 1880 column as read sums to 7992.60, 0.10 more than the written total 7992.50 — one 1880 cents figure may be misread (or TR's arithmetic). 1880 'Science' entry is '.45' only."
+  }
+ ],
+ "marks": [
+  {
+   "kind": "ink-blot",
+   "value": null,
+   "position": "left-margin",
+   "note": "blot before 1879"
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [],
+  "dates": [
+   "1879",
+   "1880"
+  ]
+ },
+ "has_tr_writing": true,
+ "confidence": "medium",
+ "transcriber_notes": "1880 column sum discrepancy of $0.10 vs written total; see block note.",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

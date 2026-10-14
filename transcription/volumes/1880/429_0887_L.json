@@ -1,0 +1,92 @@
+{
+ "frame": "429_0887",
+ "half": "L",
+ "volume": "1880",
+ "page_type": "diary-day",
+ "dates": [
+  "1880-04-05"
+ ],
+ "printed": {
+  "headers": [
+   "April, Monday 5. 1880."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1880-04-05",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Drove my pretty love in",
+    "town. I love to have sweet",
+    "Birdie perched up beside me",
+    "in the cart; she is so sweet",
+    "and pretty. Made several",
+    "calls; one on Fanny Peabody,",
+    "whom I like more than",
+    "any ~~Bo~~Boston girls, except",
+    "Rose and Rosey.",
+    "Papanti Party in evening;",
+    "I danced with Rose S."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": "'Boston' appears written over a false start; 'in' at end of line 1 partly obscured"
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "faint mirrored writing from reverse"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Birdie",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Fanny Peabody",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Rose",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Rosey",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Rose S.",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   "Boston"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

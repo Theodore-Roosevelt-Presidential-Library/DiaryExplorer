@@ -1,0 +1,228 @@
+{
+ "frame": "429_1021",
+ "half": "L",
+ "volume": "1880",
+ "page_type": "other",
+ "dates": [],
+ "printed": {
+  "headers": [],
+  "title": "Cash Account—August.",
+  "description": "Printed cash-account ruling with column heads 'Date.', 'Received.', 'Paid.' reused for game tally"
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": null,
+   "kind": "table",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Total 73 74 75",
+    "Goose 1",
+    "Mallard 4",
+    "Black Duck 6",
+    "Widgeon 1",
+    "Sprigtail Duck. 1",
+    "Green Wing Teal 1",
+    "Blue \" \" 2",
+    "Wood Duck 6",
+    "Redhead \" 2",
+    "Blue-Bill 2",
+    "Dipper 4",
+    "Old-squaw 6 2",
+    "Ruddy Duck 1",
+    "Surf Duck 5 1",
+    "Whitewing Scoter 6 3",
+    "Sheldrake 6",
+    "Hooded Merganser 1",
+    "Loon 4 2",
+    "Grebe 4",
+    "707 195 17 26",
+    "54 (bracketed against Mallard through Hooded Merganser)"
+   ],
+   "rows": [
+    [
+     "Goose",
+     "1",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Mallard",
+     "4",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Black Duck",
+     "6",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Widgeon",
+     "1",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Sprigtail Duck.",
+     "1",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Green Wing Teal",
+     "1",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Blue \" \"",
+     "2",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Wood Duck",
+     "6",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Redhead \"",
+     "2",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Blue-Bill",
+     "2",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Dipper",
+     "4",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Old-squaw",
+     "6",
+     "",
+     "2",
+     ""
+    ],
+    [
+     "Ruddy Duck",
+     "1",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Surf Duck",
+     "5",
+     "",
+     "",
+     "1"
+    ],
+    [
+     "Whitewing Scoter",
+     "6",
+     "",
+     "",
+     "3"
+    ],
+    [
+     "Sheldrake",
+     "6",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Hooded Merganser",
+     "1",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Loon",
+     "4",
+     "",
+     "",
+     "2"
+    ],
+    [
+     "Grebe",
+     "4",
+     "",
+     "",
+     ""
+    ],
+    [
+     "(totals)",
+     "707",
+     "195",
+     "17",
+     "26"
+    ]
+   ],
+   "columns": [
+    "Game",
+    "Total",
+    "73",
+    "74",
+    "75"
+   ],
+   "confidence": "high",
+   "note": "Final page of the game tally (begun 429_1019_L), on printed 'Cash Account—August.' page (title not struck). Continues across spread on 429_1021_R ('76–'80). Rule drawn under Grebe; grand totals 707 (all game, all pages) and column totals 195, 17, 26. Brace total 54 checks. Small marks/ticks in the far left margin beside several rows (e.g. Black Duck, Sprigtail, Blue, Dipper, Oldsquaw, Surf Duck) not transcribed as text. Ditto marks as written; 'Old-squaw' hyphen reading medium."
+  }
+ ],
+ "marks": [
+  {
+   "kind": "other",
+   "value": null,
+   "position": "left-margin",
+   "note": "small tick/check marks beside several rows"
+  },
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "faint ghost ignored"
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [],
+  "dates": [
+   "73",
+   "74",
+   "75"
+  ]
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

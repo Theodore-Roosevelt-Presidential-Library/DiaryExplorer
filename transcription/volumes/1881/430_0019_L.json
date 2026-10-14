@@ -1,0 +1,126 @@
+{
+ "frame": "430_0019",
+ "half": "L",
+ "volume": "1881",
+ "page_type": "diary-day",
+ "dates": [
+  "1881-02-21",
+  "1881-02-22",
+  "1881-02-23"
+ ],
+ "printed": {
+  "headers": [
+   "February, Monday 21. 1881.",
+   "Tuesday 22.",
+   "Wednesday 23."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1881-02-21",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Very pleasant little",
+    "\"Niagara Party\"",
+    "at the Betts; tableaux,",
+    "waxworks, Virginia Reel, Polka",
+    "Redowa, Highland Schottische."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": "Large ink blot left of lines 2-3 (between \"the\" and \"Betts\"); writing appears to go around it, no words seem lost."
+  },
+  {
+   "id": "b2",
+   "date": "1881-02-22",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Alice ([illegible]!!) matronized",
+    "a little party out to",
+    "Keans place to spend the",
+    "night."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": "Parenthetical before \"!!\" unclear; possibly \"æt 19\" but not certain."
+  },
+  {
+   "id": "b3",
+   "date": "1881-02-23",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Came back to N. Y. Took",
+    "Missy Robinson out",
+    "driving."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  }
+ ],
+ "marks": [
+  {
+   "kind": "ink-blot",
+   "value": null,
+   "position": "body",
+   "note": "Large blot in Monday 21 entry."
+  },
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": null
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Betts",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Alice",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Keans",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Missy Robinson",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   "N. Y."
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "medium",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

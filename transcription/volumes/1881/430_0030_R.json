@@ -1,0 +1,87 @@
+{
+ "frame": "430_0030",
+ "half": "R",
+ "volume": "1881",
+ "page_type": "diary-day",
+ "dates": [
+  "1881-05-01",
+  "1881-05-02",
+  "1881-05-03"
+ ],
+ "printed": {
+  "headers": [
+   "May, Sunday 1. 1881.",
+   "Monday 2.",
+   "Tuesday 3."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1881-05-01",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Rosy Lee is staying",
+    "with us."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "b2",
+   "date": "1881-05-02",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Besides working",
+    "pretty well at the",
+    "law, I spend most of",
+    "my spare time in the",
+    "Astor Library, on my",
+    "\"Naval History\"."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "faint mirrored writing from reverse of leaf; ignored"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Rosy Lee",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   "Astor Library"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "Tuesday 3 shows only show-through.",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

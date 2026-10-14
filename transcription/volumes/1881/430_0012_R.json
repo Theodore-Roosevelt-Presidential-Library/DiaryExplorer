@@ -1,0 +1,169 @@
+{
+ "frame": "430_0012",
+ "half": "R",
+ "volume": "1881",
+ "page_type": "diary-day",
+ "dates": [
+  "1881-01-13",
+  "1881-01-14",
+  "1881-01-15"
+ ],
+ "printed": {
+  "headers": [
+   "January, Thursday 13. 1881.",
+   "Friday 14.",
+   "Saturday 15."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1881-01-13",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Great ball at Astors,"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "b2",
+   "date": "1881-01-14",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "15 of us started in special",
+    "car for Niagara; Robinson,",
+    "Bells[?], Beekman, Whitmore, Emlen,",
+    "Colgate, Weir[?] & myself; Alice,",
+    "Corinne, Bamie, the Miss",
+    "Parishes, Turnbull & Robinson.",
+    "Greatest kind of fun."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": null
+  },
+  {
+   "id": "b3",
+   "date": "1881-01-15",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Ideal day; perpetual spree.",
+    "Saw falls, rapids, &",
+    "whirlpool; took long",
+    "sleighrides; ended up",
+    "with every kind of",
+    "dance in evening. Took",
+    "hotel by storm. Every body",
+    "so jolly & congenial."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "Last line at very bottom edge of page."
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": null
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Astors",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Robinson",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Bells[?]",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Beekman",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Whitmore",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Emlen",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Colgate",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Weir[?]",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Alice",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Corinne",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Bamie",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Miss Parishes",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Turnbull",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   "Niagara"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

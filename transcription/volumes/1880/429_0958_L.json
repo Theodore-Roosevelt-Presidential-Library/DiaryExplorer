@@ -1,0 +1,90 @@
+{
+ "frame": "429_0958",
+ "half": "L",
+ "volume": "1880",
+ "page_type": "diary-day",
+ "dates": [
+  "1880-08-31"
+ ],
+ "printed": {
+  "headers": [
+   "August, Tuesday 31. 1880."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1880-08-31",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Still waiting for Wilcox",
+    "Drove round Chicago, read,",
+    "played whist, went to",
+    "theatre, took a long walk,",
+    "a turkish bath &c; so",
+    "both passed the time",
+    "very pleasantly. Dear old",
+    "Nell and I always",
+    "enjoy ourselves when",
+    "together; but I keep getting",
+    "more and more homesick",
+    "for Alice; I think of her",
+    "all the time, and nothing",
+    "can compensate me for",
+    "being away from her."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "'both' has an overwritten letter."
+  }
+ ],
+ "marks": [
+  {
+   "kind": "ink-blot",
+   "value": null,
+   "position": "top",
+   "note": "small blots above and beside heading"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Wilcox",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Nell",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Alice",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   {
+    "as_written": "Chicago",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

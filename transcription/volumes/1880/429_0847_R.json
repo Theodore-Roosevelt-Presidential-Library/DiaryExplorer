@@ -1,0 +1,81 @@
+{
+ "frame": "429_0847",
+ "half": "R",
+ "volume": "1880",
+ "page_type": "diary-day",
+ "dates": [
+  "1880-01-17"
+ ],
+ "printed": {
+  "headers": [
+   "January, Saturday 17. 1880."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1880-01-17",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Went to a very pleasant little",
+    "lunch party given by Van",
+    "Rennsaeler[?] to the Miss.",
+    "Rathbones. In the afternoon",
+    "went to a reception at the",
+    "Minots; Grace Minot is a",
+    "marvellously pretty girl.",
+    "I am exercising pretty",
+    "regularly in the gymnasium",
+    "— single stick, vaulting,",
+    "sparring, and running",
+    "3 or 4 miles a day."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "'Miss.' written with long-s form (ſs). Van Rennsaeler spelling as it appears."
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "faint mirrored writing from reverse"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Van Rennsaeler",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Miss. Rathbones",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Grace Minot",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

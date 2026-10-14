@@ -1,0 +1,101 @@
+{
+ "frame": "430_0041",
+ "half": "L",
+ "volume": "1881",
+ "page_type": "diary-day",
+ "dates": [
+  "1881-07-03",
+  "1881-07-04",
+  "1881-07-05"
+ ],
+ "printed": {
+  "headers": [
+   "July, Sunday 3. 1881.",
+   "Monday 4.",
+   "Tuesday 5."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1881-07-04",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Again took to our carraige",
+    "& crossed the Bernina;",
+    "lunched at the Hospice[?]. the",
+    "snow drifts some feet deep.",
+    "Then to Le Prese on the lovely",
+    "Lago di Poschiavo, on which I",
+    "rowed Alice after dinner."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": null
+  },
+  {
+   "id": "b2",
+   "date": "1881-07-05",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Came up through the Valtellina",
+    "to the Baths of Bormio.",
+    "Very good accomodations.",
+    "Just heard of Gar-",
+    "fields assassination; fright-",
+    "ful calamity for America"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "initial of 'America' could be read lower-case"
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from reverse of leaf; ignored"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Alice",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Garfield",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   "Bernina",
+   "Le Prese",
+   "Lago di Poschiavo",
+   "Valtellina",
+   "Baths of Bormio"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "medium",
+ "transcriber_notes": "Sunday 3 blank (show-through only).",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

@@ -1,0 +1,40 @@
+{
+ "frame": "430_0002",
+ "half": "L",
+ "volume": "1881",
+ "page_type": "endpaper",
+ "dates": [],
+ "printed": {
+  "headers": [],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [],
+ "marks": [
+  {
+   "kind": "other",
+   "value": null,
+   "position": "body",
+   "note": "Small white loop/X mark near top, likely film or paper flaw."
+  },
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": null
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": false,
+ "confidence": "high",
+ "transcriber_notes": "Blank endpaper.",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

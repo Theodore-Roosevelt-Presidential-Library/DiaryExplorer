@@ -1,0 +1,92 @@
+{
+ "frame": "429_0793",
+ "half": "R",
+ "volume": "1879",
+ "page_type": "diary-day",
+ "dates": [
+  "1879-11-01"
+ ],
+ "printed": {
+  "headers": [
+   "Saturday, November 1, 1879."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1879-11-01",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "[illegible] Went out shooting,",
+    "spending the whole day",
+    "tramping about through the",
+    "woods and fields. Game was",
+    "plenty but I shot badly.",
+    "This week it has been superb,",
+    "clear, cool autumn weather; I",
+    "have enjoyed the shooting very",
+    "much; and the evenings too,",
+    "spent in the cosy parlor, by",
+    "the bright wood fire, reading,",
+    "or playing whist with darling",
+    "mother and the two sweet girls.",
+    "Dear old Nell came up this",
+    "evening & how I wish we could",
+    "be more together.",
+    "2 squirrel 3 rabbit 5 quail."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": "first word unclear (looks like 'Uken'/'Then'); tally at foot of page"
+  }
+ ],
+ "marks": [
+  {
+   "kind": "archival-page-number",
+   "value": "318",
+   "position": "top",
+   "note": "pencil"
+  },
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from reverse of leaf; ignored"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "mother",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "the two sweet girls",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Nell",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "medium",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

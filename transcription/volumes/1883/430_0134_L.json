@@ -1,0 +1,89 @@
+{
+ "frame": "430_0134",
+ "half": "L",
+ "volume": "1883",
+ "page_type": "diary-day",
+ "dates": [
+  "1883-09-17"
+ ],
+ "printed": {
+  "headers": [
+   "SEPTEMBER 17 Monday"
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1883-09-17",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "In morning brought in",
+    "the bears.",
+    "In afternoon M. &",
+    "I went out on foot",
+    "again with moccasins",
+    "as usual. We found",
+    "a big grizzly at",
+    "the carcass of the",
+    "bull elk; M. has not",
+    "yet got one solely[?]",
+    "to[?] his own gun,",
+    "so I made him",
+    "shoot it.",
+    "Shot four bluegrouse",
+    "for supper"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": "'solely' and following word blotted"
+  },
+  {
+   "id": "b2",
+   "date": "1883-09-17",
+   "kind": "tally",
+   "position": "bottom",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "4 blue grouse"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from reverse of leaf, ignored"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "M.",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "medium",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

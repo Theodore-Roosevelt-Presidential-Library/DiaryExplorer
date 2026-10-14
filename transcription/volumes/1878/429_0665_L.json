@@ -1,0 +1,83 @@
+{
+ "frame": "429_0665",
+ "half": "L",
+ "volume": "1878",
+ "page_type": "diary-day",
+ "dates": [
+  "1878-12-30"
+ ],
+ "printed": {
+  "headers": [
+   "December, Monday 30. 1878."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1878-12-30",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Snowy & windy. Jack & I",
+    "went out in the rowboat,",
+    "spending ½ an hour breaking",
+    "our way through the shore ice.",
+    "Sailed to Plum Pt, rowed to Pine",
+    "Island, where we lunched, & as",
+    "West Harbour was frozen solid,",
+    "put out again. There was",
+    "a heavy surf running & we were",
+    "swamped twice before we",
+    "succeeded in launching our",
+    "boat through the rollers, getting",
+    "soaked through & through with",
+    "the freezing water. Had the devils",
+    "own work ^rowing^ getting to Rocky Pt;",
+    "then hoisted our sail & went",
+    "like the wind. Plenty of ducks, but",
+    "water was too rough, & they too shy,",
+    "to come near them. Tired[?] & Rather[?]"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": "'rowing' written above 'getting' (getting not clearly struck); last line squeezed below ruling, final words uncertain"
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "faint mirrored writing from other side of leaf; ignored"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Jack",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   "Plum Pt",
+   "Pine Island",
+   "West Harbour",
+   "Rocky Pt"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "medium",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

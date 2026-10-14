@@ -1,0 +1,74 @@
+{
+ "frame": "429_0637",
+ "half": "R",
+ "volume": "1878",
+ "page_type": "diary-day",
+ "dates": [
+  "1878-10-28"
+ ],
+ "printed": {
+  "headers": [
+   "October, Monday 28. 1878."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1878-10-28",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "In the morning",
+    "rowed around",
+    "Centre Island. There",
+    "was a stiff Norther",
+    "blowing, and so heavy",
+    "a sea running in",
+    "the sound that the",
+    "curlers filled the",
+    "boat half full.",
+    "Sailed home from",
+    "Pine Island at a",
+    "tremendous speed.",
+    "In the afternoon",
+    "took a brisk",
+    "walk through the",
+    "woods with my",
+    "gun, but saw",
+    "nothing."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from reverse of leaf"
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [
+   "Centre Island",
+   "Pine Island"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

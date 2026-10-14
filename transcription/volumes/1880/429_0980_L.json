@@ -1,0 +1,44 @@
+{
+ "frame": "429_0980",
+ "half": "L",
+ "volume": "1880",
+ "page_type": "diary-day",
+ "dates": [
+  "1880-10-14"
+ ],
+ "printed": {
+  "headers": [
+   "October, Thursday 14. 1880."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "heavy mirrored show-through of the October 13 entry"
+  },
+  {
+   "kind": "ink-blot",
+   "value": null,
+   "position": "top",
+   "note": "small blot near first line"
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": false,
+ "confidence": "high",
+ "transcriber_notes": "Blank day; all visible writing is mirrored show-through.",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

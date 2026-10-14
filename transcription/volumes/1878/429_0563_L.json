@@ -1,0 +1,67 @@
+{
+ "frame": "429_0563",
+ "half": "L",
+ "volume": "1878",
+ "page_type": "diary-day",
+ "dates": [
+  "1878-06-13"
+ ],
+ "printed": {
+  "headers": [
+   "June, Thursday 13. 1878."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1878-06-13",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Rowed over to",
+    "Pine Island where",
+    "I shot Dendroica",
+    "pina[?]. Had my",
+    "first swim.",
+    "This is the",
+    "first summer",
+    "that all the",
+    "Roosevelt boys",
+    "(except myself)",
+    "have been in",
+    "business."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": "Species epithet reads like 'pina'; unclear."
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "faint mirrored writing from reverse of leaf; ignored"
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [
+   "Pine Island"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

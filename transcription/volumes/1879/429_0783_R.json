@@ -1,0 +1,82 @@
+{
+ "frame": "429_0783",
+ "half": "R",
+ "volume": "1879",
+ "page_type": "diary-day",
+ "dates": [
+  "1879-10-10"
+ ],
+ "printed": {
+  "headers": [
+   "Friday, October 10, 1879."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1879-10-10",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "I have my hands alto",
+    "gether too full of",
+    "society work, being",
+    "Librarian of the Porcellian,",
+    "Secretary of the Pudding,",
+    "Treasurer of the O.K.,",
+    "Vice-President of the Nat.",
+    "Hist Soc. & President of",
+    "the A.D.Φ; Editor of the Advocate.",
+    "The evenings I",
+    "generally spend in the",
+    "Club, playing whist",
+    "or billiards, often ending",
+    "off with a little",
+    "supper."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "'&' before 'President' slightly unclear; Greek letter phi in 'A.D.Φ'"
+  }
+ ],
+ "marks": [
+  {
+   "kind": "archival-page-number",
+   "value": "200[?]",
+   "position": "top",
+   "note": "pencil numeral at top corner, later mark"
+  },
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from reverse of leaf ignored"
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [
+   "Porcellian",
+   "Pudding",
+   "O.K.",
+   "Nat. Hist Soc.",
+   "A.D.Φ",
+   "Advocate",
+   "Club"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

@@ -1,0 +1,129 @@
+{
+ "frame": "429_0733",
+ "half": "R",
+ "volume": "1879",
+ "page_type": "diary-day",
+ "dates": [
+  "1879-06-20"
+ ],
+ "printed": {
+  "headers": [
+   "Friday, June 20, 1879."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1879-06-20",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Class day; I think I have never",
+    "passed such a pleasant day.",
+    "I was one of the Junior Class Ushers;",
+    "from 11 till 12.30 I ushered in Saunders[?];",
+    "then lunched in the Club; then till",
+    "4.30 I stayed at Van Renselaers[?] spread",
+    "in the new gymnasium, dancing with",
+    "twenty different girls from Boston &",
+    "New York - especially Maggie Wolf, Helen",
+    "White, Cornelia Bayliss[?], Susie[?] Wheelright,",
+    "Pauline Revere, ^Rose L.[?]^ &c. I then ~~usher[?]~~ ^ushered at the^ to",
+    "tree; went to the Pudding spread where I",
+    "was with Nana Rotch; I then took",
+    "Alice to the tea at Morgans, and afterwards",
+    "to the Lanes; at 8.00 she and I went to the",
+    "yard, and sat in a window in Hollis till",
+    "10. looking at the ^brilliantly lighted^ yard and listening to the Glee Club.",
+    "I never saw her looking more[?] in perfection.",
+    "We then went and danced at Memorial, and",
+    "at 11.30 she went home, and I spent",
+    "a couple of hours in the Club."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": "Interlinear insertions above lines 11 and 17; last line written below the ruled frame."
+  }
+ ],
+ "marks": [
+  {
+   "kind": "archival-page-number",
+   "value": "115",
+   "position": "top",
+   "note": "pencil, right of header"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Van Renselaers",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Maggie Wolf",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Helen White",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Cornelia Bayliss",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Susie Wheelright",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Pauline Revere",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Nana Rotch",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Alice",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Morgans",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Lanes",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   "Saunders",
+   "Hollis",
+   "Memorial"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "medium",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

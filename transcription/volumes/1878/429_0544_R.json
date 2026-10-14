@@ -1,0 +1,100 @@
+{
+ "frame": "429_0544",
+ "half": "R",
+ "volume": "1878",
+ "page_type": "diary-day",
+ "dates": [
+  "1878-05-11"
+ ],
+ "printed": {
+  "headers": [
+   "May, Saturday 11. 1878."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1878-05-11",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "[illegible] Helminthophaga",
+    "pinus very plentiful.",
+    "Came in town",
+    "4.00 p.m., and",
+    "immediately came",
+    "out here to Orange,",
+    "Uncle Cornelius[?]",
+    "place, where all",
+    "the family and",
+    "Aunt Annie and",
+    "Uncle Jimmie are.",
+    "Of course I was",
+    "awfully petted",
+    "up."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": "first word blurred (possibly \"the\"); uncle name uncertain"
+  },
+  {
+   "id": "b2",
+   "date": "1878-05-11",
+   "kind": "tally",
+   "position": "bottom",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "2 squirrel"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "separate note at foot of page"
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from other side of leaf / facing page ignored"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Uncle Cornelius",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Aunt Annie",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Uncle Jimmie",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   "Orange"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "medium",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

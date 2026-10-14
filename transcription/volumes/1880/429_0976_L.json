@@ -1,0 +1,89 @@
+{
+ "frame": "429_0976",
+ "half": "L",
+ "volume": "1880",
+ "page_type": "diary-day",
+ "dates": [
+  "1880-10-06"
+ ],
+ "printed": {
+  "headers": [
+   "October, Wednesday 6. 1880."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1880-10-06",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Entered the Columbia",
+    "Law School; I shall",
+    "be there every day about",
+    "six hours, from nine",
+    "till half-past three.",
+    "Am having a lovely",
+    "time at Aunt Annie's",
+    "but miss Alice dreadfully.",
+    "I am going to give",
+    "her a diamond crescent",
+    "a ruby bracelet and",
+    "a saphire ring — in",
+    "all about 2500 dollars!",
+    "I have been spending",
+    "money like water for",
+    "these last two years,",
+    "but shall economise",
+    "after I am married.",
+    "Three weeks from to-",
+    "-day we are married!",
+    "I hardly dare believe",
+    "it; it is too good. Oh",
+    "my darling, my darling!"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "faint mirrored writing from reverse"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Aunt Annie",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Alice",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   "Columbia Law School"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

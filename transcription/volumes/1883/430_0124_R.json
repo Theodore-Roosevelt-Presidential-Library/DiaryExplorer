@@ -1,0 +1,88 @@
+{
+ "frame": "430_0124",
+ "half": "R",
+ "volume": "1883",
+ "page_type": "diary-day",
+ "dates": [
+  "1883-08-29"
+ ],
+ "printed": {
+  "headers": [
+   "AUGUST 29 Wednesday"
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1883-08-29",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Country prettier; bottoms",
+    "narrower hemmed in",
+    "by bold bluffs, with",
+    "pines scattered over them.",
+    "Shot a dozen sage",
+    "hens and prairie",
+    "chicken with shot",
+    "gun; and late in",
+    "evening while riding",
+    "through a dense",
+    "swamp caught sight",
+    "of a yearling white",
+    "tail buck, standing",
+    "in a marshy opening;",
+    "he was fifty yards",
+    "off, and did not",
+    "see me; kneeling I",
+    "shot him through the",
+    "heart."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "1884 entry."
+  },
+  {
+   "id": "b2",
+   "date": "1883-08-29",
+   "kind": "tally",
+   "position": "bottom",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "1 white tail buck. 10 Sage",
+    "Grouse. 2 sharp tail grouse"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "bottom",
+   "note": "faint mirrored writing above tally"
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "Printed 1883 heading reused in 1884.",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

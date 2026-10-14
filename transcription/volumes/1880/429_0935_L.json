@@ -1,0 +1,54 @@
+{
+ "frame": "429_0935",
+ "half": "L",
+ "volume": "1880",
+ "page_type": "diary-day",
+ "dates": [
+  "1880-07-161880"
+ ],
+ "printed": {
+  "headers": [
+   "JULY, FRIDAY 16. 1880."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1880-07-161880",
+   "kind": "other",
+   "position": "right-margin",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "\" \""
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": "ditto marks only, presumably 'as above'"
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from reverse of leaf ignored"
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "medium",
+ "transcriber_notes": "Only ditto marks written; mirrored show-through ignored.",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

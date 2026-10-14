@@ -1,0 +1,82 @@
+{
+ "frame": "429_0779",
+ "half": "R",
+ "volume": "1879",
+ "page_type": "diary-day",
+ "dates": [
+  "1879-10-02"
+ ],
+ "printed": {
+  "headers": [
+   "Thursday, October 2, 1879."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1879-10-02",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "^8½^",
+    "9-1. Zoology Course.",
+    "1.30-3.00. Study Pol. Econ",
+    "6 hours.",
+    "Dick and I drove over",
+    "in my cart to the",
+    "Whitneys, where we passed",
+    "a very pleasant evening.",
+    "The drive home was",
+    "delightful, there being a",
+    "most beautiful full",
+    "moon."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "'8½' written small above the '9', apparently a correction of the start time"
+  }
+ ],
+ "marks": [
+  {
+   "kind": "archival-page-number",
+   "value": "195[?]",
+   "position": "top",
+   "note": "pencil numeral at top corner, later mark"
+  },
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from reverse of leaf ignored"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Dick",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Whitneys",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

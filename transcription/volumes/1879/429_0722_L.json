@@ -1,0 +1,126 @@
+{
+ "frame": "429_0722",
+ "half": "L",
+ "volume": "1879",
+ "page_type": "diary-day",
+ "dates": [
+  "1879-05-24"
+ ],
+ "printed": {
+  "headers": [
+   "Saturday, May 24, 1879."
+  ],
+  "title": null,
+  "description": "printer's signature number \"11\" at foot of page"
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1879-05-24",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "In the afternoon Van",
+    "Ransaeler[?] & I called",
+    "on the Lanes, taking",
+    "Miss Luly & Miss Kitty (&",
+    "Mrs. Lane) round to see",
+    "Van's R[?] room & mine.",
+    "We then played lawn",
+    "tennis; and stayed to",
+    "tea and spent the",
+    "evening, dancing till I was nearly ^dead^.",
+    "My horse is hopelessly",
+    "lame and I am going",
+    "to send him back to",
+    "New York. It is fright-",
+    "fully tough luck; but",
+    "I deserved it. I miss",
+    "having him to ride",
+    "horribly."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": "\"till I was nearly\" squeezed in small at line end; \"dead\" written above at the margin."
+  },
+  {
+   "id": "b2",
+   "date": "1879-05-24",
+   "kind": "entry",
+   "position": "bottom",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "I have never passed a",
+    "pleasanter evening."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "Written at foot of page, partly below the ruled frame, in a different (smaller, slanting) style; probably an addition to the evening account."
+  }
+ ],
+ "marks": [
+  {
+   "kind": "archival-page-number",
+   "value": "7[?]",
+   "position": "top-left",
+   "note": "pencil, partly cut off"
+  },
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from reverse of leaf; ignored"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Van Ransaeler[?]",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "the Lanes",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Miss Luly",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Miss Kitty",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Mrs. Lane",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Van",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   "New York"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "medium",
+ "transcriber_notes": "Printed signature number \"11\" at lower right edge of page.",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

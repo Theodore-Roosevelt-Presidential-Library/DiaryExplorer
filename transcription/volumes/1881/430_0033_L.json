@@ -1,0 +1,75 @@
+{
+ "frame": "430_0033",
+ "half": "L",
+ "volume": "1881",
+ "page_type": "diary-day",
+ "dates": [
+  "1881-05-16",
+  "1881-05-17",
+  "1881-05-18"
+ ],
+ "printed": {
+  "headers": [
+   "May, Monday 16. 1881.",
+   "Tuesday 17.",
+   "Wednesday 18."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1881-05-18",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Confound a European",
+    "trip, say I. Alice",
+    "wretchedly sick; I",
+    "haven't been at all sick",
+    "but tired out by",
+    "taking care of her."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "heavy mirrored writing from reverse of leaf; ignored"
+  },
+  {
+   "kind": "other",
+   "value": null,
+   "position": "top",
+   "note": "light spot on film over printed 'Monday'"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Alice",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "Monday 16 and Tuesday 17 show only show-through. Printed 'Monday' partly obscured by a light spot on the film.",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

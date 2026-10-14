@@ -1,0 +1,75 @@
+{
+ "frame": "429_0614",
+ "half": "R",
+ "volume": "1878",
+ "page_type": "diary-day",
+ "dates": [
+  "1878-09-12"
+ ],
+ "printed": {
+  "headers": [
+   "SEPTEMBER, THURSDAY 12. 1878."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1878-09-12",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Rainy, so we stayed in",
+    "camp, reading, playing",
+    "whist and cleaning",
+    "our guns. We have",
+    "quite a varied diet",
+    "— duck, partridge, trout",
+    "pickerel &c.",
+    "In the afternoon Em",
+    "and I watched (from",
+    "behind some bushes)",
+    "the river, in hopes of",
+    "some ducks passing",
+    "by; but after sitting",
+    "about three hours in",
+    "the rain we returned",
+    "with nothing."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from reverse of leaf; ignored"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Em",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

@@ -1,0 +1,85 @@
+{
+ "frame": "429_0808",
+ "half": "R",
+ "volume": "1879",
+ "page_type": "diary-day",
+ "dates": [
+  "1879-12-05"
+ ],
+ "printed": {
+  "headers": [
+   "Friday, December 5, 1879."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1879-12-05",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Drove back to Cambridge",
+    "in the morning; in the",
+    "afternoon drove over to the",
+    "Lees to dinner. Afterwards",
+    "drove Frank Lee into",
+    "Boston."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  }
+ ],
+ "marks": [
+  {
+   "kind": "archival-page-number",
+   "value": "346[?]",
+   "position": "top",
+   "note": "pencil"
+  },
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from reverse of leaf; ignored"
+  },
+  {
+   "kind": "ink-blot",
+   "value": null,
+   "position": "bottom",
+   "note": "small dark marks lower right, not writing"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "the Lees",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Frank Lee",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   "Cambridge",
+   "Boston"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

@@ -1,0 +1,27 @@
+{
+ "frame": "429_1023",
+ "half": "R",
+ "volume": "1880",
+ "page_type": "cash-account",
+ "dates": [],
+ "printed": {
+  "headers": [],
+  "title": "Cash Account—October.",
+  "description": "Printed cash-account ruling with column heads 'Date.', 'Received.', 'Paid.'; no entries"
+ },
+ "handwriting": [],
+ "marks": [],
+ "mentions": {
+  "people": [],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": false,
+ "confidence": "high",
+ "transcriber_notes": "Blank printed cash-account page.",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

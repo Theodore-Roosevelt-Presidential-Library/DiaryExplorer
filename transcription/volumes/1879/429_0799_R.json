@@ -1,0 +1,85 @@
+{
+ "frame": "429_0799",
+ "half": "R",
+ "volume": "1879",
+ "page_type": "diary-day",
+ "dates": [
+  "1879-11-15"
+ ],
+ "printed": {
+  "headers": [
+   "Saturday, November 15, 1879."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1879-11-15",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Our team was beaten.",
+    "I called on Grace Potter,",
+    "who is just as sweet as",
+    "ever and dear, ^pretty^ little",
+    "Fanny Smith dined with",
+    "us. Afterwards we went",
+    "to the theatre, then took",
+    "a supper at Delmonicos",
+    "and stayed up till",
+    "all hours in the Harvard",
+    "Club where a lot of",
+    "fellows were singing &c."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  }
+ ],
+ "marks": [
+  {
+   "kind": "archival-page-number",
+   "value": "329[?]",
+   "position": "top",
+   "note": "pencil"
+  },
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from reverse of leaf; ignored"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Grace Potter",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Fanny Smith",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   "Delmonicos",
+   "the Harvard Club"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

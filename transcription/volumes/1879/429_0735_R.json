@@ -1,0 +1,123 @@
+{
+ "frame": "429_0735",
+ "half": "R",
+ "volume": "1879",
+ "page_type": "diary-day",
+ "dates": [
+  "1879-06-24"
+ ],
+ "printed": {
+  "headers": [
+   "Tuesday, June 24, 1879."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1879-06-24",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "In the morning I rode over",
+    "to call on Susie Wheelright",
+    "in Jamaica Plain. I then",
+    "rode to the Saltonstalls, where",
+    "I shall stay till Thursday.",
+    "I spent the afternoon talking",
+    "with Rose, teaching Phil how",
+    "to shoot and playing with",
+    "Betty[?]. In the evening I",
+    "called on the Lowells.",
+    "Mr & Mrs Saltonstall are",
+    "just too sweet for anything.",
+    "They have added so much",
+    "to my happiness this year",
+    "that I scarcely know how",
+    "to thank them. So have",
+    "the Lees. I shall be even more",
+    "sorry to leave Chestnut Hill",
+    "than to leave Harvard."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  }
+ ],
+ "marks": [
+  {
+   "kind": "archival-page-number",
+   "value": "119",
+   "position": "top",
+   "note": "pencil, right of header"
+  },
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": null
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Susie Wheelright",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Saltonstalls",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Rose",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Phil",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Betty",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Lowells",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Mr & Mrs Saltonstall",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Lees",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   "Jamaica Plain",
+   "Chestnut Hill",
+   "Harvard"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

@@ -1,0 +1,96 @@
+{
+ "frame": "429_0718",
+ "half": "R",
+ "volume": "1879",
+ "page_type": "diary-day",
+ "dates": [
+  "1879-05-17"
+ ],
+ "printed": {
+  "headers": [
+   "Saturday, May 17, 1879."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1879-05-17",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "I went in the morning",
+    "to see the class races,",
+    "which were exceedingly",
+    "good; I sat with the",
+    "Lees. In the afternoon",
+    "I went out to",
+    "pass Sunday at",
+    "Milton with the",
+    "Whitneys, whom I",
+    "like very much - espe-",
+    "cially jolly Ella[?] and",
+    "pretty Miss. Bessie.",
+    "We spent the evening",
+    "singing, dancing &c."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  }
+ ],
+ "marks": [
+  {
+   "kind": "archival-page-number",
+   "value": null,
+   "position": "top",
+   "note": "faint pencil folio, unreadable"
+  },
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from reverse of leaf; ignored"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "the Lees",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "the Whitneys",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Ella[?]",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Miss. Bessie",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   "Milton"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "This is the original of the ghost text seen on May 15 (frame 0717_R).",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

@@ -1,0 +1,77 @@
+{
+ "frame": "429_0988",
+ "half": "R",
+ "volume": "1880",
+ "page_type": "diary-day",
+ "dates": [
+  "1880-11-02"
+ ],
+ "printed": {
+  "headers": [
+   "November, Tuesday 2. 1880."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1880-11-01",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "describe the lovely, little",
+    "teasing ways of my",
+    "bright, bewitching dar-",
+    "ling; I can imagine no",
+    "picture so pretty as",
+    "her sweet self, seated",
+    "behind the teathings,",
+    "in the daintiest little",
+    "pink and gray morn-",
+    "ing dress, while, in my",
+    "silk jacket and slippers,",
+    "I sit at the other",
+    "end of the table. She",
+    "seems in beautiful",
+    "health; and she looks",
+    "even prettier than she",
+    "ever has before; the",
+    "little laughing, blushing",
+    "darling, with her",
+    "sweet, winsome ways;",
+    "and oh, she is such",
+    "a tender and de-",
+    "voted little wife. We",
+    "have the loveliest drives"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "continues from previous page (entry begun under November 1); runs on to next page"
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "faint mirrored writing from reverse"
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

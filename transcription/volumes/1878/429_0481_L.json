@@ -1,0 +1,102 @@
+{
+ "frame": "429_0481",
+ "half": "L",
+ "volume": "1878",
+ "page_type": "diary-day",
+ "dates": [
+  "1878-01-04"
+ ],
+ "printed": {
+  "headers": [
+   "JANUARY, FRIDAY 4. 1878."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1878-01-04",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Have naturally",
+    "been thinking a",
+    "good deal of",
+    "home, especially",
+    "of Father and of",
+    "my darling mother",
+    "and sweet sisters.",
+    "Elliott is a noble fellow,",
+    "wonderfully grown",
+    "up in every way.",
+    "I suppose, after him,",
+    "Jack Elliott is my",
+    "best friend, one who",
+    "would do anything",
+    "for me. But West[?] is",
+    "a very sweet fellow,",
+    "and I am very fond",
+    "of him. Alfred I"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "'anything' is underlined. 'West' reading uncertain (initial letter ambiguous). Entry continues on next page."
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": null
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Father",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "mother",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Elliott",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Jack Elliott",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "West[?]",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Alfred",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

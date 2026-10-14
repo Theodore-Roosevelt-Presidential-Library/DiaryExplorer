@@ -1,0 +1,81 @@
+{
+ "frame": "429_0768",
+ "half": "L",
+ "volume": "1879",
+ "page_type": "diary-day",
+ "dates": [
+  "1879-09-09"
+ ],
+ "printed": {
+  "headers": [
+   "Tuesday, September 9, 1879."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1879-09-09",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Rained all day; but we",
+    "paddled up the middle",
+    "lake and then walked",
+    "(through most frightful",
+    "ground) to the head of the",
+    "upper one. On the way I",
+    "saw a few partridges; an",
+    "old moose track, a recent bear",
+    "track; and a few old signs",
+    "of deer and caribou. On",
+    "the lake are a few loons",
+    "and fish ducks. As game",
+    "is so scarce I shall go right",
+    "back to Island Falls, instead",
+    "of staying up here, as I",
+    "had intended. Am wet",
+    "through, as usual, and ^rather^ tired;",
+    "but, although the work is very",
+    "hard, I am enjoying the",
+    "trip greatly.  3 ruffed grouse."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "tally '3 ruffed grouse.' on same last line, below ruled frame"
+  }
+ ],
+ "marks": [
+  {
+   "kind": "archival-page-number",
+   "value": "174",
+   "position": "top",
+   "note": null
+  },
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from reverse of leaf; ignored"
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [
+   "Island Falls"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

@@ -1,0 +1,83 @@
+{
+ "frame": "429_0569",
+ "half": "R",
+ "volume": "1878",
+ "page_type": "diary-day",
+ "dates": [
+  "1878-06-26"
+ ],
+ "printed": {
+  "headers": [
+   "June, Wednesday 26. 1878."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1878-06-26",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Rode in the morning",
+    "to Brookville &",
+    "Glencove. Walked",
+    "in Hults[?] Woods",
+    "with Chuffie. Drove",
+    "Pussie to Cold-",
+    "-spring to pick",
+    "waterlilies. Rowed",
+    "to the marsh.",
+    "Sailed in evening",
+    "with Chuffie, tak-",
+    "-ing our dinner",
+    "on board the",
+    "boat."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": "Woods name uncertain (same as June 7)."
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "faint mirrored writing from reverse of leaf; ignored"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Chuffie",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Pussie",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   "Brookville",
+   "Glencove",
+   "Hults[?] Woods",
+   "Cold-spring"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "BAD SPLIT: half image also contains right portion of the June 25 page (left edge); ignored here.",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

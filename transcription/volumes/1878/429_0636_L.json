@@ -1,0 +1,67 @@
+{
+ "frame": "429_0636",
+ "half": "L",
+ "volume": "1878",
+ "page_type": "diary-day",
+ "dates": [
+  "1878-10-25"
+ ],
+ "printed": {
+  "headers": [
+   "October, Friday 25. 1878."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1878-10-25",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Took the evening",
+    "boat for New York.",
+    "I have not hither-",
+    "to been studying",
+    "as hard as I ought",
+    "to have—at least",
+    "in some subjects; but",
+    "as soon as I come",
+    "home from this",
+    "holiday I shall",
+    "set to with a",
+    "will."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from reverse of leaf"
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [
+   "New York"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

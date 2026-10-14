@@ -1,0 +1,66 @@
+{
+ "frame": "429_0562",
+ "half": "L",
+ "volume": "1878",
+ "page_type": "diary-day",
+ "dates": [
+  "1878-06-11"
+ ],
+ "printed": {
+  "headers": [
+   "June, Tuesday 11. 1878."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1878-06-11",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Rainy, but I",
+    "divided my day",
+    "pretty equally",
+    "between my",
+    "horse, gun and",
+    "row-boat.",
+    "I am afraid,",
+    "if I should stay",
+    "long at home I",
+    "should get spoiled",
+    "and conceited; the",
+    "family pet me",
+    "up so."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "Does not visibly continue the 'never' sentence from June 9."
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "faint mirrored writing from reverse of leaf; ignored"
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

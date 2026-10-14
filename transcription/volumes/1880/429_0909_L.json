@@ -1,0 +1,54 @@
+{
+ "frame": "429_0909",
+ "half": "L",
+ "volume": "1880",
+ "page_type": "diary-day",
+ "dates": [
+  "1880-05-19"
+ ],
+ "printed": {
+  "headers": [
+   "May, Wednesday 19. 1880."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1880-05-19",
+   "kind": "other",
+   "position": "over-printed-title",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "~~Wednesday 19.~~"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": "Pen stroke drawn through the printed day name and number; the printed text itself is not handwriting. TR's May 19 ('Wednesday') entry is written on the facing page under printed Thursday 20."
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "Faint ghost text from other leaves (entry of Thursday 20 page); ignored."
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "medium",
+ "transcriber_notes": "No entry on this page; printed heading cancelled by a pen stroke. Entry for this day appears on 429_0909_R.",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

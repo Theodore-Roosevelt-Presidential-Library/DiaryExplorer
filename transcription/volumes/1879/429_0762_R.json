@@ -1,0 +1,92 @@
+{
+ "frame": "429_0762",
+ "half": "R",
+ "volume": "1879",
+ "page_type": "diary-day",
+ "dates": [
+  "1879-08-29"
+ ],
+ "printed": {
+  "headers": [
+   "Friday, August 29, 1879."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1879-08-29",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Started before daybreak,",
+    "walking straight through",
+    "the woods, & then up Katahdin;",
+    "it was very difficult walking, &",
+    "both Emlen & Arthur gave out",
+    "before reaching the ~~top~~ ^summit^,",
+    "the view from which was beauti-",
+    "-ful. I find I can ^endure fatigue^ ~~tire out~~[?]",
+    "& hardship pretty nearly as well",
+    "as these lumbermen. Coming",
+    "back we followed a spotted",
+    "trail which sometimes set",
+    "at fault even the two",
+    "skilled backwoodsmen. Reached",
+    "our camp at Katahdin Lake about",
+    "dark, having caught about",
+    "60[?] trout. It is raining & we",
+    "are all soaked through —",
+    "but in excellent health & spirits."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": null
+  }
+ ],
+ "marks": [
+  {
+   "kind": "archival-page-number",
+   "value": "163",
+   "position": "top",
+   "note": null
+  },
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from reverse of leaf; ignored"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Emlen",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Arthur",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   "Katahdin",
+   "Katahdin Lake"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "medium",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

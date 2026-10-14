@@ -1,0 +1,86 @@
+{
+ "frame": "429_0953",
+ "half": "R",
+ "volume": "1880",
+ "page_type": "diary-day",
+ "dates": [
+  "1880-08-22"
+ ],
+ "printed": {
+  "headers": [
+   "August, Sunday 22. 1880."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1880-08-22",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Both fare and accomo-",
+    "-dations here are of",
+    "the roughest; pork &",
+    "potatoes being the",
+    "invariable meal, except",
+    "for what we shoot.",
+    "But I like the",
+    "men a great deal;",
+    "and Nell and I are",
+    "the greatest compan-",
+    "ions. Elliott is a",
+    "good shot; I am not;",
+    "but I am improving",
+    "steadily.",
+    "In spite of enjoy-",
+    "ing my hunting so",
+    "much, I miss Alice",
+    "dreadfully; I would",
+    "give up everything",
+    "just to see her",
+    "sweet face again.",
+    "In the evening we got all",
+    "hands (male & female) together",
+    "& sang hymns."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "'accomo-dations' as written."
+  }
+ ],
+ "marks": [],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Nell",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Elliott",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Alice",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

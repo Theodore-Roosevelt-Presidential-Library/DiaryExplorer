@@ -1,0 +1,78 @@
+{
+ "frame": "429_0731",
+ "half": "R",
+ "volume": "1879",
+ "page_type": "diary-day",
+ "dates": [
+  "1879-06-16"
+ ],
+ "printed": {
+  "headers": [
+   "Monday, June 16, 1879."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1879-06-16",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "I am leading a life of",
+    "most luxurious ease at",
+    "present; breakfast in",
+    "the Club about 10; my",
+    "horse is then before the",
+    "door; and I ride",
+    "~~[illegible]~~ off - generally",
+    "lunching at some",
+    "friends house. It is",
+    "very pleasant - but",
+    "I do not suppose it",
+    "would be healthy to",
+    "continue it too long.",
+    "When I do not stay",
+    "out to tea or dinner,",
+    "I generally have some kind",
+    "of a spree - a \"champagne",
+    "supper\" - up in the",
+    "club."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "Line 7 begins with a short struck-through word."
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing"
+  },
+  {
+   "kind": "other",
+   "value": "111",
+   "position": "top",
+   "note": "pencil strokes at upper right"
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

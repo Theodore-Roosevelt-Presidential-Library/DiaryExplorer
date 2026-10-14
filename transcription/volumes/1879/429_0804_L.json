@@ -1,0 +1,90 @@
+{
+ "frame": "429_0804",
+ "half": "L",
+ "volume": "1879",
+ "page_type": "diary-day",
+ "dates": [
+  "1879-11-26"
+ ],
+ "printed": {
+  "headers": [
+   "Wednesday, November 26, 1879."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1879-11-26",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Drove over in the cart to",
+    "take lunch at the Lees;",
+    "afterwards drove pretty",
+    "Rosy to a tennis",
+    "party at the Laurences.",
+    "Had a lovely drive after-",
+    "wards with her.",
+    "I then took up my",
+    "abode at the Saltonstalls",
+    "where I intend to stay",
+    "till Sunday. I am now",
+    "most thoroughly and happily",
+    "at home here, and I really",
+    "love every member of the",
+    "family. We played whist",
+    "in the evening."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "'love' (line 14) is underlined in the original"
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from reverse of leaf; ignored"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "the Lees",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Rosy",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "the Laurences",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "the Saltonstalls",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "Monday-Tuesday Nov 24-25 not on this frame or the previous one; check neighbouring frames for that leaf. Pencil folio at top-left too faint to read.",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

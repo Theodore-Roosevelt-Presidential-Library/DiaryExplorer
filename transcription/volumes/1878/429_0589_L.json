@@ -1,0 +1,80 @@
+{
+ "frame": "429_0589",
+ "half": "L",
+ "volume": "1878",
+ "page_type": "diary-day",
+ "dates": [
+  "1878-08-04"
+ ],
+ "printed": {
+  "headers": [
+   "August, Sunday 4. 1878."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1878-08-04",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "I like very much the",
+    "text over the door",
+    "of our Church:- \"Be",
+    "ye doers of the word",
+    "and not hearers",
+    "only\". I am no",
+    "believer in faith",
+    "without works.",
+    "Have been reading",
+    "the beautiful \"Memorial",
+    "of Theodore Roosevelt\".",
+    "With God's help I",
+    "shall try to lead",
+    "such a life as",
+    "Father would have",
+    "wished me to."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "faint mirrored writing from reverse"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Theodore Roosevelt",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Father",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "Bottom two lines of the page are mirrored show-through.",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

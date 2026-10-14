@@ -1,0 +1,71 @@
+{
+ "frame": "429_1015",
+ "half": "L",
+ "volume": "1880",
+ "page_type": "diary-day",
+ "dates": [
+  "1880-12-29"
+ ],
+ "printed": {
+  "headers": [
+   "December, Wednesday 29. 1880."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1880-12-29",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "It is a perfect shame",
+    "about the measles; I",
+    "am almost afraid to",
+    "go home; it is very",
+    "hard on Mrs. Lee;",
+    "the Saltonstalls are just",
+    "as kind as possible."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "faint mirrored writing from reverse of leaf, ignored"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Mrs. Lee",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Saltonstalls",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "Mirrored show-through of 28 Dec below entry ignored.",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

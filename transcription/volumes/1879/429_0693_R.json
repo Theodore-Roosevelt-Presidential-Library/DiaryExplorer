@@ -1,0 +1,103 @@
+{
+ "frame": "429_0693",
+ "half": "R",
+ "volume": "1879",
+ "page_type": "diary-day",
+ "dates": [
+  "1879-02-22"
+ ],
+ "printed": {
+  "headers": [
+   "Saturday, February 22, 1879."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1879-02-22",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Our great, midyear",
+    "Porc. supper came off",
+    "today. Besides the ~~28~~ ^18^",
+    "immediates about 40",
+    "honoraries attended. All",
+    "the older men had",
+    "known Father either",
+    "personally or by repu-",
+    "tation, and I had",
+    "very pleasant talks",
+    "with them. How I",
+    "wish I could ever",
+    "do something to keep",
+    "up his name!",
+    "George Upham came",
+    "into the club - the other",
+    "Sophmores are Sam",
+    "Hammond Chas[?] Dick Sprague",
+    "& Billy Peters."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": "'28' appears struck/overwritten with '18' written above. 'Chas' followed by an apostrophe-like mark; reading uncertain. 'Sophmores' as written."
+  }
+ ],
+ "marks": [
+  {
+   "kind": "archival-page-number",
+   "value": "30",
+   "position": "top",
+   "note": "pencil, top right"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Father",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "George Upham",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Sam Hammond",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Chas[?]",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Dick Sprague",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Billy Peters",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "medium",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

@@ -1,0 +1,86 @@
+{
+ "frame": "429_0930",
+ "half": "L",
+ "volume": "1880",
+ "page_type": "diary-day",
+ "dates": [
+  "1880-07-41880"
+ ],
+ "printed": {
+  "headers": [
+   "JULY, SUNDAY 4. 1880."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1880-07-41880",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Church in the morning.",
+    "In the afternoon I took",
+    "my darling a long",
+    "and beautiful walk through",
+    "Fleet's woods; in the",
+    "evening we went down",
+    "to the dock.",
+    "How I love her! and",
+    "I would trust her to the",
+    "end of the world. Whatever",
+    "troubles come upon me -",
+    "losses or griefs or sickness -",
+    "I know she will only be",
+    "more true and loving and",
+    "tender than ever; she is so",
+    "radiantly pure and good and",
+    "beautiful that I almost",
+    "feel like worshipping her. Not",
+    "one thing is ever hidden between",
+    "us. No matter how long I live",
+    "I know my love for her will",
+    "only grow deeper and tenderer",
+    "day by day; and she shall al-",
+    "ways be mistress over all",
+    "that I have."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from reverse of leaf ignored"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "my darling",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   "Fleet's woods"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

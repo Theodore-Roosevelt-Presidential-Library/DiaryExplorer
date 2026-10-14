@@ -1,0 +1,64 @@
+{
+ "frame": "429_0918",
+ "half": "R",
+ "volume": "1880",
+ "page_type": "diary-day",
+ "dates": [
+  "1880-06-07"
+ ],
+ "printed": {
+  "headers": [
+   "June, Monday 7. 1880."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1880-06-07",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Drove back to Cambridge",
+    "for my first examination.",
+    "For 10 days now I",
+    "shall stay in Cambridge,",
+    "and grind for my",
+    "final examinations. I",
+    "have a good deal of",
+    "work to do to make up",
+    "for the time I have",
+    "loafed; and so shall",
+    "not go over to Chestnut",
+    "Hill till the 16th, my",
+    "last examination. I",
+    "shall work like a",
+    "trojan for ten[?] days."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": "'do' (line 8) is underlined. Word before 'days' in last line is smudged/blotted; 'ten' is a tentative reading. Ending of 'like' also blotted."
+  }
+ ],
+ "marks": [],
+ "mentions": {
+  "people": [],
+  "places": [
+   "Cambridge",
+   "Chestnut Hill"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "medium",
+ "transcriber_notes": "Next frame (429_0919) begins at Thursday June 10; pages for June 8-9 do not appear in this batch (leaf possibly not filmed or skipped).",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

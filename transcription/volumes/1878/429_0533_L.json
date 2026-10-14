@@ -1,0 +1,71 @@
+{
+ "frame": "429_0533",
+ "half": "L",
+ "volume": "1878",
+ "page_type": "diary-day",
+ "dates": [
+  "1878-04-20"
+ ],
+ "printed": {
+  "headers": [
+   "April, Saturday 20. 1878."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1878-04-18",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Come unto me all",
+    "ye who droop in sadness,",
+    "Come unto me and I",
+    "will give you rest\".",
+    "",
+    "It is lovely to",
+    "think of our meeting",
+    "in heaven, when",
+    "we shall be united",
+    "~~[illegible]~~ with the dear",
+    "one who has gone",
+    "before.",
+    "I have lost the",
+    "only human being",
+    "to whom I told",
+    "everything, never",
+    "failing to get",
+    "loving advice and"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": "Hymn continues from previous page (entry begun April 18). \"everything\" is underlined. Struck short word at start of line 10. Entry continues on next page."
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "Mirrored writing from reverse of leaf; ignored."
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "medium",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

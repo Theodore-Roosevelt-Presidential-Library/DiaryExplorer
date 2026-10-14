@@ -1,0 +1,66 @@
+{
+ "frame": "429_0552",
+ "half": "L",
+ "volume": "1878",
+ "page_type": "diary-day",
+ "dates": [
+  "1878-05-24"
+ ],
+ "printed": {
+  "headers": [
+   "May, Friday 24. 1878."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1878-05-24",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "The H.A.A. held",
+    "foot races at",
+    "Beacon Park.",
+    "Bob Bacon made",
+    "wonderful time[?]."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": "last word blurred by show-through"
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from other side of leaf / facing page ignored"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Bob Bacon",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   "Beacon Park"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "medium",
+ "transcriber_notes": "Lower part of page is mirrored offset of facing page; ignored.",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

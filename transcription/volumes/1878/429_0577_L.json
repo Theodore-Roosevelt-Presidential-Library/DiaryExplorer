@@ -1,0 +1,87 @@
+{
+ "frame": "429_0577",
+ "half": "L",
+ "volume": "1878",
+ "page_type": "diary-day",
+ "dates": [
+  "1878-07-11"
+ ],
+ "printed": {
+  "headers": [
+   "July, Thursday 11. 1878."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1878-07-11",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Went out sailing",
+    "with West and",
+    "Alfred, taking",
+    "our lunch along.",
+    "Divided the",
+    "remainder of",
+    "the time pretty",
+    "equally between",
+    "my horse and",
+    "row boat.",
+    "I often feel bad-",
+    "-ly that such a",
+    "wonderful man",
+    "as Father should",
+    "have had a",
+    "son of so little",
+    "worth as I",
+    "am."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "faint mirrored writing from reverse"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "West",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Alfred",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Father",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

@@ -1,0 +1,94 @@
+{
+ "frame": "429_0977",
+ "half": "R",
+ "volume": "1880",
+ "page_type": "diary-day",
+ "dates": [
+  "1880-10-09"
+ ],
+ "printed": {
+  "headers": [
+   "October, Saturday 9. 1880."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1880-10-09",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Spent the day in",
+    "the open air, chiefly",
+    "playing tennis with",
+    "Nell and Fred",
+    "Weeks, both of whom",
+    "I beat. Emlen, Al-",
+    "fred and Griswold",
+    "came up to pass",
+    "Sunday."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "faint mirrored writing from reverse"
+  },
+  {
+   "kind": "other",
+   "value": null,
+   "position": "left-margin",
+   "note": "small dark marks at left edge of lines 5-9, apparently ink offset; not transcribed"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Nell",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Fred Weeks",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Emlen",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Alfred",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Griswold",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

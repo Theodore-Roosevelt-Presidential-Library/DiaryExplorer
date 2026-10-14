@@ -1,0 +1,105 @@
+{
+ "frame": "429_0952",
+ "half": "L",
+ "volume": "1880",
+ "page_type": "diary-day",
+ "dates": [
+  "1880-08-19"
+ ],
+ "printed": {
+  "headers": [
+   "August, Thursday 19. 1880."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1880-08-19",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Went to Wilcox's",
+    "farm, at Huntly,",
+    "60 miles from Chicago.",
+    "In the afternoon Nell",
+    "and I took a pre-",
+    "liminary tramp",
+    "through the great",
+    "rolling fields after",
+    "prarie chickens; we",
+    "found a small flock",
+    "late in the evening;",
+    "he missed his bird,",
+    "I killed mine. It is",
+    "great fun to try",
+    "the open plains",
+    "shooting, to which I",
+    "am entirely unaccus-",
+    "-tomed — among",
+    "such vast, almost",
+    "level fields, with so",
+    "few trees. The farm",
+    "house fare is pretty rough."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": "'prarie' as it appears; 'Huntly' medium confidence."
+  },
+  {
+   "id": "b2",
+   "date": "1880-08-19",
+   "kind": "tally",
+   "position": "bottom",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "1 prairie[?] chicken.  [illegible]"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "low",
+   "note": "game tally; final short word after 'chicken' unreadable."
+  }
+ ],
+ "marks": [],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Wilcox",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Nell",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   {
+    "as_written": "Huntly",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Chicago",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "low",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

@@ -1,0 +1,86 @@
+{
+ "frame": "429_0752",
+ "half": "L",
+ "volume": "1879",
+ "page_type": "diary-day",
+ "dates": [
+  "1879-08-04"
+ ],
+ "printed": {
+  "headers": [
+   "Monday, August 4, 1879."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1879-08-04",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Went out woodcock",
+    "shooting with Cruger.",
+    "We first shot through",
+    "Platts[?] swamp, getting half",
+    "a dozen; then went to",
+    "Townsend's, where we killed",
+    "two brace; picked up a",
+    "couple in the Beekman's;",
+    "and then went to",
+    "several little swamps",
+    "and wet, boggy",
+    "places, near Locust",
+    "Valley; picking up two",
+    "or three more birds. I",
+    "really shot very well",
+    "today — rather an",
+    "unusual incident with",
+    "me",
+    "10 woodcock."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": null
+  }
+ ],
+ "marks": [
+  {
+   "kind": "archival-page-number",
+   "value": "14[?]",
+   "position": "top",
+   "note": "partly cut off at top-left"
+  },
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from reverse of leaf; ignored"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Cruger",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   "Locust Valley"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "medium",
+ "transcriber_notes": "No pages for Aug 2-3 in this sequence (Aug 1 on 0751_R, Aug 4 here).",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

@@ -1,0 +1,65 @@
+{
+ "frame": "429_0511",
+ "half": "L",
+ "volume": "1878",
+ "page_type": "diary-day",
+ "dates": [
+  "1878-03-07"
+ ],
+ "printed": {
+  "headers": [
+   "March, Thursday 7. 1878."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1878-03-07",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Looking back on",
+    "his life, it",
+    "seems as if mine",
+    "must be such",
+    "a weak useless",
+    "one in comparison.",
+    "I should like to",
+    "be a scientist; oh,",
+    "how I shall",
+    "miss his sweet,",
+    "sympathetic",
+    "advice!"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "'his' in line 2 is underlined. 'I should like to' begins a new paragraph after a gap."
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "faint mirrored writing from reverse of leaf; not transcribed"
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

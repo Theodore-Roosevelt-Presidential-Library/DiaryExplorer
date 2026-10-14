@@ -1,0 +1,85 @@
+{
+ "frame": "429_0726",
+ "half": "R",
+ "volume": "1879",
+ "page_type": "diary-day",
+ "dates": [
+  "1879-06-02"
+ ],
+ "printed": {
+  "headers": [
+   "Monday, June 2, 1879."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1879-06-02",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "My first annual examination.",
+    "Looking over my diary for",
+    "the last two weeks it",
+    "would seem as if I had",
+    "not studied much; but",
+    "really I have, getting",
+    "up every morning at",
+    "six, and studying till",
+    "eight; and from half past",
+    "eight to half past one;",
+    "and usually ^(about half the time)^ from two",
+    "till five. So I get in",
+    "from seven to ten",
+    "hours a day. During most",
+    "of the year I ~~can~~[?] rarely",
+    "work eight hours a day,",
+    "^generally not much more than six.^",
+    "My horse has improved",
+    "wonderfully, and I exercise",
+    "him a little every day."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": "\"(about half the time)\" written small above line; \"generally not much more than six.\" written small between lines below \"work eight hours a day\". Word before \"rarely\" blotted out, probably \"can\"."
+  }
+ ],
+ "marks": [
+  {
+   "kind": "archival-page-number",
+   "value": null,
+   "position": "top",
+   "note": "pencil folio, unreadable"
+  },
+  {
+   "kind": "other",
+   "value": null,
+   "position": "left-margin",
+   "note": "short vertical pencil stroke beside first line"
+  },
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from reverse of leaf; ignored"
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "medium",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

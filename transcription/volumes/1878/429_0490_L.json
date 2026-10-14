@@ -1,0 +1,73 @@
+{
+ "frame": "429_0490",
+ "half": "L",
+ "volume": "1878",
+ "page_type": "diary-day",
+ "dates": [
+  "1878-01-26"
+ ],
+ "printed": {
+  "headers": [
+   "JANUARY, SATURDAY 26. 1878."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1878-01-26",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Got 100 p.c. in",
+    "an examination",
+    "in Nat. Hist. 3",
+    "Spent the after-",
+    "-noon with",
+    "Minot Weld, stay-",
+    "-ing at his",
+    "house (Did not",
+    "return till",
+    "Monday).",
+    "Dancing class",
+    "in the evening."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  }
+ ],
+ "marks": [
+  {
+   "kind": "other",
+   "value": null,
+   "position": "top",
+   "note": "small vertical tick at top-left corner of page"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Minot Weld",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [],
+  "dates": [
+   "Monday"
+  ]
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "Pages for January 24-25 do not appear between frames 0489 and 0490 in this sequence.",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

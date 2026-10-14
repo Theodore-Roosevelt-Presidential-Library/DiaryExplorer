@@ -1,0 +1,84 @@
+{
+ "frame": "429_0751",
+ "half": "R",
+ "volume": "1879",
+ "page_type": "diary-day",
+ "dates": [
+  "1879-08-01"
+ ],
+ "printed": {
+  "headers": [
+   "Friday, August 1, 1879."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1879-08-01",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Went out woodcock",
+    "shooting with young",
+    "Pendleton Cruger. We",
+    "tramped pretty steadily",
+    "from 7[?] a.m till 7",
+    "p.m, with pretty good",
+    "success. He is a pretty",
+    "good shot — I am",
+    "not. It was very",
+    "hot, and the covert",
+    "was frightful, making",
+    "it very hard walking;",
+    "but we were rather",
+    "cooled by the nature",
+    "of the ground, which",
+    "necessitated our keeping",
+    "wet from the waist down,",
+    "in the mud holes, swamps &c.",
+    "7 woodcock."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  }
+ ],
+ "marks": [
+  {
+   "kind": "archival-page-number",
+   "value": "144",
+   "position": "top",
+   "note": null
+  },
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from reverse of leaf; ignored"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Pendleton Cruger",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

@@ -1,0 +1,81 @@
+{
+ "frame": "429_0710",
+ "half": "L",
+ "volume": "1879",
+ "page_type": "diary-day",
+ "dates": [
+  "1879-04-06"
+ ],
+ "printed": {
+  "headers": [
+   "Sunday, April 6, 1879."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1879-04-06",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Poor old Em has been",
+    "rejected by Grace Parish!",
+    "I had a long talk with",
+    "him. It is awfully hard",
+    "on him. Muffie is still",
+    "not atall well."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  }
+ ],
+ "marks": [
+  {
+   "kind": "archival-page-number",
+   "value": null,
+   "position": "left-margin",
+   "note": "faint pencil mark top left"
+  },
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from reverse below entry; ignored"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Em",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Grace Parish",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Muffie",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

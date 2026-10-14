@@ -1,0 +1,59 @@
+{
+ "frame": "430_0107",
+ "half": "R",
+ "volume": "1882",
+ "page_type": "endpaper",
+ "dates": [],
+ "printed": {
+  "headers": [],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": null,
+   "kind": "other",
+   "position": "top",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Seen[?] Brenton, I, p 505.",
+    "Loss of the Dovrelle[?] \"our loss was much",
+    "greater than ever was acknowledged\"",
+    "in 1801"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "low",
+   "note": "Faint ink on stained back cover/endpaper; first word may be 'See'; ship name uncertain."
+  }
+ ],
+ "marks": [
+  {
+   "kind": "stain",
+   "value": null,
+   "position": "body",
+   "note": "heavy dark staining"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Brenton",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "low",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

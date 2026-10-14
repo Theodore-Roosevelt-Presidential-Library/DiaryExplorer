@@ -1,0 +1,78 @@
+{
+ "frame": "429_0964",
+ "half": "R",
+ "volume": "1880",
+ "page_type": "diary-day",
+ "dates": [
+  "1880-09-13"
+ ],
+ "printed": {
+  "headers": [
+   "September, Monday 13. 1880."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1880-09-13",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Left in the night",
+    "train for St. Pauls.",
+    "Both Elliott and I",
+    "had to buy new",
+    "guns; and we parted",
+    "with the other two",
+    "men, whom we dislike."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": "last word may be abbreviated 'dislik.'"
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored text; ignored"
+  },
+  {
+   "kind": "archival-page-number",
+   "value": null,
+   "position": "bottom",
+   "note": "number cut off at bottom left"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Elliott",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   {
+    "as_written": "St. Pauls",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "medium",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

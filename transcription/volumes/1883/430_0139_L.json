@@ -1,0 +1,71 @@
+{
+ "frame": "430_0139",
+ "half": "L",
+ "volume": "1883",
+ "page_type": "diary-day",
+ "dates": [
+  "1883-09-27"
+ ],
+ "printed": {
+  "headers": [
+   "SEPTEMBER 27 Thursday"
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1883-09-27",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Made long days journey;",
+    "camped under some",
+    "large cottonwoods in",
+    "a bend of the Powder",
+    "Out of fresh meat,",
+    "so went out shooting;",
+    "shot awfully; missed",
+    "three shots at ~~blacktail~~",
+    "whitetail; M. also",
+    "missed two."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from reverse of leaf, ignored"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "M.",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   "the Powder"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

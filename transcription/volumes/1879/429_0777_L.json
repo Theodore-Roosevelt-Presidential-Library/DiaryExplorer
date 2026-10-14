@@ -1,0 +1,131 @@
+{
+ "frame": "429_0777",
+ "half": "L",
+ "volume": "1879",
+ "page_type": "diary-day",
+ "dates": [
+  "1879-09-27"
+ ],
+ "printed": {
+  "headers": [
+   "Saturday, September 27, 1879."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1879-09-27",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Drove Harry Chapin",
+    "over to a lawn",
+    "tennis party at",
+    "Minot Welds; Rose,",
+    "Rosy, Alice & the two",
+    "Miss Lanes, Misses",
+    "Bacon &c[?] were there.",
+    "In the evening went",
+    "out to Chestnut",
+    "Hill; to pass Sunday",
+    "with the Saltonstalls.",
+    "My cart is the",
+    "greatest success of the",
+    "season.",
+    "I brought Phil a gun,",
+    "Cotty some soldiers, a gold",
+    "pin for Rose and a",
+    "silver one for Mamie."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": "show-through heavy over first lines; '&c' uncertain; 'Minot Welds' read with help of 1 Oct entry"
+  }
+ ],
+ "marks": [
+  {
+   "kind": "archival-page-number",
+   "value": "192[?]",
+   "position": "top",
+   "note": "pencil numeral at top corner, later mark"
+  },
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from reverse of leaf ignored"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Harry Chapin",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Rose",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Rosy",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Alice",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Miss Lanes",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Misses Bacon",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Saltonstalls",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Phil",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Cotty",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Mamie",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   "Minot Welds",
+   "Chestnut Hill"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "medium",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

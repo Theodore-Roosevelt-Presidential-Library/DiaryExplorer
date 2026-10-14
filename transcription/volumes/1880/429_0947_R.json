@@ -1,0 +1,84 @@
+{
+ "frame": "429_0947",
+ "half": "R",
+ "volume": "1880",
+ "page_type": "diary-day",
+ "dates": [
+  "1880-08-10"
+ ],
+ "printed": {
+  "headers": [
+   "August, Tuesday 10. 1880."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1880-08-10",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "As usual I spent the",
+    "whole day with my",
+    "darling; she is so",
+    "bright and bewitching",
+    "and yet so tender.",
+    "I read aloud to her",
+    "(from Hawthorne or",
+    "Thackeray) a good deal;",
+    "and we are both very",
+    "fond of poetry[?] Long-",
+    "fellow, and parts of",
+    "Shelly and swinbrane[?]."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": "'poetry' may be written 'potry'; last word appears to read 'swinbrane' (lowercase s); 'Shelly' as written."
+  }
+ ],
+ "marks": [],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Hawthorne",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Thackeray",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Longfellow",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Shelly",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "swinbrane[?]",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "medium",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

@@ -1,0 +1,107 @@
+{
+ "frame": "429_0481",
+ "half": "R",
+ "volume": "1878",
+ "page_type": "diary-day",
+ "dates": [
+  "1878-01-05"
+ ],
+ "printed": {
+  "headers": [
+   "JANUARY, SATURDAY 5. 1878."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1878-01-04",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "like extremely; and",
+    "so I do Em, but",
+    "he grates on me",
+    "a great deal, and",
+    "is too selfish or ego-",
+    "-tistical, I scarcely",
+    "know which to",
+    "call it.",
+    "Of my college friends",
+    "I should say, at",
+    "present, that Hal",
+    "Minot, Will Blodgett,",
+    "Minot Weld and",
+    "Harry Chapin, were",
+    "likely to become",
+    "friends and very",
+    "possibly George",
+    "Pellew, Arthur Hooper"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "continues from previous page (entry begun under January 4); written in the space for January 5; continues on next page"
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": null
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Em",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Hal Minot",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Will Blodgett",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Minot Weld",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Harry Chapin",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "George Pellew",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Arthur Hooper",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "No separate entry for January 5; space used for continuation of January 4.",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

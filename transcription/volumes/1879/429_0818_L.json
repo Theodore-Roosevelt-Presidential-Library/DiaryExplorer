@@ -1,0 +1,109 @@
+{
+ "frame": "429_0818",
+ "half": "L",
+ "volume": "1879",
+ "page_type": "diary-day",
+ "dates": [
+  "1879-12-24"
+ ],
+ "printed": {
+  "headers": [
+   "Wednesday, December 24, 1879."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1879-12-24",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Spent the day calling on",
+    "various friends—among",
+    "them some very pretty",
+    "girls, as Annie Murray,",
+    "Emily Post, the two Miss",
+    "Kanes[?], the two Miss Potters,",
+    "Edith Carow, Fanny Smith,",
+    "Nellie Phelps and Lizzie",
+    "Moran."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  }
+ ],
+ "marks": [
+  {
+   "kind": "archival-page-number",
+   "value": "562[?]",
+   "position": "top",
+   "note": "pencil folio number, partly obscured by header rule"
+  },
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from reverse of leaf; ignored"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Annie Murray",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Emily Post",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Miss Kanes[?]",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Miss Potters",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Edith Carow",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Fanny Smith",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Nellie Phelps",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Lizzie Moran",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

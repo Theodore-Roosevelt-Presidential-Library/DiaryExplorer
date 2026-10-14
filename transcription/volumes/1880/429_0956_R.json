@@ -1,0 +1,76 @@
+{
+ "frame": "429_0956",
+ "half": "R",
+ "volume": "1880",
+ "page_type": "diary-day",
+ "dates": [
+  "1880-08-28"
+ ],
+ "printed": {
+  "headers": [
+   "August, Saturday 28. 1880."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1880-08-28",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Came into Chicago;",
+    "stayed at Sherman House,",
+    "where the accommodations",
+    "seemed regal compared",
+    "to what we have had",
+    "at the farm house"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": "'Sherman' medium confidence; 'accommodations' has an overwritten letter; no final stop visible."
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored text; ignored"
+  },
+  {
+   "kind": "archival-page-number",
+   "value": null,
+   "position": "bottom",
+   "note": "number cut off at bottom left"
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [
+   {
+    "as_written": "Chicago",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Sherman House",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "medium",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

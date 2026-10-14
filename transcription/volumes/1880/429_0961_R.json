@@ -1,0 +1,101 @@
+{
+ "frame": "429_0961",
+ "half": "R",
+ "volume": "1880",
+ "page_type": "diary-day",
+ "dates": [
+  "1880-09-07"
+ ],
+ "printed": {
+  "headers": [
+   "September, Tuesday 7. 1880."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1880-09-07",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "After breakfast started",
+    "in the wagon for",
+    "Wall Lake; passing",
+    "through much flatter",
+    "and less settled prairie",
+    "than yesterday; we stopped",
+    "before lunch to kill some",
+    "chickens in a patch of",
+    "long grass; after lunch",
+    "I stalked and killed",
+    "some snipe by a bayou,",
+    "getting up to my hips in",
+    "mud wading to recover",
+    "them, and getting bit-",
+    "-ten by a snake when I",
+    "came out. Then we hunted",
+    "through the stubble fields",
+    "till dusk and put up",
+    "for the night at a remarkably",
+    "neat, comfortable little",
+    "farm house. Shot fairly; about",
+    "as well as Elliott"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "b2",
+   "date": "1880-09-07",
+   "kind": "tally",
+   "position": "bottom",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "8 grouse 8 yellowlegs 1 rail.",
+    "E 6 grouse"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  }
+ ],
+ "marks": [],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Elliott",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "E",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   {
+    "as_written": "Wall Lake",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

@@ -1,0 +1,57 @@
+{
+ "frame": "429_0685",
+ "half": "L",
+ "volume": "1879",
+ "page_type": "diary-day",
+ "dates": [
+  "1879-01-24"
+ ],
+ "printed": {
+  "headers": [
+   "Friday, January 24, 1879."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1879-01-24",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Was initiated into the",
+    "Pudding."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  }
+ ],
+ "marks": [
+  {
+   "kind": "archival-page-number",
+   "value": "19",
+   "position": "top",
+   "note": "pencil"
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [
+   "the Pudding"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "Jan 22-23 pages not filmed between 0684_R and this page.",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

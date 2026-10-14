@@ -1,0 +1,174 @@
+{
+ "frame": "430_0147",
+ "half": "R",
+ "volume": "1883",
+ "page_type": "cash-account",
+ "dates": [],
+ "printed": {
+  "headers": [],
+  "title": "Cash JULY",
+  "description": "ruled cash-account page with printed column headings 'PAID' and 'RECEIVED'"
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": null,
+   "kind": "heading",
+   "position": "top",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "ac't"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "completes 'Income ac't' heading begun on 430_0147_L"
+  },
+  {
+   "id": "b2",
+   "date": null,
+   "kind": "heading",
+   "position": "top",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "am't"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "written beneath printed 'RECEIVED'"
+  },
+  {
+   "id": "b3",
+   "date": null,
+   "kind": "table",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Carried Over 7 992.41",
+    "Union Trust Co 88.00",
+    "Dubuque & Dakota R.R. 150.00",
+    "Dunleith & Dubuque Bridge Co 75.00",
+    "Roosevelt & Son 2 000.00",
+    "Mobile & Ohio 75.00",
+    "Rock & Pittsburg Bonds 150.00",
+    "Iowa Falls & Sioux City 105.00",
+    "Teschmaker & DeBillier 500.00",
+    "Dubuque & Dunleith Bridge Co 75.00",
+    "Rock & Pitts, Con. Trust 210.00",
+    "Union Trust Co 55.00",
+    "Shenango & Allegany 144.20",
+    "St Paul, Minn & Manitoba 300.00",
+    "Roosevelt & Son 2 000.00",
+    "13919.61"
+   ],
+   "rows": [
+    [
+     "Carried Over",
+     "7 992.41"
+    ],
+    [
+     "Union Trust Co",
+     "88.00"
+    ],
+    [
+     "Dubuque & Dakota R.R.",
+     "150.00"
+    ],
+    [
+     "Dunleith & Dubuque Bridge Co",
+     "75.00"
+    ],
+    [
+     "Roosevelt & Son",
+     "2 000.00"
+    ],
+    [
+     "Mobile & Ohio",
+     "75.00"
+    ],
+    [
+     "Rock & Pittsburg Bonds",
+     "150.00"
+    ],
+    [
+     "Iowa Falls & Sioux City",
+     "105.00"
+    ],
+    [
+     "Teschmaker & DeBillier",
+     "500.00"
+    ],
+    [
+     "Dubuque & Dunleith Bridge Co",
+     "75.00"
+    ],
+    [
+     "Rock & Pitts, Con. Trust",
+     "210.00"
+    ],
+    [
+     "Union Trust Co",
+     "55.00"
+    ],
+    [
+     "Shenango & Allegany",
+     "144.20"
+    ],
+    [
+     "St Paul, Minn & Manitoba",
+     "300.00"
+    ],
+    [
+     "Roosevelt & Son",
+     "2 000.00"
+    ],
+    [
+     "total",
+     "13919.61"
+    ]
+   ],
+   "columns": [
+    "source",
+    "amount"
+   ],
+   "confidence": "medium",
+   "note": "figures sum correctly to the total 13919.61; some abbreviations ('Co', 'Bonds', 'Pittsburg') slightly cramped"
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing and print from reverse of leaf, ignored"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Roosevelt & Son",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Teschmaker & DeBillier",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "medium",
+ "transcriber_notes": "continuation of income account from 430_0146_R (carried over 7992.41)",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

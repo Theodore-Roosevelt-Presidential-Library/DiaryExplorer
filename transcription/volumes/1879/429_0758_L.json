@@ -1,0 +1,117 @@
+{
+ "frame": "429_0758",
+ "half": "L",
+ "volume": "1879",
+ "page_type": "diary-day",
+ "dates": [
+  "1879-08-20"
+ ],
+ "printed": {
+  "headers": [
+   "Wednesday, August 20, 1879."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1879-08-20",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Went on to Boston;",
+    "and came out here",
+    "to Chestnut Hill, where",
+    "dear old Dick gave",
+    "me the most hearty",
+    "and enthusiastic greeting.",
+    "Dined with Mrs. Lee.",
+    "Then we drove over to the",
+    "Whitneys, who were just",
+    "as sweet and cordial as",
+    "they could be; Bessie",
+    "looked very pretty. Rose,",
+    "Rosy and Alice were",
+    "staying there. Tomorrow",
+    "is Ell's[?] birthday, and we",
+    "are going on a picnic, with",
+    "a whole crowd of fellows and",
+    "girls — the Guilds[?], Bacons, Sharps[?],",
+    "Greens, Sears, Coolidges, Codmans &c."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": null
+  }
+ ],
+ "marks": [
+  {
+   "kind": "archival-page-number",
+   "value": "154[?]",
+   "position": "top",
+   "note": null
+  },
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from reverse of leaf; ignored"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Dick",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Mrs. Lee",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Whitneys",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Bessie",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Rose",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Rosy",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Alice",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   "Boston",
+   "Chestnut Hill"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "medium",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

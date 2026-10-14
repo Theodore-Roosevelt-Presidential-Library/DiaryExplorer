@@ -1,0 +1,94 @@
+{
+ "frame": "430_0121",
+ "half": "R",
+ "volume": "1883",
+ "page_type": "diary-day",
+ "dates": [
+  "1883-08-25"
+ ],
+ "printed": {
+  "headers": [
+   "AUGUST 25 Saturday"
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1883-08-25",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Crossed the Little Beaver.",
+    "Travelled over great",
+    "rolling plains, bedded[?]",
+    "with the short, brown",
+    "grass; saw several herds",
+    "of cattle, which have",
+    "now taken the place",
+    "of the buffalo, whose",
+    "carcasses can be seen",
+    "every where; this is already",
+    "well occupied as a cattle",
+    "country. M. & I. rode off",
+    "among some grassy,",
+    "pine clad Chalk Buttes;",
+    "I missed a long shot",
+    "at a blacktail doe;",
+    "M. missed two shots.",
+    "Knocked off the heads",
+    "of two young sage",
+    "grouse for supper; good",
+    "eating. Camped in Bad Lands",
+    "of Powder River. Coyotes howling."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": "1884 entry. \"bedded\" is written over another word; reading uncertain."
+  },
+  {
+   "id": "b2",
+   "date": "1883-08-25",
+   "kind": "tally",
+   "position": "bottom",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "2 sage grouse."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  }
+ ],
+ "marks": [],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "M.",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   "Little Beaver",
+   "Chalk Buttes",
+   "Powder River",
+   "Bad Lands"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "medium",
+ "transcriber_notes": "Printed 1883 heading reused in 1884.",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

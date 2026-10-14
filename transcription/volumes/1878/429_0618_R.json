@@ -1,0 +1,91 @@
+{
+ "frame": "429_0618",
+ "half": "R",
+ "volume": "1878",
+ "page_type": "diary-day",
+ "dates": [
+  "1878-09-20"
+ ],
+ "printed": {
+  "headers": [
+   "September, Friday 20. 1878."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1878-09-20",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Took a ten mile",
+    "tramp with Sewell;",
+    "I saw nothing",
+    "in the woods",
+    "but after a",
+    "rather neat",
+    "stalk killed a",
+    "duck in a",
+    "small lake.",
+    "Was nicely sold",
+    "by the boys with",
+    "a dead duck",
+    "placed in a life",
+    "like attitude in a",
+    "pond. Have had",
+    "beautiful baths in the",
+    "dam[?]race every day."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": "'damrace' written with an extra stroke between dam and race"
+  },
+  {
+   "id": "b2",
+   "date": "1878-09-20",
+   "kind": "tally",
+   "position": "bottom",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "1 ruddy (?) duck."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": "'(?)' appears to be TR's own"
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from reverse of leaf"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Sewell",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "medium",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

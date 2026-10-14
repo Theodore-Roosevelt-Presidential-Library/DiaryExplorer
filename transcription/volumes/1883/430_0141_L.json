@@ -1,0 +1,87 @@
+{
+ "frame": "430_0141",
+ "half": "L",
+ "volume": "1883",
+ "page_type": "diary-day",
+ "dates": [
+  "1883-10-01"
+ ],
+ "printed": {
+  "headers": [
+   "OCTOBER 1 Monday"
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1883-10-01",
+   "kind": "heading",
+   "position": "over-printed-title",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Sept, 29th"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "printed 'OCTOBER' heading struck through in ink and re-dated by TR"
+  },
+  {
+   "id": "b2",
+   "date": "1883-10-01",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Cold ~~[illegible]~~ rain in night,",
+    "lasting all day; poor",
+    "feed for ponies; walked",
+    "till night fall when",
+    "we camped near",
+    "White Clay Buttes;",
+    "water bad, from mud",
+    "hole; team nearly",
+    "done out."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": null
+  }
+ ],
+ "marks": [
+  {
+   "kind": "ink-blot",
+   "value": null,
+   "position": "body",
+   "note": "small ink marks mid-page"
+  },
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from reverse of leaf, ignored"
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [
+   "White Clay Buttes"
+  ],
+  "dates": [
+   "Sept, 29th"
+  ]
+ },
+ "has_tr_writing": true,
+ "confidence": "medium",
+ "transcriber_notes": "printed header struck through by TR and replaced with 'Sept, 29th'",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

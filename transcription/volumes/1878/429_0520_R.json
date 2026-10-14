@@ -1,0 +1,71 @@
+{
+ "frame": "429_0520",
+ "half": "R",
+ "volume": "1878",
+ "page_type": "diary-day",
+ "dates": [
+  "1878-03-26"
+ ],
+ "printed": {
+  "headers": [
+   "March, Tuesday 26. 1878."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1878-03-26",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "I remember so",
+    "well all his",
+    "dear little peculiarities",
+    "and originalities;",
+    "his \"warlike curl\"",
+    "that never would",
+    "stay brushed, the",
+    "quick way he",
+    "would dress,",
+    "and all his other",
+    "traits. I do",
+    "not think I",
+    "shall ever",
+    "realize he is",
+    "really gone.",
+    "I love all the",
+    "rest of the",
+    "family especial-"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "\"his\" (line 2) and \"really\" are underlined. Entry continues on next page."
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "Mirrored writing from reverse of leaf; ignored."
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

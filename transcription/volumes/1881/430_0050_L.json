@@ -1,0 +1,42 @@
+{
+ "frame": "430_0050",
+ "half": "L",
+ "volume": "1881",
+ "page_type": "diary-day",
+ "dates": [
+  "1881-08-26",
+  "1881-08-27",
+  "1881-08-28"
+ ],
+ "printed": {
+  "headers": [
+   "August, Friday 26. 1881.",
+   "Saturday 27.",
+   "Sunday 28."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from reverse of leaf; ignored"
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": false,
+ "confidence": "high",
+ "transcriber_notes": "All three days blank; only show-through from reverse.",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

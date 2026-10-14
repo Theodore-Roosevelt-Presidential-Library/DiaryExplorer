@@ -1,0 +1,72 @@
+{
+ "frame": "429_0697",
+ "half": "L",
+ "volume": "1879",
+ "page_type": "diary-day",
+ "dates": [
+  "1879-03-05"
+ ],
+ "printed": {
+  "headers": [
+   "Wednesday, March 5, 1879."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1879-03-05",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Spent the day snowshoing",
+    "through the woods as",
+    "usual - and with my",
+    "usual ill success as",
+    "regards game. ~~But~~",
+    "Otherwise I am enjoying",
+    "myself to the utmost,",
+    "but the asthma keeps me",
+    "up a good deal at",
+    "night. Lunched at a",
+    "logging camp. Finally",
+    "I saw a partridge in the",
+    "top of a spruce and",
+    "killed him with the",
+    "rifle - also a porcupine.",
+    "By trapping we have caught",
+    "a lucivee and a fox; but have",
+    "seen nothing but the tracks of game",
+    "other than the 2 partridges ( Ruffed grouse"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "'But' struck through. Final line runs to page edge with an opening bracket and no closing."
+  }
+ ],
+ "marks": [
+  {
+   "kind": "archival-page-number",
+   "value": "37",
+   "position": "left-margin",
+   "note": "pencil, top left"
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

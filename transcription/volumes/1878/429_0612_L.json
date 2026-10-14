@@ -1,0 +1,81 @@
+{
+ "frame": "429_0612",
+ "half": "L",
+ "volume": "1878",
+ "page_type": "diary-day",
+ "dates": [
+  "1878-09-07"
+ ],
+ "printed": {
+  "headers": [
+   "SEPTEMBER, SATURDAY 7. 1878."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1878-09-07",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "We travelled all",
+    "last night, reaching",
+    "Matawaumkeag at",
+    "10.30, and from",
+    "there took ~~the~~ a",
+    "buckboard and",
+    "reached here",
+    "(~~Highland~~ Island",
+    "Falls) at 8. p.m.",
+    "Whenever I think",
+    "about poor old",
+    "Hal Minot I feel",
+    "very sad; he was",
+    "such a loveable man.",
+    "Have a pretty bad",
+    "attack of asthma; I",
+    "miss riding my horse; he",
+    "has not been unwell a",
+    "day this summer."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": "'Highland' appears struck through; a caret mark stands before '8.' with nothing visible above it."
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from reverse of leaf; ignored"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Hal Minot",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   "Matawaumkeag",
+   "Island Falls"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "medium",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

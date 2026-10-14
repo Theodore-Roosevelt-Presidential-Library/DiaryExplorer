@@ -1,0 +1,99 @@
+{
+ "frame": "429_0482",
+ "half": "L",
+ "volume": "1878",
+ "page_type": "diary-day",
+ "dates": [
+  "1878-01-06"
+ ],
+ "printed": {
+  "headers": [
+   "JANUARY, SUNDAY 6. 1878."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1878-01-04",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "and Charley Wash-",
+    "-burn. The other",
+    "boys are very good",
+    "as acquaintances;",
+    "Jack Tebbetts (and",
+    "Dick Trimble?) as a",
+    "little more."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "continues from previous page (entry begun under January 4). The '?' is TR's own."
+  },
+  {
+   "id": "b2",
+   "date": "1878-01-06",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Took up my",
+    "Sunday School",
+    "class as usual."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing of the January 5 page visible in lower half"
+  },
+  {
+   "kind": "other",
+   "value": null,
+   "position": "left-margin",
+   "note": "thin white line (scratch/hair on film) across left side"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Charley Washburn",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Jack Tebbetts",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Dick Trimble",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

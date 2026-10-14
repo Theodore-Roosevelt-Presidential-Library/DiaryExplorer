@@ -1,0 +1,100 @@
+{
+ "frame": "429_0962",
+ "half": "L",
+ "volume": "1880",
+ "page_type": "diary-day",
+ "dates": [
+  "1880-09-08"
+ ],
+ "printed": {
+  "headers": [
+   "September, Wednesday 8. 1880."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1880-09-08",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Early in the morning I",
+    "shot round the shores",
+    "of the lake after yellowlegs",
+    "and saw a most",
+    "beautiful sunrise over the",
+    "misty waters. There was",
+    "a large flock of pelicans",
+    "on the lake; and thous-",
+    "ands of yellowheaded black-",
+    "-birds along shore. After",
+    "breakfast we went off in",
+    "the wagon after chickens;",
+    "I shot wretchedly while",
+    "Elliott did splendidly.",
+    "Am having a lovely",
+    "time, but am a good",
+    "deal bothered by the",
+    "asthma. Am in splendid",
+    "walking trim, and can",
+    "tramp all day easily."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "b2",
+   "date": "1880-09-08",
+   "kind": "tally",
+   "position": "bottom",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "4 grouse 6 yellowlegs 1 grebe",
+    "E. 14 grouse 2 ducks."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "bottom",
+   "note": "mirrored tally from 7 Sept; ignored"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Elliott",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "E.",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

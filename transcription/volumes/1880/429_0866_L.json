@@ -1,0 +1,68 @@
+{
+ "frame": "429_0866",
+ "half": "L",
+ "volume": "1880",
+ "page_type": "diary-day",
+ "dates": [
+  "1880-02-23"
+ ],
+ "printed": {
+  "headers": [
+   "February, Monday 23. 1880."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1880-02-23",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Rained or snowed all day, so",
+    "I was most happy, spending",
+    "almost all the time with my",
+    "sweet queen. Oh, how I love my",
+    "little darling! She is too sweet",
+    "to me for anything; when",
+    "we are alone I can hardly",
+    "stay a moment without",
+    "holding her in my arms or",
+    "kissing her; she is such a",
+    "laughing, pretty little witch; and",
+    "yet with it all she is so",
+    "true and so tender. I do'nt",
+    "think there was ever any one",
+    "like her."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "faint mirrored writing from reverse"
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

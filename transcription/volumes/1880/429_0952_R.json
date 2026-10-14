@@ -1,0 +1,92 @@
+{
+ "frame": "429_0952",
+ "half": "R",
+ "volume": "1880",
+ "page_type": "diary-day",
+ "dates": [
+  "1880-08-20"
+ ],
+ "printed": {
+  "headers": [
+   "August, Friday 20. 1880."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1880-08-20",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "In the morning took a",
+    "four hours tramp after",
+    "chickens; each of us got",
+    "several shots; Nell killed",
+    "2 brace, I but one bird."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "b2",
+   "date": "1880-08-20",
+   "kind": "tally",
+   "position": "bottom",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "1 Grouse",
+    "Elliott",
+    "4 grouse"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": "'1 Grouse' at bottom left; 'Elliott' above '4 grouse' at bottom right."
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "heavy mirrored text from facing leaf (21 Aug tallies); ignored"
+  },
+  {
+   "kind": "archival-page-number",
+   "value": null,
+   "position": "bottom",
+   "note": "faint number at bottom left edge"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Nell",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Elliott",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "medium",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

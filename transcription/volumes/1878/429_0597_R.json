@@ -1,0 +1,83 @@
+{
+ "frame": "429_0597",
+ "half": "R",
+ "volume": "1878",
+ "page_type": "diary-day",
+ "dates": [
+  "1878-08-21"
+ ],
+ "printed": {
+  "headers": [
+   "AUGUST, WEDNESDAY 21. 1878."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1878-08-21",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "~~Took~~ ^Drove^ Edith to",
+    "Coldspring to pick",
+    "waterlilies, spend-",
+    "-ing a lovely",
+    "morning with",
+    "her.",
+    "In the afternoon",
+    "Nell arrived on",
+    "the Waterwitch",
+    "with Jack Roos-",
+    "-evelt, from his",
+    "three weeks cruise."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "'Took' struck and 'Drove' written above."
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from reverse of leaf; ignored"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Edith",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Nell",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Jack Roosevelt",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   "Coldspring"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

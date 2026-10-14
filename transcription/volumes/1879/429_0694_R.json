@@ -1,0 +1,85 @@
+{
+ "frame": "429_0694",
+ "half": "R",
+ "volume": "1879",
+ "page_type": "diary-day",
+ "dates": [
+  "1879-02-28"
+ ],
+ "printed": {
+  "headers": [
+   "Friday, February 28, 1879."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1879-02-28",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Reached Mattawomkeag",
+    "about 11 a.m, where",
+    "I found Will Seavall",
+    "waiting for me in a",
+    "sleigh. From there ~~it~~",
+    "it is 36 miles to",
+    "Island Falls, where",
+    "I am now, and it",
+    "was nearly ten",
+    "when we arrived here.",
+    "It was bitterly cold,",
+    "but still, and we were",
+    "well wrapped up, so",
+    "I enjoyed the ride",
+    "very much. The road",
+    "was hardly broken",
+    "out, in places."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "'it' at end of line 5 appears struck through. 'Seavall' as written."
+  }
+ ],
+ "marks": [
+  {
+   "kind": "archival-page-number",
+   "value": "32",
+   "position": "top",
+   "note": "pencil, top right"
+  },
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "bottom",
+   "note": "mirrored writing from other side visible in lower half; ignored"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Will Seavall",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   "Mattawomkeag",
+   "Island Falls"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

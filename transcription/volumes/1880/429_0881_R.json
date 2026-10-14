@@ -1,0 +1,72 @@
+{
+ "frame": "429_0881",
+ "half": "R",
+ "volume": "1880",
+ "page_type": "diary-day",
+ "dates": [
+  "1880-03-25"
+ ],
+ "printed": {
+  "headers": [
+   "March, Thursday 25. 1880."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1880-03-25",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "By way of a change spent the",
+    "day in Cambridge, in the Library,",
+    "writing up my thesis in political",
+    "economy. Since I have been",
+    "engaged I have studied very",
+    "little, and cut most of my",
+    "recitations; and I intend so to",
+    "continue during the balance",
+    "of my college course. I have",
+    "always studied well in",
+    "college, so I can afford to",
+    "cut now; and it is my last",
+    "holiday, as I shall study",
+    "law next year, and must",
+    "then do my best, and work",
+    "hard for my own little wife."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "bottom",
+   "note": "mirrored show-through from reverse below entry; ignored"
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [
+   "Cambridge",
+   "Library"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

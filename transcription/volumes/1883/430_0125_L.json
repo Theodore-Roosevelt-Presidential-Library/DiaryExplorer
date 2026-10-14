@@ -1,0 +1,64 @@
+{
+ "frame": "430_0125",
+ "half": "L",
+ "volume": "1883",
+ "page_type": "diary-day",
+ "dates": [
+  "1883-08-30"
+ ],
+ "printed": {
+  "headers": [
+   "AUGUST 30 Thursday"
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1883-08-30",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Travelled up the Powder;",
+    "crossed the river nine",
+    "times; once the wagon",
+    "nearly stuck in a quick-",
+    "sand; camped a little",
+    "before coming to the",
+    "mouth of Clear Creek.",
+    "Country very pretty."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "1884 entry."
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from Aug 29 page in lower half, incl. tally"
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [
+   "Powder",
+   "Clear Creek"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "Printed 1883 heading reused in 1884.",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

@@ -1,0 +1,38 @@
+{
+ "frame": "429_0581",
+ "half": "R",
+ "volume": "1878",
+ "page_type": "diary-day",
+ "dates": [
+  "1878-07-20"
+ ],
+ "printed": {
+  "headers": [
+   "July, Saturday 20. 1878."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "faint mirrored writing from reverse"
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": false,
+ "confidence": "high",
+ "transcriber_notes": "No writing reads normally in strong ink. Top lines are mirrored show-through of the July 21 entry on the reverse; the faint normal-reading lines (\"...the woods and / fields with my / gun.\" and \"1 woodcock 2 doves\" at foot) are show-through of the July 22 entry two pages on (confirmed against frame 429_0583_R). Treated as blank.",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

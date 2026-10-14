@@ -1,0 +1,44 @@
+{
+ "frame": "429_0978",
+ "half": "L",
+ "volume": "1880",
+ "page_type": "diary-day",
+ "dates": [
+  "1880-10-10"
+ ],
+ "printed": {
+  "headers": [
+   "October, Sunday 10. 1880."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored show-through of the October 9 entry on the reverse"
+  },
+  {
+   "kind": "ink-blot",
+   "value": null,
+   "position": "top",
+   "note": "several ink blots, likely offset from the facing page"
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": false,
+ "confidence": "high",
+ "transcriber_notes": "Blank day; visible writing is mirrored show-through.",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

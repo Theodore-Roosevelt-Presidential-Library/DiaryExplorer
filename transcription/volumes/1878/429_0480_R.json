@@ -1,0 +1,58 @@
+{
+ "frame": "429_0480",
+ "half": "R",
+ "volume": "1878",
+ "page_type": "diary-day",
+ "dates": [
+  "1878-01-03"
+ ],
+ "printed": {
+  "headers": [
+   "JANUARY, THURSDAY 3. 1878."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1878-01-03",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Cambridge.",
+    "I have returned",
+    "to my work today."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "Heavy mirrored show-through of the facing/reverse entry fills the lower page; not transcribed"
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [
+   "Cambridge"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "Only the first three lines read normally; remainder of page is show-through.",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

@@ -1,0 +1,80 @@
+{
+ "frame": "430_0122",
+ "half": "L",
+ "volume": "1883",
+ "page_type": "diary-day",
+ "dates": [
+  "1883-08-24"
+ ],
+ "printed": {
+  "headers": [
+   "AUGUST 24 Friday"
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1883-08-24",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "In the middle of the night",
+    "we had a short but",
+    "violent storm of wind",
+    "and rain, which, as we",
+    "have no tent, wet us pretty",
+    "well; quite cold in morning.",
+    "Wheeling good; travelled some",
+    "20 miles southwest, on a",
+    "cattle trail. M. & I rode off",
+    "among some foot hills of",
+    "a large range of buttes, where",
+    "I missed two first class",
+    "shots at blacktail bucks",
+    "— the only game we saw.",
+    "Camped for the night near a",
+    "most beautiful natural",
+    "park; green sward thickly",
+    "dotted over with ~~f~~ small",
+    "steep, isolated sand cliffs, of",
+    "most fantastic shape, crowned",
+    "with pines."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": "1884 entry. Stray letter before \"small\" read as struck \"f\" (uncertain)."
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "M.",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "medium",
+ "transcriber_notes": "refilm of 430_0121 (same pages, same text). Printed 1883 heading reused in 1884.",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

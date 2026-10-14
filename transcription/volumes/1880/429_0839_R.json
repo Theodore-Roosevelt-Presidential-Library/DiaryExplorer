@@ -1,0 +1,186 @@
+{
+ "frame": "429_0839",
+ "half": "R",
+ "volume": "1880",
+ "page_type": "diary-day",
+ "dates": [
+  "1880-01-01"
+ ],
+ "printed": {
+  "headers": [
+   "January, Thursday 1. 1880."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": null,
+   "kind": "inscription",
+   "position": "top",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Theodore Roosevelt"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "Signature written above the printed date heading on the first diary page."
+  },
+  {
+   "id": "b2",
+   "date": "1880-01-01",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "A beautiful day; a whole party of us",
+    "went out to Jerome Park to a lunch",
+    "- a very swell one - which Elliott gave",
+    "us. Emlen drove Alice Lee in his pair",
+    "and cutter; Elliott drove Rosy Lee, Harold",
+    "Haddon drove Conie, Smith Haddon[?] drove",
+    "Leila Schuyler[?], Annie Murray and myself,",
+    "and the rest - Bamie, Rose Saltonstall,",
+    "Dick, Harry Shaw, Bell[?] Whitney,",
+    "Ike[?] Iselin, Payson, Kingsford, Alfred,",
+    "Stratton; ^in a great sleigh^ We had great fun, dancing",
+    "waltzes, polka redowas and the",
+    "Virginia Reel. In the evening Dick",
+    "and I made a most absurd call",
+    "on Fanny Smith."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": "Second 'Haddon' written with raised/abbreviated letters ('Hadon'). Insertion 'in a great sleigh' written above line between 'Stratton;' and 'We'."
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from reverse of leaf"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Elliott",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Emlen",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Alice Lee",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Rosy Lee",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Harold Haddon",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Conie",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Smith Haddon",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Leila Schuyler",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Annie Murray",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Bamie",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Rose Saltonstall",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Dick",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Harry Shaw",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Bell Whitney",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Iselin",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Payson",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Kingsford",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Alfred",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Stratton",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Fanny Smith",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   "Jerome Park"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "medium",
+ "transcriber_notes": "First diary page of 1880 volume. Several proper names uncertain.",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

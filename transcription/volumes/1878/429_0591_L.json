@@ -1,0 +1,93 @@
+{
+ "frame": "429_0591",
+ "half": "L",
+ "volume": "1878",
+ "page_type": "diary-day",
+ "dates": [
+  "1878-08-08"
+ ],
+ "printed": {
+  "headers": [
+   "August, Thursday 8. 1878."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1878-08-08",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Jack Elliott and",
+    "I went in my",
+    "boat to Loyds",
+    "Neck; the wind was",
+    "three quarters aft,",
+    "so we rigged the",
+    "~~sail~~ ^mast^, so[?] with sail,",
+    "oars and paddle",
+    "managed to make",
+    "pretty good time.",
+    "We shot through",
+    "the lagoons, took",
+    "lunch, had tough",
+    "work getting out of",
+    "the marsh, as the tide",
+    "was ^dead^ low, rowed home",
+    "against a head wind."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": "\"sail\" cancelled with \"mast\" above; \"dead\" inserted above \"low\"; a blotted/overwritten letter precedes \"rowed\"."
+  },
+  {
+   "id": "b2",
+   "date": "1878-08-08",
+   "kind": "tally",
+   "position": "bottom",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "2 yellowlegs 2 heron"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "faint mirrored writing from reverse"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Jack Elliott",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   "Loyds Neck"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "medium",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

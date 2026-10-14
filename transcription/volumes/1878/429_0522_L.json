@@ -1,0 +1,70 @@
+{
+ "frame": "429_0522",
+ "half": "L",
+ "volume": "1878",
+ "page_type": "diary-day",
+ "dates": [
+  "1878-03-29"
+ ],
+ "printed": {
+  "headers": [
+   "March, Friday 29. 1878."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1878-03-26",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "dull heart pain.",
+    "He was everything",
+    "to me; father,",
+    "companion, friend.",
+    "~~advi[?]~~ I do not",
+    "know whether",
+    "I most valued",
+    "his advice or his",
+    "sympathy. He",
+    "was so fond of",
+    "all amusements",
+    "and outdoor sports,",
+    "as riding, sailing",
+    "and shooting; and,",
+    "without a particle",
+    "of cant, was so",
+    "deeply religious."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": "Continues from previous page (entry begun March 26). Line 5 begins with a struck-out word."
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "Mirrored writing from reverse of leaf; ignored."
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "medium",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

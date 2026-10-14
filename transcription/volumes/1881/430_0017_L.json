@@ -1,0 +1,127 @@
+{
+ "frame": "430_0017",
+ "half": "L",
+ "volume": "1881",
+ "page_type": "diary-day",
+ "dates": [
+  "1881-02-09",
+  "1881-02-10",
+  "1881-02-11"
+ ],
+ "printed": {
+  "headers": [
+   "February, Wednesday 9. 1881.",
+   "Thursday 10.",
+   "Friday 11."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1881-02-09",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Took Rosy a sleigh-",
+    "ride.",
+    "Party at the Robin-",
+    "-sons; great spree."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "b2",
+   "date": "1881-02-10",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "\"Tea\" at Julian Weirs.",
+    "Dinner at Griswolds",
+    "Both of them great",
+    "fun."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "b3",
+   "date": "1881-02-11",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Preparatory communion",
+    "lecture at Dr. Halls.",
+    "Sleighed with Mother."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": "\"Preparatory\" appears to have a correction at the \"p\"; last line smudged."
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": null
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Rosy",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Robinsons",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Julian Weirs",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Griswolds",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Dr. Halls",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Mother",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

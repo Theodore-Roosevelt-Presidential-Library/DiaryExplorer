@@ -1,0 +1,62 @@
+{
+ "frame": "429_0826",
+ "half": "S",
+ "volume": "1880",
+ "page_type": "endpaper",
+ "dates": [],
+ "printed": {
+  "headers": [],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": null,
+   "kind": "inscription",
+   "position": "top",
+   "medium": "ink",
+   "hand": "uncertain",
+   "lines": [
+    "Theodore Roosevelt"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": "Ownership inscription on front free endpaper; hand not certainly TR's."
+  }
+ ],
+ "marks": [
+  {
+   "kind": "catalog-mark",
+   "value": "[3]",
+   "position": "body",
+   "note": "bracketed number, later archival hand"
+  },
+  {
+   "kind": "other",
+   "value": null,
+   "position": "top",
+   "note": "small marks above inscription (looks like 'Jr' and 'fd'), likely later archival/cataloguing notation; illegible"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Theodore Roosevelt",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": false,
+ "confidence": "medium",
+ "transcriber_notes": "Single page: endpaper with name inscription.",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

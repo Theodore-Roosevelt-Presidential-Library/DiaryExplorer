@@ -1,0 +1,63 @@
+{
+ "frame": "429_0907",
+ "half": "L",
+ "volume": "1880",
+ "page_type": "diary-day",
+ "dates": [
+  "1880-05-15"
+ ],
+ "printed": {
+  "headers": [
+   "May, Saturday 15. 1880."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1880-05-15",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Drove my darling little",
+    "queen in to Boston to",
+    "the Union Boat Club to",
+    "see the class races in which",
+    "we were beaten. Drove her",
+    "out to Chestnut Hill",
+    "afterwards, and very",
+    "swell I felt, in my",
+    "stylish turnout, with my",
+    "bewitchingly pretty compan-",
+    "ion, driving through",
+    "Beacon street."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  }
+ ],
+ "marks": [],
+ "mentions": {
+  "people": [],
+  "places": [
+   "Boston",
+   "Union Boat Club",
+   "Chestnut Hill",
+   "Beacon street"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

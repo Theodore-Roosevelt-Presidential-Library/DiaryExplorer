@@ -1,0 +1,95 @@
+{
+ "frame": "429_0766",
+ "half": "L",
+ "volume": "1879",
+ "page_type": "diary-day",
+ "dates": [
+  "1879-09-05"
+ ],
+ "printed": {
+  "headers": [
+   "Friday, September 5, 1879."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1879-09-05",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Started at 5 a.m in a",
+    "rough wagon to drive to the",
+    "Oxbow of the Aroostook ^River^ —",
+    "46 miles distant. We",
+    "reached it 6 p.m.; and",
+    "are staying in a regular",
+    "backwoods house — fare",
+    "and ~~accom~~ sleeping ac-",
+    "-comadations being both",
+    "primative to a",
+    "degree. I killed a spruce",
+    "partridge and a red tailed",
+    "hawk, from the wagon.",
+    "The rout all day long",
+    "was through a sparsely",
+    "settled, thickly wooded",
+    "country & for about 3 miles",
+    "through a dreary waste of burnt",
+    "land."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "b2",
+   "date": "1879-09-05",
+   "kind": "tally",
+   "position": "bottom",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "1 Canada Grouse."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  }
+ ],
+ "marks": [
+  {
+   "kind": "archival-page-number",
+   "value": "170",
+   "position": "top",
+   "note": null
+  },
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from reverse of leaf; ignored"
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [
+   "Oxbow of the Aroostook River"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

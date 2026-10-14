@@ -1,0 +1,84 @@
+{
+ "frame": "429_0563",
+ "half": "R",
+ "volume": "1878",
+ "page_type": "diary-day",
+ "dates": [
+  "1878-06-14"
+ ],
+ "printed": {
+  "headers": [
+   "June, Friday 14. 1878."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1878-06-14",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "~~Spent the day~~",
+    "~~in building~~",
+    "~~my boat house.~~",
+    "Fanny Smith",
+    "arrived ~~in the~~ ^yesterday^",
+    "afternoon, and",
+    "West came over",
+    "to tea. Poor fel-",
+    "-low! he is really",
+    "deeply in love",
+    "with her and",
+    "has been so for",
+    "three years.",
+    "I rowed her over",
+    "to Cooper's Bluff,",
+    "down which we",
+    "ran like chil-",
+    "-dren."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": "'yesterday' written above 'in the', which appears struck; exact relation uncertain."
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "faint mirrored writing from reverse of leaf; ignored"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Fanny Smith",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "West",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   "Cooper's Bluff"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

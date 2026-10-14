@@ -1,0 +1,254 @@
+{
+ "frame": "429_1019",
+ "half": "L",
+ "volume": "1880",
+ "page_type": "other",
+ "dates": [],
+ "printed": {
+  "headers": [],
+  "title": "Cash Account—June.",
+  "description": "Printed cash-account ruling with column heads 'Date.', 'Received.', 'Paid.'; title struck through and reused by TR as a game tally"
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": null,
+   "kind": "heading",
+   "position": "over-printed-title",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Game Bag"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "written above printed title 'Cash Account—June.', which is struck through"
+  },
+  {
+   "id": "b2",
+   "date": null,
+   "kind": "table",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Total '73 '74 '75",
+    "* Lynx 1",
+    "* Fox 1",
+    "Raccoon 1",
+    "Deer 2",
+    "Jack Rabbit 1",
+    "White \" 5",
+    "Wood \" 22 2",
+    "Gray Squirrel 19 3 4",
+    "'Syrian \" 2 2",
+    "Canada Grouse 7",
+    "Ruffed \" 50 2 2",
+    "Prarie \" 69",
+    "Sharptail \" 26",
+    "American Quail 28",
+    "'Gray Partridge 1 1",
+    "Redlegged \" 1 1",
+    "'Syrian Quail 2 2",
+    "Wild Pigeon 5 2",
+    "Carolina Dove 11",
+    "'Egyptian \" 37 37",
+    "Rock Pigeon 81 81",
+    "Hoopoo 8 8",
+    "152 (bracketed against Canada, Ruffed, Prarie, Sharptail grouse)",
+    "134 (bracketed against Wild Pigeon, Carolina Dove, Egyptian, Rock Pigeon)"
+   ],
+   "rows": [
+    [
+     "* Lynx",
+     "1",
+     "",
+     "",
+     ""
+    ],
+    [
+     "* Fox",
+     "1",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Raccoon",
+     "1",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Deer",
+     "2",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Jack Rabbit",
+     "1",
+     "",
+     "",
+     ""
+    ],
+    [
+     "White \"",
+     "5",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Wood \"",
+     "22",
+     "",
+     "2",
+     ""
+    ],
+    [
+     "Gray Squirrel",
+     "19",
+     "",
+     "3",
+     "4"
+    ],
+    [
+     "'Syrian \"",
+     "2",
+     "2",
+     "",
+     ""
+    ],
+    [
+     "Canada Grouse",
+     "7",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Ruffed \"",
+     "50",
+     "",
+     "2",
+     "2"
+    ],
+    [
+     "Prarie \"",
+     "69",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Sharptail \"",
+     "26",
+     "",
+     "",
+     ""
+    ],
+    [
+     "American Quail",
+     "28",
+     "",
+     "",
+     ""
+    ],
+    [
+     "'Gray Partridge",
+     "1",
+     "1",
+     "",
+     ""
+    ],
+    [
+     "Redlegged \"",
+     "1",
+     "1",
+     "",
+     ""
+    ],
+    [
+     "'Syrian Quail",
+     "2",
+     "2",
+     "",
+     ""
+    ],
+    [
+     "Wild Pigeon",
+     "5",
+     "",
+     "",
+     "2"
+    ],
+    [
+     "Carolina Dove",
+     "11",
+     "",
+     "",
+     ""
+    ],
+    [
+     "'Egyptian \"",
+     "37",
+     "37",
+     "",
+     ""
+    ],
+    [
+     "Rock Pigeon",
+     "81",
+     "81",
+     "",
+     ""
+    ],
+    [
+     "Hoopoo",
+     "8",
+     "8",
+     "",
+     ""
+    ]
+   ],
+   "columns": [
+    "Game",
+    "Total",
+    "'73",
+    "'74",
+    "'75"
+   ],
+   "confidence": "high",
+   "note": "Continues across spread on 429_1019_R ('76–'80). Ditto marks (\") written for repeated 'Rabbit', 'Squirrel', 'Grouse', 'Quail'/'Partridge', 'Dove' as on page. Small asterisks before Lynx and Fox, and small tick/apostrophe marks before Syrian, Gray Partridge, Syrian Quail, Egyptian, as written. Brace totals 152 (grouse) and 134 (pigeons/doves) written in the margin of the Total column; both check against the row totals. Every row total checks against the yearly figures across both pages. An extra small mark at the right edge of the Gray Squirrel row (after '75 = 4) is unclear and not counted ('8'[?] or stray mark); the row total 19 balances without it."
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "faint ghost ignored"
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [],
+  "dates": [
+   "'73",
+   "'74",
+   "'75"
+  ]
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

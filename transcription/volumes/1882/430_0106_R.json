@@ -1,0 +1,67 @@
+{
+ "frame": "430_0106",
+ "half": "R",
+ "volume": "1882",
+ "page_type": "cash-account",
+ "dates": [
+  "1882-01-01"
+ ],
+ "printed": {
+  "headers": [],
+  "title": "Cash JANUARY",
+  "description": "Ruled cash-account page with printed column heads PAID and RECEIVED; printed 'Cash JANUARY' and 'PAID' struck through by hand."
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": null,
+   "kind": "heading",
+   "position": "over-printed-title",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Cash for 1882"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "b2",
+   "date": null,
+   "kind": "table",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "On Hand . . Jan 1st 300.00"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from reverse of leaf ignored"
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "Handwritten heading replaces struck printed title: ~~Cash JANUARY~~ ~~PAID~~. Mirrored 'FEBRUARY' show-through ignored. Date in dates is from handwriting, not printed.",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

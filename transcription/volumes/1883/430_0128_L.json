@@ -1,0 +1,88 @@
+{
+ "frame": "430_0128",
+ "half": "L",
+ "volume": "1883",
+ "page_type": "diary-day",
+ "dates": [
+  "1883-09-05"
+ ],
+ "printed": {
+  "headers": [
+   "SEPTEMBER 5 Wednesday"
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1883-09-05",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "The ponies proved fractious",
+    "and the trail blind.",
+    "so did not get off till",
+    "10; marched steadily",
+    "till ~~[illegible]~~ 5.30; slow progress",
+    "as pack animals and",
+    "loose ponies proved hard",
+    "to drive. Camped on",
+    "willow creek. Already",
+    "pretty cold. Shot 2 blue",
+    "grouse from a tree with[?]",
+    "the rifle, for supper. Still",
+    "have a haunch of venison[?]",
+    "left from the two bucks.",
+    "Ascent to the Bighorn[?]",
+    "Plateau was very steep.",
+    "Ice formed at night"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": null
+  },
+  {
+   "id": "b2",
+   "date": "1883-09-05",
+   "kind": "tally",
+   "position": "bottom",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "2 blue grouse"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from reverse of leaf, ignored"
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [
+   "willow creek",
+   "Bighorn[?] Plateau"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "medium",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

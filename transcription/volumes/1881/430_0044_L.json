@@ -1,0 +1,88 @@
+{
+ "frame": "430_0044",
+ "half": "L",
+ "volume": "1881",
+ "page_type": "diary-day",
+ "dates": [
+  "1881-07-21",
+  "1881-07-22",
+  "1881-07-23"
+ ],
+ "printed": {
+  "headers": [
+   "July, Thursday 21. 1881.",
+   "Friday 22.",
+   "Saturday 23."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1881-07-22",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Drove to Grindelwald",
+    "in the rain; are",
+    "staying at the",
+    "Schwartzer Adler."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "b2",
+   "date": "1881-07-23",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Alice on horseback and",
+    "I on foot went to",
+    "the Rigi[?]-Grindelwald",
+    "and back,"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": "first element of place name uncertain"
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from reverse of leaf; ignored"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Alice",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   "Grindelwald",
+   "Schwartzer Adler"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "medium",
+ "transcriber_notes": "Thursday 21 blank (show-through only).",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

@@ -1,0 +1,80 @@
+{
+ "frame": "429_0846",
+ "half": "L",
+ "volume": "1880",
+ "page_type": "diary-day",
+ "dates": [
+  "1880-01-14"
+ ],
+ "printed": {
+  "headers": [
+   "January, Wednesday 14. 1880."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1880-01-14",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Minot W. & I dined in town",
+    "with Harry S., afterwards",
+    "going to a very pretty",
+    "little party at Mrs.",
+    "Parkman Shaws."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "'W.' could be read 'U.'; ampersand-like '&'."
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "faint mirrored writing from reverse"
+  },
+  {
+   "kind": "other",
+   "value": "/",
+   "position": "top",
+   "note": "small diagonal pencil stroke at top-left corner"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Minot W.",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Harry S.",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Mrs. Parkman Shaws",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

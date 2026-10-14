@@ -1,0 +1,79 @@
+{
+ "frame": "430_0136",
+ "half": "R",
+ "volume": "1883",
+ "page_type": "diary-day",
+ "dates": [
+  "1883-09-22"
+ ],
+ "printed": {
+  "headers": [
+   "SEPTEMBER 22 Saturday"
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1883-09-22",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Fair days journey, camped",
+    "above Piney Fork. Killed",
+    "jack rabbit & 2 ducks"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "b2",
+   "date": "1883-09-22",
+   "kind": "tally",
+   "position": "bottom",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "1 jack rabbit 2 ducks"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  }
+ ],
+ "marks": [
+  {
+   "kind": "other",
+   "value": null,
+   "position": "body",
+   "note": "faint non-mirrored ghost text in middle of page matches the Sept 24 entry (430_0137_R: 'huge cottonwood... rapidly spoiling... dried. Horses are not in good condition'); an offset/transfer, not writing on this page"
+  },
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from reverse of leaf, ignored"
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [
+   "Piney Fork"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "faint ghost text below entry is a transfer of the Sept 24 entry; not transcribed",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

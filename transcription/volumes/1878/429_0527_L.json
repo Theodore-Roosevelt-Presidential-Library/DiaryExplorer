@@ -1,0 +1,82 @@
+{
+ "frame": "429_0527",
+ "half": "L",
+ "volume": "1878",
+ "page_type": "diary-day",
+ "dates": [
+  "1878-04-08"
+ ],
+ "printed": {
+  "headers": [
+   "April, Monday 8. 1878."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1878-04-07",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "stupid; Blennerhasset",
+    "just as good, but",
+    "much brighter;",
+    "Kinny bad and",
+    "bright; Phillipot",
+    "bad and stupid,",
+    "and much the",
+    "worst case of all.",
+    "It is very sweet",
+    "to think how",
+    "he liked my",
+    "taking a Sunday",
+    "School class."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": "Continues from previous page (entry begun April 7)."
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "Mirrored writing from reverse of leaf; ignored."
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Blennerhasset",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Kinny",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Phillipot",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "medium",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

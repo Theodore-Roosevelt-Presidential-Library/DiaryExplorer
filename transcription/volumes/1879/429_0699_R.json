@@ -1,0 +1,92 @@
+{
+ "frame": "429_0699",
+ "half": "R",
+ "volume": "1879",
+ "page_type": "diary-day",
+ "dates": [
+  "1879-03-10"
+ ],
+ "printed": {
+  "headers": [
+   "Monday, March 10, 1879."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1879-03-10",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Clear and cold. Seawall and I",
+    "while hunting through the woods",
+    "found a small deer yard. We",
+    "approached it from different sides,",
+    "and I saw the buck first, getting",
+    "a shot at its head, but I tripped",
+    "up at the moment and missed",
+    "it. It then broke out of the",
+    "yard and ran; after following",
+    "at full speed about a mile",
+    "I got another shot and killed",
+    "it. ^with the rifle.^ We then dragged it to camp.",
+    "I spent the afternoon in shooting",
+    "rabbits, also with the rifle, stealing",
+    "cautiously through the woods. In",
+    "the evening we had a royal venison",
+    "supper - a pleasant change from the",
+    "ordinary routine of pork & beans."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "b2",
+   "date": "1879-03-10",
+   "kind": "tally",
+   "position": "bottom",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "1 buck 3 white rabbit."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  }
+ ],
+ "marks": [
+  {
+   "kind": "archival-page-number",
+   "value": "42[?]",
+   "position": "top",
+   "note": "pencil, top right, partly cut"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Seawall",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

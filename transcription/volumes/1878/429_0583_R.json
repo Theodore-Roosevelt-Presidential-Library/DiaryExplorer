@@ -1,0 +1,73 @@
+{
+ "frame": "429_0583",
+ "half": "R",
+ "volume": "1878",
+ "page_type": "diary-day",
+ "dates": [
+  "1878-07-22"
+ ],
+ "printed": {
+  "headers": [
+   "July, Monday 22. 1878."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1878-07-22",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "~~Ma~~ Took a long",
+    "tramp through",
+    "the woods and",
+    "fields with my",
+    "gun."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": "First letters (\"Ma\"[?]) are scribbled over/cancelled; reading of the cancelled letters uncertain."
+  },
+  {
+   "id": "b2",
+   "date": "1878-07-22",
+   "kind": "tally",
+   "position": "bottom",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "1 woodcock 2 doves"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "faint mirrored writing from reverse"
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "medium",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

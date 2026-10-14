@@ -1,0 +1,80 @@
+{
+ "frame": "429_0574",
+ "half": "L",
+ "volume": "1878",
+ "page_type": "diary-day",
+ "dates": [
+  "1878-07-05"
+ ],
+ "printed": {
+  "headers": [
+   "July, Friday 5. 1878."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1878-07-05",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Had a long and",
+    "very sweet but",
+    "sad talk with",
+    "mother over our",
+    "beloved lost one.",
+    "Uncle Jimmie",
+    "Grace stayed up",
+    "from the city, and",
+    "we went out",
+    "sailing and",
+    "rowing together"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "faint mirrored writing from reverse of leaf; ignored"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "mother",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Uncle Jimmie",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Grace",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

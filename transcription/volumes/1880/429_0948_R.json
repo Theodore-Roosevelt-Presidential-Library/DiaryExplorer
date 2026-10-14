@@ -1,0 +1,87 @@
+{
+ "frame": "429_0948",
+ "half": "R",
+ "volume": "1880",
+ "page_type": "diary-day",
+ "dates": [
+  "1880-08-12"
+ ],
+ "printed": {
+  "headers": [
+   "August, Thursday 12. 1880."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1880-08-12",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Spent the day shopping;",
+    "came out to L. O. B.",
+    "in the evening; where",
+    "were darling Mother,",
+    "Aunt Susie and Uncle",
+    "Hill, and the two",
+    "Lockes."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": "'L. O. B.' and 'Lockes' read with medium confidence."
+  }
+ ],
+ "marks": [
+  {
+   "kind": "archival-page-number",
+   "value": "16[?]",
+   "position": "bottom",
+   "note": "partly cut off at bottom left"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Mother",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Aunt Susie",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Uncle Hill",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "the two Lockes",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   {
+    "as_written": "L. O. B.",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "medium",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

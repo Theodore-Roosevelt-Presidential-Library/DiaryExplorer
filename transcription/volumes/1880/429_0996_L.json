@@ -1,0 +1,72 @@
+{
+ "frame": "429_0996",
+ "half": "L",
+ "volume": "1880",
+ "page_type": "diary-day",
+ "dates": [
+  "1880-11-17"
+ ],
+ "printed": {
+  "headers": [
+   "November, Wednesday 17. 1880."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1880-11-17",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "I go to the law-school",
+    "at 8.30[?] (walking down",
+    "& up) & get back at",
+    "4.00; then I drive",
+    "Alice in the cart."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "time in line 2 partly blotted; read as 8.30"
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "faint mirrored writing from reverse"
+  },
+  {
+   "kind": "other",
+   "value": null,
+   "position": "bottom",
+   "note": "partial number visible at bottom-right edge of frame"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Alice",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   "law-school"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

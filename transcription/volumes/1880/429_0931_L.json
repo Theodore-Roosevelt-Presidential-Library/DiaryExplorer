@@ -1,0 +1,78 @@
+{
+ "frame": "429_0931",
+ "half": "L",
+ "volume": "1880",
+ "page_type": "diary-day",
+ "dates": [
+  "1880-07-61880"
+ ],
+ "printed": {
+  "headers": [
+   "JULY, TUESDAY 6. 1880."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1880-07-61880",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Took my Queen out",
+    "driving in the morning;",
+    "in the evening went to",
+    "tea at Aunt Annie's.",
+    "How intensely happy",
+    "I am! Most of the",
+    "day is spent with my",
+    "love."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "small blot/correction before 'spent'"
+  }
+ ],
+ "marks": [
+  {
+   "kind": "ink-blot",
+   "value": null,
+   "position": "body",
+   "note": "before 'spent'"
+  },
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing ignored"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Queen",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Aunt Annie",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

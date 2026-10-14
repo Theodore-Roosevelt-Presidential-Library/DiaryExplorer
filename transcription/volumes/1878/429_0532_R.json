@@ -1,0 +1,71 @@
+{
+ "frame": "429_0532",
+ "half": "R",
+ "volume": "1878",
+ "page_type": "diary-day",
+ "dates": [
+  "1878-04-19"
+ ],
+ "printed": {
+  "headers": [
+   "April, Friday 19. 1878."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1878-04-18",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "When the loved slept, in",
+    "brighter homes to waken,",
+    "Where their pale brows with",
+    "spirit wreaths are crowned;",
+    "",
+    "Large are the mansions in",
+    "my Father's dwelling,",
+    "Happy the homes which",
+    "sorrows never dim,",
+    "Sweet is the harp in",
+    "holy music swelling,",
+    "Glad are the tones which",
+    "raise the heavenly hymn.",
+    "",
+    "There, like an Eden blos-",
+    "-soming in gladness,",
+    "Bloom the fair flowers this",
+    "earth too rudely pressed;"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "Continues hymn from previous page (entry begun April 18)."
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "Mirrored writing from reverse of leaf; ignored."
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

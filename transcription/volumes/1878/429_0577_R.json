@@ -1,0 +1,101 @@
+{
+ "frame": "429_0577",
+ "half": "R",
+ "volume": "1878",
+ "page_type": "diary-day",
+ "dates": [
+  "1878-07-12"
+ ],
+ "printed": {
+  "headers": [
+   "July, Friday 12. 1878."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1878-07-12",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Rained all",
+    "day, and so,",
+    "for the first",
+    "time this sum-",
+    "-mer I had",
+    "to stay in",
+    "doors.",
+    "Of my five inti-",
+    "-mate friends, Cuff[?]",
+    "and John Elliott",
+    "over-; West and",
+    "Emlen under-",
+    "-estimate me; while",
+    "Alfred takes me",
+    "for about what",
+    "I am worth."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": "First name in line 9 uncertain (Cuff/Cluff)."
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "faint mirrored writing from reverse"
+  },
+  {
+   "kind": "other",
+   "value": "14",
+   "position": "bottom",
+   "note": "partly visible number at lower left, likely printed page number or later folio"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Cuff[?]",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "John Elliott",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "West",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Emlen",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Alfred",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "medium",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

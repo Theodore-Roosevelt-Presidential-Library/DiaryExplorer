@@ -1,0 +1,71 @@
+{
+ "frame": "429_0576",
+ "half": "L",
+ "volume": "1878",
+ "page_type": "diary-day",
+ "dates": [
+  "1878-07-09"
+ ],
+ "printed": {
+  "headers": [
+   "July, Tuesday 9. 1878."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1878-07-09",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Five months ago",
+    "It seems to me",
+    "that I have",
+    "aged very much",
+    "since that",
+    "bitter day; now",
+    "I must rely on",
+    "myself in diffi-",
+    "culties, while be-",
+    "fore I had al-",
+    "-ways carried",
+    "everything to him.",
+    "The vividness with",
+    "which I can",
+    "recall his words",
+    "and actions is",
+    "sometimes really",
+    "startling."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "\"Five months ago\" is framed by two heavy drawn black bars (mourning marks) at left and right."
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "faint mirrored writing from reverse"
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

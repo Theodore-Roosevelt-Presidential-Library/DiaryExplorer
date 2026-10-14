@@ -1,0 +1,38 @@
+{
+ "frame": "429_0649",
+ "half": "R",
+ "volume": "1878",
+ "page_type": "diary-day",
+ "dates": [
+  "1878-11-25"
+ ],
+ "printed": {
+  "headers": [
+   "November, Monday 25. 1878."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from reverse of leaf"
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": false,
+ "confidence": "medium",
+ "transcriber_notes": "Only very faint grey writing visible, judged to be show-through from the reverse of the leaf; no writing reads normally on this page.",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

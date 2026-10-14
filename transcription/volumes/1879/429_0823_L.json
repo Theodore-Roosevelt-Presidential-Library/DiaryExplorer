@@ -1,0 +1,153 @@
+{
+ "frame": "429_0823",
+ "half": "L",
+ "volume": "1879",
+ "page_type": "cash-account",
+ "dates": [],
+ "printed": {
+  "headers": [],
+  "title": "Summary of Cash Account.",
+  "description": "Printed month column Jan.-Dec. with Received and Paid columns."
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": null,
+   "kind": "heading",
+   "position": "over-printed-title",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "1879"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "Year written after printed title."
+  },
+  {
+   "id": "b2",
+   "date": null,
+   "kind": "table",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "550.00 400.65",
+    "135.01",
+    "14.35",
+    "735.00 679.27[?]",
+    "55.73",
+    "150.00 148.65",
+    "109.00 106.00",
+    "671.15 620.83[?]",
+    "300.00 290.77",
+    "40.00",
+    "383.00 330.50",
+    "1220.00 1292.00",
+    "4118.15 4113.80"
+   ],
+   "rows": [
+    [
+     "Jan.",
+     "550.00",
+     "400.65"
+    ],
+    [
+     "Feb.",
+     "",
+     "135.01"
+    ],
+    [
+     "Mar.",
+     "",
+     "14.35"
+    ],
+    [
+     "Apr.",
+     "735.00",
+     "679.27[?]"
+    ],
+    [
+     "May.",
+     "",
+     "55.73"
+    ],
+    [
+     "June.",
+     "150.00",
+     "148.65"
+    ],
+    [
+     "July.",
+     "109.00",
+     "106.00"
+    ],
+    [
+     "Aug.",
+     "671.15",
+     "620.83[?]"
+    ],
+    [
+     "Sept.",
+     "300.00",
+     "290.77"
+    ],
+    [
+     "Oct.",
+     "",
+     "40.00"
+    ],
+    [
+     "Nov.",
+     "383.00",
+     "330.50"
+    ],
+    [
+     "Dec.",
+     "1220.00",
+     "1292.00"
+    ],
+    [
+     "",
+     "4118.15",
+     "4113.80"
+    ]
+   ],
+   "columns": [
+    "Month (printed)",
+    "Received",
+    "Paid"
+   ],
+   "confidence": "medium",
+   "note": "Cents of Paid column small and partly in gutter; Apr. and Aug. cents uncertain (Paid column does not reconcile exactly as read). First digits of Jan., June and Dec. Received and Dec. Paid are heavy/overwritten."
+  }
+ ],
+ "marks": [
+  {
+   "kind": "archival-page-number",
+   "value": "572[?]",
+   "position": "top",
+   "note": "partly visible, top left"
+  },
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from reverse; ignored"
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "medium",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

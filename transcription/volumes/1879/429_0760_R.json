@@ -1,0 +1,110 @@
+{
+ "frame": "429_0760",
+ "half": "R",
+ "volume": "1879",
+ "page_type": "diary-day",
+ "dates": [
+  "1879-08-25"
+ ],
+ "printed": {
+  "headers": [
+   "Monday, August 25, 1879."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1879-08-25",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Paddled with Emlen",
+    "down to our old",
+    "camping ground at",
+    "the foot of the",
+    "Lake and back",
+    "— about 25 miles.",
+    "Hunted ^for^ partridges,",
+    "but found none.",
+    "Picked up a duck",
+    "in the thoroughfare.",
+    "Em & Arthur are",
+    "capital fellows for",
+    "a trip of this",
+    "kind — unselfish,",
+    "good natured, and",
+    "not minding a",
+    "little fatigue &",
+    "hardship."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "b2",
+   "date": "1879-08-25",
+   "kind": "tally",
+   "position": "bottom",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "1 wood duck."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  }
+ ],
+ "marks": [
+  {
+   "kind": "archival-page-number",
+   "value": "159",
+   "position": "top",
+   "note": null
+  },
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from reverse of leaf; ignored"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Emlen",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Em",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Arthur",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   "the Lake"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

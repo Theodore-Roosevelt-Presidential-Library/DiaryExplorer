@@ -1,0 +1,71 @@
+{
+ "frame": "429_0548",
+ "half": "R",
+ "volume": "1878",
+ "page_type": "diary-day",
+ "dates": [
+  "1878-05-17"
+ ],
+ "printed": {
+  "headers": [
+   "May, Friday 17. 1878."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1878-05-16",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "as [illegible] the",
+    "aim and purpose",
+    "of my life had",
+    "been taken away.",
+    "While always giv-",
+    "-ing me the most",
+    "complete freedom,",
+    "I had been so",
+    "accustomed to go",
+    "to him for advice",
+    "that I hardly",
+    "know how to decide",
+    "by myself some of the",
+    "things that come",
+    "up. No words can",
+    "tell how I shall",
+    "miss his advice as",
+    "to what I shall"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": "continues from previous page (entry begun May 16); runs on to next page; upper lines overlaid by show-through"
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from other side of leaf / facing page ignored"
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "medium",
+ "transcriber_notes": "Entry run-on from May 16.",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

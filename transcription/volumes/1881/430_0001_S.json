@@ -1,0 +1,77 @@
+{
+ "frame": "430_0001",
+ "half": "S",
+ "volume": "1881",
+ "page_type": "cover",
+ "dates": [],
+ "printed": {
+  "headers": [],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": null,
+   "kind": "inscription",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Theodore Roosevelt",
+    "6 West 57 St.",
+    "New York",
+    "Alice H. Roosevelt",
+    "6 West 57 St.",
+    "New York",
+    "United States"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "Ownership inscription on front cover/flyleaf."
+  }
+ ],
+ "marks": [
+  {
+   "kind": "archival-page-number",
+   "value": "201",
+   "position": "top",
+   "note": "Number at top right; may be later numbering, hand uncertain."
+  },
+  {
+   "kind": "catalog-mark",
+   "value": "[4]",
+   "position": "bottom",
+   "note": "Bracketed number, later archival mark."
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Theodore Roosevelt",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Alice H. Roosevelt",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   "6 West 57 St.",
+   "New York",
+   "United States"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

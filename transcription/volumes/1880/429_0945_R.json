@@ -1,0 +1,86 @@
+{
+ "frame": "429_0945",
+ "half": "R",
+ "volume": "1880",
+ "page_type": "diary-day",
+ "dates": [
+  "1880-08-61880"
+ ],
+ "printed": {
+  "headers": [
+   "AUGUST, FRIDAY 6. 1880."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1880-08-61880",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Shaw, Chapin, Saltonstall,",
+    "Rose, Alice and myself",
+    "all left; Alice and I",
+    "reached Chestnut Hill",
+    "late at night."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "faint ink"
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from reverse of leaf ignored"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Shaw",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Chapin",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Saltonstall",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Rose",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Alice",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   "Chestnut Hill"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

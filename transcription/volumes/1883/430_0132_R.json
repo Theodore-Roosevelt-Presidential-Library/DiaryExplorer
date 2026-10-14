@@ -1,0 +1,94 @@
+{
+ "frame": "430_0132",
+ "half": "R",
+ "volume": "1883",
+ "page_type": "diary-day",
+ "dates": [
+  "1883-09-14"
+ ],
+ "printed": {
+  "headers": [
+   "SEPTEMBER 14 Friday"
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1883-09-14",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "No game, so shifted",
+    "camp to about six miles",
+    "farther down towards",
+    "the foot hills, in a",
+    "narrow valley with",
+    "steep, wooded sides.",
+    "M. & I started off on",
+    "foot at three p.m.,",
+    "and hunted till",
+    "nightfall all through",
+    "the woods and hills.",
+    "I got a shot at a",
+    "great bull elk with",
+    "magnificent[?] antlers",
+    "in the wood[?], facing",
+    "me 75 yards (81 paces",
+    "off, killing[?] him",
+    "very neatly[?]. Knocked",
+    "off the heads of",
+    "two grouse for supper."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "low",
+   "note": "heavily smudged/blotted ink with dense show-through; lower half especially uncertain"
+  },
+  {
+   "id": "b2",
+   "date": "1883-09-14",
+   "kind": "tally",
+   "position": "bottom",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "1 elk 2 grouse."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": null
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from reverse of leaf, ignored"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "M.",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "low",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

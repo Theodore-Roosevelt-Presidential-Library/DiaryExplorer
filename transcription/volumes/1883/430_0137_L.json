@@ -1,0 +1,59 @@
+{
+ "frame": "430_0137",
+ "half": "L",
+ "volume": "1883",
+ "page_type": "diary-day",
+ "dates": [
+  "1883-09-23"
+ ],
+ "printed": {
+  "headers": [
+   "SEPTEMBER 23 Sunday"
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1883-09-23",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Long days journey;",
+    "Camped where we lunched[?]",
+    "on Aug 30th, under the[?]",
+    "great Balm tree"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": null
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from reverse of leaf, ignored"
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [],
+  "dates": [
+   "Aug 30th"
+  ]
+ },
+ "has_tr_writing": true,
+ "confidence": "medium",
+ "transcriber_notes": "faint mirrored text below is show-through/offset of Sept 21 entry",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

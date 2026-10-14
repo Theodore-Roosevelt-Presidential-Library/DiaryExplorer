@@ -1,0 +1,82 @@
+{
+ "frame": "429_0526",
+ "half": "R",
+ "volume": "1878",
+ "page_type": "diary-day",
+ "dates": [
+  "1878-04-07"
+ ],
+ "printed": {
+  "headers": [
+   "April, Sunday 7. 1878."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1878-04-07",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "S. S. as usual.",
+    "After all, it is",
+    "merely selfish",
+    "grief; I know",
+    "this thoroughly;",
+    "but it is very",
+    "terrible sometimes.",
+    "",
+    "It is curious, how",
+    "different my",
+    "scholars are in",
+    "character; the",
+    "only one that asks",
+    "me questions is",
+    "Watson, who is",
+    "also very good;",
+    "Ward is very",
+    "good but frightfully"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "Entry continues on next page."
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "Mirrored writing from reverse of leaf; ignored."
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Watson",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Ward",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

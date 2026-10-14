@@ -1,0 +1,92 @@
+{
+ "frame": "429_0794",
+ "half": "L",
+ "volume": "1879",
+ "page_type": "diary-day",
+ "dates": [
+  "1879-11-02"
+ ],
+ "printed": {
+  "headers": [
+   "Sunday, November 2, 1879."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1879-11-02",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "In the afternoon I left",
+    "Oyster Bay with much",
+    "reluctance and came in to",
+    "New York to spend the",
+    "night at Uncle Jim's",
+    "In the evening went to",
+    "call on the Lees, who are",
+    "staying here; I can do",
+    "nothing for them myself,",
+    "but the Roosevelts have",
+    "come up to time nobly,",
+    "and they have spreads on",
+    "hand for every evening of",
+    "next week."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "'Lees' and 'spreads' read with reasonable certainty"
+  }
+ ],
+ "marks": [
+  {
+   "kind": "archival-page-number",
+   "value": "319",
+   "position": "top",
+   "note": "pencil"
+  },
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from reverse of leaf; ignored"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Uncle Jim",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "the Lees",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "the Roosevelts",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   "Oyster Bay",
+   "New York"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

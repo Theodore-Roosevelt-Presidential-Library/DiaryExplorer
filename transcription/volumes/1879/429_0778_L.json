@@ -1,0 +1,66 @@
+{
+ "frame": "429_0778",
+ "half": "L",
+ "volume": "1879",
+ "page_type": "diary-day",
+ "dates": [
+  "1879-09-29"
+ ],
+ "printed": {
+  "headers": [
+   "Monday, September 29, 1879."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1879-09-29",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "From 8.30 till 10 I study",
+    "Italian. 10-11; Italian",
+    "Recitation. 11-2 study",
+    "Political Economy. 2-3, Pol.",
+    "Econ. recitation. 6 hours work.",
+    "I am going to give an",
+    "abstract of my studies",
+    "each day this week —",
+    "not counting theses &c.",
+    "I am perfectly delighted",
+    "with the horse and",
+    "cart; it is as swell",
+    "a turnout as I know."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from reverse of leaf ignored"
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

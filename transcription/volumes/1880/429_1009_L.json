@@ -1,0 +1,73 @@
+{
+ "frame": "429_1009",
+ "half": "L",
+ "volume": "1880",
+ "page_type": "diary-day",
+ "dates": [
+  "1880-12-17"
+ ],
+ "printed": {
+  "headers": [
+   "December, Friday 17. 1880."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1880-12-17",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Went to a great afternoon",
+    "reception at the Iselins;",
+    "and to another at",
+    "the Morans. I like",
+    "these \"teas\"; I never",
+    "stay more than two",
+    "minutes with any",
+    "girl and so don't",
+    "get talked out."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "faint mirrored writing from reverse of leaf, ignored"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Iselins",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Morans",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "Lower half shows faint ghost of 15 Dec entry; ignored.",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

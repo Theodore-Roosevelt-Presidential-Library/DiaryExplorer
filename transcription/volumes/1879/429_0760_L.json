@@ -1,0 +1,73 @@
+{
+ "frame": "429_0760",
+ "half": "L",
+ "volume": "1879",
+ "page_type": "diary-day",
+ "dates": [
+  "1879-08-24"
+ ],
+ "printed": {
+  "headers": [
+   "Sunday, August 24, 1879."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1879-08-24",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Spent the day chiefly in",
+    "preparations. I have 2",
+    "complete changes of",
+    "clothes, & plenty of",
+    "handkerchiefs & woolen",
+    "socks. I dress in a flannel",
+    "shirt, a light, strong",
+    "duck trousers & heavy",
+    "underflannels; carry a",
+    "heavy jacket & a blanket;",
+    "and have my necessaries",
+    "in a small bag. I have",
+    "taken both rifle &",
+    "shot gun."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": null
+  }
+ ],
+ "marks": [
+  {
+   "kind": "archival-page-number",
+   "value": "1[?]",
+   "position": "top",
+   "note": "mostly cut off"
+  },
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from reverse of leaf; ignored"
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "medium",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

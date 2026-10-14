@@ -1,0 +1,97 @@
+{
+ "frame": "430_0119",
+ "half": "L",
+ "volume": "1883",
+ "page_type": "diary-day",
+ "dates": [
+  "1883-08-20"
+ ],
+ "printed": {
+  "headers": [
+   "AUGUST 20 Monday"
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": null,
+   "kind": "heading",
+   "position": "over-printed-title",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "18"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "Written beside struck printed day number \"20\"; refers to 18 Aug 1884."
+  },
+  {
+   "id": "b2",
+   "date": "1883-08-20",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Made late start.",
+    "Left wagon on",
+    "prairie & Merrif[ield]",
+    "& I rode on",
+    "and spent",
+    "night at",
+    "Langs. Out on",
+    "prairie got",
+    "caught in",
+    "driving hail",
+    "storm; sheltered",
+    "in a washout.",
+    "Wind so strong",
+    "could hardly",
+    "stand; ponies would",
+    "not face it. Our",
+    "\"slickers\" and chaps",
+    "kept us perfectly dry,",
+    "in spite of the driving",
+    "rain. The Winchester",
+    "45-75 shoots beautifully."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": "1884 entry. Name at right edge cut off by binding/film. Very heavy show-through in lower half."
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from reverse incl. \"1884\" and heading at top"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Merrif[ield]",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   "Langs"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "medium",
+ "transcriber_notes": "Printed 1883 heading reused in 1884; TR wrote \"18\".",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

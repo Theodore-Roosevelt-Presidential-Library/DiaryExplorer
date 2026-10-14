@@ -1,0 +1,86 @@
+{
+ "frame": "429_0784",
+ "half": "R",
+ "volume": "1879",
+ "page_type": "diary-day",
+ "dates": [
+  "1879-10-12"
+ ],
+ "printed": {
+  "headers": [
+   "Sunday, October 12, 1879."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1879-10-12",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Dick being decidedly under",
+    "the weather from last nights",
+    "spree, I drove him over to",
+    "Chestnut Hill, after break-",
+    "fasting in the Porc. about",
+    "11 oclock. I dined at",
+    "the Saltonstalls, and went",
+    "out walking with Rosy",
+    "Lee; and ^with^ Rose afterwards."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": "writing smudged/blotted in places; 'decidedly' and 'dined' read with some uncertainty"
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from reverse of leaf ignored"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Dick",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Saltonstalls",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Rosy Lee",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Rose",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   "Chestnut Hill",
+   "Porc."
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "medium",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

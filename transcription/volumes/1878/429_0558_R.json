@@ -1,0 +1,88 @@
+{
+ "frame": "429_0558",
+ "half": "R",
+ "volume": "1878",
+ "page_type": "diary-day",
+ "dates": [
+  "1878-06-04"
+ ],
+ "printed": {
+  "headers": [
+   "June, Tuesday 4. 1878."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1878-06-03",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "having temporarily",
+    "broken up I am",
+    "now at Memorial",
+    "Hall with",
+    "hap-hazard little",
+    "Gorham Peters."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "continues from previous page (June 3 entry)"
+  },
+  {
+   "id": "b2",
+   "date": "1878-06-04",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "The weather has",
+    "~~there~~ become much",
+    "warmer and hard",
+    "to study in; but",
+    "my three remaining",
+    "examinations need",
+    "very little preparation."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": "Struck word at start of second line read as 'there' (uncertain)."
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "faint mirrored writing from reverse of leaf; ignored"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Gorham Peters",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   "Memorial Hall"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

@@ -1,0 +1,80 @@
+{
+ "frame": "429_0700",
+ "half": "L",
+ "volume": "1879",
+ "page_type": "diary-day",
+ "dates": [
+  "1879-03-11"
+ ],
+ "printed": {
+  "headers": [
+   "Tuesday, March 11, 1879."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1879-03-11",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Started back for Island Falls. It",
+    "was warmish, sleeting and",
+    "raining, and the roads were",
+    "frightful. Several times when",
+    "the horse floundered off the track",
+    "into the deep snow-drifts we",
+    "had to unharness him and",
+    "drag the sleigh ourselves for a",
+    "hundred yards or so. It was",
+    "very fatiguing work, as we walked",
+    "all the time, and got wet through",
+    "and cold and hungry. The",
+    "road was chiefly through the woods,",
+    "with every now and then clearings,",
+    "with the shaggy, ^black^ cattle and sheep",
+    "crowding around the barns - the",
+    "pictures of bleakness. Heard some snow",
+    "^buntings^ birds singing beautifully. Reached",
+    "Island Falls in time for tea."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": "'buntings' written above 'birds'; 'birds' is heavily inked and may be struck or overwritten."
+  }
+ ],
+ "marks": [
+  {
+   "kind": "archival-page-number",
+   "value": "43",
+   "position": "left-margin",
+   "note": "pencil, top left"
+  },
+  {
+   "kind": "show-through",
+   "value": "1 buck",
+   "position": "bottom",
+   "note": "faint mirrored tally from reverse (10 March page); ignored"
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [
+   "Island Falls"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "medium",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

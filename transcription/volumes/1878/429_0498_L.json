@@ -1,0 +1,38 @@
+{
+ "frame": "429_0498",
+ "half": "L",
+ "volume": "1878",
+ "page_type": "diary-day",
+ "dates": [
+  "1878-02-11"
+ ],
+ "printed": {
+  "headers": [
+   "February, Monday 11. 1878."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "faint grey 'My dear Father. Born Sept 23d 1831' reading normally; offset of Feb 9 seen through leaf"
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": false,
+ "confidence": "high",
+ "transcriber_notes": "Blank day; faint text duplicates Feb 9 entry and is treated as offset/show-through.",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

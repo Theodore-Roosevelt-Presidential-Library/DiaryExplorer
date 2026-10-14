@@ -1,0 +1,244 @@
+{
+ "frame": "429_1021",
+ "half": "R",
+ "volume": "1880",
+ "page_type": "other",
+ "dates": [],
+ "printed": {
+  "headers": [],
+  "title": "Cash Account—August.",
+  "description": "Printed cash-account ruling with column heads 'Date.', 'Received.', 'Paid.'"
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": null,
+   "kind": "table",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "76 77 78 79 80",
+    "80=1",
+    "80=4",
+    "77=1 79=5",
+    "80=1",
+    "80=1",
+    "80=1",
+    "80=2",
+    "77=2 78=1 79=2 80=1",
+    "80=2",
+    "80=2",
+    "78=1 79=1 80=2",
+    "76=1 77=2 78=1",
+    "78=1",
+    "77=4",
+    "77=1 78=2",
+    "78=2 79=4",
+    "80=1",
+    "78=1 79=1",
+    "80=4",
+    "20 46 79 121 203"
+   ],
+   "rows": [
+    [
+     "Goose",
+     "",
+     "",
+     "",
+     "",
+     "1"
+    ],
+    [
+     "Mallard",
+     "",
+     "",
+     "",
+     "",
+     "4"
+    ],
+    [
+     "Black Duck",
+     "",
+     "1",
+     "",
+     "5",
+     ""
+    ],
+    [
+     "Widgeon",
+     "",
+     "",
+     "",
+     "",
+     "1"
+    ],
+    [
+     "Sprigtail Duck",
+     "",
+     "",
+     "",
+     "",
+     "1"
+    ],
+    [
+     "Green Wing Teal",
+     "",
+     "",
+     "",
+     "",
+     "1"
+    ],
+    [
+     "Blue Wing Teal",
+     "",
+     "",
+     "",
+     "",
+     "2"
+    ],
+    [
+     "Wood Duck",
+     "",
+     "2",
+     "1",
+     "2",
+     "1"
+    ],
+    [
+     "Redhead",
+     "",
+     "",
+     "",
+     "",
+     "2"
+    ],
+    [
+     "Blue-Bill",
+     "",
+     "",
+     "",
+     "",
+     "2"
+    ],
+    [
+     "Dipper",
+     "",
+     "",
+     "1",
+     "1",
+     "2"
+    ],
+    [
+     "Old-squaw",
+     "1",
+     "2",
+     "1",
+     "",
+     ""
+    ],
+    [
+     "Ruddy Duck",
+     "",
+     "",
+     "1",
+     "",
+     ""
+    ],
+    [
+     "Surf Duck",
+     "",
+     "4",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Whitewing Scoter",
+     "",
+     "1",
+     "2",
+     "",
+     ""
+    ],
+    [
+     "Sheldrake",
+     "",
+     "",
+     "2",
+     "4",
+     ""
+    ],
+    [
+     "Hooded Merganser",
+     "",
+     "",
+     "",
+     "",
+     "1"
+    ],
+    [
+     "Loon",
+     "",
+     "",
+     "1",
+     "1",
+     ""
+    ],
+    [
+     "Grebe",
+     "",
+     "",
+     "",
+     "",
+     "4"
+    ],
+    [
+     "(totals)",
+     "20",
+     "46",
+     "79",
+     "121",
+     "203"
+    ]
+   ],
+   "columns": [
+    "Game (label from facing page 429_1021_L, not written here)",
+    "76",
+    "77",
+    "78",
+    "79",
+    "80"
+   ],
+   "confidence": "high",
+   "note": "Continuation of the game tally from facing page; totals line under a rule. '79 total written ambiguously ('121', last digit cramped) — 121 confirmed because all column totals (195+17+26+20+46+79+121+203) sum to the grand total 707. Row assignment by ruled-line position, confirmed by row totals on facing page."
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "faint mirrored figures from reverse ignored"
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [],
+  "dates": [
+   "76",
+   "77",
+   "78",
+   "79",
+   "80"
+  ]
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

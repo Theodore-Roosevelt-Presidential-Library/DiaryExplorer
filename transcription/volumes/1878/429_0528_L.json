@@ -1,0 +1,68 @@
+{
+ "frame": "429_0528",
+ "half": "L",
+ "volume": "1878",
+ "page_type": "diary-day",
+ "dates": [
+  "1878-04-10"
+ ],
+ "printed": {
+  "headers": [
+   "April, Wednesday 10. 1878."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1878-04-10",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "[Was greeted]",
+    "with the most",
+    "heartfelt joy",
+    "by all, but",
+    "Bamie[?] who",
+    "is away in",
+    "Denver"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": "First line set between heavy bracket-like marks, rendered [ ]. Heavy show-through overlaps the text."
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "Mirrored writing from reverse of leaf; ignored."
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Bamie[?]",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   "Denver"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "medium",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

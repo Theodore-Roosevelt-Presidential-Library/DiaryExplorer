@@ -1,0 +1,87 @@
+{
+ "frame": "429_0737",
+ "half": "R",
+ "volume": "1879",
+ "page_type": "diary-day",
+ "dates": [
+  "1879-06-28"
+ ],
+ "printed": {
+  "headers": [
+   "Saturday, June 28, 1879."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1879-06-28",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Bade adieu to the Whitneys,",
+    "and came on to New York.",
+    "So ends my Junior",
+    "Year; and I can not",
+    "possibly conceive of",
+    "any fellow having a",
+    "pleasanter time than",
+    "I have had. I doubt",
+    "if I ever shall enjoy",
+    "myself so much",
+    "again. I have done",
+    "well in my studies",
+    "and I have had a",
+    "most royally good",
+    "time with the Club,",
+    "my horse, and above",
+    "all the sweet, pretty",
+    "girls at Chestnut",
+    "Hill &c."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  }
+ ],
+ "marks": [
+  {
+   "kind": "archival-page-number",
+   "value": "123",
+   "position": "top",
+   "note": "pencil, right of header"
+  },
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": null
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Whitneys",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   "New York",
+   "Chestnut Hill"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

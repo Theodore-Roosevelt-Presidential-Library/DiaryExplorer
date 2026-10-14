@@ -1,0 +1,80 @@
+{
+ "frame": "430_0142",
+ "half": "R",
+ "volume": "1883",
+ "page_type": "diary-day",
+ "dates": [
+  "1883-10-04"
+ ],
+ "printed": {
+  "headers": [
+   "OCTOBER 4 Thursday"
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1883-10-04",
+   "kind": "heading",
+   "position": "over-printed-title",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "2"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "TR's numeral '2' written over the printed day number (4), re-dating the page"
+  },
+  {
+   "id": "b2",
+   "date": "1883-10-04",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Still raining; beds pretty wet;",
+    "horses had strayed; ~~[illegible]~~",
+    "could not find them",
+    "till noon; then one",
+    "of the team was in a",
+    "mud hole; worked two",
+    "hours to get her out;",
+    "she could hardly",
+    "stand[?]; so had to stay",
+    "in camp."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": null
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from reverse of leaf, ignored"
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [],
+  "dates": [
+   "2"
+  ]
+ },
+ "has_tr_writing": true,
+ "confidence": "medium",
+ "transcriber_notes": "printed day number obscured by TR's overwritten '2'; printed date inferred as 4 from weekday and sequence",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

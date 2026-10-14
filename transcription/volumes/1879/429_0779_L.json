@@ -1,0 +1,109 @@
+{
+ "frame": "429_0779",
+ "half": "L",
+ "volume": "1879",
+ "page_type": "diary-day",
+ "dates": [
+  "1879-10-01"
+ ],
+ "printed": {
+  "headers": [
+   "Wednesday, October 1, 1879."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1879-10-01",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "8.30-10 Study Italian. 10-11",
+    "Recite Italian. 11-12 Study",
+    "~~Polecon~~ Pol. Econ. 12-1",
+    "Geology &[?] Lecture; 2-3",
+    "Pol. Econ recitation",
+    "6 hours work.",
+    "~~Almost[?]~~ Every afternoon I go",
+    "out in the cart, gener-",
+    "ally taking some",
+    "fellow with me, unless",
+    "I go visiting.",
+    "Of all the fellows here,",
+    "Dick Saltonstall is my",
+    "most intimate friend,",
+    "(Harry Shaw coming next?)",
+    "then Minot Weld and Harry",
+    "Chapin & John Tebbets[?] &c. Old",
+    "Dick I place on a par",
+    "with the Roosevelts."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "'&' before Lecture may be a superscript insertion"
+  }
+ ],
+ "marks": [
+  {
+   "kind": "archival-page-number",
+   "value": "194[?]",
+   "position": "top",
+   "note": "pencil numeral at top corner, later mark"
+  },
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from reverse of leaf ignored"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Dick Saltonstall",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Harry Shaw",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Minot Weld",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Harry Chapin",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "John Tebbets[?]",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Roosevelts",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

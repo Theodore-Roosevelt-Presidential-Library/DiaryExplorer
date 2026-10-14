@@ -1,0 +1,71 @@
+{
+ "frame": "429_0517",
+ "half": "L",
+ "volume": "1878",
+ "page_type": "diary-day",
+ "dates": [
+  "1878-03-19"
+ ],
+ "printed": {
+  "headers": [
+   "March, Tuesday 19. 1878."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1878-03-19",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Have been look-",
+    "ing over my",
+    "Egyptian journal;",
+    "every incident",
+    "is connected with",
+    "him.",
+    "Sometimes when",
+    "I think of my",
+    "terrible loss it",
+    "seems as if my",
+    "heart would",
+    "break; he shared",
+    "all my joys,",
+    "and in sharing",
+    "doubled them,",
+    "and soothed all",
+    "the few sorrows",
+    "I ever had."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "\"him\" is underlined."
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "Mirrored writing from reverse of leaf; ignored."
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

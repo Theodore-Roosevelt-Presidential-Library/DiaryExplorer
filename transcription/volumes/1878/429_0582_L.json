@@ -1,0 +1,70 @@
+{
+ "frame": "429_0582",
+ "half": "L",
+ "volume": "1878",
+ "page_type": "diary-day",
+ "dates": [
+  "1878-07-19"
+ ],
+ "printed": {
+  "headers": [
+   "July, Friday 19. 1878."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1878-07-19",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Rowed to Rye Beach",
+    "and back. Perfectly",
+    "calm but very hot.",
+    "Started at[?] 5.15 ^a.m.^; Rocky",
+    "Point 6.10; Oak Bluff",
+    "6.40; Rye Beach 8.15.",
+    "Started back 4.45",
+    "p.m; Centre Island",
+    "buoy[?] 6.15; home 7.15.",
+    "In all I rowed",
+    "rather over 25 miles.",
+    "Saw a stormy petrel."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": "Word before 5.15 is overwritten/blotted; \"a.m.\" written small above. \"buoy\" spelled uncertainly."
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "faint mirrored writing from reverse"
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [
+   "Rye Beach",
+   "Rocky Point",
+   "Oak Bluff",
+   "Centre Island"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "medium",
+ "transcriber_notes": "Duplicate microfilm exposure of the same opening as frame 429_0581 (July 19-20).",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

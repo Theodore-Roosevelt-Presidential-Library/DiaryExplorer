@@ -1,0 +1,80 @@
+{
+ "frame": "429_0719",
+ "half": "R",
+ "volume": "1879",
+ "page_type": "diary-day",
+ "dates": [
+  "1879-05-19"
+ ],
+ "printed": {
+  "headers": [
+   "Monday, May 19, 1879."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1879-05-19",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Early in the morning",
+    "came back to Cambridge.",
+    "I took tea with the",
+    "Lanes[?], and had a",
+    "very pleasant evening;",
+    "both of the girls are",
+    "very sweet and Miss",
+    "Lulu[?] very pretty."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  }
+ ],
+ "marks": [
+  {
+   "kind": "archival-page-number",
+   "value": null,
+   "position": "top",
+   "note": "faint pencil folio, unreadable"
+  },
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from reverse of leaf; ignored"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "the Lanes[?]",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Miss Lulu[?]",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   "Cambridge"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "Lower lines are mirrored show-through; ignored.",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

@@ -1,0 +1,113 @@
+{
+ "frame": "429_0942",
+ "half": "L",
+ "volume": "1880",
+ "page_type": "diary-day",
+ "dates": [
+  "1880-07-301880"
+ ],
+ "printed": {
+  "headers": [
+   "JULY, FRIDAY 30. 1880."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1880-07-301880",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "I was pretty sick today;",
+    "but it's worth while being",
+    "sick to find out what",
+    "perfect trumps my friends",
+    "are. All the rest of \"Big Six\"",
+    "(Sammy, Chip, Jack, Dick",
+    "and Minot) took the best",
+    "care of me. Above all, my",
+    "own best beloved darling,",
+    "my purest queen, my",
+    "sweetest Alice, acted the part of",
+    "an ideal little ~~life~~ wife; she",
+    "was so sweet and tender",
+    "and loving and thoughtful;",
+    "gave up all of her amusements",
+    "to take care of me; and",
+    "was such a bright, bewitching",
+    "little sunbeam that her",
+    "very presence made me feel",
+    "well. What a treasure I have won!",
+    "Was there ever a man as fortu-",
+    "nate as I? I can hardly believe it.",
+    "How I shall try to be worthy of her,",
+    "and make her happy!"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from reverse of leaf ignored"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Big Six",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Sammy",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Chip",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Jack",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Dick",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Minot",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Alice",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

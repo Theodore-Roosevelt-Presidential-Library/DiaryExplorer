@@ -1,0 +1,70 @@
+{
+ "frame": "429_0607",
+ "half": "L",
+ "volume": "1878",
+ "page_type": "diary-day",
+ "dates": [
+  "1878-08-28"
+ ],
+ "printed": {
+  "headers": [
+   "AUGUST, WEDNESDAY 28. 1878."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1878-08-28",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "We sailed to Green-",
+    "-port, the wind",
+    "being light and",
+    "puffy. Having",
+    "several hundred",
+    "cartridges aboard",
+    "we practise with",
+    "our revolvers at",
+    "everything that",
+    "comes up from",
+    "bottles or buoys to",
+    "sharks and porpoises",
+    "I never slept",
+    "or ate better in",
+    "my life."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from reverse of leaf; ignored"
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [
+   "Greenport"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

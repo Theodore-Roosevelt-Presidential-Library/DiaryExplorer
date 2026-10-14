@@ -1,0 +1,84 @@
+{
+ "frame": "429_0654",
+ "half": "R",
+ "volume": "1878",
+ "page_type": "diary-day",
+ "dates": [
+  "1878-12-07"
+ ],
+ "printed": {
+  "headers": [
+   "December, Saturday 7. 1878."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1878-12-07",
+   "kind": "heading",
+   "position": "over-printed-title",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Sunday 8"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "Written above printed 'SATURDAY 7.', which is struck through by hand (~~Saturday 7.~~)."
+  },
+  {
+   "id": "b2",
+   "date": "1878-12-07",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Several 'honoraries'",
+    "were out at the",
+    "Porcellian breakfast.",
+    "After Sunday School",
+    "went in town and",
+    "had a very pleasant",
+    "dinner at Jack",
+    "Tebbets."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from reverse of leaf"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Jack Tebbets",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   "Porcellian"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "Printed 'Saturday 7.' struck and relabeled 'Sunday 8'; the entry describes Sunday. Date field kept as printed date.",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

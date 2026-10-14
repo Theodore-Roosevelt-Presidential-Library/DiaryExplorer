@@ -1,0 +1,77 @@
+{
+ "frame": "430_0131",
+ "half": "L",
+ "volume": "1883",
+ "page_type": "diary-day",
+ "dates": [
+  "1883-09-11"
+ ],
+ "printed": {
+  "headers": [
+   "SEPTEMBER 11 Tuesday"
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1883-09-11",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Broke camp and went",
+    "about six miles farther,",
+    "to a branch of the",
+    "Ten Sleep; better camp.",
+    "Snowed last night;",
+    "all this afternoon",
+    "it snowed at inter-",
+    "vals, so that the",
+    "country has quite a",
+    "wintry look; in the",
+    "moonlight at night",
+    "the scenery is very",
+    "beautiful.",
+    "The bear meat",
+    "is very good eating; I",
+    "have never been in",
+    "better health. California",
+    "is a superb riding",
+    "horse; he is not so",
+    "good as[?] a hunting",
+    "pony as Blackie or",
+    "Spleitear[?]."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": "mark before 'a hunting' may be a struck word"
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from reverse of leaf, ignored"
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [
+   "Ten Sleep"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "medium",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

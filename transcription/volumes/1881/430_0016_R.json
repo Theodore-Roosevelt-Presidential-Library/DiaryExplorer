@@ -1,0 +1,122 @@
+{
+ "frame": "430_0016",
+ "half": "R",
+ "volume": "1881",
+ "page_type": "diary-day",
+ "dates": [
+  "1881-02-06",
+  "1881-02-07",
+  "1881-02-08"
+ ],
+ "printed": {
+  "headers": [
+   "February, Sunday 6. 1881.",
+   "Monday 7.",
+   "Tuesday 8."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1881-02-06",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "At last, after very",
+    "much vacillation",
+    "& unhappiness darling",
+    "little Corinne has accepted",
+    "Douglass. Am very glad.",
+    "He is splendid fellow."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "b2",
+   "date": "1881-02-07",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Took Aunt Annie a",
+    "sleigh ride.",
+    "Dinner at the",
+    "Leavitts."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "b3",
+   "date": "1881-02-08",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Dinner at Aunt Lauras[?]"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": "Last word runs into gutter."
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": null
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Corinne",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Douglass",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Aunt Annie",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Leavitts",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Aunt Lauras[?]",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

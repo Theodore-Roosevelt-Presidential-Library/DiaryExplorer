@@ -1,0 +1,71 @@
+{
+ "frame": "429_0538",
+ "half": "R",
+ "volume": "1878",
+ "page_type": "diary-day",
+ "dates": [
+  "1878-05-01"
+ ],
+ "printed": {
+  "headers": [
+   "May, Wednesday 1. 1878."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1878-05-01",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "As usual, May opens",
+    "with most gloomy",
+    "weather. Was rather",
+    "unwell[?] and kept",
+    "to the house; yet[?] of",
+    "course I have been",
+    "thinking a great",
+    "deal of Father, but,",
+    "I do not know why,",
+    "today it has only",
+    "given me pleasure",
+    "to do so."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": "heavy show-through over writing; line below (\"of affliction.\") is mirrored offset from facing page, ignored"
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from other side of leaf / facing page ignored"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Father",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "medium",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

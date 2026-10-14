@@ -1,0 +1,70 @@
+{
+ "frame": "429_0734",
+ "half": "L",
+ "volume": "1879",
+ "page_type": "diary-day",
+ "dates": [
+  "1879-06-21"
+ ],
+ "printed": {
+  "headers": [
+   "Saturday, June 21, 1879."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1879-06-21",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "I rode over to see the",
+    "Lowells where I passed",
+    "a very pleasant time.",
+    "In the evening there",
+    "was a Porc. Supper."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  }
+ ],
+ "marks": [
+  {
+   "kind": "archival-page-number",
+   "value": "116",
+   "position": "left-margin",
+   "note": "pencil, upper left"
+  },
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "lower two-thirds mirrored writing"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Lowells",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

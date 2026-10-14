@@ -1,0 +1,87 @@
+{
+ "frame": "429_0569",
+ "half": "L",
+ "volume": "1878",
+ "page_type": "diary-day",
+ "dates": [
+  "1878-06-25"
+ ],
+ "printed": {
+  "headers": [
+   "June, Tuesday 25. 1878."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1878-06-25",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Rowed round",
+    "Centre Island, shoot=",
+    "-ing on the way, in",
+    "2 hours. there was",
+    "quite a sea running",
+    "and I shipped a",
+    "good deal of",
+    "water.",
+    "Had a long",
+    "ride; I am very",
+    "fond of galloping",
+    "over these level",
+    "Long Island roads,",
+    "and there are some",
+    "beautiful pines around",
+    "here"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "Line ends read from full frame."
+  },
+  {
+   "id": "b2",
+   "date": "1878-06-25",
+   "kind": "tally",
+   "position": "bottom",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "2 sandpipers"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "faint mirrored writing from reverse of leaf; ignored"
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [
+   "Centre Island",
+   "Long Island"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "BAD SPLIT: right edge of page cut off in half image; ends of lines transcribed from full/429_0569.jpg.",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

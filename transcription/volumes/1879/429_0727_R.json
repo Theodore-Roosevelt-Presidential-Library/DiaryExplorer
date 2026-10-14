@@ -1,0 +1,80 @@
+{
+ "frame": "429_0727",
+ "half": "R",
+ "volume": "1879",
+ "page_type": "diary-day",
+ "dates": [
+  "1879-06-04"
+ ],
+ "printed": {
+  "headers": [
+   "Wednesday, June 4, 1879."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1879-06-04",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Dick S. and I drove over",
+    "to the Whitneys, where we",
+    "took tea and passed a",
+    "very jolly evening."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  }
+ ],
+ "marks": [
+  {
+   "kind": "archival-page-number",
+   "value": null,
+   "position": "top",
+   "note": "faint pencil folio, unreadable"
+  },
+  {
+   "kind": "other",
+   "value": null,
+   "position": "left-margin",
+   "note": "short vertical pencil stroke beside first line"
+  },
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from reverse of leaf; ignored"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Dick S.",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "the Whitneys",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

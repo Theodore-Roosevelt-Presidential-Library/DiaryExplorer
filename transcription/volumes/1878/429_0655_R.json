@@ -1,0 +1,77 @@
+{
+ "frame": "429_0655",
+ "half": "R",
+ "volume": "1878",
+ "page_type": "diary-day",
+ "dates": [
+  "1878-12-09"
+ ],
+ "printed": {
+  "headers": [
+   "December, Monday 9. 1878."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1878-12-09",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "This being out of my",
+    "own room has broken",
+    "up my regular habits",
+    "a good deal, and cut",
+    "into my studying",
+    "and exercise. Kind",
+    "though the two Charlies",
+    "are I find it rather",
+    "difficult to get my",
+    "hours arranged to suit",
+    "me; and spend more",
+    "time in the club than",
+    "I ought to, playing",
+    "whist and billiards,",
+    "and at partridge",
+    "suppers."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from reverse of leaf"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "the two Charlies",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   "the club"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

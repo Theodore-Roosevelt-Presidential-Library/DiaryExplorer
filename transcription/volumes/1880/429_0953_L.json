@@ -1,0 +1,93 @@
+{
+ "frame": "429_0953",
+ "half": "L",
+ "volume": "1880",
+ "page_type": "diary-day",
+ "dates": [
+  "1880-08-21"
+ ],
+ "printed": {
+  "headers": [
+   "August, Saturday 21. 1880."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1880-08-21",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "E. & I started off in a",
+    "wagon, and shot all day.",
+    "When we came to a good",
+    "looking place we would tie",
+    "the horses to a fence, and",
+    "spend an hour or two",
+    "hunting through the",
+    "meadow, stubble fields",
+    "and pastures for chicken,",
+    "or by the slews[?] and",
+    "ponds for ducks, snipe",
+    "and plover. The roads are",
+    "excellent and almost",
+    "level and the country beau-",
+    "-tiful; we made a fair",
+    "bag; and I have rarely",
+    "passed a pleasanter",
+    "day."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": null
+  },
+  {
+   "id": "b2",
+   "date": "1880-08-21",
+   "kind": "tally",
+   "position": "bottom",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "2 grouse 2 doves 4 plover 6 snipe",
+    "Elliot shot 4 grouse 1 duck. 3 plover",
+    "Both of us also shot hawks, gophers",
+    "&c."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  }
+ ],
+ "marks": [],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "E.",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Elliot",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "medium",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

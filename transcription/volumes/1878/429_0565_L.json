@@ -1,0 +1,71 @@
+{
+ "frame": "429_0565",
+ "half": "L",
+ "volume": "1878",
+ "page_type": "diary-day",
+ "dates": [
+  "1878-06-17"
+ ],
+ "printed": {
+  "headers": [
+   "June, Monday 17. 1878."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1878-06-17",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Semi-annual in",
+    "Botany.",
+    "O, I made a",
+    "miserable failure",
+    "in my crack",
+    "examination,",
+    "three weeks ago,",
+    "owing to being",
+    "forced to sit",
+    "up all the previous",
+    "night with the",
+    "asthma. It was",
+    "terribly hard",
+    "luck; thank",
+    "heavens I am",
+    "not of a nature",
+    "to take things",
+    "hardly."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "faint mirrored writing from reverse of leaf; ignored"
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

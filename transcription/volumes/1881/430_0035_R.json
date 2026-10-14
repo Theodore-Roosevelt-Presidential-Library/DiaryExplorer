@@ -1,0 +1,135 @@
+{
+ "frame": "430_0035",
+ "half": "R",
+ "volume": "1881",
+ "page_type": "diary-day",
+ "dates": [
+  "1881-05-31",
+  "1881-06-01",
+  "1881-06-02"
+ ],
+ "printed": {
+  "headers": [
+   "May, Tuesday 31. 1881.",
+   "June, Wednesday 1.",
+   "Thursday 2."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1881-05-31",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Came on to London, at",
+    "Queens Hotel. Harry",
+    "Shaw, Minot Weld &",
+    "Harry Chapin came",
+    "round to see me."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "b2",
+   "date": "1881-06-01",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Went to National Gallery",
+    "Rembrandt, Rubens, (Rey-",
+    "nolds, Gainsborough), Murillo,",
+    "Velasquez; I am very fond",
+    "of Rembrandt & Murillo.",
+    "Turner - idiotic. Zoological Gardens"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "b3",
+   "date": "1881-06-02",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Took Miss Jenny Tuckerman",
+    "to the Tower. Crown",
+    "Jewels & armour, very",
+    "interesting. Opera in",
+    "evening; Haymarket;",
+    "Nilsson."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "faint mirrored writing from reverse of leaf; ignored"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Harry Shaw",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Minot Weld",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Harry Chapin",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Miss Jenny Tuckerman",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Nilsson",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   "London",
+   "Queens Hotel",
+   "National Gallery",
+   "Zoological Gardens",
+   "the Tower",
+   "Haymarket"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

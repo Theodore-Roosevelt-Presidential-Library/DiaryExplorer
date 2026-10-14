@@ -1,0 +1,44 @@
+{
+ "frame": "429_0658",
+ "half": "L",
+ "volume": "1878",
+ "page_type": "diary-day",
+ "dates": [
+  "1878-12-14"
+ ],
+ "printed": {
+  "headers": [
+   "December, Saturday 14. 1878."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [],
+ "marks": [
+  {
+   "kind": "ink-blot",
+   "value": null,
+   "position": "body",
+   "note": "large opaque ink blot covers upper half of writing area and part of printed heading; any writing beneath is not visible"
+  },
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing of Dec 13 page visible in lower half; ignored"
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": false,
+ "confidence": "medium",
+ "transcriber_notes": "No legible TR writing. The Dec 13 entry ends mid-sentence ('I am very'), so its continuation was probably written here and is now hidden under the ink blot. Lower half shows only show-through.",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

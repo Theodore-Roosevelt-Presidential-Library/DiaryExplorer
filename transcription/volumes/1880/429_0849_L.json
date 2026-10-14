@@ -1,0 +1,72 @@
+{
+ "frame": "429_0849",
+ "half": "L",
+ "volume": "1880",
+ "page_type": "diary-day",
+ "dates": [
+  "1880-01-20"
+ ],
+ "printed": {
+  "headers": [
+   "January, Tuesday 20. 1880."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1880-01-20",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "It was Rosy's birthday,",
+    "so I drove over to",
+    "Chestnut Hill to bring her",
+    "her ^my^ present. I spent the",
+    "afternoon at the Lees, and",
+    "dined there."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": "Line 4: 'her' at line start with 'my' written above; unclear whether 'her' is struck through."
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "faint mirrored writing from reverse"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Rosy",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Lees",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   "Chestnut Hill"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "medium",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

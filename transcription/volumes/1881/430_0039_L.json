@@ -1,0 +1,108 @@
+{
+ "frame": "430_0039",
+ "half": "L",
+ "volume": "1881",
+ "page_type": "diary-day",
+ "dates": [
+  "1881-06-21",
+  "1881-06-22",
+  "1881-06-23"
+ ],
+ "printed": {
+  "headers": [
+   "June, Tuesday 21. 1881.",
+   "Wednesday 22.",
+   "Thursday 23."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1881-06-21",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "San Marco; in",
+    "evening again rowed",
+    "through Venice."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "b2",
+   "date": "1881-06-22",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Came on to",
+    "Milan"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "b3",
+   "date": "1881-06-23",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "~~Left~~ Saw the beauti-",
+    "ful Milan Cathedral.",
+    "Came on to Lake Como.",
+    "Are staying at the",
+    "Villa d'Este."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "'Left' appears struck through"
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from reverse of leaf; ignored"
+  },
+  {
+   "kind": "ink-blot",
+   "value": null,
+   "position": "left-margin",
+   "note": "large round blot in Wednesday 22 space (bleed of blot on reverse)"
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [
+   "San Marco",
+   "Venice",
+   "Milan",
+   "Milan Cathedral",
+   "Lake Como",
+   "Villa d'Este"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

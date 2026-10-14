@@ -1,0 +1,77 @@
+{
+ "frame": "429_0821",
+ "half": "L",
+ "volume": "1879",
+ "page_type": "diary-day",
+ "dates": [
+  "1879-12-30"
+ ],
+ "printed": {
+  "headers": [
+   "Tuesday, December 30, 1879."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1879-12-30",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "^we all^",
+    "Went to an entertainment",
+    "at the music hall in the",
+    "afternoon; in the evening",
+    "went to a very pleasant",
+    "dinner at Mrs. Haddons;",
+    "Sat between her and Rosy."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "'we all' inserted above line 1."
+  }
+ ],
+ "marks": [
+  {
+   "kind": "archival-page-number",
+   "value": "568[?]",
+   "position": "top",
+   "note": "pencil folio number, partly obscured by header rule"
+  },
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from reverse of leaf; ignored"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Mrs. Haddon",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Rosy",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

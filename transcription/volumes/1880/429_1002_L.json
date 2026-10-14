@@ -1,0 +1,70 @@
+{
+ "frame": "429_1002",
+ "half": "L",
+ "volume": "1880",
+ "page_type": "diary-day",
+ "dates": [
+  "1880-12-01"
+ ],
+ "printed": {
+  "headers": [
+   "December, Wednesday 1. 1880."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1880-12-01",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Went on a long drive",
+    "with Baby; in the",
+    "evening went to the",
+    "Theatre with the Lees."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "faint mirrored writing from reverse"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Baby",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "the Lees",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   "Theatre"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

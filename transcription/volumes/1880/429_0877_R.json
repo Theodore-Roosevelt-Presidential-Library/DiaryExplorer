@@ -1,0 +1,57 @@
+{
+ "frame": "429_0877",
+ "half": "R",
+ "volume": "1880",
+ "page_type": "diary-day",
+ "dates": [
+  "1880-03-17"
+ ],
+ "printed": {
+  "headers": [
+   "March, Wednesday 17. 1880."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1880-03-17",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Drove back to Cambridge. ~~Bow~~",
+    "Bowling party in afternoon"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "struck word at end of first line, apparently a false start of 'Bowling'"
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored show-through of reverse entry; ignored"
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [
+   "Cambridge"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

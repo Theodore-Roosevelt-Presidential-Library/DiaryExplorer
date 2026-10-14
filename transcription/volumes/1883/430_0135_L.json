@@ -1,0 +1,62 @@
+{
+ "frame": "430_0135",
+ "half": "L",
+ "volume": "1883",
+ "page_type": "diary-day",
+ "dates": [
+  "1883-09-19"
+ ],
+ "printed": {
+  "headers": [
+   "SEPTEMBER 19 Wednesday"
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1883-09-19",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Broke camp and",
+    "started off the moun-",
+    "tain. Three pack",
+    "ponies heavily laden",
+    "with hides and",
+    "horns; progress [illegible]",
+    "Camped on Willow Creek."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": null
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from reverse of leaf, ignored"
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [
+   "Willow Creek"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "medium",
+ "transcriber_notes": "lower two-thirds of page blank apart from heavy mirrored show-through",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

@@ -1,0 +1,75 @@
+{
+ "frame": "429_0648",
+ "half": "R",
+ "volume": "1878",
+ "page_type": "diary-day",
+ "dates": [
+  "1878-11-23"
+ ],
+ "printed": {
+  "headers": [
+   "November, Saturday 23. 1878."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1878-11-23",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "There was an",
+    "alarm of scarlet",
+    "fever among the",
+    "Richardson children",
+    "so I turned out",
+    "promptly and",
+    "for the present",
+    "am \"chumming\"",
+    "with Harry",
+    "Jackson, Bob",
+    "Bacon having",
+    "gone home with",
+    "a sore throat."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  }
+ ],
+ "marks": [],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Richardson",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Harry Jackson",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Bob Bacon",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

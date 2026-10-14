@@ -1,0 +1,81 @@
+{
+ "frame": "429_0762",
+ "half": "L",
+ "volume": "1879",
+ "page_type": "diary-day",
+ "dates": [
+  "1879-08-28"
+ ],
+ "printed": {
+  "headers": [
+   "Thursday, August 28, 1879."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1879-08-28",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "After lunch we",
+    "started for",
+    "Katahdin; (before I",
+    "had tramped about 5",
+    "miles after partridges). We",
+    "caught about ^100^ ~~[illegible]~~ trout",
+    "at Sandy brook; then",
+    "got lost, and after",
+    "tramping through",
+    "frightful ground till",
+    "after dark camped out",
+    "by a small water",
+    "hole; wet, tired and",
+    "hungry — but happy.",
+    "There are plenty of ^fresh^ tracks",
+    "of both bear & caribou,",
+    "but we saw nothing living,",
+    "except the usual woodpeckers,",
+    "chickadees, jays, &c &c"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": "'100' written above an overwritten/struck number"
+  }
+ ],
+ "marks": [
+  {
+   "kind": "archival-page-number",
+   "value": "16[?]",
+   "position": "top",
+   "note": null
+  },
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from reverse of leaf; ignored"
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [
+   "Katahdin",
+   "Sandy brook"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "medium",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

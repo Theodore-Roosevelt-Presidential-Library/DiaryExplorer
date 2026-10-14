@@ -1,0 +1,242 @@
+{
+ "frame": "429_0803",
+ "half": "L",
+ "volume": "1879",
+ "page_type": "diary-day",
+ "dates": [
+  "1879-11-22"
+ ],
+ "printed": {
+  "headers": [
+   "Saturday, November 22, 1879."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1879-11-22",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Gave a lunch party of 34 persons",
+    "up in the Porcellian to Bamie & Corinne.",
+    "It was the greatest success imaginable"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "b2",
+   "date": "1879-11-22",
+   "kind": "table",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Mr Whitney",
+    "Roosevelt"
+   ],
+   "rows": [
+    [
+     "Mrs. Saltonstall",
+     "Mrs Lee"
+    ],
+    [
+     "Mr. Lane",
+     "Mr. Saltonstall"
+    ],
+    [
+     "Minot Weld",
+     "Bamie Roosevelt"
+    ],
+    [
+     "Anna Rotch[?]",
+     "Otto[?] Williams"
+    ],
+    [
+     "Harcourt Amory",
+     "Harriet Lawrence"
+    ],
+    [
+     "Rosy Lee",
+     "George Lee[?]"
+    ],
+    [
+     "Jim[?] Porter",
+     "Jenny Hooper"
+    ],
+    [
+     "Rose Saltonstall",
+     "Jack Tebbetts ^Fanny Dana[?]^"
+    ],
+    [
+     "[illegible] Trimble[?]",
+     "Dick Saltonstall"
+    ],
+    [
+     "Kitty Lane",
+     "Bessie Whitney"
+    ],
+    [
+     "Charley Morgan",
+     "George Griswold"
+    ],
+    [
+     "Julia[?] Bacon",
+     "Nellie Bacon"
+    ],
+    [
+     "Edmund Bayliss[?]",
+     "Harry Shaw"
+    ],
+    [
+     "Lulu Lane",
+     "Corinne Roosevelt"
+    ],
+    [
+     "Van Rensselaer",
+     "Emmons Blaine[?]"
+    ],
+    [
+     "Alice Lee",
+     "Bessie Hooper."
+    ]
+   ],
+   "columns": [
+    "left side",
+    "right side"
+   ],
+   "confidence": "low",
+   "note": "Seating diagram: a drawn rectangle (the table) with 'Mr Whitney' at the head and 'Roosevelt' at the foot; side lists in rows/columns. Several surnames cramped; 'Fanny Dana[?]' squeezed in at right end of the 'Jack Tebbetts' line."
+  },
+  {
+   "id": "b3",
+   "date": "1879-11-22",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Everything went off to perfection; the dinner was",
+    "capital, the flowers very pretty and we had",
+    "great fun with the toasts and speeches,",
+    "Mr Whitney and Mr. Saltonstall were especially",
+    "funny; all the girls looked extremely",
+    "pretty, the wine was good, and the fellows",
+    "all gentlemen.",
+    "In the evening drove over to the",
+    "Minots to a little party."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  }
+ ],
+ "marks": [
+  {
+   "kind": "archival-page-number",
+   "value": "336[?]",
+   "position": "top",
+   "note": "pencil"
+  },
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from reverse of leaf; ignored"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Bamie",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Corinne",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Mr Whitney",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Mr. Saltonstall",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "the Minots",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Alice Lee",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Rosy Lee",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Minot Weld",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Harcourt Amory",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Lulu Lane",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Bessie Whitney",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Harry Shaw",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Jack Tebbetts",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Dick Saltonstall",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   "the Porcellian"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "medium",
+ "transcriber_notes": "Page contains a seating diagram of the lunch table with names on both sides; many names cramped and uncertain.",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

@@ -1,0 +1,83 @@
+{
+ "frame": "430_0113",
+ "half": "L",
+ "volume": "1883",
+ "page_type": "diary-day",
+ "dates": [
+  "1883-01-02"
+ ],
+ "printed": {
+  "headers": [
+   "JANUARY 2 Tuesday"
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1883-01-02",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "The Legislature organized, and",
+    "the Democratic majority elected",
+    "as speaker Chapin of Brooklyn,",
+    "by all odds the ablest man",
+    "on either side of the House;",
+    "~~but ah~~ a scholar and a",
+    "gentleman, but a thoroughly",
+    "cold and selfish man. The",
+    "Democrats seem to have",
+    "good material in their",
+    "ranks, though most of",
+    "the city members are",
+    "corrupt and ignorant",
+    "Irish Catholics. Chapin",
+    "appointed a committee",
+    "on privilege and elections,",
+    "of which I am one, to",
+    "hear the cases of the",
+    "contestants[?] for seats[?].",
+    "The committee went",
+    "down to New York."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": "Very heavy show-through; two faint lines at foot are mirrored show-through of facing page, not transcribed."
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "bottom",
+   "note": "mirrored writing from Jan 1 page"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Chapin",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   "Brooklyn",
+   "New York"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "medium",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

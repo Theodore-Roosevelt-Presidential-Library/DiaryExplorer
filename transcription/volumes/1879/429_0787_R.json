@@ -1,0 +1,86 @@
+{
+ "frame": "429_0787",
+ "half": "R",
+ "volume": "1879",
+ "page_type": "diary-day",
+ "dates": [
+  "1879-10-20"
+ ],
+ "printed": {
+  "headers": [
+   "Monday, October 20, 1879."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1879-10-20",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "The drive home from",
+    "the Guilds was just",
+    "perfection; it was a",
+    "divine morning and",
+    "the little horse went",
+    "like Sancho[?].",
+    "In the afternoon drove",
+    "Van R. over to the",
+    "Saltonstalls; we went out",
+    "walking with the two",
+    "girls."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "last word of line 6 unclear: 'Sancho' or 'Sanche'"
+  }
+ ],
+ "marks": [
+  {
+   "kind": "archival-page-number",
+   "value": "206[?]",
+   "position": "top",
+   "note": "pencil numeral at top corner, later mark"
+  },
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from reverse of leaf ignored"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Guilds",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Van R.",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Saltonstalls",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

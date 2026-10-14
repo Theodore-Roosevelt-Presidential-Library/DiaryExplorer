@@ -1,0 +1,50 @@
+{
+ "frame": "429_0601",
+ "half": "R",
+ "volume": "1878",
+ "page_type": "diary-day",
+ "dates": [
+  "1878-08-17"
+ ],
+ "printed": {
+  "headers": [
+   "AUGUST, SATURDAY 17. 1878."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [],
+ "marks": [
+  {
+   "kind": "other",
+   "value": null,
+   "position": "body",
+   "note": "faint non-mirrored ghost image of the text of the Aug. 19 entry (frame 429_0596_R) (microfilm double exposure or offset); not writing on this page"
+  },
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored show-through ignored"
+  },
+  {
+   "kind": "ink-blot",
+   "value": null,
+   "position": "top",
+   "note": "small dark spot"
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": false,
+ "confidence": "high",
+ "transcriber_notes": "Blank day. Faint text that reads normally is a ghost of the Aug. 19 page, not writing for Aug. 17.",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

@@ -1,0 +1,71 @@
+{
+ "frame": "430_0132",
+ "half": "L",
+ "volume": "1883",
+ "page_type": "diary-day",
+ "dates": [
+  "1883-09-13"
+ ],
+ "printed": {
+  "headers": [
+   "SEPTEMBER 13 Thursday"
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1883-09-13",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "M. & I rode over to find",
+    "the Lake; we found it,",
+    "and caught about",
+    "fifty trout, but only",
+    "by ~~after~~ four hours",
+    "riding and six",
+    "hours as hard walking",
+    "as I ever had. Pretty",
+    "tired, and glad to",
+    "get back to camp",
+    "and a first class",
+    "trout supper"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "struck word after 'by' read as 'after', uncertain"
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from reverse of leaf, ignored"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "M.",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

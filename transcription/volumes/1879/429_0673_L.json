@@ -1,0 +1,34 @@
+{
+ "frame": "429_0673",
+ "half": "L",
+ "volume": "1879",
+ "page_type": "printed-matter",
+ "dates": [],
+ "printed": {
+  "headers": [],
+  "title": null,
+  "description": "Verso of title page; only show-through of title page visible."
+ },
+ "handwriting": [],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from other side of leaf"
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": false,
+ "confidence": "high",
+ "transcriber_notes": "Blank apart from show-through.",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

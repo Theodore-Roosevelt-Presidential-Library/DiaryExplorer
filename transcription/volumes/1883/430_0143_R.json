@@ -1,0 +1,96 @@
+{
+ "frame": "430_0143",
+ "half": "R",
+ "volume": "1883",
+ "page_type": "diary-day",
+ "dates": [
+  "1883-10-06"
+ ],
+ "printed": {
+  "headers": [
+   "OCTOBER 6 Saturday"
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1883-10-06",
+   "kind": "heading",
+   "position": "over-printed-title",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "4"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "TR's numeral '4' written over the printed day number (6), re-dating the page"
+  },
+  {
+   "id": "b2",
+   "date": "1883-10-06",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Clear and cold; drove",
+    "to the Muddy Creek; on",
+    "the way killed a jack",
+    "rabbit and two[?] sharptail",
+    "grouse with the rifle;",
+    "then by moonlight",
+    "M. & I rode in 50[?] miles",
+    "to the ranche, between",
+    "9 p.m. & 6 a.m."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": "mileage figure blotted/overwritten"
+  },
+  {
+   "id": "b3",
+   "date": "1883-10-06",
+   "kind": "tally",
+   "position": "bottom",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "1 jack rabbit 2 sharptail grouse"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  }
+ ],
+ "marks": [],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "M.",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   "Muddy Creek",
+   "the ranche"
+  ],
+  "dates": [
+   "4"
+  ]
+ },
+ "has_tr_writing": true,
+ "confidence": "medium",
+ "transcriber_notes": "printed day number obscured by TR's overwritten '4'; printed date inferred as 6 from weekday and sequence",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

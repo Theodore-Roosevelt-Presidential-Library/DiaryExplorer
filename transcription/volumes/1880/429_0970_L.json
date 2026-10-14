@@ -1,0 +1,214 @@
+{
+ "frame": "429_0970",
+ "half": "L",
+ "volume": "1880",
+ "page_type": "diary-day",
+ "dates": [
+  "1880-09-24"
+ ],
+ "printed": {
+  "headers": [
+   "September, Friday 24. 1880."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1880-09-24",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Spent the day with old Jack. Our",
+    "bag is as follows."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "b2",
+   "date": "1880-09-24",
+   "kind": "table",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "T E Total",
+    "Sharp tail grouse 26 44 70",
+    "Pinnated grouse 69 119 188",
+    "Quail 5 5",
+    "Dove 8 8",
+    "Snipe 1 1",
+    "Plover 16 9 25",
+    "Shore Snipe 51 51",
+    "Rail 1 1",
+    "Coot 1 1",
+    "Goose 1 1 2",
+    "Duck 17 25 42",
+    "Grebe 4 1 5",
+    "Bittern 2 2",
+    "Hare 1 1 2",
+    "Rabbit 1 1",
+    "203 201 404"
+   ],
+   "columns": [
+    "",
+    "T",
+    "E",
+    "Total"
+   ],
+   "rows": [
+    [
+     "Sharp tail grouse",
+     "26",
+     "44",
+     "70"
+    ],
+    [
+     "Pinnated grouse",
+     "69",
+     "119",
+     "188"
+    ],
+    [
+     "Quail",
+     "5",
+     "",
+     "5"
+    ],
+    [
+     "Dove",
+     "8",
+     "",
+     "8"
+    ],
+    [
+     "Snipe",
+     "",
+     "1",
+     "1"
+    ],
+    [
+     "Plover",
+     "16",
+     "9",
+     "25"
+    ],
+    [
+     "Shore Snipe",
+     "51",
+     "",
+     "51"
+    ],
+    [
+     "Rail",
+     "1",
+     "",
+     "1"
+    ],
+    [
+     "Coot",
+     "1",
+     "",
+     "1"
+    ],
+    [
+     "Goose",
+     "1",
+     "1",
+     "2"
+    ],
+    [
+     "Duck",
+     "17",
+     "25",
+     "42"
+    ],
+    [
+     "Grebe",
+     "4",
+     "1",
+     "5"
+    ],
+    [
+     "Bittern",
+     "2",
+     "",
+     "2"
+    ],
+    [
+     "Hare",
+     "1",
+     "1",
+     "2"
+    ],
+    [
+     "Rabbit",
+     "1",
+     "",
+     "1"
+    ],
+    [
+     "",
+     "203",
+     "201",
+     "404"
+    ]
+   ],
+   "confidence": "high",
+   "note": "column heads are TR's initial 'T' (or 'J'[?]), 'E' and 'Total'"
+  },
+  {
+   "id": "b3",
+   "date": "1880-09-24",
+   "kind": "list",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "17 duck = 4 mallard 1 wood duck 1 green teal 2 blue",
+    "teal 2 blue bill 2 dipper[?] 1 widgeon 1 sprigtail",
+    "2 ^red head^ gadwall[?] 1 hooded merganser",
+    "16 plover = 3 upland 5 golden 2 black breast 6 others",
+    "51 shoresnipe = 33 winter[?] yellowlegs 12 summer yellowlegs",
+    "6 sandsnipe."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": "'red head' interlined above 'gadwall'[?], possibly as a correction"
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "faint mirrored writing from reverse"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Jack",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "medium",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

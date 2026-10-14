@@ -1,0 +1,86 @@
+{
+ "frame": "429_0878",
+ "half": "R",
+ "volume": "1880",
+ "page_type": "diary-day",
+ "dates": [
+  "1880-03-19"
+ ],
+ "printed": {
+  "headers": [
+   "March, Friday 19. 1880."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1880-03-19",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "West[?] went back to New York. I",
+    "went out to Chestnut Hill",
+    "and drove with Alice, Rosy &",
+    "Rose to a dinner at the Minots."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "name 'West' uncertain"
+  }
+ ],
+ "marks": [
+  {
+   "kind": "ink-blot",
+   "value": null,
+   "position": "body",
+   "note": "scattered small specks below entry"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "West",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Alice",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Rosy",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Rose",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Minots",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   "New York",
+   "Chestnut Hill"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

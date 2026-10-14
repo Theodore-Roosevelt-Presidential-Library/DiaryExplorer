@@ -1,0 +1,64 @@
+{
+ "frame": "429_0585",
+ "half": "L",
+ "volume": "1878",
+ "page_type": "diary-day",
+ "dates": [
+  "1878-07-27"
+ ],
+ "printed": {
+  "headers": [
+   "July, Saturday 27. 1878."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1878-07-27",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Rigged a ~~lug~~ ^leg of mutton^",
+    "sail, on a seven",
+    "foot mast, with a",
+    "six foot boom, in",
+    "my little out rigger,",
+    "lapstreak skiff, and",
+    "went out sailing.",
+    "She beats very",
+    "badly, but is stiff",
+    "and sails pretty",
+    "fast off the wind."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "\"lug\" cancelled with a stroke; \"leg of mutton\" written small above at upper right."
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "faint mirrored writing from reverse"
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

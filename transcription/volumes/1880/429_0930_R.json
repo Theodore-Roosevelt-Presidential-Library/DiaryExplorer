@@ -1,0 +1,72 @@
+{
+ "frame": "429_0930",
+ "half": "R",
+ "volume": "1880",
+ "page_type": "diary-day",
+ "dates": [
+  "1880-07-51880"
+ ],
+ "printed": {
+  "headers": [
+   "JULY, MONDAY 5. 1880."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1880-07-51880",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "In the morning I drove",
+    "darling baby over to",
+    "Cold Spring to get pond",
+    "lilies. In the evening",
+    "went to see some clever",
+    "acting at the Weekes."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from reverse of leaf ignored"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "darling baby",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "the Weekes",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   "Cold Spring"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

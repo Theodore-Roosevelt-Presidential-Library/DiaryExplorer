@@ -1,0 +1,76 @@
+{
+ "frame": "429_0927",
+ "half": "R",
+ "volume": "1880",
+ "page_type": "diary-day",
+ "dates": [
+  "1880-06-291880"
+ ],
+ "printed": {
+  "headers": [
+   "JUNE, TUESDAY 29. 1880."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1880-06-291880",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "All the rest went down to Nahant.",
+    "I stayed to pack up and pay",
+    "bills. To think of the four",
+    "years being over! I suppose under",
+    "other circumstances I should",
+    "feel melancholy; but with",
+    "Alice to love me life will",
+    "always seem laughing and",
+    "loving; who could feel blue",
+    "with so pure and lovely",
+    "and fond and beautiful",
+    "a little bride elect? Only",
+    "four months before we",
+    "get married! ~~[illegible]~~ My cup of",
+    "happiness is almost too full."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "a short false start before 'My' appears struck/abandoned"
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from reverse of leaf ignored"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Alice",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   "Nahant"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

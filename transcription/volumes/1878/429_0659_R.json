@@ -1,0 +1,117 @@
+{
+ "frame": "429_0659",
+ "half": "R",
+ "volume": "1878",
+ "page_type": "diary-day",
+ "dates": [
+  "1878-12-19"
+ ],
+ "printed": {
+  "headers": [
+   "December, Thursday 19. 1878."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1878-12-19",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Italian Exam, in which",
+    "I did ^rather^ poorly.",
+    "Of my college",
+    "friends so far, perhaps I",
+    "am most intimate",
+    "with Minot Weld; almost",
+    "as much so with Harry",
+    "Chapin. But I am very",
+    "fond of Harry Shaw,",
+    "Dick Trimble, Jack",
+    "Tebbets, Dick Saltonstall",
+    "and also Charley",
+    "Washburn and",
+    "Charley Ware.",
+    "Have gotten",
+    "pretty good marks",
+    "so far, this year."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "faint mirrored writing from other side of leaf; ignored"
+  },
+  {
+   "kind": "other",
+   "value": null,
+   "position": "right-margin",
+   "note": "mark like '9' at right edge, possibly show-through or edge mark"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Minot Weld",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Harry Chapin",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Harry Shaw",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Dick Trimble",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Jack Tebbets",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Dick Saltonstall",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Charley Washburn",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Charley Ware",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

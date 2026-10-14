@@ -1,0 +1,122 @@
+{
+ "frame": "430_0034",
+ "half": "R",
+ "volume": "1881",
+ "page_type": "diary-day",
+ "dates": [
+  "1881-05-25",
+  "1881-05-26",
+  "1881-05-27"
+ ],
+ "printed": {
+  "headers": [
+   "May, Wednesday 25. 1881.",
+   "Thursday 26.",
+   "Friday 27."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1881-05-25",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Took train to Dublin.",
+    "Alice is best travelling",
+    "companion I have ever",
+    "known. By Jove, what luck",
+    "I have had! This is the",
+    "loveliest trip I ever was[?] on."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": null
+  },
+  {
+   "id": "b2",
+   "date": "1881-05-26",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Went out to Bray,",
+    "then to Powerscourt,",
+    "and through the beauti-",
+    "ful glen called the",
+    "Dargles. Lovely scenery.",
+    "Are leading most luxur-",
+    "ious life."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "b3",
+   "date": "1881-05-27",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Boat to Holyhead;",
+    "cars to Liverpool.",
+    "Are staying at",
+    "Aunt Hattie Bullochs.",
+    "They are all too kind",
+    "for any thing"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "faint mirrored writing from reverse of leaf; ignored"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Alice",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Aunt Hattie Bulloch",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   "Dublin",
+   "Bray",
+   "Powerscourt",
+   "the Dargles",
+   "Holyhead",
+   "Liverpool"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "medium",
+ "transcriber_notes": "BAD SPLIT: left edge of page (first letters of lines) cut off in half image; read from full/430_0034.jpg.",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

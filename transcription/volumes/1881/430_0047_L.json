@@ -1,0 +1,84 @@
+{
+ "frame": "430_0047",
+ "half": "L",
+ "volume": "1881",
+ "page_type": "diary-day",
+ "dates": [
+  "1881-08-08",
+  "1881-08-09",
+  "1881-08-10"
+ ],
+ "printed": {
+  "headers": [
+   "August, Monday 8. 1881.",
+   "Tuesday 9.",
+   "Wednesday 10."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1881-08-08",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "We drove on in",
+    "the diligence to",
+    "Geneva."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "b2",
+   "date": "1881-08-10",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Went through to Basle."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": "small flourish/mark after 'Went' and 'through'"
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from reverse of leaf; ignored"
+  },
+  {
+   "kind": "ink-blot",
+   "value": null,
+   "position": "body",
+   "note": "scattered dark blots in Tuesday 9 space; no legible writing"
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [
+   "Geneva",
+   "Basle"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "medium",
+ "transcriber_notes": "Tuesday 9: no legible TR writing, only blots and show-through; cannot rule out erased text.",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

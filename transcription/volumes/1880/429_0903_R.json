@@ -1,0 +1,110 @@
+{
+ "frame": "429_0903",
+ "half": "R",
+ "volume": "1880",
+ "page_type": "diary-day",
+ "dates": [
+  "1880-05-08"
+ ],
+ "printed": {
+  "headers": [
+   "May, Saturday 8. 1880."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1880-05-08",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "The Miss Rotches ~~are~~ ^were^ at the Lees;",
+    "Miss Reynolds at the Saltonstalls;",
+    "Jack Tebbets[?] & Frank",
+    "Codman ^& Tom Lee^ drove over; and we",
+    "played tennis all day.",
+    "In the afternoon I drove",
+    "Jack back to a Porcel-",
+    "-lian dinner, given by",
+    "Harry Shaw, Dick and",
+    "myself especially for some",
+    "of the older honoraries,"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": "'were' written above 'are' (are apparently cancelled, not clearly struck); '& Tom Lee' inserted above line; surname 'Tebbets' uncertain"
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "faint mirrored writing from reverse"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Miss Rotches",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Miss Reynolds",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "the Saltonstalls",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Jack Tebbets",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Frank Codman",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Tom Lee",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Jack",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Harry Shaw",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Dick",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

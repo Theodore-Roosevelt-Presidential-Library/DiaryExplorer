@@ -1,0 +1,101 @@
+{
+ "frame": "430_0017",
+ "half": "R",
+ "volume": "1881",
+ "page_type": "diary-day",
+ "dates": [
+  "1881-02-12",
+  "1881-02-13",
+  "1881-02-14"
+ ],
+ "printed": {
+  "headers": [
+   "February, Saturday 12. 1881.",
+   "Sunday 13.",
+   "Monday 14."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1881-02-12",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Dinner at Weekes[?],"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": null
+  },
+  {
+   "id": "b2",
+   "date": "1881-02-13",
+   "kind": "other",
+   "position": "left-margin",
+   "medium": "ink",
+   "hand": "uncertain",
+   "lines": [
+    "7[?]"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "low",
+   "note": "Single isolated stroke resembling a 7 or check mark; meaning unclear."
+  },
+  {
+   "id": "b3",
+   "date": "1881-02-14",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Took Rose S. out driving.",
+    "Political meeting; then",
+    "Patriarchs Ball."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": null
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Weekes[?]",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Rose S.",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

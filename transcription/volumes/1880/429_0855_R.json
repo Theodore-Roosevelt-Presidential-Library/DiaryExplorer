@@ -1,0 +1,64 @@
+{
+ "frame": "429_0855",
+ "half": "R",
+ "volume": "1880",
+ "page_type": "diary-day",
+ "dates": [
+  "1880-02-02"
+ ],
+ "printed": {
+  "headers": [
+   "February, Monday 2. 1880."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1880-02-02",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Chose a diamond ring for",
+    "my darling; came on to",
+    "Boston in the afternoon."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "heavy mirrored show-through of the reverse page"
+  },
+  {
+   "kind": "ink-blot",
+   "value": null,
+   "position": "bottom",
+   "note": "small round spot near bottom left"
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [
+   "Boston"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

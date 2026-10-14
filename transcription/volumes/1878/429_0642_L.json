@@ -1,0 +1,74 @@
+{
+ "frame": "429_0642",
+ "half": "L",
+ "volume": "1878",
+ "page_type": "diary-day",
+ "dates": [
+  "1878-11-06"
+ ],
+ "printed": {
+  "headers": [
+   "November, Wednesday 6. 1878."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1878-11-06",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "7.45 Prayers 8.00 Breakfast",
+    "8.30—4.00 studied.",
+    "4.00—6.00 walked with",
+    "Dick Saltonstall and",
+    "Jack Tebbetts. Spent",
+    "evening in Club",
+    "till nine; studied till",
+    "11.00."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": "'Tebbetts' reading slightly uncertain."
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from reverse of leaf"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Dick Saltonstall",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Jack Tebbetts",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   "Club"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

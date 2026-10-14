@@ -1,0 +1,95 @@
+{
+ "frame": "430_0124",
+ "half": "L",
+ "volume": "1883",
+ "page_type": "diary-day",
+ "dates": [
+  "1883-08-28"
+ ],
+ "printed": {
+  "headers": [
+   "AUGUST 28 Tuesday"
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1883-08-28",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Made a short days",
+    "journey; not over 15 miles",
+    "In morning rode off",
+    "with M. after chickens;",
+    "shot 8. Met a cowboy",
+    "with a fine young",
+    "horse, which I purchased",
+    "for a hundred dollars.",
+    "Stopped over night by the",
+    "N bar ranche; thirty",
+    "men and about three",
+    "hundred horses preparing",
+    "to start on the beef",
+    "round up tomorrow.",
+    "Cowboys are a jolly",
+    "set; picturesque, with",
+    "broad hats, loosely knotted",
+    "neckerchiefs, flannel shirts,",
+    "leather chaparajos."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "1884 entry."
+  },
+  {
+   "id": "b2",
+   "date": "1883-08-28",
+   "kind": "tally",
+   "position": "bottom",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "8 sharp tail grouse,"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "right-margin",
+   "note": "mirrored writing from Aug 27 page"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "M.",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   "N bar ranche"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "Printed 1883 heading reused in 1884.",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

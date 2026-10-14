@@ -1,0 +1,78 @@
+{
+ "frame": "429_0951",
+ "half": "R",
+ "volume": "1880",
+ "page_type": "diary-day",
+ "dates": [
+  "1880-08-18"
+ ],
+ "printed": {
+  "headers": [
+   "August, Wednesday 18. 1880."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1880-08-18",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Reached Chicago in",
+    "morning. Thanks to a",
+    "great free-mason",
+    "meeting could hardly",
+    "get rooms. Boiling",
+    "hot; don't know",
+    "where to go; in a",
+    "general stew.",
+    "Later in the evening",
+    "got hold of a man",
+    "named Wilcox, and",
+    "will go to his farm",
+    "till Sept."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "heavy mirrored text in lower half; ignored"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Wilcox",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   {
+    "as_written": "Chicago",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

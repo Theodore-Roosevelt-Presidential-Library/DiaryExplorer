@@ -1,0 +1,71 @@
+{
+ "frame": "429_0874",
+ "half": "R",
+ "volume": "1880",
+ "page_type": "diary-day",
+ "dates": [
+  "1880-03-11"
+ ],
+ "printed": {
+  "headers": [
+   "March, Thursday 11. 1880."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1880-03-11",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Right after breakfast I",
+    "drove over to Chestnut Hill",
+    "in the cart. It soon began",
+    "snowing, and I spent",
+    "all day with my",
+    "sweet, pretty, pure queen,",
+    "my laughing little",
+    "love. Oh, how bewitchingly",
+    "pretty she is! I can not",
+    "help petting and caressing",
+    "her all the time; and she",
+    "is such a perfect little",
+    "sunshine. I do not believe",
+    "any man ever loved",
+    "woman more than I love",
+    "her."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "faint mirrored writing from reverse"
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [
+   "Chestnut Hill"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

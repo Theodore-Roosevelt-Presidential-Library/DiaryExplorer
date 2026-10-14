@@ -1,0 +1,71 @@
+{
+ "frame": "429_0535",
+ "half": "R",
+ "volume": "1878",
+ "page_type": "diary-day",
+ "dates": [
+  "1878-04-25"
+ ],
+ "printed": {
+  "headers": [
+   "April, Thursday 25. 1878."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1878-04-25",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "I am now",
+    "getting over the",
+    "first sharpness",
+    "of grief; but",
+    "now and then,",
+    "especially at night,",
+    "I feel that the",
+    "iron has entered",
+    "into my soul.",
+    "It seems so terrible",
+    "to have lost the",
+    "one who helped",
+    "me, if only with",
+    "advice, in everything",
+    "and from whom",
+    "I concealed noth-",
+    "-ing.",
+    "It is much"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "Entry continues on next page."
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "Mirrored writing from reverse of leaf; ignored."
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

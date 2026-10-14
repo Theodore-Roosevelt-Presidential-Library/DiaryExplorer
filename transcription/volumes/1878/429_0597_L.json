@@ -1,0 +1,92 @@
+{
+ "frame": "429_0597",
+ "half": "L",
+ "volume": "1878",
+ "page_type": "diary-day",
+ "dates": [
+  "1878-08-20"
+ ],
+ "printed": {
+  "headers": [
+   "AUGUST, TUESDAY 20. 1878."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1878-08-20",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Rowed Edith out",
+    "towards Loyds",
+    "Neck.",
+    "Sparred[?] with",
+    "Jack and West;",
+    "while out riding",
+    "with the latter I",
+    "was made the",
+    "recepient of confi-",
+    "-dences respecting",
+    "his devotion to the",
+    "much worshipped Fanny.",
+    "Poor old boy! It is",
+    "really touching to",
+    "see how much in",
+    "love he is."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": "'recepient' as written."
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from reverse of leaf; ignored"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Edith",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Jack",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "West",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Fanny",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   "Loyds Neck"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "medium",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

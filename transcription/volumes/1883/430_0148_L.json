@@ -1,0 +1,61 @@
+{
+ "frame": "430_0148",
+ "half": "L",
+ "volume": "1883",
+ "page_type": "cash-account",
+ "dates": [],
+ "printed": {
+  "headers": [],
+  "title": "Bills Payable OCTOBER",
+  "description": "ruled account page; printed 'Bills Payable OCTOBER' heading with column headings, and printed 'Receivable' sub-heading at mid-page"
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": null,
+   "kind": "list",
+   "position": "right-margin",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "1884",
+    "Jan 1st",
+    "Feb[?] 1st[?]"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": "written in the right-hand columns at top of page"
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored print/writing from reverse of leaf, ignored"
+  },
+  {
+   "kind": "other",
+   "value": null,
+   "position": "body",
+   "note": "lower left corner of leaf folded over"
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [],
+  "dates": [
+   "1884",
+   "Jan 1st"
+  ]
+ },
+ "has_tr_writing": true,
+ "confidence": "medium",
+ "transcriber_notes": "page otherwise unused; film very dark",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

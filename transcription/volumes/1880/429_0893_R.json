@@ -1,0 +1,91 @@
+{
+ "frame": "429_0893",
+ "half": "R",
+ "volume": "1880",
+ "page_type": "diary-day",
+ "dates": [
+  "1880-04-18"
+ ],
+ "printed": {
+  "headers": [
+   "April, Sunday 18. 1880."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1880-04-18",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "After the Porc. Breakfast I drove",
+    "Dick over in the cart to",
+    "Chestnut Hill. I took Alice",
+    "out for a long drive in the",
+    "afternoon; it was perfectly",
+    "delicious, the weather being",
+    "beautiful.",
+    "The past three months have",
+    "been almost a dream of",
+    "happiness; no man could lead",
+    "a more ideal life than I do.",
+    "I have very little work to do,",
+    "only enough to employ me a",
+    "few hours a day during three or",
+    "four days in the week, and I can",
+    "cut whenever I please; I",
+    "spend several nights (usually",
+    "5) a week at Chestnut Hill,",
+    "where the whole family are just",
+    "too sweet to me for anything;",
+    "the other two evenings I spend in",
+    "the club; I drive almost every day",
+    "in my cart; and no man ever",
+    "loved and was beloved by so sweet,",
+    "tender and pretty a girl."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "'could' underlined in original"
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "faint mirrored writing from reverse"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Dick",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Alice",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   "Chestnut Hill"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

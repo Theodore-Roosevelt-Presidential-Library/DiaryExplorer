@@ -1,0 +1,82 @@
+{
+ "frame": "429_0610",
+ "half": "L",
+ "volume": "1878",
+ "page_type": "diary-day",
+ "dates": [
+  "1878-09-03"
+ ],
+ "printed": {
+  "headers": [
+   "SEPTEMBER, TUESDAY 3. 1878."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1878-09-03",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Jack & I went out in",
+    "our skiff, intending",
+    "to pass the night out;",
+    "but it rained in",
+    "torrents, so towards even-",
+    "-ing we came home. We",
+    "lunched at Matinnicock Pt,",
+    "and on our way back, while",
+    "off Oak Bluffs were struck",
+    "by a heavy squall from",
+    "the North West, which",
+    "soon kicked up a very",
+    "big sea; so we hoisted our",
+    "sail and drove with",
+    "the wind on our quarter, at",
+    "a furious speed, to Rocky Pt;",
+    "staunch though the little boat",
+    "is, we shipped a good deal of",
+    "water"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "Final word 'water' squeezed below the last ruled line at right."
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from reverse of leaf; ignored"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Jack",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   "Matinnicock Pt",
+   "Oak Bluffs",
+   "Rocky Pt"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

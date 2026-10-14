@@ -1,0 +1,92 @@
+{
+ "frame": "429_0753",
+ "half": "R",
+ "volume": "1879",
+ "page_type": "diary-day",
+ "dates": [
+  "1879-08-07"
+ ],
+ "printed": {
+  "headers": [
+   "Thursday, August 7, 1879."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1879-08-07",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Cruger and I went out",
+    "in the skiff after[?]",
+    "snipe; rowing along",
+    "the beaches, paddling",
+    "and poling through",
+    "the broad, shallow",
+    "lagoons, and narrow,",
+    "winding creeks of",
+    "the marshes, and using",
+    "the little lug sail",
+    "when ever the wind",
+    "favoured us. We had to",
+    "make several portages.",
+    "We came out of Loyds[?] neck",
+    "with the tide, which runs",
+    "very rapidly out of the creek[?],",
+    "so that we needed to do",
+    "nothing but steer & shoot.",
+    "8 snipe 1 heron"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": null
+  }
+ ],
+ "marks": [
+  {
+   "kind": "archival-page-number",
+   "value": "14[?]",
+   "position": "top",
+   "note": null
+  },
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from reverse of leaf; ignored"
+  },
+  {
+   "kind": "ink-blot",
+   "value": null,
+   "position": "bottom",
+   "note": "before '8 snipe'"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Cruger",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   "Loyds neck"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "medium",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

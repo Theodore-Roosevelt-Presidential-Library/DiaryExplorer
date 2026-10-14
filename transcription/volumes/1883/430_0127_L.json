@@ -1,0 +1,75 @@
+{
+ "frame": "430_0127",
+ "half": "L",
+ "volume": "1883",
+ "page_type": "diary-day",
+ "dates": [
+  "1883-09-03"
+ ],
+ "printed": {
+  "headers": [
+   "SEPTEMBER 3 Monday"
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": null,
+   "kind": "heading",
+   "position": "over-printed-title",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "1"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "Written after printed day number, which is struck/overwritten."
+  },
+  {
+   "id": "b2",
+   "date": "1883-09-03",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Reached Buffalo, Wyoming,",
+    "quite a frontier town."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "Entry for 1 Sep 1884 per TR's date."
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing incl. \"Aug 31\" at top and lines from Sep 2 page"
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [
+   "Buffalo",
+   "Wyoming"
+  ],
+  "dates": [
+   "1 [Sept. 1884]"
+  ]
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "Printed 1883 heading reused in 1884; printed day number struck, \"1\" written.",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

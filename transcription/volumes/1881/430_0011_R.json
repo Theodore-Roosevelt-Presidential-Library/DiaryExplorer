@@ -1,0 +1,93 @@
+{
+ "frame": "430_0011",
+ "half": "R",
+ "volume": "1881",
+ "page_type": "diary-day",
+ "dates": [
+  "1881-01-07",
+  "1881-01-08",
+  "1881-01-09"
+ ],
+ "printed": {
+  "headers": [
+   "January, Friday 7. 1881.",
+   "Saturday 8.",
+   "Sunday 9."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1881-01-07",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Two Miss Rathbones",
+    "arrived.",
+    "Very Pleasant little",
+    "party at Aunt Annies."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "b2",
+   "date": "1881-01-08",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Took Alice Rathbone",
+    "out sleighriding."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "Heavy mirrored show-through under Sunday 9."
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Miss Rathbones",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Aunt Annies",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Alice Rathbone",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "Sunday 9 blank apart from show-through.",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

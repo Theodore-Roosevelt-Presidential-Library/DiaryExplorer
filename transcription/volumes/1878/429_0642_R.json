@@ -1,0 +1,62 @@
+{
+ "frame": "429_0642",
+ "half": "R",
+ "volume": "1878",
+ "page_type": "diary-day",
+ "dates": [
+  "1878-11-07"
+ ],
+ "printed": {
+  "headers": [
+   "November, Thursday 7. 1878."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1878-11-07",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Prayer 7.45. 8.00 Breakfast",
+    "9—5.30 studied. Dinner",
+    "at 6.00[?]. 8—10 studied"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": "Two long diagonal strokes cross the printed heading and first lines; one obscures the hour in line 3."
+  }
+ ],
+ "marks": [
+  {
+   "kind": "other",
+   "value": null,
+   "position": "top",
+   "note": "two diagonal pen strokes across heading and first lines; origin unclear"
+  },
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "faint mirrored writing"
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

@@ -1,0 +1,70 @@
+{
+ "frame": "429_0572",
+ "half": "L",
+ "volume": "1878",
+ "page_type": "diary-day",
+ "dates": [
+  "1878-07-01"
+ ],
+ "printed": {
+  "headers": [
+   "July, Monday 1. 1878."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1878-07-01",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Tried the new",
+    "rifle and made",
+    "67 out of 100; it",
+    "works very well,",
+    "but I am an",
+    "awful shot.",
+    "I am getting",
+    "to be deep ma-",
+    "-hogany colour",
+    "from the waist",
+    "up, thanks to",
+    "the rowing.",
+    "My horse went",
+    "a little lame",
+    "today.",
+    "The bathing is",
+    "perfectly delicious."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "'am' underlined."
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "faint mirrored writing from reverse of leaf; ignored"
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

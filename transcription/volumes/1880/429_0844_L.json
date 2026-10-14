@@ -1,0 +1,79 @@
+{
+ "frame": "429_0844",
+ "half": "L",
+ "volume": "1880",
+ "page_type": "diary-day",
+ "dates": [
+  "1880-01-10"
+ ],
+ "printed": {
+  "headers": [
+   "January, Saturday 10. 1880."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1880-01-10",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "In the morning I drove in",
+    "town to the Brunswick, in",
+    "my cart, and took Miss.",
+    "Grace Rathbone out for a",
+    "long drive. I dined at the",
+    "Whitneys, and went to a",
+    "very pleasant party at the",
+    "Amory's afterwards."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "'Miss.' written with long-s form ('Mifs.')."
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from reverse of leaf"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Grace Rathbone",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Whitneys",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Amory's",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   "the Brunswick"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

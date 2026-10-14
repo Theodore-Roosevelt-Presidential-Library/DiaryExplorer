@@ -1,0 +1,85 @@
+{
+ "frame": "429_0714",
+ "half": "L",
+ "volume": "1879",
+ "page_type": "diary-day",
+ "dates": [
+  "1879-04-20"
+ ],
+ "printed": {
+  "headers": [
+   "Sunday, April 20, 1879."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1879-04-20",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "After Church ~~I~~ ^we^ went",
+    "to the Francises[?]. In the",
+    "afternoon Codman[?] &[?]",
+    "Rose, & Alice & myself",
+    "went out walking."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": "\"we\" written above an \"I\" that appears struck/overwritten. Rest of page is heavy mirrored show-through of the April 18-19 entries."
+  }
+ ],
+ "marks": [
+  {
+   "kind": "archival-page-number",
+   "value": "67",
+   "position": "top-left",
+   "note": "pencil, partly cut off"
+  },
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from reverse of leaf; ignored"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "the Francises[?]",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Codman[?]",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Rose",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Alice",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "medium",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

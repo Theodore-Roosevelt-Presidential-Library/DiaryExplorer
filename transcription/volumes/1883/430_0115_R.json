@@ -1,0 +1,69 @@
+{
+ "frame": "430_0115",
+ "half": "R",
+ "volume": "1883",
+ "page_type": "diary-day",
+ "dates": [
+  "1883-01-07"
+ ],
+ "printed": {
+  "headers": [
+   "JANUARY 7 Sunday"
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1883-01-07",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Church in the morning at",
+    "Dr. Hall. the family dinner",
+    "was at our house; in the",
+    "evening we took tea with",
+    "Motherling."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "Punctuation after \"Hall\" unclear (period or comma)."
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "faint grey writing in lower two-thirds, reading non-mirrored; appears to be writing from a following page seen through the paper; not transcribed"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Dr. Hall",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Motherling",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "Faint non-mirrored grey text below the entry judged to be show-through from another page.",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

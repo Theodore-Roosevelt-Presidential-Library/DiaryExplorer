@@ -1,0 +1,90 @@
+{
+ "frame": "430_0023",
+ "half": "L",
+ "volume": "1881",
+ "page_type": "diary-day",
+ "dates": [
+  "1881-03-17",
+  "1881-03-18",
+  "1881-03-19"
+ ],
+ "printed": {
+  "headers": [
+   "March, Thursday 17. 1881.",
+   "Friday 18.",
+   "Saturday 19."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1881-03-17",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Went to see Newsboy's",
+    "home and afterwards",
+    "to reception at the",
+    "Tuckermans,"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "b2",
+   "date": "1881-03-18",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Am elected a trustee",
+    "of the Orthopaedic",
+    "Dispensary & the New",
+    "York Infant Asylum.",
+    "KUSOS[?]; but work"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": "'KUSOS' uncertain reading"
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "faint mirrored writing from reverse of leaf; ignored"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Tuckermans",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   "Newsboy's home",
+   "Orthopaedic Dispensary",
+   "New York Infant Asylum"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "medium",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

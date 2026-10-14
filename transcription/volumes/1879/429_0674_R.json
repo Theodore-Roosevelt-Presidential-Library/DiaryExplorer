@@ -1,0 +1,110 @@
+{
+ "frame": "429_0674",
+ "half": "R",
+ "volume": "1879",
+ "page_type": "diary-day",
+ "dates": [
+  "1879-01-01"
+ ],
+ "printed": {
+  "headers": [
+   "Wednesday, January 1, 1879."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": null,
+   "kind": "inscription",
+   "position": "over-printed-title",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Theodore Roosevelt"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "Signature written above the printed ornament/heading."
+  },
+  {
+   "id": "b2",
+   "date": "1879-01-01",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Oyster Bay, Long Island.",
+    "The family came out",
+    "of town yesterday, with",
+    "Uncle Jimmie &",
+    "Aunt Annie, to spend",
+    "New Years with us.",
+    "We had a very jolly",
+    "time. They left in",
+    "the afternoon, when",
+    "Jack ^Elliott^ & I took a",
+    "brisk tramp through",
+    "the snow covered",
+    "woods with our guns."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "\"Elliott\" inserted above, between \"Jack\" and \"&\"; \"Jack\" not visibly struck."
+  }
+ ],
+ "marks": [
+  {
+   "kind": "archival-page-number",
+   "value": "1",
+   "position": "top",
+   "note": "pencil"
+  },
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "bottom",
+   "note": "mirrored \"3 rabbits\" from next page"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Uncle Jimmie",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Aunt Annie",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Jack",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Elliott",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   "Oyster Bay, Long Island"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

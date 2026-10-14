@@ -1,0 +1,87 @@
+{
+ "frame": "429_0924",
+ "half": "R",
+ "volume": "1880",
+ "page_type": "diary-day",
+ "dates": [
+  "1880-06-23"
+ ],
+ "printed": {
+  "headers": [
+   "June, Wednesday 23. 1880."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1880-06-23",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "A whole party of us (all",
+    "our family, the Lees, Rose &",
+    "Mamie S., & the Peabodys)",
+    "went down to lunch at",
+    "the Lees in Salem, and",
+    "then drove over to spend the",
+    "night at the Peabodys.",
+    "We had a very jolly",
+    "time, dancing and",
+    "playing charades and",
+    "hide and go seek."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "'Mamie S.' reading slightly uncertain."
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "Mirrored text from reverse page in lower half."
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "the Lees",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Rose",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Mamie S.",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "the Peabodys",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   "Salem"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

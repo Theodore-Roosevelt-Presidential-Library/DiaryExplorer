@@ -1,0 +1,48 @@
+{
+ "frame": "430_0070",
+ "half": "R",
+ "volume": "1881",
+ "page_type": "diary-day",
+ "dates": [
+  "1881-11-27",
+  "1881-11-28",
+  "1881-11-29"
+ ],
+ "printed": {
+  "headers": [
+   "November, Sunday 27. 1881.",
+   "Monday 28.",
+   "Tuesday 29."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from reverse of leaf"
+  },
+  {
+   "kind": "ink-blot",
+   "value": null,
+   "position": "top",
+   "note": "scattered dark specks under Sunday 27"
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": false,
+ "confidence": "high",
+ "transcriber_notes": "Blank days.",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

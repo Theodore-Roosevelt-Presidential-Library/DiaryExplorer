@@ -1,0 +1,44 @@
+{
+ "frame": "430_0097",
+ "half": "L",
+ "volume": "1882",
+ "page_type": "diary-day",
+ "dates": [
+  "1882-01-26"
+ ],
+ "printed": {
+  "headers": [
+   "JANUARY 26 Thursday"
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "faint ghost of Jan 24 entry"
+  },
+  {
+   "kind": "ink-blot",
+   "value": null,
+   "position": "body",
+   "note": "scattered ink spatters in upper half"
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": false,
+ "confidence": "medium",
+ "transcriber_notes": "Blank day; faint text is ghost of Jan 24.",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

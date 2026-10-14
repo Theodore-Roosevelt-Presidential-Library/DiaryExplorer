@@ -1,0 +1,58 @@
+{
+ "frame": "429_0655",
+ "half": "L",
+ "volume": "1878",
+ "page_type": "diary-day",
+ "dates": [
+  "1878-12-08"
+ ],
+ "printed": {
+  "headers": [
+   "December, Sunday 8. 1878."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1878-12-08",
+   "kind": "other",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "Cancellation only: printed 'SUNDAY 8.' struck through by hand and a large X drawn across the upper page; no words written."
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "faint mirrored Dec. 7 entry"
+  },
+  {
+   "kind": "ink-blot",
+   "value": null,
+   "position": "bottom",
+   "note": "specks in lower page"
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "Page cancelled by TR, consistent with his moving the Sunday entry to the previous page.",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

@@ -1,0 +1,78 @@
+{
+ "frame": "429_0698",
+ "half": "R",
+ "volume": "1879",
+ "page_type": "diary-day",
+ "dates": [
+  "1879-03-08"
+ ],
+ "printed": {
+  "headers": [
+   "Saturday, March 8, 1879."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1879-03-08",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Before sunrise we again started",
+    "on the caribou's trail, the thermometer",
+    "being below zero. He led a",
+    "most tortuous course through",
+    "cedar swamps, hardwood lands,",
+    "hemlock ridges[?], &c; and",
+    "sometimes would go in a straight",
+    "course across the great cranberry",
+    "bogs. Generally he trotted, coming",
+    "down not only on his hoofs but on his",
+    "whole lower legs, ~~but~~ ^the snow^, being",
+    "over three feet deep, but in",
+    "bad ground he made great jumps",
+    "like a huge rabbit. The snow",
+    "shoing was very bad and after",
+    "following him till midday without",
+    "finding where he had stopped to browse",
+    "or rest[?], we gave the chase up, and reached",
+    "the logging camp at sunset."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": "'but' struck with 'the snow' written above. 'thermometer' runs off page edge."
+  }
+ ],
+ "marks": [
+  {
+   "kind": "archival-page-number",
+   "value": "40",
+   "position": "top",
+   "note": "pencil, top right"
+  },
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from reverse"
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "medium",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

@@ -1,0 +1,135 @@
+{
+ "frame": "430_0026",
+ "half": "L",
+ "volume": "1881",
+ "page_type": "diary-day",
+ "dates": [
+  "1881-04-04",
+  "1881-04-05",
+  "1881-04-06"
+ ],
+ "printed": {
+  "headers": [
+   "April, Monday 4. 1881.",
+   "Tuesday 5.",
+   "Wednesday 6."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1881-04-04",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Took Bamie to drive"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "b2",
+   "date": "1881-04-05",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Took ~~Conie to dr~~ Aunt",
+    "Annie to drive,",
+    "Gave a whist party in",
+    "the evening to Beekman[?],",
+    "Sedgwick, Iselin, Col-",
+    "gate &c &c."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": "first surname uncertain"
+  },
+  {
+   "id": "b3",
+   "date": "1881-04-06",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Took Conie to drive,"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "faint mirrored writing from reverse of leaf; ignored"
+  },
+  {
+   "kind": "ink-blot",
+   "value": null,
+   "position": "bottom",
+   "note": "ink spatter below Wednesday 6 entry"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Bamie",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Conie",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Aunt Annie",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Beekman[?]",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Sedgwick",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Iselin",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Colgate",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "medium",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

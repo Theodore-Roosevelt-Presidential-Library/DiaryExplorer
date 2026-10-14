@@ -1,0 +1,85 @@
+{
+ "frame": "429_0728",
+ "half": "L",
+ "volume": "1879",
+ "page_type": "diary-day",
+ "dates": [
+  "1879-06-07"
+ ],
+ "printed": {
+  "headers": [
+   "Saturday, June 7, 1879."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1879-06-07",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "I passed my third and hardest",
+    "examination in the morning",
+    "and so took a holiday in",
+    "the afternoon. My horse is",
+    "now perfectly well, and so I",
+    "rode over to Chestnut Hill;",
+    "he was in wild spirits, and",
+    "cut up so that I had hard",
+    "work to prevent him",
+    "spraining his leg again.",
+    "It makes me feel like a new",
+    "man to have the horse well",
+    "again; I had a most glorious",
+    "ride. I spent the afternoon",
+    "walking with Alice; dined at",
+    "the Lees; and spent the",
+    "evening dancing, talking",
+    "&c, riding back at",
+    "10 oclock."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "\"dined\" appears written over another word."
+  }
+ ],
+ "marks": [
+  {
+   "kind": "archival-page-number",
+   "value": null,
+   "position": "top-left",
+   "note": "pencil mark partly cut off"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Alice",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "the Lees",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   "Chestnut Hill"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "Sequence jumps from June 4 (frame 0727) to June 7; June 5-6 not in this frame.",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

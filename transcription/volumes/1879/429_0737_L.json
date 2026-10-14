@@ -1,0 +1,144 @@
+{
+ "frame": "429_0737",
+ "half": "L",
+ "volume": "1879",
+ "page_type": "diary-day",
+ "dates": [
+  "1879-06-27"
+ ],
+ "printed": {
+  "headers": [
+   "Friday, June 27, 1879."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1879-06-27",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "At 11.10 we started in a special",
+    "car to see the \"Great Harvard-",
+    "Yale Race\" which Harvard",
+    "won easily. The party consisted",
+    "of Alice, Rose & Rosie Lee,",
+    "Bessie W. Nana R, Miss Sullo[?]",
+    "the two Miss Lanes, Van R.",
+    "Jack T., Harry Guild, Dick",
+    "R, John Wheel.[?] Ell W. &c.",
+    "I have hardly ever",
+    "enjoyed myself more.",
+    "We did not get home",
+    "till 2 a.m., and I",
+    "have absolutely no voice",
+    "left; thanks to the shouting,",
+    "We sang ^during^ most of the return",
+    "journey. I spent a large",
+    "proportion of my time with",
+    "Alice, who[?] never looked prettier"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": "Entry appears to continue past the bottom frame line; last line written on the frame rule."
+  }
+ ],
+ "marks": [
+  {
+   "kind": "archival-page-number",
+   "value": "122",
+   "position": "left-margin",
+   "note": "pencil, upper left"
+  },
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": null
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Alice",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Rose",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Rosie Lee",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Bessie W.",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Nana R",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Miss Sullo",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Miss Lanes",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Van R.",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Jack T.",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Harry Guild",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Dick R",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "John Wheel.",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Ell W.",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "medium",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

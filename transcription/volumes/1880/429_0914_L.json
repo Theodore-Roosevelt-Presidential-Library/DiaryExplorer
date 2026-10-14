@@ -1,0 +1,60 @@
+{
+ "frame": "429_0914",
+ "half": "L",
+ "volume": "1880",
+ "page_type": "diary-day",
+ "dates": [
+  "1880-05-29"
+ ],
+ "printed": {
+  "headers": [
+   "May, Saturday 29. 1880."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1880-05-29",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Spent the morning with",
+    "my beloved darling, reading",
+    "Pendennis aloud, while she",
+    "sewed. In the afternoon I",
+    "took her the longest drive",
+    "we have gone yet, through",
+    "Dedham, Needham, and almost",
+    "to Wellesly and back through",
+    "Grantville."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "'N' of Needham formed like a V; 'Wellesly' as written."
+  }
+ ],
+ "marks": [],
+ "mentions": {
+  "people": [],
+  "places": [
+   "Dedham",
+   "Needham",
+   "Wellesly",
+   "Grantville"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

@@ -1,0 +1,31 @@
+{
+ "frame": "429_0648",
+ "half": "L",
+ "volume": "1878",
+ "page_type": "diary-day",
+ "dates": [
+  "1878-11-22"
+ ],
+ "printed": {
+  "headers": [
+   "November, Friday 22. 1878."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [],
+ "marks": [],
+ "mentions": {
+  "people": [],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": false,
+ "confidence": "high",
+ "transcriber_notes": "Previous frame ends at Nov. 19; Nov. 20-21 not in this batch (check for a skipped frame).",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

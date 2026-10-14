@@ -1,0 +1,77 @@
+{
+ "frame": "429_0989",
+ "half": "L",
+ "volume": "1880",
+ "page_type": "diary-day",
+ "dates": [
+  "1880-11-03"
+ ],
+ "printed": {
+  "headers": [
+   "November, Wednesday 3. 1880."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1880-11-01",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "and walks together; we",
+    "play a great deal of",
+    "tennis, being about",
+    "equally matched; and",
+    "wander about the",
+    "woods and shores! In",
+    "the evenings I read",
+    "aloud while she sews;",
+    "or she plays on the",
+    "piano; or we play",
+    "cards together.",
+    "On Tuesday th[?] I",
+    "drove over to Norwich to",
+    "deposit my first vote",
+    "for president — for",
+    "Garfield."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "continues from previous pages (entry begun under November 1); small word after \"Tuesday\" unclear (\"th\" or \"the\")"
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "faint mirrored writing from reverse"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Garfield",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   "Norwich"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

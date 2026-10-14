@@ -1,0 +1,78 @@
+{
+ "frame": "429_0695",
+ "half": "L",
+ "volume": "1879",
+ "page_type": "diary-day",
+ "dates": [
+  "1879-03-01"
+ ],
+ "printed": {
+  "headers": [
+   "Saturday, March 1, 1879."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1879-03-01",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Tried snowshoing for the",
+    "first time. Went about",
+    "six miles, making the",
+    "round of Bill Dows",
+    "\"lucivee\" traps, which",
+    "however contained nothing.",
+    "The woods looked simply",
+    "perfect, all the evergreens",
+    "being loaded with",
+    "snow; I have never seen",
+    "a ~~prettier~~ ^grander^ sight than these",
+    "northern forests in winter.",
+    "I got along very well, except in",
+    "a cedar swamp. We saw many",
+    "tracks of lucivees, foxes, otters",
+    "and rabbits; and found a",
+    "porcupine up in a hemlock. I",
+    "brought him down quite neatly",
+    "with the rifle."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "'prettier' struck with 'grander' written above. 'snowshoing' and 'Dows' as written."
+  }
+ ],
+ "marks": [
+  {
+   "kind": "archival-page-number",
+   "value": "33",
+   "position": "left-margin",
+   "note": "pencil, top left"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Bill Dows",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

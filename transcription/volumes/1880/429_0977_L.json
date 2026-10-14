@@ -1,0 +1,86 @@
+{
+ "frame": "429_0977",
+ "half": "L",
+ "volume": "1880",
+ "page_type": "diary-day",
+ "dates": [
+  "1880-10-08"
+ ],
+ "printed": {
+  "headers": [
+   "October, Friday 8. 1880."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1880-10-08",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Went out to Oyster Bay.",
+    "Everything looked very",
+    "cosy and homelike",
+    "and it was lovely",
+    "to see the dear quar-",
+    "tette — Elliott, Pussie,",
+    "Bysie & Mother. We",
+    "have very much to",
+    "talk over about the",
+    "wedding."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "faint mirrored writing from reverse"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Elliott",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Pussie",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Bysie",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Mother",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   "Oyster Bay"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

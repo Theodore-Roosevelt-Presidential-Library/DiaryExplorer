@@ -1,0 +1,70 @@
+{
+ "frame": "429_0800",
+ "half": "R",
+ "volume": "1879",
+ "page_type": "diary-day",
+ "dates": [
+  "1879-11-17"
+ ],
+ "printed": {
+  "headers": [
+   "Monday, November 17, 1879."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1879-11-17",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Came on to Boston",
+    "with the girls. Class",
+    "meeting at night."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": "faint writing; heavy show-through on rest of page"
+  }
+ ],
+ "marks": [
+  {
+   "kind": "archival-page-number",
+   "value": "331[?]",
+   "position": "top",
+   "note": "pencil"
+  },
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from reverse of leaf; ignored"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "the girls",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   "Boston"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "medium",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

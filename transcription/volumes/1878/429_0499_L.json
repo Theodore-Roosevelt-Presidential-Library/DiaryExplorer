@@ -1,0 +1,71 @@
+{
+ "frame": "429_0499",
+ "half": "L",
+ "volume": "1878",
+ "page_type": "diary-day",
+ "dates": [
+  "1878-02-13"
+ ],
+ "printed": {
+  "headers": [
+   "February, Wednesday 13. 1878."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1878-02-12",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "dear, dead face",
+    "and realized",
+    "that he would",
+    "never again on",
+    "this earth speak",
+    "to me or greet",
+    "me with his",
+    "loving smile,",
+    "and then when",
+    "I heard the sound",
+    "of the first clod",
+    "dropping on the",
+    "coffin holding",
+    "the one I loved",
+    "dearest on earth.",
+    "He looked so",
+    "calm and sweet.",
+    "I feel[?] that if it"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": "Continues from previous page (Feb 12 entry), written under the Feb 13 heading. Last line: the word after 'I' is overwritten/corrected (letters 'feel' with overwriting, possibly 'felt'); 'realized' also shows a possible overwrite."
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "faint mirrored writing from reverse of leaf; not transcribed"
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "medium",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

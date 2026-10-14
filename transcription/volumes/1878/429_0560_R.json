@@ -1,0 +1,80 @@
+{
+ "frame": "429_0560",
+ "half": "R",
+ "volume": "1878",
+ "page_type": "diary-day",
+ "dates": [
+  "1878-06-08"
+ ],
+ "printed": {
+  "headers": [
+   "June, Saturday 8. 1878."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1878-06-08",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Spent the morning",
+    "in sandpapering",
+    "and varnishing",
+    "my boat.",
+    "All the family",
+    "are wonderfully",
+    "lovely to me; but",
+    "I wish Mother",
+    "and Bamie would",
+    "not quarrel among",
+    "themselves",
+    "~~It is~~ There",
+    "comes a dull pain",
+    "at my heart",
+    "whenever I think",
+    "of the dear lost one."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": "'It is' appears struck through before 'There'."
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "faint mirrored writing from reverse of leaf; ignored"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Mother",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Bamie",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

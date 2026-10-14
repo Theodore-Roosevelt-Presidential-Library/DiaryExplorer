@@ -1,0 +1,66 @@
+{
+ "frame": "430_0089",
+ "half": "L",
+ "volume": "1882",
+ "page_type": "diary-day",
+ "dates": [
+  "1882-01-04"
+ ],
+ "printed": {
+  "headers": [
+   "JANUARY 4 Wednesday"
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1882-01-04",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Ballotted for speaker",
+    "There are 61 Republi-",
+    "cans in the house; there",
+    "are 67 democrats, but",
+    "of these 7 are Tammany",
+    "Hall men, who",
+    "are \"striking\" for",
+    "their own candidate,",
+    "and so a deadlock",
+    "has come about.",
+    "Adjourned till Monday"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "\"61\" figure: second digit could be read differently; \"striking\" also possible \"kicking\"."
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "faint mirrored writing from Jan 3"
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [
+   "Tammany Hall"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

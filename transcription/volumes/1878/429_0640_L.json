@@ -1,0 +1,73 @@
+{
+ "frame": "429_0640",
+ "half": "L",
+ "volume": "1878",
+ "page_type": "diary-day",
+ "dates": [
+  "1878-11-02"
+ ],
+ "printed": {
+  "headers": [
+   "November, Saturday 2. 1878."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1878-11-02",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Was a steward",
+    "of the field meet-",
+    "ing of the",
+    "athletic association",
+    "which took place",
+    "today.",
+    "In evening was",
+    "initiated into the",
+    "Porcellian Club,",
+    "and was \"higher\"",
+    "with wine than I",
+    "ever have been",
+    "before—or will be",
+    "again. Still, I",
+    "could wind up my",
+    "watch. Wine always",
+    "makes ^me^ awfully",
+    "fighty."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from reverse of leaf"
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [
+   "Porcellian Club"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

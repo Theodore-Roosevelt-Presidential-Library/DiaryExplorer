@@ -1,0 +1,67 @@
+{
+ "frame": "429_0889",
+ "half": "R",
+ "volume": "1880",
+ "page_type": "diary-day",
+ "dates": [
+  "1880-04-10"
+ ],
+ "printed": {
+  "headers": [
+   "April, Saturday 10. 1880."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1880-04-10",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Dinner at home; I sat be-",
+    "-tween Miss Moran and Miss",
+    "Prince[?]."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": "second surname uncertain"
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "faint mirrored writing from reverse"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Miss Moran",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Miss Prince",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

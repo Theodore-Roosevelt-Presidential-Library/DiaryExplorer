@@ -1,0 +1,81 @@
+{
+ "frame": "429_0865",
+ "half": "R",
+ "volume": "1880",
+ "page_type": "diary-day",
+ "dates": [
+  "1880-02-22"
+ ],
+ "printed": {
+  "headers": [
+   "February, Sunday 22. 1880."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1880-02-22",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "After Mission School I drove",
+    "over to the Lees; I took",
+    "my little Sunshine out",
+    "for a drive, to Forrest",
+    "Hill, and towards Milton; I had",
+    "a lovely drive, for it was a",
+    "beautiful day and I had",
+    "such a sweet, pretty companion!"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "faint mirrored writing from reverse"
+  },
+  {
+   "kind": "other",
+   "value": null,
+   "position": "bottom",
+   "note": "faint small mark near bottom left"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Lees",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Sunshine",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   "Forrest Hill",
+   "Milton"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

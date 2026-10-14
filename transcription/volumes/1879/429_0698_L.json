@@ -1,0 +1,84 @@
+{
+ "frame": "429_0698",
+ "half": "L",
+ "volume": "1879",
+ "page_type": "diary-day",
+ "dates": [
+  "1879-03-07"
+ ],
+ "printed": {
+  "headers": [
+   "Friday, March 7, 1879."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1879-03-07",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Dow and I started out early",
+    "in the morning, although there",
+    "was a heavy snow storm going",
+    "on, and tramped through the",
+    "woods till the afternoon without",
+    "seeing anything, when we",
+    "roused a caribou in a",
+    "dense, low spruce wood. I",
+    "caught a glimpse of him",
+    "as he vanished not thirty",
+    "yards distant, but had",
+    "no chance to fire. We",
+    "followed his tracks till",
+    "dusk, when we went into",
+    "camp. The night was very",
+    "cold, and we had but",
+    "little food and no blankets,",
+    "and so were pretty uncomfortable",
+    "inspite of our huge fire."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "'uncomfortable' runs off the page edge."
+  }
+ ],
+ "marks": [
+  {
+   "kind": "archival-page-number",
+   "value": "39",
+   "position": "left-margin",
+   "note": "pencil, top left"
+  },
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from reverse"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Dow",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

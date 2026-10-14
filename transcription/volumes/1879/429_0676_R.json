@@ -1,0 +1,76 @@
+{
+ "frame": "429_0676",
+ "half": "R",
+ "volume": "1879",
+ "page_type": "diary-day",
+ "dates": [
+  "1879-01-05"
+ ],
+ "printed": {
+  "headers": [
+   "Sunday, January 5, 1879."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1879-01-05",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Hal Chapin took",
+    "tea with us. Had",
+    "such a sweet talk",
+    "with Muffie.",
+    "I wonder if ever",
+    "a man had",
+    "two better sisters",
+    "than I have!",
+    "In evening went",
+    "on to Harvard."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  }
+ ],
+ "marks": [
+  {
+   "kind": "archival-page-number",
+   "value": "5",
+   "position": "top",
+   "note": "pencil"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Hal Chapin",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Muffie",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   "Harvard"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

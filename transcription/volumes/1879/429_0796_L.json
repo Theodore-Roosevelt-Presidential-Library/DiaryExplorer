@@ -1,0 +1,111 @@
+{
+ "frame": "429_0796",
+ "half": "L",
+ "volume": "1879",
+ "page_type": "diary-day",
+ "dates": [
+  "1879-11-08"
+ ],
+ "printed": {
+  "headers": [
+   "Saturday, November 8, 1879."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1879-11-08",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Drove over to the Salton-",
+    "stalls in the morning,",
+    "and thence over to",
+    "the Whitneys, where I",
+    "took dinner and had",
+    "an exceedingly pleasant",
+    "time; Miss. Bessie I like",
+    "more and more. I then",
+    "drove over to Harry",
+    "Minots where I am",
+    "going to spend the",
+    "night. Passed the evening",
+    "playing whist and",
+    "billiards with the",
+    "Minot, Whitney and",
+    "Guild boys."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  }
+ ],
+ "marks": [
+  {
+   "kind": "archival-page-number",
+   "value": "324[?]",
+   "position": "top",
+   "note": "pencil"
+  },
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from reverse of leaf; ignored"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "the Saltonstalls",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "the Whitneys",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Miss. Bessie",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Harry Minot",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Minot boys",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Whitney boys",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Guild boys",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "Thursday-Friday Nov 6-7 not on this frame or the previous one; check neighbouring frames for that leaf.",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

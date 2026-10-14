@@ -1,0 +1,63 @@
+{
+ "frame": "429_0857",
+ "half": "L",
+ "volume": "1880",
+ "page_type": "diary-day",
+ "dates": [
+  "1880-02-05"
+ ],
+ "printed": {
+  "headers": [
+   "February, Thursday 5. 1880."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1880-02-05",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Went to the Harvard Assembly",
+    "dancing with Lulu Lowell."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "'dancing' written over a correction."
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "faint mirrored writing from reverse"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Lulu Lowell",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   "Harvard Assembly"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

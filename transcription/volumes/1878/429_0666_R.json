@@ -1,0 +1,68 @@
+{
+ "frame": "429_0666",
+ "half": "R",
+ "volume": "1878",
+ "page_type": "memoranda",
+ "dates": [],
+ "printed": {
+  "headers": [],
+  "title": "Memoranda.",
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": null,
+   "kind": "list",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Game Record for 1878",
+    "Red Hare 1",
+    "Gray Rabbit 8",
+    "Squirrel (Gray) 3",
+    "Spruce Grouse 1",
+    "Ruffed Grouse 16",
+    "Quail 6",
+    "Woodcock 14",
+    "Wild Pigeon 1",
+    "Carolina dove 3",
+    "Ducks 8",
+    "Yellow legs 3",
+    "Plover 2",
+    "Sandsnipe ~~8~~9",
+    "Heron 4",
+    "Loon 1",
+    "~~72~~ 80",
+    "(8 Ducks = 1 old squaw, 2 coots, 2 shel-",
+    "drakes, 1 buffle head, 1 wood, 1 ruddy)."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": "Counts are in a right-hand column. Sandsnipe figure appears to be two digits overwritten (read as 8 corrected to 9, uncertain); total below the rule appears as an overwritten figure (72[?]) followed by 80. 'Heron' and 'Loon' written smaller and close together."
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "faint mirrored writing from other side of leaf; ignored"
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "medium",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

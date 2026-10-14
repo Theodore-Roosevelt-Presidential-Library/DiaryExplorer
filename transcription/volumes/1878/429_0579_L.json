@@ -1,0 +1,79 @@
+{
+ "frame": "429_0579",
+ "half": "L",
+ "volume": "1878",
+ "page_type": "diary-day",
+ "dates": [
+  "1878-07-15"
+ ],
+ "printed": {
+  "headers": [
+   "July, Monday 15. 1878."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1878-07-15",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Rowed round Centre",
+    "Island; high tide",
+    "and dead calm,",
+    "but hotter than",
+    "Tophet. Started",
+    "10.45; Pine Neck",
+    "11.20; (portage takes",
+    "5 minutes); Plum",
+    "Point 11.50; returned",
+    "12.13.",
+    "Had a long",
+    "gallop with",
+    "Emlen beyond",
+    "and around",
+    "Wheatley"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "faint mirrored writing from reverse"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Emlen",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   "Centre Island",
+   "Pine Neck",
+   "Plum Point",
+   "Wheatley"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

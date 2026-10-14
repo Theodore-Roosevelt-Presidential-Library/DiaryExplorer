@@ -1,0 +1,69 @@
+{
+ "frame": "429_0958",
+ "half": "R",
+ "volume": "1880",
+ "page_type": "diary-day",
+ "dates": [
+  "1880-09-01"
+ ],
+ "printed": {
+  "headers": [
+   "September, Wednesday 1. 1880."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1880-09-01",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "At last Wilcox made his",
+    "appearance and we",
+    "shall leave in a day",
+    "or two."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  }
+ ],
+ "marks": [
+  {
+   "kind": "ink-blot",
+   "value": null,
+   "position": "body",
+   "note": "scattered specks mid-page"
+  },
+  {
+   "kind": "stain",
+   "value": null,
+   "position": "left-margin",
+   "note": "faint smudge lower left"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Wilcox",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

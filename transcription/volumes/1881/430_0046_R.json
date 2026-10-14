@@ -1,0 +1,113 @@
+{
+ "frame": "430_0046",
+ "half": "R",
+ "volume": "1881",
+ "page_type": "diary-day",
+ "dates": [
+  "1881-08-05",
+  "1881-08-06",
+  "1881-08-07"
+ ],
+ "printed": {
+  "headers": [
+   "August, Friday 5. 1881.",
+   "Saturday 6.",
+   "Sunday 7."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1881-08-05",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Started in afternoon,",
+    "Alice and baggage",
+    "on two mules, and",
+    "went to Stalden."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "b2",
+   "date": "1881-08-06",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Left at 4.30, Alice on a",
+    "mule, to Visp; then by",
+    "train to Martigny; then",
+    "by rickety wagon to",
+    "Chamounix, coming in ^by^ the",
+    "beautiful moonlight."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "b3",
+   "date": "1881-08-07",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "The Chapmans are staying",
+    "here. Church poor."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from reverse of leaf; ignored"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Alice",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "The Chapmans",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   "Stalden",
+   "Visp",
+   "Martigny",
+   "Chamounix"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

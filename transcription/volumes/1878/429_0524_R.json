@@ -1,0 +1,71 @@
+{
+ "frame": "429_0524",
+ "half": "R",
+ "volume": "1878",
+ "page_type": "diary-day",
+ "dates": [
+  "1878-04-03"
+ ],
+ "printed": {
+  "headers": [
+   "April, Wednesday 3. 1878."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1878-04-02",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "without his",
+    "presence; in",
+    "looking back",
+    "to all my",
+    "happy family",
+    "memories he",
+    "is associated",
+    "with every one.",
+    "No evening was",
+    "ever complete",
+    "if spent",
+    "without him.",
+    "We have been",
+    "a most happy",
+    "and united",
+    "family, and",
+    "oh how we",
+    "all loved him!"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "Continues from previous page (entry begun April 2)."
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "Mirrored writing from reverse of leaf; ignored."
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

@@ -1,0 +1,63 @@
+{
+ "frame": "430_0060",
+ "half": "L",
+ "volume": "1881",
+ "page_type": "diary-day",
+ "dates": [
+  "1881-10-25",
+  "1881-10-26",
+  "1881-10-27"
+ ],
+ "printed": {
+  "headers": [
+   "October, Tuesday 25. 1881.",
+   "Wednesday 26.",
+   "Thursday 27."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1881-10-26",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Most of my friends",
+    "are standing by me",
+    "like trumps.",
+    "I have a good chance",
+    "of being elected if I am",
+    "not sold out."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "bracket-like strokes enclose parts of the entry at left and right"
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from reverse of leaf; ignored"
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "Tuesday 25: dark fragmentary strokes appear mirrored (show-through/offset), not transcribed. Thursday 27 blank (show-through only).",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

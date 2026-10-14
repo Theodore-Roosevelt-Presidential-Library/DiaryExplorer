@@ -1,0 +1,114 @@
+{
+ "frame": "429_0758",
+ "half": "R",
+ "volume": "1879",
+ "page_type": "diary-day",
+ "dates": [
+  "1879-08-21"
+ ],
+ "printed": {
+  "headers": [
+   "Thursday, August 21, 1879."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1879-08-21",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "At nine oclock ^a.m.^ Dick",
+    "and I drove over to",
+    "the Whitneys, and did",
+    "not return till",
+    "after midnight. I",
+    "had a lovely day,",
+    "sailing, walking, driving,",
+    "dancing, playing lawn",
+    "tennis &c. I really",
+    "heartily enjoyed seeing",
+    "dear, honest Rose,",
+    "pretty little Rosy Lee,",
+    "sweet Alice, and [illegible]",
+    "pretty Bessie, again —",
+    "especially Rose and Alice.",
+    "The Whitneys are exceeding",
+    "-ly hospitable and",
+    "cordial."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": "word after 'and' obliterated by ink blot"
+  }
+ ],
+ "marks": [
+  {
+   "kind": "archival-page-number",
+   "value": "155",
+   "position": "top",
+   "note": null
+  },
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from reverse of leaf; ignored"
+  },
+  {
+   "kind": "ink-blot",
+   "value": null,
+   "position": "body",
+   "note": "large blot over one word, line 13"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Dick",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Rose",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Rosy Lee",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Alice",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Bessie",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Whitneys",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "medium",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

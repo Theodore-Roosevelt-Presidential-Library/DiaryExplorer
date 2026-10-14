@@ -1,0 +1,86 @@
+{
+ "frame": "429_0531",
+ "half": "R",
+ "volume": "1878",
+ "page_type": "diary-day",
+ "dates": [
+  "1878-04-17"
+ ],
+ "printed": {
+  "headers": [
+   "April, Wednesday 17. 1878."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1878-04-17",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Shot a muskrat[?]",
+    "[illegible: 2 words]",
+    "[illegible: 2 words]",
+    "feet[?] [illegible] and",
+    "[illegible] inches deep[?];",
+    "went back",
+    "to the city.",
+    "Bamie[?] has",
+    "just returned",
+    "from Denver."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "low",
+   "note": "Very heavy mirrored show-through overlaps lines 1-5; only fragments readable."
+  },
+  {
+   "id": "b2",
+   "date": "1878-04-17",
+   "kind": "tally",
+   "position": "bottom",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "2 muskrat[?]"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "low",
+   "note": null
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "Mirrored writing from reverse of leaf; ignored."
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Bamie[?]",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   "Denver"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "low",
+ "transcriber_notes": "Lower page carries strong mirrored show-through of the April 18 hymn; not transcribed.",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

@@ -1,0 +1,67 @@
+{
+ "frame": "429_0588",
+ "half": "L",
+ "volume": "1878",
+ "page_type": "diary-day",
+ "dates": [
+  "1878-08-02"
+ ],
+ "printed": {
+  "headers": [
+   "August, Friday 2. 1878."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1878-08-02",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Rowed round",
+    "Loyd's Neck. Started",
+    "10 a.m ; : Point",
+    "11.15 ; Huntington",
+    "Harbour Lighthouse",
+    "12.15 ; Neck 1. p.m;",
+    "home 1.45. Portage",
+    "took but four",
+    "minutes, tide",
+    "being dead high.",
+    "Southerly wind."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": "A gap with a small colon-like mark stands before \"Point\" in line 3, as if a name were left blank."
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "faint mirrored writing from reverse"
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [
+   "Loyd's Neck",
+   "Huntington Harbour Lighthouse"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "medium",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

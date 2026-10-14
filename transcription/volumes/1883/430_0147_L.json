@@ -1,0 +1,82 @@
+{
+ "frame": "430_0147",
+ "half": "L",
+ "volume": "1883",
+ "page_type": "cash-account",
+ "dates": [],
+ "printed": {
+  "headers": [],
+  "title": "Cash JUNE",
+  "description": "ruled cash-account page with printed column headings 'PAID' and 'RECEIVED'"
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": null,
+   "kind": "heading",
+   "position": "top",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Income"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "continues as \"ac't\" at top of facing page 430_0147_R"
+  },
+  {
+   "id": "b2",
+   "date": null,
+   "kind": "table",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Date",
+    "July 15th 2 [illegible]",
+    "\"",
+    "Aug 1st",
+    "3d",
+    "\"",
+    "4[?]",
+    "Sept 5th[?]",
+    "25th",
+    "Oct 4th",
+    "6th",
+    "10th[?]",
+    "Nov [illegible]",
+    "[illegible] 2d[?]",
+    "1st"
+   ],
+   "rows": null,
+   "columns": [
+    "date",
+    "remarks"
+   ],
+   "confidence": "low",
+   "note": "dates in left columns with ditto marks; rows correspond to payee list on facing page 430_0147_R. Page dark with dense mirrored show-through of the facing account"
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing and print from reverse of leaf, ignored"
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "low",
+ "transcriber_notes": "income account dates for July-Nov 1883; heavy show-through makes ditto marks and some dates uncertain",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

@@ -1,0 +1,87 @@
+{
+ "frame": "429_0595",
+ "half": "L",
+ "volume": "1878",
+ "page_type": "diary-day",
+ "dates": [
+  "1878-08-16"
+ ],
+ "printed": {
+  "headers": [
+   "August, Friday 16. 1878."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1878-08-16",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Edith C. has come to",
+    "spend two weeks with",
+    "Corinne.",
+    "Emlen, Jack &",
+    "I sailed over",
+    "to ~~[illegible]~~ the Con-",
+    "-necticut shore, &",
+    "coming home in the",
+    "afternoon got caught",
+    "in a bad rain",
+    "storm."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": "A word before \"the Con-\" is heavily cancelled and unreadable. \"has\" after \"Edith C.\" appears overwritten."
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "faint mirrored writing from reverse"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Edith C.",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Corinne",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Emlen",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Jack",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   "Connecticut shore"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "medium",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

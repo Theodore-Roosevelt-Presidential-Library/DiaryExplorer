@@ -1,0 +1,38 @@
+{
+ "frame": "429_0919",
+ "half": "R",
+ "volume": "1880",
+ "page_type": "diary-day",
+ "dates": [
+  "1880-06-11"
+ ],
+ "printed": {
+  "headers": [
+   "June, Friday 11. 1880."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "Faint non-mirrored ghost text of the June 13 entry ('Breakfasted in the club...') from a later leaf; not on this page."
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": false,
+ "confidence": "high",
+ "transcriber_notes": "Blank day; only ghost text from another leaf.",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

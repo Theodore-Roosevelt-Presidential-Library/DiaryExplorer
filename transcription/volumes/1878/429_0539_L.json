@@ -1,0 +1,72 @@
+{
+ "frame": "429_0539",
+ "half": "L",
+ "volume": "1878",
+ "page_type": "diary-day",
+ "dates": [
+  "1878-05-02"
+ ],
+ "printed": {
+  "headers": [
+   "May, Thursday 2. 1878."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1878-05-02",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Dear Old Hal",
+    "Minot has",
+    "left college for",
+    "[illegible] am awfully",
+    "sorry, as I had",
+    "intended to",
+    "chum with",
+    "him next",
+    "winter. He",
+    "was just too",
+    "sweet to me",
+    "in the hour[?]",
+    "of affliction."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": "dense show-through interleaved with lines; first word of line 4 unreadable"
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from other side of leaf / facing page ignored"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Hal Minot",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "medium",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

@@ -1,0 +1,72 @@
+{
+ "frame": "429_0702",
+ "half": "L",
+ "volume": "1879",
+ "page_type": "diary-day",
+ "dates": [
+  "1879-03-15"
+ ],
+ "printed": {
+  "headers": [
+   "Saturday, March 15, 1879."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1879-03-15",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Started for Mattawomkeag",
+    "in a sleigh at 5. a.m.",
+    "It was a very pleasant",
+    "day. Took the night",
+    "train for Boston. I am",
+    "now going to study",
+    "all the time till",
+    "Easter, doing double work",
+    "to make up for my",
+    "holiday."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  }
+ ],
+ "marks": [
+  {
+   "kind": "archival-page-number",
+   "value": "47",
+   "position": "left-margin",
+   "note": "pencil, top left"
+  },
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored text of 14 March entry visible in lower half; ignored"
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [
+   "Mattawomkeag",
+   "Boston"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

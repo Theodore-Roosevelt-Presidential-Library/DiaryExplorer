@@ -1,0 +1,88 @@
+{
+ "frame": "429_0780",
+ "half": "R",
+ "volume": "1879",
+ "page_type": "diary-day",
+ "dates": [
+  "1879-10-04"
+ ],
+ "printed": {
+  "headers": [
+   "Saturday, October 4, 1879."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1879-10-04",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "9-11 Zoology. 11-1 Review",
+    "Geology. 4 hours work. In",
+    "all I work 36 hours a",
+    "week - generally a little",
+    "more.",
+    "Took Minot out for a",
+    "long drive in my \"cart.",
+    "I shall enjoy this \"cart\"",
+    "more than I have",
+    "anything yet.",
+    "In the evening we",
+    "had a great spree up",
+    "in the Club; - so I did",
+    "not get to bed till",
+    "awfully late."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  }
+ ],
+ "marks": [
+  {
+   "kind": "archival-page-number",
+   "value": "197[?]",
+   "position": "top",
+   "note": "pencil numeral at top corner, later mark"
+  },
+  {
+   "kind": "ink-blot",
+   "value": null,
+   "position": "body",
+   "note": "small blot mid-page"
+  },
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from reverse of leaf ignored"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Minot",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   "the Club"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

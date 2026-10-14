@@ -1,0 +1,59 @@
+{
+ "frame": "429_0906",
+ "half": "R",
+ "volume": "1880",
+ "page_type": "diary-day",
+ "dates": [
+  "1880-05-14"
+ ],
+ "printed": {
+  "headers": [
+   "May, Friday 14. 1880."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1880-05-14",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Drove over in the afternoon",
+    "to ~~Cambridge~~ ^Chestnut Hill^. Played tennis",
+    "after tea."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "'Cambridge' struck through with 'Chestnut Hill' written above."
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "Mirrored text from reverse (May 15 entry)."
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [
+   "Cambridge",
+   "Chestnut Hill"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

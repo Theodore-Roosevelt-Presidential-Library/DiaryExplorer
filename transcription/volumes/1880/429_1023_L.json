@@ -1,0 +1,95 @@
+{
+ "frame": "429_1023",
+ "half": "L",
+ "volume": "1880",
+ "page_type": "other",
+ "dates": [],
+ "printed": {
+  "headers": [],
+  "title": "Cash Account—October.",
+  "description": "Printed cash-account ruling with column heads 'Date.', 'Received.', 'Paid.'"
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": null,
+   "kind": "entry",
+   "position": "top",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "In 1881, made ~~but~~[?] one",
+    "shooting day, when I got ~~five~~ ^5^",
+    "^scoter^ ducks on Long Island Sound."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": "Written across and around the printed title 'Cash Account—October.' (title not struck). 'scoter' written small in left margin above 'ducks' as an insertion; 'five' struck with '5' written above; word after 'made' appears struck/overwritten ('but'[?]). Later retrospective note (1881) in an 1880 volume."
+  },
+  {
+   "id": "b2",
+   "date": null,
+   "kind": "list",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "In 1882, at Sayville in",
+    "August shot",
+    "2 marlin",
+    "4[?] jack",
+    "2 willet",
+    "3 yelper",
+    "4 yellowlegs",
+    "5 dowitcher",
+    "15 ring neck",
+    "25 \"peep\", \"oxeye\" &c.",
+    "60",
+    "at Oyster Bay",
+    "7 clapper rail",
+    "~~7~~",
+    "7",
+    "at Oyster Bay",
+    "3 broadbill duck",
+    "4 old squaws",
+    "17 coots",
+    "24",
+    "91"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": "Figures for jack, yellowlegs and dowitcher are written with crossing strokes (look like X / crossed 4 / slashed 5); read as 4, 4, 5 because the group total 60 requires 13 for these three. Subtotals 60, 7, 24 written in the left (Date) column with rules; a struck '7' above the second subtotal. Grand total 91 = 60+7+24. Retrospective 1882 record in an 1880 volume."
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "faint ghost figures of the Game Bag summary ignored"
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [
+   "Long Island Sound",
+   "Sayville",
+   "Oyster Bay"
+  ],
+  "dates": [
+   "1881",
+   "1882",
+   "August"
+  ]
+ },
+ "has_tr_writing": true,
+ "confidence": "medium",
+ "transcriber_notes": "Retrospective shooting records for 1881 and 1882 written in the 1880 volume's cash-account pages.",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

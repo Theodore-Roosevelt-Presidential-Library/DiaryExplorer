@@ -1,0 +1,81 @@
+{
+ "frame": "429_0768",
+ "half": "R",
+ "volume": "1879",
+ "page_type": "diary-day",
+ "dates": [
+  "1879-09-10"
+ ],
+ "printed": {
+  "headers": [
+   "Wednesday, September 10, 1879."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1879-09-10",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Rose before daybreak &",
+    "started before sunrise, down",
+    "~~Pad[?]~~ the lake. Paddled",
+    "through the lake and",
+    "deadwater, running the",
+    "falls; then waded down",
+    "through the Munsungun",
+    "quick water, lunching",
+    "where we camped Sun-",
+    "-day night; then we",
+    "poled, (making fine time",
+    "down the swift water",
+    "and only occasionally",
+    "having to get out and",
+    "wade) until, early in the",
+    "afternoon we reached our",
+    "Saturday camp where",
+    "we are now. I am very fond",
+    "of the evenings round the",
+    "camp fire, beneath the [illegible] tent[?]"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": "last line written below the ruled frame"
+  }
+ ],
+ "marks": [
+  {
+   "kind": "archival-page-number",
+   "value": "175",
+   "position": "top",
+   "note": null
+  },
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from reverse of leaf; ignored"
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [
+   "Munsungun"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "medium",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

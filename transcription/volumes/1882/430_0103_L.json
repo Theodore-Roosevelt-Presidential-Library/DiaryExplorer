@@ -1,0 +1,38 @@
+{
+ "frame": "430_0103",
+ "half": "L",
+ "volume": "1882",
+ "page_type": "diary-day",
+ "dates": [
+  "1882-02-09"
+ ],
+ "printed": {
+  "headers": [
+   "FEBRUARY 9 Thursday"
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from reverse of leaf ignored"
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": false,
+ "confidence": "high",
+ "transcriber_notes": "refilm of 430_0102. Blank day; only show-through.",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

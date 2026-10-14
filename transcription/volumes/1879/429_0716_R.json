@@ -1,0 +1,98 @@
+{
+ "frame": "429_0716",
+ "half": "R",
+ "volume": "1879",
+ "page_type": "diary-day",
+ "dates": [
+  "1879-04-25"
+ ],
+ "printed": {
+  "headers": [
+   "Friday, April 25, 1879."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1879-04-25",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "I rode up back of",
+    "Watertown, pretty fast;",
+    "I am trying to sweat",
+    "the horses winter coat",
+    "off him. In the after-",
+    "noon I went in town",
+    "with Harry Chapin &",
+    "dined at Youngs Hotel;",
+    "afterwards we joined",
+    "Minot Weld and Dick",
+    "Saltonstall at the theatre.",
+    "I went out with",
+    "Minot to pass the night",
+    "at Jamaica Plains."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": "Dark image with heavy show-through; \"sweat\" and \"Youngs Hotel\" fairly clear."
+  }
+ ],
+ "marks": [
+  {
+   "kind": "archival-page-number",
+   "value": "72",
+   "position": "top",
+   "note": "pencil"
+  },
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from reverse of leaf; ignored"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Harry Chapin",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Minot Weld",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Dick Saltonstall",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Minot",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   "Watertown",
+   "Youngs Hotel",
+   "Jamaica Plains"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "medium",
+ "transcriber_notes": "Faint vertical writing in right margin appears to be show-through; ignored. Lower lines are mirrored show-through.",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

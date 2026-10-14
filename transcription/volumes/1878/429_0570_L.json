@@ -1,0 +1,81 @@
+{
+ "frame": "429_0570",
+ "half": "L",
+ "volume": "1878",
+ "page_type": "diary-day",
+ "dates": [
+  "1878-06-27"
+ ],
+ "printed": {
+  "headers": [
+   "June, Thursday 27. 1878."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1878-06-27",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "New London.",
+    "Came on here",
+    "to see the race.",
+    "Am staying,",
+    "in company",
+    "with Minot",
+    "Weld and",
+    "Jackson with[?]",
+    "at [illegible] Harry",
+    "Chapins."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "low",
+   "note": "Last three lines blurred; reading of 'with' and word before 'Harry' uncertain."
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "faint mirrored writing from reverse of leaf; ignored"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Minot Weld",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Jackson",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Harry Chapin",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   "New London"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "medium",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

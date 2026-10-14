@@ -1,0 +1,74 @@
+{
+ "frame": "429_0784",
+ "half": "L",
+ "volume": "1879",
+ "page_type": "diary-day",
+ "dates": [
+  "1879-10-11"
+ ],
+ "printed": {
+  "headers": [
+   "Saturday, October 11, 1879."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1879-10-11",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Had a great Porc. supper;",
+    "Dick S. and Jack Tebbets",
+    "came into the club. The",
+    "former slept in my room",
+    "- to the great detriment",
+    "thereof, Dick being a",
+    "most obstreperous man",
+    "when sprung!"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": "show-through heavy; 'Tebbets' and 'man' less certain"
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from reverse of leaf ignored"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Dick S.",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Jack Tebbets",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   "the club"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "medium",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

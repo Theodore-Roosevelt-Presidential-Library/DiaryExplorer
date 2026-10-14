@@ -1,0 +1,84 @@
+{
+ "frame": "429_0756",
+ "half": "L",
+ "volume": "1879",
+ "page_type": "diary-day",
+ "dates": [
+  "1879-08-16"
+ ],
+ "printed": {
+  "headers": [
+   "Saturday, August 16, 1879."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1879-08-16",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "My marks for last",
+    "year arrived; my",
+    "average is over 87%,",
+    "which is higher than",
+    "either of my first two",
+    "years. I am more than",
+    "satisfied with it. In",
+    "Zoölogy and Political",
+    "Economy I lead every",
+    "body.",
+    "In the afternoon,",
+    "after Nell has arrived,",
+    "I always play lawn",
+    "tennis with him — after",
+    "which we generally get",
+    "a swim. My horse be-",
+    "-gins to go quite well",
+    "in Harness. I shall keep a",
+    "dogcart & sleigh next winter[?]"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": "last word runs to edge of page"
+  }
+ ],
+ "marks": [
+  {
+   "kind": "archival-page-number",
+   "value": "150",
+   "position": "top",
+   "note": null
+  },
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from reverse of leaf; ignored"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Nell",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "medium",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

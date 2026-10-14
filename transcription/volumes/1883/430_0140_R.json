@@ -1,0 +1,102 @@
+{
+ "frame": "430_0140",
+ "half": "R",
+ "volume": "1883",
+ "page_type": "diary-day",
+ "dates": [
+  "1883-09-30"
+ ],
+ "printed": {
+  "headers": [
+   "SEPTEMBER 30 Sunday"
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1883-09-30",
+   "kind": "heading",
+   "position": "top",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "28"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": "handwritten '28' directly under the printed '30 Sunday'; printed numeral may be overwritten"
+  },
+  {
+   "id": "b2",
+   "date": "1883-09-30",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Went down Powder",
+    "camping near \"Powderville\"",
+    "shot two bluewinged",
+    "teal with rifle, and",
+    "eight teal and two",
+    "shovellers with a right",
+    "and left from shot",
+    "gun"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": null
+  },
+  {
+   "id": "b3",
+   "date": "1883-09-30",
+   "kind": "tally",
+   "position": "bottom",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "12 ducks"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  }
+ ],
+ "marks": [
+  {
+   "kind": "other",
+   "value": null,
+   "position": "body",
+   "note": "faint non-mirrored ghost text in lower page and beside bottom tally is a transfer of the entry on 430_0141_R ('dark when we went into camp among the fantastic \"medicine buttes\"...'; '7 sharptail grouse'); not writing on this page"
+  },
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from reverse of leaf, ignored"
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [
+   "Powder",
+   "Powderville"
+  ],
+  "dates": [
+   "28"
+  ]
+ },
+ "has_tr_writing": true,
+ "confidence": "medium",
+ "transcriber_notes": "TR's handwritten '28' re-dates this page; faint ghost text is offset from 430_0141_R, not transcribed",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

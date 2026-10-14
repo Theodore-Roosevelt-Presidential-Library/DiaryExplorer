@@ -1,0 +1,67 @@
+{
+ "frame": "429_0667",
+ "half": "L",
+ "volume": "1878",
+ "page_type": "memoranda",
+ "dates": [],
+ "printed": {
+  "headers": [],
+  "title": "Memoranda.",
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": null,
+   "kind": "list",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Game Record for 1873",
+    "2 squirrel",
+    "2 Partridge",
+    "2 Quail",
+    "37 Doves",
+    "81 Pigeons",
+    "18 Large Plover",
+    "36 Little \"Shore Birds\".",
+    "8 Hoopoos",
+    "8 Cow Heron",
+    "1 Gray Heron",
+    "195"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "Total 195 written below a short rule"
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored text of the 1878 game record from the facing leaf; ignored"
+  },
+  {
+   "kind": "ink-blot",
+   "value": null,
+   "position": "body",
+   "note": "small ink marks at left edge and bottom"
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

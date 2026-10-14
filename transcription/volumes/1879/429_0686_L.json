@@ -1,0 +1,88 @@
+{
+ "frame": "429_0686",
+ "half": "L",
+ "volume": "1879",
+ "page_type": "diary-day",
+ "dates": [
+  "1879-01-26"
+ ],
+ "printed": {
+  "headers": [
+   "Sunday, January 26, 1879."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1879-01-26",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Went to church in",
+    "morning and had a",
+    "very interesting sermon.",
+    "In afternoon we",
+    "coasted on double run-",
+    "-ners - a party of",
+    "about twenty five of us",
+    "in all. I never had",
+    "better fun. The more I",
+    "see of Rose Saltonstall",
+    "and Alice Lee, the",
+    "more I like them; es-",
+    "-pecially pretty Alice.",
+    "The whole family call",
+    "me \"Thee\" now.",
+    "Alice came in to take",
+    "tea and spend the",
+    "evening."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  }
+ ],
+ "marks": [
+  {
+   "kind": "archival-page-number",
+   "value": "21",
+   "position": "top",
+   "note": "pencil"
+  },
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from other side of leaf"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Rose Saltonstall",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Alice Lee",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

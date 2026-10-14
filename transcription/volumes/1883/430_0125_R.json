@@ -1,0 +1,98 @@
+{
+ "frame": "430_0125",
+ "half": "R",
+ "volume": "1883",
+ "page_type": "diary-day",
+ "dates": [
+  "1883-08-31"
+ ],
+ "printed": {
+  "headers": [
+   "AUGUST 31 Friday"
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1883-08-31",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Travelled a short distance",
+    "up Clear Creek. Country",
+    "very barren; broken, rolling,",
+    "treeless, and covered with",
+    "sage brush. Crossings steep",
+    "and difficult; road crossed",
+    "by deep washouts; three times",
+    "the wagon stuck, and we",
+    "had to help out the team by",
+    "ropes hitched to the saddle trees",
+    "of the riding horses. Team nearly",
+    "done out.",
+    "In afternoon M. & I rode out",
+    "through the coolies. Roused three",
+    "blacktail bucks; shot three times with",
+    "winchester at them running, going close",
+    "but a little high, finally stopping",
+    "them; two stood side by side; taking",
+    "careful aim I broke the backs",
+    "of both with one bullet; distance",
+    "431 paces (near 400 yards) actual walking ^at^[?]",
+    "Best shot I ever made. Kept[?] [illegible]."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": "1884 entry. \"three\" before \"times\" overwritten. Small \"at\"(?) written below right end of 431-paces line. End of last line faint."
+  },
+  {
+   "id": "b2",
+   "date": "1883-08-31",
+   "kind": "tally",
+   "position": "bottom",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "2 blacktail buck."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": null
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "top",
+   "note": "mirrored writing above heading"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "M.",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   "Clear Creek"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "medium",
+ "transcriber_notes": "Printed 1883 heading reused in 1884.",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

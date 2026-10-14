@@ -1,0 +1,67 @@
+{
+ "frame": "429_0499",
+ "half": "R",
+ "volume": "1878",
+ "page_type": "diary-day",
+ "dates": [
+  "1878-02-14"
+ ],
+ "printed": {
+  "headers": [
+   "February, Thursday 14. 1878."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1878-02-12",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "were not for the",
+    "certainty, that",
+    "as he himself has",
+    "so often said, \"he",
+    "is not dead but",
+    "gone before,\" I",
+    "should almost",
+    "perish. With the",
+    "help of my",
+    "God I will",
+    "try to lead such",
+    "a life as he",
+    "would have",
+    "wished."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "Continues from previous page (entry begun Feb 12), written under the Feb 14 heading."
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "faint mirrored writing from reverse of leaf; not transcribed"
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

@@ -1,0 +1,61 @@
+{
+ "frame": "430_0072",
+ "half": "L",
+ "volume": "1881",
+ "page_type": "diary-day",
+ "dates": [
+  "1881-12-06",
+  "1881-12-07",
+  "1881-12-08"
+ ],
+ "printed": {
+  "headers": [
+   "December, Tuesday 6. 1881.",
+   "Wednesday 7.",
+   "Thursday 8."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1881-12-06",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "The going out has",
+    "fairly begun: all",
+    "are at[?] it, from",
+    "dinners to Balls"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": "'at' uncertain (small loop between 'are' and 'it')."
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from reverse of leaf"
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "medium",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

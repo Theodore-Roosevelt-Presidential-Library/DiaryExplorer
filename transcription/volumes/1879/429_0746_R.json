@@ -1,0 +1,79 @@
+{
+ "frame": "429_0746",
+ "half": "R",
+ "volume": "1879",
+ "page_type": "diary-day",
+ "dates": [
+  "1879-07-20"
+ ],
+ "printed": {
+  "headers": [
+   "Sunday, July 20, 1879."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1879-07-20",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Under way 5.30. I don't",
+    "like sailing on Sunday",
+    "but we are short of water",
+    "& must reach New London.",
+    "The wind was about",
+    "north east, so that we had",
+    "to beat the whole time;",
+    "it grew heavier and heavier,",
+    "kicking up a big sea,",
+    "so that off Bartletts",
+    "reef we had our hands",
+    "full to keep the boat",
+    "going ahead and right",
+    "side up; we took a great",
+    "deal of water aboard.",
+    "Reached New London",
+    "4 p.m."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  }
+ ],
+ "marks": [
+  {
+   "kind": "archival-page-number",
+   "value": "138",
+   "position": "top",
+   "note": "pencil, right of header"
+  },
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": null
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [
+   "New London",
+   "Bartletts reef"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

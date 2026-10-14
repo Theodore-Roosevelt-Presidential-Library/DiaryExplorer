@@ -1,0 +1,63 @@
+{
+ "frame": "429_0541",
+ "half": "R",
+ "volume": "1878",
+ "page_type": "diary-day",
+ "dates": [
+  "1878-05-07"
+ ],
+ "printed": {
+  "headers": [
+   "May, Tuesday 7. 1878."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1878-05-07",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "I am working",
+    "away pretty",
+    "hard; but I do",
+    "not care so",
+    "much for my",
+    "marks now:",
+    "what I most",
+    "valued them",
+    "for was his",
+    "pride in them."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "\"his\" underlined"
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from other side of leaf / facing page ignored"
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

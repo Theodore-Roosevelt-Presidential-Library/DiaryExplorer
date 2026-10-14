@@ -1,0 +1,58 @@
+{
+ "frame": "429_0693",
+ "half": "L",
+ "volume": "1879",
+ "page_type": "diary-day",
+ "dates": [
+  "1879-02-21"
+ ],
+ "printed": {
+  "headers": [
+   "Friday, February 21, 1879."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1879-02-21",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Semi annuals ended",
+    "today. I have been",
+    "working hard since",
+    "Christmas, and shall",
+    "now take a rest."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "'Christmas' has an ink blot over the final letter(s)"
+  }
+ ],
+ "marks": [
+  {
+   "kind": "archival-page-number",
+   "value": "29",
+   "position": "top",
+   "note": "pencil, top left"
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

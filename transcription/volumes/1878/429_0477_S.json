@@ -1,0 +1,44 @@
+{
+ "frame": "429_0477",
+ "half": "S",
+ "volume": "1878",
+ "page_type": "cover",
+ "dates": [],
+ "printed": {
+  "headers": [],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": null,
+   "kind": "inscription",
+   "position": "top",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Theodore Roosevelt",
+    "Private Diary"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "Written on the front cover"
+  }
+ ],
+ "marks": [],
+ "mentions": {
+  "people": [],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "Front cover of the 1878 diary.",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

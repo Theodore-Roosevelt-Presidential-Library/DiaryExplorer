@@ -1,0 +1,38 @@
+{
+ "frame": "429_0745",
+ "half": "L",
+ "volume": "1879",
+ "page_type": "diary-day",
+ "dates": [
+  "1879-07-17"
+ ],
+ "printed": {
+  "headers": [
+   "Thursday, July 17, 1879."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "very faint"
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": false,
+ "confidence": "high",
+ "transcriber_notes": "Blank day. Dates jump from July 14 (0744 R) to July 17; pages for July 15-16 not present in this sequence (possibly leaf missing or not filmed).",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

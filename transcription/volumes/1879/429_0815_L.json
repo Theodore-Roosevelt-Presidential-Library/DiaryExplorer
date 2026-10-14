@@ -1,0 +1,92 @@
+{
+ "frame": "429_0815",
+ "half": "L",
+ "volume": "1879",
+ "page_type": "diary-day",
+ "dates": [
+  "1879-12-18"
+ ],
+ "printed": {
+  "headers": [
+   "Thursday, December 18, 1879."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1879-12-18",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Took Dick out driving; called[?]",
+    "on the Lanes and Rotches.",
+    "In the evening we had a",
+    "\"champagne supper\" or rather",
+    "dinner, and afterwards went",
+    "up to the Δ.K.E[?] theatricals",
+    "which were the best I have",
+    "ever seen; then finished the",
+    "evening with a punch in",
+    "the Club. Had an awfully",
+    "jolly evening."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": "'called' runs off right edge (only 'calle' visible); society initials read as Greek-style 'Δ.K.E', uncertain."
+  }
+ ],
+ "marks": [
+  {
+   "kind": "archival-page-number",
+   "value": "556[?]",
+   "position": "top",
+   "note": "pencil folio number, partly obscured by header rule"
+  },
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from reverse of leaf; ignored"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Dick",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "the Lanes",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Rotches",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   {
+    "as_written": "the Club",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "medium",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

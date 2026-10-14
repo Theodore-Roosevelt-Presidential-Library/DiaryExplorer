@@ -1,0 +1,106 @@
+{
+ "frame": "430_0116",
+ "half": "R",
+ "volume": "1883",
+ "page_type": "diary-day",
+ "dates": [
+  "1883-01-09"
+ ],
+ "printed": {
+  "headers": [
+   "JANUARY 9 Tuesday"
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1883-01-09",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Went back to Albany.",
+    "Chapin announced his",
+    "committees, which seem",
+    "to very good.",
+    "Crane, of my New York",
+    "colleagues, is honest but",
+    "light weight; Howe is",
+    "marvellously conceited",
+    "and noisy. I think he",
+    "will prove a nuisance.",
+    "Old \"[illegible]\" is \"a very",
+    "fine fellow, with a",
+    "grand head, his hair",
+    "and beard both snow",
+    "white.",
+    "Hunt, O'Neil, Howe and",
+    "myself sit together — a",
+    "pleasant quartette."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": "Nickname in quotes reads roughly \"Clamfand\"/\"Cleanfand\"; not resolved. Quote marks around \"a very\" uncertain. \"to very good\" as written (no \"be\")."
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "top",
+   "note": "mirrored printed heading \"JANUARY 10 Wednesday\" and mirrored writing"
+  },
+  {
+   "kind": "other",
+   "value": null,
+   "position": "body",
+   "note": "vertical dotted line of light specks through centre (film artefact)"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Chapin",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Crane",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Howe",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Hunt",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "O'Neil",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   "Albany",
+   "New York"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "medium",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

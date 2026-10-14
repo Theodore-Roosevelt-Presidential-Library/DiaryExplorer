@@ -1,0 +1,77 @@
+{
+ "frame": "429_0713",
+ "half": "L",
+ "volume": "1879",
+ "page_type": "diary-day",
+ "dates": [
+  "1879-04-18"
+ ],
+ "printed": {
+  "headers": [
+   "Friday, April 18, 1879."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1879-04-18",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Have had 2 examinations",
+    "this week & so have",
+    "been studying hard.",
+    "My horse has arrived;",
+    "I determined to keep",
+    "him in Cambridge",
+    "this Spring. I keep",
+    "him at Pikes stable.",
+    "Went over to",
+    "Chestnut Hill in the",
+    "afternoon, where I",
+    "intend to pass Saturday",
+    "& Sunday. We dined",
+    "at the Lees."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  }
+ ],
+ "marks": [
+  {
+   "kind": "archival-page-number",
+   "value": null,
+   "position": "top",
+   "note": "pencil mark at left of heading, partly cut off"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "the Lees",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   "Cambridge",
+   "Pikes stable",
+   "Chestnut Hill"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "Sequence jumps from April 11 (frame 0712) to April 18; April 12-17 not in this frame.",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

@@ -1,0 +1,61 @@
+{
+ "frame": "429_0550",
+ "half": "L",
+ "volume": "1878",
+ "page_type": "diary-day",
+ "dates": [
+  "1878-05-20"
+ ],
+ "printed": {
+  "headers": [
+   "May, Monday 20. 1878."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1878-05-20",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Back to [illegible].",
+    "Am studying the",
+    "hardest on that",
+    "villainous French;",
+    "but I [illegible]",
+    "work on everything.",
+    "We have had very",
+    "bad weather."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "low",
+   "note": "heavy show-through interleaved; several words uncertain"
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from other side of leaf / facing page ignored"
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "low",
+ "transcriber_notes": "Lower lines are mirrored offset; ignored.",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

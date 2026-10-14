@@ -1,0 +1,78 @@
+{
+ "frame": "429_0747",
+ "half": "R",
+ "volume": "1879",
+ "page_type": "diary-day",
+ "dates": [
+  "1879-07-22"
+ ],
+ "printed": {
+  "headers": [
+   "Tuesday, July 22, 1879."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1879-07-22",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "At 5. a.m. we broke out",
+    "of Saybrook; we had a",
+    "great deal of difficulty",
+    "getting out over the",
+    "shoals at the mouth of",
+    "the harbour, and through",
+    "the tide rips, as there was",
+    "a strong south west wind",
+    "and a big sea. It",
+    "rained all the morning;",
+    "at noon the breeze",
+    "died away leaving a",
+    "heavy sea running.",
+    "At 7.30 we came",
+    "to anchor under the",
+    "lee of Charles Island"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  }
+ ],
+ "marks": [
+  {
+   "kind": "archival-page-number",
+   "value": "140",
+   "position": "top",
+   "note": "pencil, right of header"
+  },
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": null
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [
+   "Saybrook",
+   "Charles Island"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

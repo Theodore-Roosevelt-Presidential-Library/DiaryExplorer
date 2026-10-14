@@ -1,0 +1,95 @@
+{
+ "frame": "430_0143",
+ "half": "L",
+ "volume": "1883",
+ "page_type": "diary-day",
+ "dates": [
+  "1883-10-05"
+ ],
+ "printed": {
+  "headers": [
+   "OCTOBER 5 Friday"
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1883-10-05",
+   "kind": "heading",
+   "position": "over-printed-title",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "3"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "TR's numeral '3' written over the printed day number (5), re-dating the page"
+  },
+  {
+   "id": "b2",
+   "date": "1883-10-05",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Very windy, and a",
+    "little rain; camped",
+    "on the big sand; been",
+    "out of meat for two",
+    "days; went out with",
+    "shot gun and killed",
+    "three teal and two[?]",
+    "chickens."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": null
+  },
+  {
+   "id": "b3",
+   "date": "1883-10-05",
+   "kind": "tally",
+   "position": "bottom",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "3 duck 2 sharptail grouse"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from reverse of leaf, ignored"
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [
+   "the big sand"
+  ],
+  "dates": [
+   "3"
+  ]
+ },
+ "has_tr_writing": true,
+ "confidence": "medium",
+ "transcriber_notes": "printed day number obscured by TR's overwritten '3'; printed date inferred as 5 from weekday and sequence",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

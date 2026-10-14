@@ -1,0 +1,79 @@
+{
+ "frame": "429_0580",
+ "half": "L",
+ "volume": "1878",
+ "page_type": "diary-day",
+ "dates": [
+  "1878-07-17"
+ ],
+ "printed": {
+  "headers": [
+   "July, Wednesday 17. 1878."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1878-07-17",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "West and I started",
+    "on horseback for",
+    "Lake Ronkonkoma.",
+    "The day was cool",
+    "and cloudy. Started",
+    "8.00 a.m; reached",
+    "Smithtown 10.45 a.m,",
+    "took lunch, and in",
+    "afternoon rode to",
+    "the lake where we",
+    "took supper, and",
+    "returned to sleep",
+    "at Smithtown. In",
+    "all about 35 miles,",
+    "and the horse as",
+    "fresh as when he",
+    "started."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "faint mirrored writing from reverse"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "West",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   "Lake Ronkonkoma",
+   "Smithtown"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

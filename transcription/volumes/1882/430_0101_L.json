@@ -1,0 +1,31 @@
+{
+ "frame": "430_0101",
+ "half": "L",
+ "volume": "1882",
+ "page_type": "diary-day",
+ "dates": [
+  "1882-02-07"
+ ],
+ "printed": {
+  "headers": [
+   "FEBRUARY 7 Tuesday"
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [],
+ "marks": [],
+ "mentions": {
+  "people": [],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": false,
+ "confidence": "high",
+ "transcriber_notes": "Blank day.",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

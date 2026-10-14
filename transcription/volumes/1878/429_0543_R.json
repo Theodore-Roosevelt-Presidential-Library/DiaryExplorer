@@ -1,0 +1,84 @@
+{
+ "frame": "429_0543",
+ "half": "R",
+ "volume": "1878",
+ "page_type": "diary-day",
+ "dates": [
+  "1878-05-09"
+ ],
+ "printed": {
+  "headers": [
+   "May, Thursday 9. 1878."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1878-05-09",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "[illegible] months ago[?]"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "low",
+   "note": "first line partly blotted/possibly struck; mixed with mirrored offset writing; cannot confirm it is a normal-reading TR line"
+  },
+  {
+   "id": "b2",
+   "date": "1878-05-09",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "In the evening",
+    "I went (in",
+    "company with",
+    "Hal Chapin[?]) to",
+    "New York by the",
+    "Fall River",
+    "boat"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": "a stray stroke precedes \"Fall\"; lines 2-3 of page and lower part are mirrored offset, ignored"
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from other side of leaf / facing page ignored"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Hal Chapin",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   "New York",
+   "Fall River"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "low",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

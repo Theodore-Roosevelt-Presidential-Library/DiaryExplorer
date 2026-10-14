@@ -1,0 +1,69 @@
+{
+ "frame": "430_0067",
+ "half": "L",
+ "volume": "1881",
+ "page_type": "diary-day",
+ "dates": [
+  "1881-11-06",
+  "1881-11-07",
+  "1881-11-08"
+ ],
+ "printed": {
+  "headers": [
+   "November, Sunday 6. 1881.",
+   "Monday 7.",
+   "Tuesday 8."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1881-11-08",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Was elected to the Legis-",
+    "lature from the 21st Assem-",
+    "bly District by a",
+    "majority of 1501 over",
+    "William Strew, the",
+    "Democratic candidate."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "Surname read as 'Strew'; first letter could be read otherwise."
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from reverse of leaf"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "William Strew",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "refilm of 430_0062",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

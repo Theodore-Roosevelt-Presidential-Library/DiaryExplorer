@@ -1,0 +1,44 @@
+{
+ "frame": "429_0490",
+ "half": "R",
+ "volume": "1878",
+ "page_type": "diary-day",
+ "dates": [
+  "1878-01-27"
+ ],
+ "printed": {
+  "headers": [
+   "JANUARY, SUNDAY 27. 1878."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "Faint non-mirrored writing in upper half is show-through of the January 29 entry two leaves beyond (matches its text); not TR writing on this page"
+  },
+  {
+   "kind": "ink-blot",
+   "value": null,
+   "position": "top",
+   "note": "small dot"
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": false,
+ "confidence": "medium",
+ "transcriber_notes": "Blank day. Faint writing visible is show-through of the January 29 page (verified by comparison).",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

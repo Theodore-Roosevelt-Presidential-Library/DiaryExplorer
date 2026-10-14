@@ -1,0 +1,91 @@
+{
+ "frame": "429_0929",
+ "half": "R",
+ "volume": "1880",
+ "page_type": "diary-day",
+ "dates": [
+  "1880-07-31880"
+ ],
+ "printed": {
+  "headers": [
+   "JULY, SATURDAY 3. 1880."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1880-07-31880",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "In the morning I",
+    "drove Alice through the",
+    "beautiful country round",
+    "about here. In the",
+    "afternoon we all",
+    "went out sailing.",
+    "In the evening we",
+    "went over to Uncle",
+    "Jim's. The cousins",
+    "and everyone are",
+    "just too sweet for",
+    "anything. Douglas",
+    "Robinson and Romy",
+    "Colgate are also staying",
+    "with us, so there is",
+    "quite a large party",
+    "in the house."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from reverse of leaf ignored"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Alice",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Uncle Jim",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Douglas Robinson",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Romy Colgate",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

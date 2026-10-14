@@ -1,0 +1,97 @@
+{
+ "frame": "430_0076",
+ "half": "R",
+ "volume": "1881",
+ "page_type": "memoranda",
+ "dates": [],
+ "printed": {
+  "headers": [],
+  "title": "Memoranda.",
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": null,
+   "kind": "table",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "~~May 10th 1881~~",
+    "~~Due to Alice $[?]445.00~~",
+    "~~Total Amt I started~~",
+    "~~abroad with — £1000~~",
+    "~~+ — $445.00~~",
+    "~~=~~"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": "Whole block cancelled with a large X. Currency sign before first 445.00 unclear. 'May 10th 1881' written just under printed title."
+  },
+  {
+   "id": "b2",
+   "date": null,
+   "kind": "table",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "May 15th; I hold",
+    "of Alice's money",
+    "On hand $470.00"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "b3",
+   "date": null,
+   "kind": "table",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Trip abroad",
+    "Return Ticket $320.00",
+    "Trunks &c 180.00",
+    "Started May 12th",
+    "with 1045 pounds."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from reverse of leaf"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Alice",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "medium",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

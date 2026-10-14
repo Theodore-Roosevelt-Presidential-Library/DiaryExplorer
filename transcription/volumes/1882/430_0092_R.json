@@ -1,0 +1,56 @@
+{
+ "frame": "430_0092",
+ "half": "R",
+ "volume": "1882",
+ "page_type": "diary-day",
+ "dates": [
+  "1882-01-13"
+ ],
+ "printed": {
+  "headers": [
+   "JANUARY 13 Friday"
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1882-01-13",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "I went on to Boston"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  }
+ ],
+ "marks": [
+  {
+   "kind": "ink-blot",
+   "value": null,
+   "position": "body",
+   "note": "small ink mark below entry"
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [
+   "Boston"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "Next frame begins Jan 16; Jan 14-15 not in this batch.",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

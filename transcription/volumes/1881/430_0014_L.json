@@ -1,0 +1,103 @@
+{
+ "frame": "430_0014",
+ "half": "L",
+ "volume": "1881",
+ "page_type": "diary-day",
+ "dates": [
+  "1881-01-22",
+  "1881-01-23",
+  "1881-01-24"
+ ],
+ "printed": {
+  "headers": [
+   "January, Saturday 22. 1881.",
+   "Sunday 23.",
+   "Monday 24."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1881-01-22",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Took Harriet Lawrence",
+    "out sleighing"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "b2",
+   "date": "1881-01-24",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Dinner at our house",
+    "for Lowell, Miss Draw[?]",
+    "& Miss Lawrence"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": null
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": null
+  },
+  {
+   "kind": "other",
+   "value": null,
+   "position": "body",
+   "note": "Stray dots under Sunday 23."
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Harriet Lawrence",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Lowell",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Miss Draw[?]",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Miss Lawrence",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "Sunday 23 blank.",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

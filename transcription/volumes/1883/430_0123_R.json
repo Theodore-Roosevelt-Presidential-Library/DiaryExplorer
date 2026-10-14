@@ -1,0 +1,92 @@
+{
+ "frame": "430_0123",
+ "half": "R",
+ "volume": "1883",
+ "page_type": "diary-day",
+ "dates": [
+  "1883-08-27"
+ ],
+ "printed": {
+  "headers": [
+   "AUGUST 27 Monday"
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1883-08-27",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Travelled up the Powder",
+    "till we struck the",
+    "mouth of the Little",
+    "Powder, when we camped,",
+    "just after sunset. Took the",
+    "shot gun and killed, for",
+    "the pot six white bellies,",
+    "2 doves and 2 teal; M.",
+    "missed a snap shot at",
+    "a cougar in a thicket.",
+    "He and I made an unsucces-",
+    "ful hunt through the",
+    "bottoms after white tail",
+    "deer; in one dense swamp",
+    "or \"cane brake\" we got very",
+    "nearly mired; and in",
+    "~~going~~ clambering among",
+    "some bad lands, very broken,",
+    "M's pony turned two complete",
+    "somersaults down a sandy",
+    "cliff some thirty feet high.",
+    "Saw beaver & whip poor wills."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": "1884 entry. Word before \"clambering\" appears struck/overwritten; reading uncertain."
+  },
+  {
+   "id": "b2",
+   "date": "1883-08-27",
+   "kind": "tally",
+   "position": "bottom",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "6 sharp tail grouse 2 teal 2 dove."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": null
+  }
+ ],
+ "marks": [],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "M.",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   "Powder",
+   "Little Powder"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "medium",
+ "transcriber_notes": "Printed 1883 heading reused in 1884.",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

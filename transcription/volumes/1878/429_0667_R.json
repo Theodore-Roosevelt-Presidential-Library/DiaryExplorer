@@ -1,0 +1,207 @@
+{
+ "frame": "429_0667",
+ "half": "R",
+ "volume": "1878",
+ "page_type": "cash-account",
+ "dates": [],
+ "printed": {
+  "headers": [],
+  "title": "Cash Account—January.",
+  "description": "ruled cash-account form with printed column headings 'Received.' and 'Paid.' (struck through by hand)"
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": null,
+   "kind": "table",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Game Record 1874 '75 '76 '77",
+    "1 Deer 1",
+    "2 Rabbit 2",
+    "13 Gray Squirrel 3 4 2 4",
+    "17 Ducks 2 4 1 10",
+    "7 Grouse 2 2 3",
+    "1[?] Quail 1",
+    "1 Snipe 1",
+    "1 Woodcock 1",
+    "11 Plover 2 3 6",
+    "24 Beach Birds 6 6 12",
+    "2 Loons 2",
+    "27 Herons 7 4 6 10",
+    "2 Pigeon 2[?] 2",
+    "17 26 20 46",
+    "109"
+   ],
+   "rows": [
+    [
+     "",
+     "Game Record",
+     "1874",
+     "'75",
+     "'76",
+     "'77"
+    ],
+    [
+     "1",
+     "Deer",
+     "",
+     "",
+     "",
+     "1"
+    ],
+    [
+     "2",
+     "Rabbit",
+     "2",
+     "",
+     "",
+     ""
+    ],
+    [
+     "13",
+     "Gray Squirrel",
+     "3",
+     "4",
+     "2",
+     "4"
+    ],
+    [
+     "17",
+     "Ducks",
+     "2",
+     "4",
+     "1",
+     "10"
+    ],
+    [
+     "7",
+     "Grouse",
+     "2",
+     "2",
+     "",
+     "3"
+    ],
+    [
+     "1[?]",
+     "Quail",
+     "",
+     "",
+     "1",
+     ""
+    ],
+    [
+     "1",
+     "Snipe",
+     "1",
+     "",
+     "",
+     ""
+    ],
+    [
+     "1",
+     "Woodcock",
+     "",
+     "",
+     "1",
+     ""
+    ],
+    [
+     "11",
+     "Plover",
+     "",
+     "2",
+     "3",
+     "6"
+    ],
+    [
+     "24",
+     "Beach Birds",
+     "",
+     "6",
+     "6",
+     "12"
+    ],
+    [
+     "2",
+     "Loons",
+     "",
+     "2",
+     "",
+     ""
+    ],
+    [
+     "27",
+     "Herons",
+     "7",
+     "4",
+     "6",
+     "10"
+    ],
+    [
+     "2",
+     "Pigeon",
+     "2[?]",
+     "2",
+     "",
+     ""
+    ],
+    [
+     "",
+     "",
+     "17",
+     "26",
+     "20",
+     "46"
+    ],
+    [
+     "109",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ]
+   ],
+   "columns": [
+    "total",
+    "species",
+    "1874",
+    "'75",
+    "'76",
+    "'77"
+   ],
+   "confidence": "medium",
+   "note": "Table written over the printed cash-account ruling; TR drew pen lines through the printed title and the printed 'Received.' / 'Paid.' headings. Left-margin figures are row totals. Quail row total in left margin very faint. The 1874 Pigeon '2' may be cancelled: the 1874 column total 17 matches only without it."
+  }
+ ],
+ "marks": [
+  {
+   "kind": "other",
+   "value": "N",
+   "position": "bottom",
+   "note": "bold 'N' at bottom left, appears printed (signature mark) or later mark"
+  },
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "faint mirrored printed heading from reverse; ignored"
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "medium",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

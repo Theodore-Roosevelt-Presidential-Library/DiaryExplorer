@@ -1,0 +1,79 @@
+{
+ "frame": "429_0746",
+ "half": "L",
+ "volume": "1879",
+ "page_type": "diary-day",
+ "dates": [
+  "1879-07-19"
+ ],
+ "printed": {
+  "headers": [
+   "Saturday, July 19, 1879."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1879-07-19",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Weighed anchor at 5.30.",
+    "The winds were not",
+    "very heavy - and dead",
+    "ahead. During the course of",
+    "the day I saw a good",
+    "many terns and gulls",
+    "and a ~~few~~[?] coots - also",
+    "a stormy petrel. In the",
+    "afternoon the wind died",
+    "away altogether, and we",
+    "came to anchor off the",
+    "Thimble Islands. About",
+    "nine in the evening",
+    "however it breezed up so",
+    "from the southward, that",
+    "we had to run under the",
+    "lee of one of the islands",
+    "for shelter."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": "Heavy show-through interleaved with writing."
+  }
+ ],
+ "marks": [
+  {
+   "kind": "archival-page-number",
+   "value": "137",
+   "position": "left-margin",
+   "note": "pencil, upper left"
+  },
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "heavy; bottom line is mirrored text from reverse"
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [
+   "Thimble Islands"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "medium",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

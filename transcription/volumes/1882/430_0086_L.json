@@ -1,0 +1,34 @@
+{
+ "frame": "430_0086",
+ "half": "L",
+ "volume": "1882",
+ "page_type": "printed-matter",
+ "dates": [],
+ "printed": {
+  "headers": [],
+  "title": "OCTOBER, NOVEMBER, DECEMBER 1882 almanac",
+  "description": "Printed monthly sun/moon/high-water tables for October-December 1882 (filmed rotated)."
+ },
+ "handwriting": [],
+ "marks": [
+  {
+   "kind": "ink-blot",
+   "value": null,
+   "position": "body",
+   "note": "small ink marks in November table near 20th-21st"
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": false,
+ "confidence": "high",
+ "transcriber_notes": "Printed matter only.",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

@@ -1,0 +1,92 @@
+{
+ "frame": "429_0805",
+ "half": "L",
+ "volume": "1879",
+ "page_type": "diary-day",
+ "dates": [
+  "1879-11-28"
+ ],
+ "printed": {
+  "headers": [
+   "Friday, November 28, 1879."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1879-11-28",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "I took a long ride in the",
+    "cart with Alice; got caught",
+    "in the rain and had to",
+    "borrow an umbrella from",
+    "a strange house. In the",
+    "afternoon went out for",
+    "a long walk with Alice",
+    "and Rose, who were just",
+    "as funny as they could",
+    "be, making me buy",
+    "candy &c.",
+    "In the evening I stayed",
+    "up till all hours with",
+    "dear old Mr Saltonstall, talking",
+    "poetry and theology; while",
+    "sweet Mrs. S at first dozed",
+    "in a chair and then went",
+    "to bed."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from reverse of leaf; ignored"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Alice",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Rose",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Mr Saltonstall",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Mrs. S",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "Pencil folio at top-left partly visible, not legible.",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

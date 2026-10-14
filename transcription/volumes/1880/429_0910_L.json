@@ -1,0 +1,62 @@
+{
+ "frame": "429_0910",
+ "half": "L",
+ "volume": "1880",
+ "page_type": "diary-day",
+ "dates": [
+  "1880-05-21"
+ ],
+ "printed": {
+  "headers": [
+   "May, Friday 21. 1880."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1880-05-21",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Walked over to and back",
+    "from Cambridge for my",
+    "recitations. In the evening,",
+    "after dinner, took my sweet",
+    "queen out for a long",
+    "drive in the beautiful",
+    "moonlight."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "'evening' is compressed and could be read 'evenig'."
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "Mirrored text from reverse page."
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [
+   "Cambridge"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

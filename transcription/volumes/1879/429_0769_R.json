@@ -1,0 +1,91 @@
+{
+ "frame": "429_0769",
+ "half": "R",
+ "volume": "1879",
+ "page_type": "diary-day",
+ "dates": [
+  "1879-09-12"
+ ],
+ "printed": {
+  "headers": [
+   "Friday, September 12, 1879."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1879-09-12",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Walked off through the",
+    "woods to a pond",
+    "in a cranberry",
+    "bog, and back; in all",
+    "rather over 20 miles.",
+    "Bill shot a duck",
+    "in the pond and",
+    "picked[?] up 2 partridges",
+    "and a hare on",
+    "the way. The walking",
+    "was pretty good."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": "lines 8-9 in fainter ink"
+  },
+  {
+   "id": "b2",
+   "date": "1879-09-12",
+   "kind": "tally",
+   "position": "bottom",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "1 black duck 2 ruffed grouse"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  }
+ ],
+ "marks": [
+  {
+   "kind": "archival-page-number",
+   "value": "177",
+   "position": "top",
+   "note": null
+  },
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from reverse of leaf; ignored"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Bill",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "medium",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

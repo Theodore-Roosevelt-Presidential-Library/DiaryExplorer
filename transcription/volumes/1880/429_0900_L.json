@@ -1,0 +1,77 @@
+{
+ "frame": "429_0900",
+ "half": "L",
+ "volume": "1880",
+ "page_type": "diary-day",
+ "dates": [
+  "1880-05-01"
+ ],
+ "printed": {
+  "headers": [
+   "May, Saturday 1. 1880."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1880-05-01",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Spent the morning romping",
+    "with Georgie and Bella &[?] playing",
+    "tennis with Rose S; in the",
+    "afternoon I took darling",
+    "out for a long drive; it",
+    "is the most beautiful",
+    "weather imaginable for",
+    "driving and tennis."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "conjunction before 'playing' cramped at line end"
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "faint mirrored writing from reverse"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Georgie",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Bella",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Rose S.",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

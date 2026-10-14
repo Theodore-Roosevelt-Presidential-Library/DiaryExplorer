@@ -1,0 +1,82 @@
+{
+ "frame": "429_0861",
+ "half": "L",
+ "volume": "1880",
+ "page_type": "diary-day",
+ "dates": [
+  "1880-02-13"
+ ],
+ "printed": {
+  "headers": [
+   "February, Friday 13. 1880."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1880-02-13",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Raining hard; I drove over in a",
+    "buggy to the Lees to dinner and,",
+    "thanks to the storm, spent the",
+    "night there. In the evening I",
+    "was all the time with my",
+    "darling Little sunshine; she is",
+    "so marvelously sweet, and",
+    "pure and loveable and pretty",
+    "that I seem to love her more",
+    "and more every time I see her,",
+    "though I love her so much now",
+    "that I really can not love her more.",
+    "I do not think ever a man loved a",
+    "woman more than I love her; for a",
+    "year and a quarter now I have",
+    "never (even when hunting) gone to sleep or",
+    "waked up without thinking of her;",
+    "and I doubt if an hour has passed",
+    "that I have not thought of her. And",
+    "now I can scarcely realize that",
+    "I can hold her in my arms and",
+    "kiss her and caress her and love",
+    "her as much as I choose."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "'can not' (line 12) and 'never' (line 16) are underlined. 'Little' appears capitalized."
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "faint mirrored writing from reverse"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Lees",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

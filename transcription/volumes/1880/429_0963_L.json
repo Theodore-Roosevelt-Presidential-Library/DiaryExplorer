@@ -1,0 +1,73 @@
+{
+ "frame": "429_0963",
+ "half": "L",
+ "volume": "1880",
+ "page_type": "diary-day",
+ "dates": [
+  "1880-09-10"
+ ],
+ "printed": {
+  "headers": [
+   "September, Friday 10. 1880."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1880-09-10",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "~~I~~ Drove back to Caroll",
+    "in the wagon; on the way",
+    "we nearly upset over a",
+    "big rock, both the driver",
+    "and I being sent flying",
+    "out of the wagon on",
+    "our heads, but we were",
+    "very little hurt. Took the",
+    "night train for Chicago."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": "a cancelled false-start letter (blotted) precedes 'Drove'."
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "heavy mirrored text and tally from 9 Sept; ignored"
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [
+   {
+    "as_written": "Caroll",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Chicago",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "medium",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

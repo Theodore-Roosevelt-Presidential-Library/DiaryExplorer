@@ -1,0 +1,43 @@
+{
+ "frame": "430_0004",
+ "half": "L",
+ "volume": "1881",
+ "page_type": "printed-matter",
+ "dates": [],
+ "printed": {
+  "headers": [],
+  "title": "January 1881.",
+  "description": "Monthly almanac table (sunrise, sunset, moon) with engravings."
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": null,
+   "kind": "heading",
+   "position": "top",
+   "medium": "ink",
+   "hand": "uncertain",
+   "lines": [
+    "\"[illegible]\""
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "low",
+   "note": "A word in quotation marks written over the top engraving, mostly lost in the printed image; parallels \"Theodore\" on facing page."
+  }
+ ],
+ "marks": [],
+ "mentions": {
+  "people": [],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": false,
+ "confidence": "low",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

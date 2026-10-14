@@ -1,0 +1,72 @@
+{
+ "frame": "429_0662",
+ "half": "R",
+ "volume": "1878",
+ "page_type": "diary-day",
+ "dates": [
+  "1878-12-25"
+ ],
+ "printed": {
+  "headers": [
+   "December, Wednesday 25. 1878."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1878-12-25",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Xmas. Had",
+    "rather a melan-",
+    "choly day. It",
+    "does seem so",
+    "very terrible not",
+    "to have Father",
+    "with us. He was",
+    "the perfect life",
+    "of all our",
+    "enjoyments.",
+    "Received beau-",
+    "-tiful presents -",
+    "chiefly books"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "'life' on line 8 read as written; could conceivably be another word"
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "faint mirrored writing from other side of leaf; ignored"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Father",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

@@ -1,0 +1,74 @@
+{
+ "frame": "430_0138",
+ "half": "R",
+ "volume": "1883",
+ "page_type": "diary-day",
+ "dates": [
+  "1883-09-26"
+ ],
+ "printed": {
+  "headers": [
+   "SEPTEMBER 26 Wednesday"
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1883-09-26",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Skins not yet dry; hunted",
+    "to south side of creek; no",
+    "big game; took shot gun",
+    "and killed two teal",
+    "and five chickens along",
+    "(the river) edge."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": "last line partly obscured by show-through; parentheses uncertain"
+  },
+  {
+   "id": "b2",
+   "date": "1883-09-26",
+   "kind": "tally",
+   "position": "bottom",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "2 teal 5 sharptail grouse"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": null
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from reverse of leaf, ignored"
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "medium",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

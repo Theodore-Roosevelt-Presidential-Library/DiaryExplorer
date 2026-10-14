@@ -1,0 +1,69 @@
+{
+ "frame": "429_0868",
+ "half": "R",
+ "volume": "1880",
+ "page_type": "diary-day",
+ "dates": [
+  "1880-02-28"
+ ],
+ "printed": {
+  "headers": [
+   "February, Saturday 28. 1880."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1880-02-28",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "We Came up to ^Boston^ ~~town~~ in the",
+    "morning; had a cosy tete-a tete",
+    "lunch at Parkers. In the",
+    "evening went to a dinner",
+    "at the Somerset Club, given",
+    "by Col. Russel."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": "'town' under inserted 'Boston' appears struck through; uncertain"
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "faint mirrored writing from reverse"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Col. Russel",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   "Boston",
+   "Parkers",
+   "Somerset Club"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "medium",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

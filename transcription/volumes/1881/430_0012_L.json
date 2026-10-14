@@ -1,0 +1,153 @@
+{
+ "frame": "430_0012",
+ "half": "L",
+ "volume": "1881",
+ "page_type": "diary-day",
+ "dates": [
+  "1881-01-10",
+  "1881-01-11",
+  "1881-01-12"
+ ],
+ "printed": {
+  "headers": [
+   "January, Monday 10. 1881.",
+   "Tuesday 11.",
+   "Wednesday 12."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1881-01-10",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Took Mother out",
+    "sleigh riding. Dinner",
+    "at our house; sat",
+    "between Grace Rath-",
+    "-bone & Lucy Tuckerman"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "b2",
+   "date": "1881-01-11",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Took Fanny Smith",
+    "out sleighriding;",
+    "Dinner at Delanos;",
+    "sat between Mrs. Astor",
+    "& Mrs. Drayton."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "b3",
+   "date": "1881-01-12",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Sleighing superb. Drove",
+    "Alice beyond Harlem.",
+    "Very jolly theatre party",
+    "& supper at Tuckermans."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": null
+  },
+  {
+   "kind": "other",
+   "value": null,
+   "position": "bottom",
+   "note": "Small dots/marks at foot of page, not writing."
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Mother",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Grace Rathbone",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Lucy Tuckerman",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Fanny Smith",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Delanos",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Mrs. Astor",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Mrs. Drayton",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Alice",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Tuckermans",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   "Harlem"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

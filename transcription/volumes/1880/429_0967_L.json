@@ -1,0 +1,98 @@
+{
+ "frame": "429_0967",
+ "half": "L",
+ "volume": "1880",
+ "page_type": "diary-day",
+ "dates": [
+  "1880-09-18"
+ ],
+ "printed": {
+  "headers": [
+   "September, Saturday 18. 1880."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1880-09-18",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "We had very much the best",
+    "days sport we have had; there",
+    "were \"innumerable\" grouse,",
+    "though they were very wild.",
+    "But I had to sit up most",
+    "of last night with the asthma,",
+    "I was so troubled with con-",
+    "-tinual attacks of colic that",
+    "I could hardly walk, and",
+    "it rained most of the day, so",
+    "I shot badly; Elliott",
+    "however did splendidly.",
+    "We have had pretty good",
+    "fare and accomadations up",
+    "here, so far, and great fun;",
+    "but I shall be perfectly",
+    "overjoyed to get back to",
+    "Alice."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "b2",
+   "date": "1880-09-18",
+   "kind": "tally",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "12 sharptail grouse 7 pinnated grouse",
+    "E 27 \" \" \" 15 \" \""
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "faint mirrored writing from reverse"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Elliott",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Alice",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

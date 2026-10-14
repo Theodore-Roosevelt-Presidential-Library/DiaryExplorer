@@ -1,0 +1,70 @@
+{
+ "frame": "430_0105",
+ "half": "L",
+ "volume": "1882",
+ "page_type": "diary-day",
+ "dates": [
+  "1882-02-15"
+ ],
+ "printed": {
+  "headers": [
+   "FEBRUARY 15 Wednesday"
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1882-02-15",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Tammany so dissatisfied",
+    "that it again broke and",
+    "elected the Republican",
+    "clerk. .",
+    "Introduced bill to",
+    "provide for water supply",
+    "of New York.",
+    "Pleasant party at Lan-",
+    "sings in evening."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": "'dissatisfied' possibly spelled 'disatisfied'."
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from reverse of leaf ignored"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Lansings",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   "New York"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "medium",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

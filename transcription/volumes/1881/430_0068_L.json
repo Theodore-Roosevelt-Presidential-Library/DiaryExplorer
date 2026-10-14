@@ -1,0 +1,48 @@
+{
+ "frame": "430_0068",
+ "half": "L",
+ "volume": "1881",
+ "page_type": "diary-day",
+ "dates": [
+  "1881-11-12",
+  "1881-11-13",
+  "1881-11-14"
+ ],
+ "printed": {
+  "headers": [
+   "November, Saturday 12. 1881.",
+   "Sunday 13.",
+   "Monday 14."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from reverse of leaf"
+  },
+  {
+   "kind": "ink-blot",
+   "value": null,
+   "position": "body",
+   "note": "dark ink specks/spatter under Saturday 12; not legible writing"
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": false,
+ "confidence": "high",
+ "transcriber_notes": "refilm of 430_0063; blank days",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

@@ -1,0 +1,38 @@
+{
+ "frame": "429_0729",
+ "half": "L",
+ "volume": "1879",
+ "page_type": "diary-day",
+ "dates": [
+  "1879-06-09"
+ ],
+ "printed": {
+  "headers": [
+   "Monday, June 9, 1879."
+  ],
+  "title": null,
+  "description": "printer's signature number \"12\" at foot of page"
+ },
+ "handwriting": [],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from reverse of leaf; ignored"
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": false,
+ "confidence": "high",
+ "transcriber_notes": "Blank day. Only mirrored show-through of June 7/8 entries. Printed signature number \"12\" at lower right edge.",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

@@ -1,0 +1,60 @@
+{
+ "frame": "429_0694",
+ "half": "L",
+ "volume": "1879",
+ "page_type": "diary-day",
+ "dates": [
+  "1879-02-27"
+ ],
+ "printed": {
+  "headers": [
+   "Thursday, February 27, 1879."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1879-02-27",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "In the evening started",
+    "by 7. p.m train for",
+    "Island Falls, Maine,",
+    "where I intend to",
+    "spend a couple of weeks."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  }
+ ],
+ "marks": [
+  {
+   "kind": "archival-page-number",
+   "value": "31[?]",
+   "position": "top",
+   "note": "faint pencil mark top left, partly cut"
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [
+   "Island Falls, Maine"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

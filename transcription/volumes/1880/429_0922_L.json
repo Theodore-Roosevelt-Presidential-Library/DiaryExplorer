@@ -1,0 +1,74 @@
+{
+ "frame": "429_0922",
+ "half": "L",
+ "volume": "1880",
+ "page_type": "diary-day",
+ "dates": [
+  "1880-06-18"
+ ],
+ "printed": {
+  "headers": [
+   "June, Friday 18. 1880."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1880-06-18",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "In the evening I took",
+    "sweet Alice for the crowning",
+    "drive of the season. We",
+    "started about half past",
+    "six and came back in",
+    "the clear moonlight about",
+    "half past nine. The weather",
+    "was just sufficiently cool,",
+    "and the country marvel-",
+    "lously beautiful; for we",
+    "drove through the wild,",
+    "wooded, hilly region to",
+    "the north of Wellesly."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "Ghost text of June 16 entry below."
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Alice",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   "Wellesly"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

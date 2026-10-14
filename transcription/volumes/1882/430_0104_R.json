@@ -1,0 +1,74 @@
+{
+ "frame": "430_0104",
+ "half": "R",
+ "volume": "1882",
+ "page_type": "diary-day",
+ "dates": [
+  "1882-02-14"
+ ],
+ "printed": {
+  "headers": [
+   "FEBRUARY 14 Tuesday"
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1882-02-14",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Speaker announced his",
+    "committees; I am just where",
+    "I wished to be, on the com-",
+    "mittee on Cities. .",
+    "Introduced bill regard-",
+    "ing the selection of al-",
+    "dermen in New York.",
+    "Alice and I went to",
+    "a most amusing com-",
+    "merce party at the",
+    "Knickerbockers in the",
+    "evening."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": "'commerce' as written (word split com-/merce)."
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from reverse of leaf ignored"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Alice",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   "New York",
+   "Knickerbockers"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "medium",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

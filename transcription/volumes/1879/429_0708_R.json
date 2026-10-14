@@ -1,0 +1,105 @@
+{
+ "frame": "429_0708",
+ "half": "R",
+ "volume": "1879",
+ "page_type": "diary-day",
+ "dates": [
+  "1879-04-03"
+ ],
+ "printed": {
+  "headers": [
+   "Thursday, April 3, 1879."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1879-04-03",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Spent the day showing",
+    "Minot & Dick the",
+    "sights; both get along",
+    "beautifully with the",
+    "family, and the latter",
+    "is very amusing.",
+    "In the evening I[?] we",
+    "went to Aunt Annies;",
+    "Margy Tuckerman[?],",
+    "Fanny Smith & Edith",
+    "Carow were there, look-",
+    "-ing very prettily.",
+    "Edith is just the same",
+    "sweet little flirt as",
+    "ever"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": "'I we' appears as an overwritten 'I'/'we'; surname after 'Margy' uncertain."
+  }
+ ],
+ "marks": [
+  {
+   "kind": "archival-page-number",
+   "value": "57",
+   "position": "top",
+   "note": "pencil, top right"
+  },
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "faint mirrored writing from reverse; ignored"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Minot",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Dick",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Aunt Annie",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Margy Tuckerman[?]",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Fanny Smith",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Edith Carow",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "medium",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

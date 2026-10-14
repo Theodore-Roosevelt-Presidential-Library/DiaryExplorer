@@ -1,0 +1,95 @@
+{
+ "frame": "429_0864",
+ "half": "L",
+ "volume": "1880",
+ "page_type": "diary-day",
+ "dates": [
+  "1880-02-19"
+ ],
+ "printed": {
+  "headers": [
+   "February, Thursday 19. 1880."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1880-02-19",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Drove Nell in[?] to Boston in",
+    "the morning. In the evening",
+    "dined with the family at",
+    "the Brunswick, and went to",
+    "a theatre party given to Bamie",
+    "and Conie by Frank and Tom",
+    "Lee. I sat by pretty Miss Sunshine,",
+    "who \"matronized\"!"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": "Line 1 'in' read tentatively (could be 'out'). Small caret-like mark after 'by' on line 7, possibly an insertion point with nothing legible above. 'Miss' written with long-s form. 'Conie' as written."
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "faint mirrored writing from reverse"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Nell",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Bamie",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Conie",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Frank Lee",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Tom Lee",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Miss Sunshine",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   "Boston",
+   "the Brunswick"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "medium",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

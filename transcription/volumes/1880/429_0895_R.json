@@ -1,0 +1,67 @@
+{
+ "frame": "429_0895",
+ "half": "R",
+ "volume": "1880",
+ "page_type": "diary-day",
+ "dates": [
+  "1880-04-22"
+ ],
+ "printed": {
+  "headers": [
+   "April, Thursday 22. 1880."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1880-04-22",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Drove over in the afternoon",
+    "to Chestnut Hill, with",
+    "my bag under the seat,",
+    "as I intend to stay",
+    "several days. I took Alice",
+    "out driving."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "first letter of 'Drove' appears written over another letter"
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "faint mirrored writing from reverse"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Alice",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   "Chestnut Hill"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

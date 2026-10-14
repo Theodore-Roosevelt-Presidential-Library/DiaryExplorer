@@ -1,0 +1,81 @@
+{
+ "frame": "429_0766",
+ "half": "R",
+ "volume": "1879",
+ "page_type": "diary-day",
+ "dates": [
+  "1879-09-06"
+ ],
+ "printed": {
+  "headers": [
+   "Saturday, September 6, 1879."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1879-09-06",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Started in fair[?] season",
+    "in a pirogue or dugout.",
+    "It stands rough usage",
+    "better than a ~~canoe~~ ^birch^ canoe.",
+    "We went about 20 miles",
+    "up the Aroostook, pad-",
+    "-dling sometimes, but",
+    "poleing most of the",
+    "way. The scenery is",
+    "very beautiful and",
+    "wild; I saw no trace",
+    "of man — but also no",
+    "trace of game. Trout",
+    "are plenty however.",
+    "~~[illegible]~~ Pitched camp before",
+    "dark, to cook the bread, trout",
+    "& partridge. Black flies, mos-",
+    "-quitoes & midges pretty",
+    "plentiful; I don't mind",
+    "them much."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": "last line written below the ruled frame"
+  }
+ ],
+ "marks": [
+  {
+   "kind": "archival-page-number",
+   "value": "171",
+   "position": "top",
+   "note": null
+  },
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from reverse of leaf; ignored"
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [
+   "Aroostook"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "medium",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

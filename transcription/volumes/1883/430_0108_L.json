@@ -1,0 +1,54 @@
+{
+ "frame": "430_0108",
+ "half": "L",
+ "volume": "1883",
+ "page_type": "cover",
+ "dates": [],
+ "printed": {
+  "headers": [],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": null,
+   "kind": "inscription",
+   "position": "top",
+   "medium": "unknown",
+   "hand": "TR",
+   "lines": [
+    "Theodore Roosevelt",
+    "55 west 45th St",
+    "New York"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": "Faint writing on dark cover; \"45th\" superscript uncertain."
+  }
+ ],
+ "marks": [
+  {
+   "kind": "other",
+   "value": null,
+   "position": "body",
+   "note": "small rectangular label/mark mid-cover, unreadable"
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [
+   "New York"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "medium",
+ "transcriber_notes": "Inside/front cover with owner inscription.",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

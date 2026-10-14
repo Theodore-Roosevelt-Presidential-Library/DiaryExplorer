@@ -1,0 +1,93 @@
+{
+ "frame": "429_0736",
+ "half": "R",
+ "volume": "1879",
+ "page_type": "diary-day",
+ "dates": [
+  "1879-06-26"
+ ],
+ "printed": {
+  "headers": [
+   "Thursday, June 26, 1879."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1879-06-26",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "After breakfast I bid goodbye,",
+    "with the most heartfelt",
+    "regret, to Chestnut Hill, and",
+    "rode over to Cambridge. In",
+    "the afternoon I came out",
+    "to the Whitneys, where I",
+    "shall spend a couple of",
+    "days. Like my other Boston",
+    "friends they have been",
+    "exceedingly kind to me.",
+    "The two Miss Lanes and",
+    "Nana Rotch were out there",
+    "too, and we had an",
+    "extremely jolly time."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  }
+ ],
+ "marks": [
+  {
+   "kind": "archival-page-number",
+   "value": "121",
+   "position": "top",
+   "note": "pencil, right of header"
+  },
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "heavy, lower quarter"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Whitneys",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Miss Lanes",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Nana Rotch",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   "Chestnut Hill",
+   "Cambridge",
+   "Boston"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

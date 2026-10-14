@@ -1,0 +1,97 @@
+{
+ "frame": "429_0611",
+ "half": "R",
+ "volume": "1878",
+ "page_type": "diary-day",
+ "dates": [
+  "1878-09-06"
+ ],
+ "printed": {
+  "headers": [
+   "SEPTEMBER, FRIDAY 6. 1878."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1878-09-06",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "West, Emlen & my-",
+    "-self took the 8.35[?]",
+    "train for Boston",
+    "en route for the",
+    "Maine woods",
+    "where we intend",
+    "to pass three",
+    "weeks. I can hard-",
+    "-ly realize (about",
+    "old Hal Minot;",
+    "but Father's death",
+    "has taken away much",
+    "of my capacity for",
+    "grieving."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": null
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored show-through in lower half"
+  },
+  {
+   "kind": "ink-blot",
+   "value": null,
+   "position": "bottom",
+   "note": "dark blot in lower page and a stain at lower right corner"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "West",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Emlen",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Hal Minot",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Father",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   "Boston",
+   "Maine woods"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "medium",
+ "transcriber_notes": "BAD SPLIT: the R half also contains the right edge of the Sept. 5 page (recorded in 429_0611_L); only the Sept. 6 page is transcribed here.",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

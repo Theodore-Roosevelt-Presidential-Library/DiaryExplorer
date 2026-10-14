@@ -1,0 +1,31 @@
+{
+ "frame": "429_0692",
+ "half": "L",
+ "volume": "1879",
+ "page_type": "diary-day",
+ "dates": [
+  "1879-02-15"
+ ],
+ "printed": {
+  "headers": [
+   "Saturday, February 15, 1879."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [],
+ "marks": [],
+ "mentions": {
+  "people": [],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": false,
+ "confidence": "high",
+ "transcriber_notes": "Blank day. Frame skips Feb 11-14 (presumably not filmed as blank, or pages turned).",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

@@ -1,0 +1,81 @@
+{
+ "frame": "430_0127",
+ "half": "R",
+ "volume": "1883",
+ "page_type": "diary-day",
+ "dates": [
+  "1883-09-04"
+ ],
+ "printed": {
+  "headers": [
+   "SEPTEMBER 4 Tuesday"
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": null,
+   "kind": "heading",
+   "position": "over-printed-title",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "2"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "Written after struck printed day number."
+  },
+  {
+   "id": "b2",
+   "date": "1883-09-04",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Went on to the sawmill",
+    "on Crazy Woman creek,",
+    "Here we leave our",
+    "wagon and go in on",
+    "pack ponies. Have",
+    "seven horses, 3 to ride,",
+    "3 to pack, 1 spare. Carry",
+    "wagon sheet for tent;",
+    "300 cartridges for Winchester."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "Entry for 2 Sep 1884. Last line in fainter ink."
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing in lower half"
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [
+   "Crazy Woman creek"
+  ],
+  "dates": [
+   "2 [Sept. 1884]"
+  ]
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "Printed 1883 heading reused in 1884.",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

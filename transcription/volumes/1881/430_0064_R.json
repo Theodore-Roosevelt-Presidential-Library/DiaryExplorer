@@ -1,0 +1,48 @@
+{
+ "frame": "430_0064",
+ "half": "R",
+ "volume": "1881",
+ "page_type": "diary-day",
+ "dates": [
+  "1881-11-21",
+  "1881-11-22",
+  "1881-11-23"
+ ],
+ "printed": {
+  "headers": [
+   "November, Monday 21. 1881.",
+   "Tuesday 22.",
+   "Wednesday 23."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from reverse of leaf"
+  },
+  {
+   "kind": "ink-blot",
+   "value": null,
+   "position": "body",
+   "note": "fragmentary dark ink offset/specks under Wednesday 23; not legible as writing on this page"
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": false,
+ "confidence": "high",
+ "transcriber_notes": "No writing; dark fragmentary marks under Wed 23 appear to be ink offset, not an entry.",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

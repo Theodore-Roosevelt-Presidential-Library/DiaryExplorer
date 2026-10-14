@@ -1,0 +1,71 @@
+{
+ "frame": "429_0536",
+ "half": "L",
+ "volume": "1878",
+ "page_type": "diary-day",
+ "dates": [
+  "1878-04-26"
+ ],
+ "printed": {
+  "headers": [
+   "April, Friday 26. 1878."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1878-04-26",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "easier here at",
+    "college than at",
+    "home, for there",
+    "every little thing",
+    "is connected",
+    "with him, while",
+    "here it is not",
+    "so; the only differ-",
+    "-ence, but oh such",
+    "a sad one, is",
+    "that I never",
+    "write to him",
+    "on Sunday af-",
+    "-ternoons, and",
+    "never receive",
+    "any letters from",
+    "him. Reading",
+    "some of the"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "continues from previous page (starts mid-sentence); runs on to next page"
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from other side of leaf / facing page ignored"
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "Entry begins mid-sentence, run-on from an earlier day.",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

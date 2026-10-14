@@ -1,0 +1,76 @@
+{
+ "frame": "429_0561",
+ "half": "L",
+ "volume": "1878",
+ "page_type": "diary-day",
+ "dates": [
+  "1878-06-09"
+ ],
+ "printed": {
+  "headers": [
+   "June, Sunday 9. 1878."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1878-06-09",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "/Four months ago/",
+    "All through the",
+    "sermon I was",
+    "thinking of Father.",
+    "I could see him",
+    "sitting in the",
+    "corner of the pew",
+    "as distinctly as",
+    "if he were alive,",
+    "in the same",
+    "dear old attitude,",
+    "with his funny",
+    "little \"warlike curl\",",
+    "and his beloved",
+    "face. Oh, I feel",
+    "so sad when I",
+    "think of the word 'never"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "Entry continues on next page."
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "faint mirrored writing from reverse of leaf; ignored"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Father",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

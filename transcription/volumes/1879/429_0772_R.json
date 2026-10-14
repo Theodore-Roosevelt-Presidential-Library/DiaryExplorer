@@ -1,0 +1,91 @@
+{
+ "frame": "429_0772",
+ "half": "R",
+ "volume": "1879",
+ "page_type": "diary-day",
+ "dates": [
+  "1879-09-18"
+ ],
+ "printed": {
+  "headers": [
+   "Thursday, September 18, 1879."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1879-09-18",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Walked back through the",
+    "woods to where we had",
+    "left our horse, killing",
+    "4 partridges; then drove",
+    "to Island[?] Falls, shooting",
+    "a pigeon from the",
+    "wagon. As usual, it",
+    "rained; the weather",
+    "has been awful, for",
+    "the last two weeks;",
+    "but I am enjoying",
+    "myself exceedingly,",
+    "~~and~~ am in superb",
+    "health, and as tough",
+    "as a pine knot."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "'Island' written in an unusual form"
+  },
+  {
+   "id": "b2",
+   "date": "1879-09-18",
+   "kind": "tally",
+   "position": "bottom",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "4 Birch Grouse 1 Pigeon"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  }
+ ],
+ "marks": [
+  {
+   "kind": "archival-page-number",
+   "value": "183[?]",
+   "position": "top",
+   "note": "pencil numeral at top corner, later mark"
+  },
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from reverse of leaf ignored"
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [
+   "Island[?] Falls"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

@@ -1,0 +1,83 @@
+{
+ "frame": "429_0568",
+ "half": "R",
+ "volume": "1878",
+ "page_type": "diary-day",
+ "dates": [
+  "1878-06-24"
+ ],
+ "printed": {
+  "headers": [
+   "June, Monday 24. 1878."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1878-06-24",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Rowed to Pine",
+    "Island where I",
+    "found a chicka-",
+    "-dee's nest.",
+    "Took Miss Nellie",
+    "Beekman out",
+    "riding in after-",
+    "-noon.",
+    "My face is",
+    "beginning to",
+    "look like",
+    "an [illegible: 2 words]",
+    "[illegible: 2 words]",
+    "I wish old",
+    "Chuff had a",
+    "better set of",
+    "friends."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "low",
+   "note": "Heavy show-through interferes throughout; two lines in middle unreadable."
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "faint mirrored writing from reverse of leaf; ignored"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Miss Nellie Beekman",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Chuff",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   "Pine Island"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "low",
+ "transcriber_notes": "Faint '2 sandpipers' at bottom is mirrored show-through from reverse (429_0569_L); ignored.",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

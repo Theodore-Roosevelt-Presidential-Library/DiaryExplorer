@@ -1,0 +1,81 @@
+{
+ "frame": "429_0750",
+ "half": "R",
+ "volume": "1879",
+ "page_type": "diary-day",
+ "dates": [
+  "1879-07-30"
+ ],
+ "printed": {
+  "headers": [
+   "Wednesday, July 30, 1879."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1879-07-30",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Nellie stayed up from",
+    "town, and so I spent the",
+    "day with him; we rowed",
+    "round Loyds - ~~[illegible]~~ 15 miles,",
+    "and virtually racing the",
+    "whole way. As athletes we",
+    "are about equal; he rows",
+    "best; I run best; he",
+    "can beat me sailing",
+    "or swimming; I can beat",
+    "him wrestling or boxing;",
+    "I am best with the",
+    "rifle, he with the shot",
+    "gun, &c, &c, &c."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  }
+ ],
+ "marks": [
+  {
+   "kind": "archival-page-number",
+   "value": "143",
+   "position": "top",
+   "note": "pencil, right of header"
+  },
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "lower page and right side mirrored text"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Nellie",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   "Loyds"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

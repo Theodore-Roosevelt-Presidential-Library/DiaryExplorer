@@ -1,0 +1,83 @@
+{
+ "frame": "429_0657",
+ "half": "L",
+ "volume": "1878",
+ "page_type": "diary-day",
+ "dates": [
+  "1878-12-12"
+ ],
+ "printed": {
+  "headers": [
+   "December, Thursday 12. 1878."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1878-12-11",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "recall all his speeches",
+    "and acts so very vividly.",
+    "It is so sweet and yet so",
+    "very sad to remember",
+    "one of his last speeches",
+    "to me; when he said",
+    "that after all I was the",
+    "dearest of his children",
+    "to him. O, how little",
+    "worthy I am of such",
+    "a father; I feel such a",
+    "hopeless sense of inferiority",
+    "to him; I loved him so,",
+    "and yet I could do so",
+    "little for him! He was",
+    "such a very large part",
+    "~~in my [illegible]~~ in my",
+    "life, and yet I am"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "continues from previous page (Dec 11 entry); struck-through words on second-to-last line partly unreadable; continues on next page"
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "faint mirrored writing from other side of leaf; ignored"
+  },
+  {
+   "kind": "stain",
+   "value": null,
+   "position": "body",
+   "note": "light smudge across upper lines"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "his children",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

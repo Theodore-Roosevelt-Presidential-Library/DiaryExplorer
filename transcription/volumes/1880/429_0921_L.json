@@ -1,0 +1,81 @@
+{
+ "frame": "429_0921",
+ "half": "L",
+ "volume": "1880",
+ "page_type": "diary-day",
+ "dates": [
+  "1880-06-16"
+ ],
+ "printed": {
+  "headers": [
+   "June, Wednesday 16. 1880."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1880-06-16",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Passed my last exam-",
+    "ination. I have worked",
+    "well these last ten",
+    "days; and in fact I",
+    "had to. In the after-",
+    "noon I drove or[?] in my",
+    "cart to the Lees; it was",
+    "delightful to get back",
+    "to the cheerful house, and",
+    "to see kind, hospitable",
+    "Mr & Mrs Lee, the pretty",
+    "girls and the jolly",
+    "little children; and far",
+    "more than anything",
+    "to be once again with",
+    "my own, best beloved",
+    "little Queen; I have missed",
+    "her so; oh, how sweet",
+    "and pretty she was."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "'or' after 'drove' is as it appears (possibly short for 'over')."
+  }
+ ],
+ "marks": [],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "the Lees",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Mr & Mrs Lee",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "little Queen",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "Printed heading Wednesday 16 follows Sunday 13 on previous frame; June 14-15 not present in this batch.",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

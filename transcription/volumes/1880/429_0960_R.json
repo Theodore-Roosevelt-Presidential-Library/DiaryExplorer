@@ -1,0 +1,94 @@
+{
+ "frame": "429_0960",
+ "half": "R",
+ "volume": "1880",
+ "page_type": "diary-day",
+ "dates": [
+  "1880-09-05"
+ ],
+ "printed": {
+  "headers": [
+   "September, Sunday 5. 1880."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1880-09-05",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "After breakfast we again",
+    "left in the wagon",
+    "and drove about 25",
+    "miles south where we",
+    "put up for the night",
+    "at a farm house, where",
+    "of course the accomodation",
+    "are pretty rough. The",
+    "country is broken up",
+    "into numerous rolling",
+    "hills of slight elevation,",
+    "absolutely treeless and",
+    "sparsely scattered over",
+    "with settlers houses. Birds",
+    "are not very plentiful",
+    "and are wild; but I",
+    "shot pretty well, fully",
+    "as well as or better than",
+    "Elliott"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "b2",
+   "date": "1880-09-05",
+   "kind": "tally",
+   "position": "bottom",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "6 grouse 2 quail",
+    "8 grouse"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored text and tallies; ignored"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Elliott",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

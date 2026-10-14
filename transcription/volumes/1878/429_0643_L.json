@@ -1,0 +1,72 @@
+{
+ "frame": "429_0643",
+ "half": "L",
+ "volume": "1878",
+ "page_type": "diary-day",
+ "dates": [
+  "1878-11-08"
+ ],
+ "printed": {
+  "headers": [
+   "November, Friday 8. 1878."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1878-11-08",
+   "kind": "heading",
+   "position": "over-printed-title",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Thursday"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "Written above printed 'FRIDAY 8.', which is struck through by hand (~~Friday 8.~~)."
+  },
+  {
+   "id": "b2",
+   "date": "1878-11-08",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Prayer 7.45",
+    "Studied 9.00—4.30 &",
+    "8.00—10.00. Boxed",
+    "& played billiards"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "'Prayer 7.45' written small above first line."
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from reverse of leaf"
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "TR struck the printed day 'Friday 8.' and wrote 'Thursday'; he appears to be shifting entries by one day. Date field kept as printed date.",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

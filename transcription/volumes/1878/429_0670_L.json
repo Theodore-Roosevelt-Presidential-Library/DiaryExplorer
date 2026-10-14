@@ -1,0 +1,177 @@
+{
+ "frame": "429_0670",
+ "half": "L",
+ "volume": "1878",
+ "page_type": "memoranda",
+ "dates": [],
+ "printed": {
+  "headers": [],
+  "title": "Memoranda.",
+  "description": "ruled page with printed 'Dolls. Cts.' column headings"
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": null,
+   "kind": "heading",
+   "position": "top",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "1877"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "written after printed title"
+  },
+  {
+   "id": "b2",
+   "date": null,
+   "kind": "table",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Dress 320.00",
+    "Room 307.35",
+    "Board 296.00",
+    "Education 220.00",
+    "Washing 50.00",
+    "Charity 29.00",
+    "Coal, gas &c 16.25",
+    "Travelling 56.00",
+    "Science 76.75",
+    "Subscriptions 106.50",
+    "Sporting 27.00",
+    "Athletics 50.50",
+    "Presents 42.00",
+    "Small change 13.00",
+    "Amusements 64.00",
+    "Expressage 9.00",
+    "Sundries 58.65",
+    "1742.00"
+   ],
+   "rows": [
+    [
+     "Dress",
+     "320",
+     "00"
+    ],
+    [
+     "Room",
+     "307",
+     "35"
+    ],
+    [
+     "Board",
+     "296",
+     "00"
+    ],
+    [
+     "Education",
+     "220",
+     "00"
+    ],
+    [
+     "Washing",
+     "50",
+     "00"
+    ],
+    [
+     "Charity",
+     "29",
+     "00"
+    ],
+    [
+     "Coal, gas &c",
+     "16",
+     "25"
+    ],
+    [
+     "Travelling",
+     "56",
+     "00"
+    ],
+    [
+     "Science",
+     "76",
+     "75"
+    ],
+    [
+     "Subscriptions",
+     "106",
+     "50"
+    ],
+    [
+     "Sporting",
+     "27",
+     "00"
+    ],
+    [
+     "Athletics",
+     "50",
+     "50"
+    ],
+    [
+     "Presents",
+     "42",
+     "00"
+    ],
+    [
+     "Small change",
+     "13",
+     "00"
+    ],
+    [
+     "Amusements",
+     "64",
+     "00"
+    ],
+    [
+     "Expressage",
+     "9",
+     "00"
+    ],
+    [
+     "Sundries",
+     "58",
+     "65"
+    ],
+    [
+     "",
+     "1742",
+     "00"
+    ]
+   ],
+   "columns": [
+    "category",
+    "Dolls.",
+    "Cts."
+   ],
+   "confidence": "high",
+   "note": "1877 expenses by category; total matches 1877 cash account (1742.00); Room cents read as 35 (sum confirms)"
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored figures from 1878 expense page visible, including on narrow stub at left edge; ignored"
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

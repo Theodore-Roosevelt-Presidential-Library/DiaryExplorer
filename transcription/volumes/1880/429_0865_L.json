@@ -1,0 +1,81 @@
+{
+ "frame": "429_0865",
+ "half": "L",
+ "volume": "1880",
+ "page_type": "diary-day",
+ "dates": [
+  "1880-02-21"
+ ],
+ "printed": {
+  "headers": [
+   "February, Saturday 21. 1880."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1880-02-21",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Jack Tebbets and I went in",
+    "town to see the family off;",
+    "went calling with my sweet,",
+    "pretty love; dined with \"Uncle\"",
+    "Bill Lee; came out to Cam-",
+    "bridge for the great annual",
+    "Porc. dinner. Got to bed at",
+    "12 oclock — after being 44 hours",
+    "without sleep."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "faint mirrored writing from reverse"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Jack Tebbets",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "the family",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Uncle Bill Lee",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   "Cambridge",
+   "Porc."
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

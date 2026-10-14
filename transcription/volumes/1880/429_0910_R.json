@@ -1,0 +1,78 @@
+{
+ "frame": "429_0910",
+ "half": "R",
+ "volume": "1880",
+ "page_type": "diary-day",
+ "dates": [
+  "1880-05-22"
+ ],
+ "printed": {
+  "headers": [
+   "May, Saturday 22. 1880."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1880-05-22",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Drove Tom Lee over to",
+    "the Athletic games",
+    "which were very good;",
+    "and thence to a",
+    "garden party at",
+    "the Dixwells. It was",
+    "beautiful moonlight,",
+    "and I drove Alice",
+    "home."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "Mirrored text from reverse page."
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Tom Lee",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "the Dixwells",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Alice",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

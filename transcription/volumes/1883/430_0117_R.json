@@ -1,0 +1,31 @@
+{
+ "frame": "430_0117",
+ "half": "R",
+ "volume": "1883",
+ "page_type": "diary-day",
+ "dates": [
+  "1883-01-11"
+ ],
+ "printed": {
+  "headers": [
+   "JANUARY 11 Thursday"
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [],
+ "marks": [],
+ "mentions": {
+  "people": [],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": false,
+ "confidence": "high",
+ "transcriber_notes": "Blank day.",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

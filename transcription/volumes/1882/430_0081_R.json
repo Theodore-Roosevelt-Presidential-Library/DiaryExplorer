@@ -1,0 +1,40 @@
+{
+ "frame": "430_0081",
+ "half": "R",
+ "volume": "1882",
+ "page_type": "endpaper",
+ "dates": [],
+ "printed": {
+  "headers": [],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [],
+ "marks": [
+  {
+   "kind": "catalog-mark",
+   "value": "4/- / x -",
+   "position": "top",
+   "note": "pencil marks at upper left, apparently a dealer/catalog notation (4/- over a rule, x - below); not diary text"
+  },
+  {
+   "kind": "tear",
+   "value": null,
+   "position": "top",
+   "note": "upper right corner torn/chipped"
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": false,
+ "confidence": "high",
+ "transcriber_notes": "Free endpaper, otherwise blank.",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

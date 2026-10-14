@@ -1,0 +1,90 @@
+{
+ "frame": "429_0578",
+ "half": "L",
+ "volume": "1878",
+ "page_type": "diary-day",
+ "dates": [
+  "1878-07-13"
+ ],
+ "printed": {
+  "headers": [
+   "July, Saturday 13. 1878."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1878-07-13",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Ran a mile",
+    "through the",
+    "woods at",
+    "speed; shall",
+    "probably repeat",
+    "this every day."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "A diagonal stroke across the initial R appears to be show-through, not a cancellation."
+  },
+  {
+   "id": "b2",
+   "date": "1878-07-14",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "(14th)",
+    "the world, not through",
+    "lack of perseverance and",
+    "good intentions, but",
+    "through sheer inability.",
+    "I realize more and more",
+    "every day that I am as",
+    "much inferior to Father",
+    "morally and mentally",
+    "as physically. But \"Trust in",
+    "the Lord and do good!\"."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "Continues the July 14 entry from the facing page (Sunday 14), marked \"(14th)\" and set off by a drawn rule and bracket."
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "faint mirrored writing from reverse"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Father",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

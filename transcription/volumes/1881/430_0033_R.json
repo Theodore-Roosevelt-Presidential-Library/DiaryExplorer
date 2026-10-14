@@ -1,0 +1,73 @@
+{
+ "frame": "430_0033",
+ "half": "R",
+ "volume": "1881",
+ "page_type": "diary-day",
+ "dates": [
+  "1881-05-19",
+  "1881-05-20",
+  "1881-05-21"
+ ],
+ "printed": {
+  "headers": [
+   "May, Thursday 19. 1881.",
+   "Friday 20.",
+   "Saturday 21."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1881-05-21",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Landed at Queenstown,",
+    "Alice revived at once,",
+    "very much. Steamed",
+    "up the River to Cork;",
+    "most beautiful sail.",
+    "At Imperial Hotel - good,"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "faint mirrored writing from reverse of leaf; ignored"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Alice",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   "Queenstown",
+   "Cork",
+   "Imperial Hotel"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "Thursday 19 and Friday 20 show only heavy show-through.",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

@@ -1,0 +1,72 @@
+{
+ "frame": "429_0701",
+ "half": "R",
+ "volume": "1879",
+ "page_type": "diary-day",
+ "dates": [
+  "1879-03-14"
+ ],
+ "printed": {
+  "headers": [
+   "Friday, March 14, 1879."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1879-03-14",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Spent the entire morn-",
+    "ing hunting partridges,",
+    "without seeing one, and",
+    "making the round of",
+    "the lucivee traps, which",
+    "contained ^nothing^. However I have",
+    "had good success this",
+    "trip, and I have",
+    "never passed a",
+    "pleasanter two weeks",
+    "The skins of the fox,",
+    "lucivee, coon and",
+    "buck make quite a",
+    "set of trophies; and",
+    "we have shot enough",
+    "partridges and rabbits",
+    "to eat - not to men-",
+    "tion the venison. I have",
+    "collected a good many specimens"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "Entry ends at the foot of the page mid-sentence; no continuation on the following page (15 March)."
+  }
+ ],
+ "marks": [
+  {
+   "kind": "archival-page-number",
+   "value": "46",
+   "position": "top",
+   "note": "pencil, top right"
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

@@ -1,0 +1,85 @@
+{
+ "frame": "429_0589",
+ "half": "R",
+ "volume": "1878",
+ "page_type": "diary-day",
+ "dates": [
+  "1878-08-05"
+ ],
+ "printed": {
+  "headers": [
+   "August, Monday 5. 1878."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1878-08-05",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Went out woodcock-",
+    "shooting, tramping",
+    "about twenty",
+    "five miles through",
+    "awful places, for",
+    "the cock are",
+    "only now found",
+    "in very thick",
+    "cover. I shot",
+    "wretchedly, mis-",
+    "-sing over half",
+    "my birds. As the",
+    "day was pretty",
+    "hot both I and",
+    "the dog are",
+    "pretty well done",
+    "up."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "Small marks above \"only\" and \"now\" appear to be letter corrections."
+  },
+  {
+   "id": "b2",
+   "date": "1878-08-05",
+   "kind": "tally",
+   "position": "bottom",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "7 woodcock."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "faint mirrored writing from reverse"
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

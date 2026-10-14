@@ -1,0 +1,104 @@
+{
+ "frame": "430_0112",
+ "half": "R",
+ "volume": "1883",
+ "page_type": "diary-day",
+ "dates": [
+  "1883-01-01"
+ ],
+ "printed": {
+  "headers": [
+   "JANUARY 1 Monday"
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": null,
+   "kind": "inscription",
+   "position": "top",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Theodore Roosevelt"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "b2",
+   "date": "1883-01-01",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Albany. I received the",
+    "complimentary ^Republican^ nomination for",
+    "Speaker of the Assembly. The",
+    "Stalwarts made a strong fight",
+    "against me; but the Independents",
+    "stood firm, and we beat them",
+    "two to one. My strength lay among",
+    "the country Republicans, all of them",
+    "native Americans, and for the",
+    "most part farmers or storekeepers",
+    "or small lawyers; they are all",
+    "shrewd, kindly, honest men,",
+    "with whom I get on admirably.",
+    "Hunt, a keen, melancholy, humorous",
+    "yankee, and O'Neil, a bright,",
+    "straightforward backwoodsman,",
+    "were my two main backers.",
+    "All of the 43 Republicans are",
+    "native Americans, with the",
+    "exception of two who were born",
+    "in Germany. Howe[?], my colleague",
+    "from New York is a very good",
+    "man; a gentleman of broad culture."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": "Heavy show-through; colleague surname uncertain."
+  }
+ ],
+ "marks": [],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Hunt",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "O'Neil",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Howe[?]",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   "Albany",
+   "Germany",
+   "New York"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "medium",
+ "transcriber_notes": "Entry may continue on next page.",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

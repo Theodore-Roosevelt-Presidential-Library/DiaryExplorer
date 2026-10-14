@@ -1,0 +1,64 @@
+{
+ "frame": "429_0625",
+ "half": "R",
+ "volume": "1878",
+ "page_type": "diary-day",
+ "dates": [
+  "1878-10-04"
+ ],
+ "printed": {
+  "headers": [
+   "October, Friday 4. 1878."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1878-10-04",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Of my studies",
+    "this year I like",
+    "best the philosophy",
+    "and political econo-",
+    "my; my natural",
+    "history courses are",
+    "also very Interesting,",
+    "though less so than",
+    "last year; for the",
+    "others I do not",
+    "care so much."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "capital I in 'Interesting' as it appears"
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from reverse of leaf"
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

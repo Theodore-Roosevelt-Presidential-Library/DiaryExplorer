@@ -1,0 +1,79 @@
+{
+ "frame": "429_0789",
+ "half": "L",
+ "volume": "1879",
+ "page_type": "diary-day",
+ "dates": [
+  "1879-10-23"
+ ],
+ "printed": {
+  "headers": [
+   "Thursday, October 23, 1879."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1879-10-23",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Took Charley Morgan out",
+    "driving.",
+    "The evenings I",
+    "generally spend playing",
+    "whist in the club;",
+    "unless we make up",
+    "a theatre party. As",
+    "I am rather apt",
+    "to end up with a",
+    "little supper, I find I",
+    "dont get to bed very",
+    "early."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "'dont' may have an apostrophe obscured by the flourish"
+  }
+ ],
+ "marks": [
+  {
+   "kind": "archival-page-number",
+   "value": "208[?]",
+   "position": "top",
+   "note": "pencil numeral at top corner, later mark"
+  },
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from reverse of leaf ignored"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Charley Morgan",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   "the club"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

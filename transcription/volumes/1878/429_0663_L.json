@@ -1,0 +1,67 @@
+{
+ "frame": "429_0663",
+ "half": "L",
+ "volume": "1878",
+ "page_type": "diary-day",
+ "dates": [
+  "1878-12-26"
+ ],
+ "printed": {
+  "headers": [
+   "December, Thursday 26. 1878."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1878-12-26",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Confined to the",
+    "house by the fever.",
+    "As regards my",
+    "prospects in after-",
+    "-life it seems to",
+    "look more & more",
+    "as if I was going",
+    "to be a Naturalist.",
+    "If so I shall have",
+    "to study three",
+    "years abroad - whi[?] it",
+    "makes me perfectly",
+    "blue to think of",
+    "it."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "word after dash on line 11 unclear (possibly a false start 'whi' or 'which')"
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "faint mirrored writing from other side of leaf; ignored"
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

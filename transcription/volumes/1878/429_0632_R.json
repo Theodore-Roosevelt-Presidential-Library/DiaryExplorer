@@ -1,0 +1,83 @@
+{
+ "frame": "429_0632",
+ "half": "R",
+ "volume": "1878",
+ "page_type": "diary-day",
+ "dates": [
+  "1878-10-18"
+ ],
+ "printed": {
+  "headers": [
+   "October, Friday 18. 1878."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1878-10-18",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Sparred with",
+    "Tucker Burr, using",
+    "him up.",
+    "In the afternoon",
+    "Dick Saltonstall",
+    "drove me in a",
+    "buggy over to his",
+    "house on Chestnut",
+    "Hill, where I am",
+    "now, enjoying",
+    "myself to the ut-",
+    "most. All his",
+    "family are just",
+    "too sweet to me",
+    "for anything, and",
+    "the whole house is",
+    "so homelike."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from reverse of leaf"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Tucker Burr",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Dick Saltonstall",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   "Chestnut Hill"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

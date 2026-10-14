@@ -1,0 +1,63 @@
+{
+ "frame": "430_0087",
+ "half": "R",
+ "volume": "1882",
+ "page_type": "diary-day",
+ "dates": [
+  "1882-01-03"
+ ],
+ "printed": {
+  "headers": [
+   "JANUARY 3 Tuesday"
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1882-01-03",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "The assembly opened",
+    "the first[?] vote[?]",
+    "upon it; and",
+    "then adjourned."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "low",
+   "note": "Only the four dark lines belong to this page; lines 2-3 smeared and uncertain. The lighter right-aligned lines below are mirrored show-through of Jan 4."
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored Jan 4 entry visible below and between lines"
+  },
+  {
+   "kind": "ink-blot",
+   "value": null,
+   "position": "body",
+   "note": "smudged ink in lines 2-3"
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "medium",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

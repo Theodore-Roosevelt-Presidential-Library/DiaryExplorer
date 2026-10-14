@@ -1,0 +1,56 @@
+{
+ "frame": "429_1007",
+ "half": "R",
+ "volume": "1880",
+ "page_type": "diary-day",
+ "dates": [
+  "1880-12-14"
+ ],
+ "printed": {
+  "headers": [
+   "December, Tuesday 14. 1880."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1880-12-14",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Went to the Mendel-",
+    "ssohn Concert, which",
+    "was very fine."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": "'ssohn' on second line partly obscured; spelling of Mendelssohn split uncertain"
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "faint mirrored writing from reverse of leaf, ignored"
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "medium",
+ "transcriber_notes": "Heavy mirrored show-through of following page fills rest of page; ignored.",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

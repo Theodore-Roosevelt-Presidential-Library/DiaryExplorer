@@ -1,0 +1,71 @@
+{
+ "frame": "429_0521",
+ "half": "R",
+ "volume": "1878",
+ "page_type": "diary-day",
+ "dates": [
+  "1878-03-28"
+ ],
+ "printed": {
+  "headers": [
+   "March, Thursday 28. 1878."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1878-03-26",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "really think",
+    "that I would",
+    "at any moment",
+    "have died to",
+    "save him pain.",
+    "I have not",
+    "been nearly as",
+    "miserable as I",
+    "expected; but",
+    "everyth[?] now",
+    "and then",
+    "when something",
+    "occurs to bring",
+    "him vividly",
+    "before my",
+    "memory, there",
+    "come moments",
+    "of terrible,"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": "Continues from previous page (entry begun March 26); continues on next page. Line 10 word is overwritten/blotted."
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "Mirrored writing from reverse of leaf; ignored."
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "medium",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

@@ -1,0 +1,64 @@
+{
+ "frame": "430_0095",
+ "half": "S",
+ "volume": "1882",
+ "page_type": "diary-day",
+ "dates": [
+  "1882-01-22",
+  "1882-01-23"
+ ],
+ "printed": {
+  "headers": [
+   "JANUARY 22 Sunday",
+   "JANUARY 23 Monday"
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1882-01-23",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Returned to Albany."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "Jan 22: faint ghost of Jan 20 entry (\"Adjourned and Alice and I went down to New York\"), not writing on this page"
+  },
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "Jan 23: mirrored Jan 24 entry below and around the line"
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [
+   "Albany"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "Unsplit spread (Jan 22 left, Jan 23 right). Jan 22 blank.",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

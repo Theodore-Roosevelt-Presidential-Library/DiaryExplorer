@@ -1,0 +1,74 @@
+{
+ "frame": "430_0025",
+ "half": "L",
+ "volume": "1881",
+ "page_type": "diary-day",
+ "dates": [
+  "1881-03-29",
+  "1881-03-30",
+  "1881-03-31"
+ ],
+ "printed": {
+  "headers": [
+   "March, Tuesday 29. 1881.",
+   "Wednesday 30.",
+   "Thursday 31."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1881-03-30",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Am studying very hard",
+    "at the Law school.",
+    "Tod[?] & Bigelow dined",
+    "with me."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": "'the' written in abbreviated form; 'Tod' uncertain"
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "faint mirrored writing from reverse of leaf; ignored"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Tod[?]",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Bigelow",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   "Law school"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "medium",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

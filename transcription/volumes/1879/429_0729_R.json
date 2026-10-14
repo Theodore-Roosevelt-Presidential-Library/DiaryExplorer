@@ -1,0 +1,65 @@
+{
+ "frame": "429_0729",
+ "half": "R",
+ "volume": "1879",
+ "page_type": "diary-day",
+ "dates": [
+  "1879-06-10"
+ ],
+ "printed": {
+  "headers": [
+   "Tuesday, June 10, 1879."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1879-06-10",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Rode over to Chestnut",
+    "Hill and spent the",
+    "afternoon at the",
+    "Saltonstalls."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  }
+ ],
+ "marks": [
+  {
+   "kind": "archival-page-number",
+   "value": "107",
+   "position": "top",
+   "note": "pencil"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "the Saltonstalls",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   "Chestnut Hill"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

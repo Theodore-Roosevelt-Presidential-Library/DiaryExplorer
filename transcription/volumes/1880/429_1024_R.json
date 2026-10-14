@@ -1,0 +1,101 @@
+{
+ "frame": "429_1024",
+ "half": "R",
+ "volume": "1880",
+ "page_type": "endpaper",
+ "dates": [],
+ "printed": {
+  "headers": [],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": null,
+   "kind": "table",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Aug 13th 42[?]",
+    "Aug 13th ~~[illegible]~~ ~~[illegible]~~",
+    "Spectacles 10.00",
+    "\" 15th ~~Lent to Elliott 16.75~~",
+    "\" \" Church 5.00",
+    "\" \" To Chicago 35.00",
+    "\" 14th[?] Hotel &c 10.00",
+    "\" 28th Books &c 10.00",
+    "\" \" Board bill 20.00",
+    "\" 31st Carriage hire 5.00",
+    "\" \" Photos 6.00",
+    "101.00",
+    "Sept 3 Hotel 28.00",
+    "\" \" Cars &c 10.00",
+    "\" 8 Board &c 10.00",
+    "\" 11th[?] Dogs 15.00",
+    "\" \" Board &c 25.00",
+    "\" \" Wagon 14.00",
+    "\" 13th Books 5.00",
+    "\" \" Welcox[?] 15.00",
+    "\" \" Ticket &c 20.00",
+    "\" 25th Hunting 50.00",
+    "\" \" Travelling 67.00",
+    "\" \" Presents 35.00",
+    "\" \" Church 25.00",
+    "319.00"
+   ],
+   "rows": null,
+   "columns": [
+    "Date",
+    "Item",
+    "Amount"
+   ],
+   "confidence": "medium",
+   "note": "Expense list for August and September on an unruled endpaper. Second line heavily struck (item and amount, amount perhaps '~~20.00~~'[?]); 'Lent to Elliott 16.75' struck through. Blot over 'To Chicago' and the '14th'. August items (excluding struck lines) sum to 101.00 and September items to 319.00, as written. 'Welcox' could be a name; reading uncertain. Heading figure after 'Aug 13th' unclear ('42' followed by a cramped character)."
+  }
+ ],
+ "marks": [
+  {
+   "kind": "ink-blot",
+   "value": null,
+   "position": "body",
+   "note": "blots near top and over 'Chicago'"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Elliott",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Welcox",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   "Chicago"
+  ],
+  "dates": [
+   "Aug 13th",
+   "Aug 15th",
+   "Aug 28th",
+   "Aug 31st",
+   "Sept 3",
+   "Sept 8",
+   "Sept 13th",
+   "Sept 25th"
+  ]
+ },
+ "has_tr_writing": true,
+ "confidence": "medium",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

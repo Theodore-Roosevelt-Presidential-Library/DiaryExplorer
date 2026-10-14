@@ -1,0 +1,137 @@
+{
+ "frame": "429_0687",
+ "half": "R",
+ "volume": "1879",
+ "page_type": "diary-day",
+ "dates": [
+  "1879-01-31"
+ ],
+ "printed": {
+  "headers": [
+   "Friday, January 31, 1879."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1879-01-31",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Went to Chestnut Hill",
+    "to coast on \"toborgans\",",
+    "or \"crust runners\". Besides",
+    "Alice and Rose, Lulu",
+    "Lane, Nana Rotch and",
+    "Bessie Whitney were out",
+    "there. The fellows were",
+    "Dick S., Minot W.; Jack",
+    "Tebbets, Ell Whitney",
+    "Tom Lee and myself.",
+    "We had capital",
+    "fun. Alice, Miss",
+    "Whitney, Dick & I",
+    "coasted on the same",
+    "torbogan."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  }
+ ],
+ "marks": [
+  {
+   "kind": "archival-page-number",
+   "value": "22",
+   "position": "top",
+   "note": "pencil"
+  },
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from other side of leaf"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Alice",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Rose",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Lulu Lane",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Nana Rotch",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Bessie Whitney",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Dick S.",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Minot W.",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Jack Tebbets",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Ell Whitney",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Tom Lee",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Miss Whitney",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Dick",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   "Chestnut Hill"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

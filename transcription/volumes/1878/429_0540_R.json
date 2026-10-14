@@ -1,0 +1,69 @@
+{
+ "frame": "429_0540",
+ "half": "R",
+ "volume": "1878",
+ "page_type": "diary-day",
+ "dates": [
+  "1878-05-05"
+ ],
+ "printed": {
+  "headers": [
+   "May, Sunday 5. 1878."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1878-05-05",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Had a most",
+    "capital and",
+    "practical ser-",
+    "-mon.",
+    "It is wonderful",
+    "to see how",
+    "Father was be-",
+    "-loved and",
+    "respected by",
+    "everyone"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "\"everyone\" possibly written as two words (every one)"
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from other side of leaf / facing page ignored"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Father",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

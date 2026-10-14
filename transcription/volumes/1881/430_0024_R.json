@@ -1,0 +1,102 @@
+{
+ "frame": "430_0024",
+ "half": "R",
+ "volume": "1881",
+ "page_type": "diary-day",
+ "dates": [
+  "1881-03-26",
+  "1881-03-27",
+  "1881-03-28"
+ ],
+ "printed": {
+  "headers": [
+   "March, Saturday 26. 1881.",
+   "Sunday 27.",
+   "Monday 28."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1881-03-27",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "~~&~~ Darling Wifie and I",
+    "went to church in the",
+    "morning to Doctor Halls",
+    "as usual; Newsboys in",
+    "the evening of course. The",
+    "Regular family Sunday tea,",
+    "cousins, aunts & all."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "first character blotted/cancelled"
+  },
+  {
+   "id": "b2",
+   "date": "1881-03-28",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Darling Wifie went on to",
+    "spend a fortnight at Chestnut",
+    "Hill; I miss my sweetest",
+    "queen more than I can tell,",
+    "- Took Uncle Jimmie out",
+    "driving."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "faint mirrored writing from reverse of leaf; ignored"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Wifie",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Doctor Hall",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Uncle Jimmie",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   "Chestnut Hill"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

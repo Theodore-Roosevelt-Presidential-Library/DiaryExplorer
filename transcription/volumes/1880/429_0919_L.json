@@ -1,0 +1,61 @@
+{
+ "frame": "429_0919",
+ "half": "L",
+ "volume": "1880",
+ "page_type": "diary-day",
+ "dates": [
+  "1880-06-10"
+ ],
+ "printed": {
+  "headers": [
+   "June, Thursday 10. 1880."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1880-06-10",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Went round to call at the",
+    "Lanes; very nice girls; Van is",
+    "a lucky man—and a good",
+    "fellow."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "'Van' reading likely but initial letter slightly ambiguous."
+  }
+ ],
+ "marks": [],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "the Lanes",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Van",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "Printed heading begins Thursday 10; June 8-9 not present in preceding frame.",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

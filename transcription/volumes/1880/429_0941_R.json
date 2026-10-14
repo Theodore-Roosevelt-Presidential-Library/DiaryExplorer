@@ -1,0 +1,88 @@
+{
+ "frame": "429_0941",
+ "half": "R",
+ "volume": "1880",
+ "page_type": "diary-day",
+ "dates": [
+  "1880-07-291880"
+ ],
+ "printed": {
+  "headers": [
+   "JULY, THURSDAY 29. 1880."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1880-07-291880",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Alice's nineteenth birthday!",
+    "Just to think of it!",
+    "I can even now hardly",
+    "realize my wonderful",
+    "good fortune in having",
+    "won her; I can never",
+    "repay her love, but I",
+    "shall do my best to, by",
+    "unfailing tenderness and",
+    "care. How I love her! She",
+    "seems like a star of",
+    "heaven, she is so far above",
+    "other girls; my pearl,",
+    "my pure flower. When",
+    "I hold her in my arms",
+    "there is nothing on",
+    "earth left to wish",
+    "for; and how infinitely",
+    "blessed is my lot. If",
+    "ever a man has been",
+    "blessed by a Merciful",
+    "Providence, I am he.",
+    "Oh, my darling, my own",
+    "best loved little Queen!"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": "'ever' blotted; punctuation after 'it' read as '!'/'?' uncertain"
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from reverse of leaf ignored"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Alice",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "little Queen",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "medium",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

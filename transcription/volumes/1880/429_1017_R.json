@@ -1,0 +1,154 @@
+{
+ "frame": "429_1017",
+ "half": "R",
+ "volume": "1880",
+ "page_type": "cash-account",
+ "dates": [],
+ "printed": {
+  "headers": [],
+  "title": "Cash Account—Summary.",
+  "description": "Printed month names January–December with ruled columns originally headed 'Received.' and 'Paid.'"
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": null,
+   "kind": "heading",
+   "position": "top",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Spent"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "written after printed title 'Cash Account—Summary.'"
+  },
+  {
+   "id": "b2",
+   "date": null,
+   "kind": "table",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "1879 1880",
+    "400.65 282.87",
+    "225.00 172.96",
+    "214.35 39.02",
+    "679.27 460.15",
+    "205.73 481.47",
+    "148.65 904.57",
+    "106.00 989.16",
+    "770.88 101.00",
+    "290.77 660.40",
+    "542.79 3300.90",
+    "330.50 195.00",
+    "1292.00 405.00",
+    "5206.59 7992.50"
+   ],
+   "rows": [
+    [
+     "January",
+     "400.65",
+     "282.87"
+    ],
+    [
+     "February",
+     "225.00",
+     "172.96"
+    ],
+    [
+     "March",
+     "214.35",
+     "39.02"
+    ],
+    [
+     "April",
+     "679.27",
+     "460.15"
+    ],
+    [
+     "May",
+     "205.73",
+     "481.47"
+    ],
+    [
+     "June",
+     "148.65",
+     "904.57"
+    ],
+    [
+     "July",
+     "106.00",
+     "989.16"
+    ],
+    [
+     "August",
+     "770.88",
+     "101.00"
+    ],
+    [
+     "September",
+     "290.77",
+     "660.40"
+    ],
+    [
+     "October",
+     "542.79",
+     "3300.90"
+    ],
+    [
+     "November",
+     "330.50",
+     "195.00"
+    ],
+    [
+     "December",
+     "1292.00",
+     "405.00"
+    ],
+    [
+     "(total)",
+     "5206.59",
+     "7992.50"
+    ]
+   ],
+   "columns": [
+    "Month (printed)",
+    "1879",
+    "1880"
+   ],
+   "confidence": "high",
+   "note": "Printed column heads 'Received.' and 'Paid.' struck through by TR and replaced with '1879' and '1880'. Figures written with dollars and cents in separate ruled columns (e.g. '400 | .65'); December 1879 written '1,292' with '1' in margin. Both columns sum exactly to the totals line, confirming readings of 148.65 and 904.57."
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "faint mirrored writing from reverse ignored"
+  },
+  {
+   "kind": "ink-blot",
+   "value": null,
+   "position": "left-margin",
+   "note": "small blot below 'January'"
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

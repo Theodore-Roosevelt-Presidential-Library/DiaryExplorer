@@ -1,0 +1,27 @@
+{
+ "frame": "430_0111",
+ "half": "S",
+ "volume": "1883",
+ "page_type": "printed-matter",
+ "dates": [],
+ "printed": {
+  "headers": [],
+  "title": null,
+  "description": "Printed almanac monthly tables April through September 1883."
+ },
+ "handwriting": [],
+ "marks": [],
+ "mentions": {
+  "people": [],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": false,
+ "confidence": "high",
+ "transcriber_notes": "Single frame of two almanac pages (not split). No handwriting.",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

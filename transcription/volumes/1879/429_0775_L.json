@@ -1,0 +1,100 @@
+{
+ "frame": "429_0775",
+ "half": "L",
+ "volume": "1879",
+ "page_type": "diary-day",
+ "dates": [
+  "1879-09-23"
+ ],
+ "printed": {
+  "headers": [
+   "Tuesday, September 23, 1879."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1879-09-23",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Started tolerably late,",
+    "paddling down to",
+    "below Wytopitlock[?], and",
+    "then camping. We had",
+    "great fun with ducks",
+    "in the stream and",
+    "pigeons along the",
+    "banks, Dow killing",
+    "several; but for some",
+    "reason or other I",
+    "shot badly, missing",
+    "most of my birds.",
+    "However I redeemed this",
+    "by making some good",
+    "shots with the rifle",
+    "at Hawks and owls.",
+    "Shot a muskrat; both it & the",
+    "fishducks were very ^good^ eating!"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "b2",
+   "date": "1879-09-23",
+   "kind": "tally",
+   "position": "bottom",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "1 merganser 1 Dipper duck 1 pigeon"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  }
+ ],
+ "marks": [
+  {
+   "kind": "archival-page-number",
+   "value": "188[?]",
+   "position": "top",
+   "note": "pencil numeral at top corner, later mark"
+  },
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from reverse of leaf ignored"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Dow",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   "Wytopitlock[?]"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

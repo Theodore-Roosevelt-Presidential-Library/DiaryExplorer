@@ -1,0 +1,92 @@
+{
+ "frame": "429_0780",
+ "half": "L",
+ "volume": "1879",
+ "page_type": "diary-day",
+ "dates": [
+  "1879-10-03"
+ ],
+ "printed": {
+  "headers": [
+   "Friday, October 3, 1879."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1879-10-03",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "8.30-10.00, Study Italian.",
+    "10-11, Recite Italian. 11-12",
+    "study Pol. Econ. 12-1.",
+    "Geology Lecture. 2-3 Pol.",
+    "Econ. Recitation. 6 hours work.",
+    "Drove over to the",
+    "Saltonstalls where I took",
+    "dinner; pretty Rosy Lee",
+    "was there, also Mary",
+    "Tuckerman and a most",
+    "charming girl, Harriet",
+    "Lawrence."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "mark after '12-1' unclear"
+  }
+ ],
+ "marks": [
+  {
+   "kind": "archival-page-number",
+   "value": "196",
+   "position": "top",
+   "note": "pencil numeral at top corner, later mark"
+  },
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from reverse of leaf ignored"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Saltonstalls",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Rosy Lee",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Mary Tuckerman",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Harriet Lawrence",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

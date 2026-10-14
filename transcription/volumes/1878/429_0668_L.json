@@ -1,0 +1,153 @@
+{
+ "frame": "429_0668",
+ "half": "L",
+ "volume": "1878",
+ "page_type": "cash-account",
+ "dates": [],
+ "printed": {
+  "headers": [],
+  "title": "Cash Account—December.",
+  "description": "ruled cash-account form, columns 'Received.' and 'Paid.'"
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": null,
+   "kind": "heading",
+   "position": "over-printed-title",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "( 1877 )"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "TR struck through printed 'December', wrote '1877' above it and drew parentheses around the whole title"
+  },
+  {
+   "id": "b2",
+   "date": null,
+   "kind": "table",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Jan 267.00 177.00",
+    "Feb 82.50",
+    "March 150.00 147.50",
+    "Apr 200.00 188.00",
+    "May 100.00 122.00",
+    "June 300.00 300.00",
+    "July 7.00 7.00",
+    "Aug 34.00 32.00",
+    "Sept 9.00 11.00",
+    "Oct 475.00 303.25",
+    "Nov 139.75",
+    "Dec 200.00 232.00",
+    "1742.00 1742.00"
+   ],
+   "rows": [
+    [
+     "Jan",
+     "267.00",
+     "177.00"
+    ],
+    [
+     "Feb",
+     "",
+     "82.50"
+    ],
+    [
+     "March",
+     "150.00",
+     "147.50"
+    ],
+    [
+     "Apr",
+     "200.00",
+     "188.00"
+    ],
+    [
+     "May",
+     "100.00",
+     "122.00"
+    ],
+    [
+     "June",
+     "300.00",
+     "300.00"
+    ],
+    [
+     "July",
+     "7.00",
+     "7.00"
+    ],
+    [
+     "Aug",
+     "34.00",
+     "32.00"
+    ],
+    [
+     "Sept",
+     "9.00",
+     "11.00"
+    ],
+    [
+     "Oct",
+     "475.00",
+     "303.25"
+    ],
+    [
+     "Nov",
+     "",
+     "139.75"
+    ],
+    [
+     "Dec",
+     "200.00",
+     "232.00"
+    ],
+    [
+     "",
+     "1742.00",
+     "1742.00"
+    ]
+   ],
+   "columns": [
+    "month",
+    "Received",
+    "Paid"
+   ],
+   "confidence": "high",
+   "note": "monthly totals for 1877; dollars and cents in separate ruled columns"
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "faint mirrored writing from other side of leaf; ignored"
+  },
+  {
+   "kind": "other",
+   "value": null,
+   "position": "body",
+   "note": "small smudge in lower left area"
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

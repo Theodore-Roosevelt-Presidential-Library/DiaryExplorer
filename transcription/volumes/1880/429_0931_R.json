@@ -1,0 +1,75 @@
+{
+ "frame": "429_0931",
+ "half": "R",
+ "volume": "1880",
+ "page_type": "diary-day",
+ "dates": [
+  "1880-07-71880"
+ ],
+ "printed": {
+  "headers": [
+   "JULY, WEDNESDAY 7. 1880."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1880-07-71880",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "In the morning I",
+    "rowed Alice over to",
+    "Yellow Banks coming",
+    "back for lunch. We",
+    "played tennis in the",
+    "afternoon, and went",
+    "to tea at the Beek-",
+    "man's, where we had",
+    "a very jolly time."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": "'Beek-man's' read with some uncertainty; heavy show-through"
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from reverse of leaf ignored"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Alice",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "the Beekmans",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   "Yellow Banks"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "medium",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

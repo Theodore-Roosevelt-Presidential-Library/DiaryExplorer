@@ -1,0 +1,56 @@
+{
+ "frame": "429_0671",
+ "half": "S",
+ "volume": "1879",
+ "page_type": "cover",
+ "dates": [],
+ "printed": {
+  "headers": [],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": null,
+   "kind": "inscription",
+   "position": "top",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Theodore Roosevelt"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "Signature on front cover/flyleaf of diary."
+  }
+ ],
+ "marks": [
+  {
+   "kind": "archival-page-number",
+   "value": "[2]",
+   "position": "body",
+   "note": "pencil, bracketed; later archival mark"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Theodore Roosevelt",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "Front cover/board of the 1879 diary with signature.",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

@@ -1,0 +1,94 @@
+{
+ "frame": "429_0769",
+ "half": "L",
+ "volume": "1879",
+ "page_type": "diary-day",
+ "dates": [
+  "1879-09-11"
+ ],
+ "printed": {
+  "headers": [
+   "Thursday, September 11, 1879."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1879-09-11",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Started in fair season,",
+    "paddling down stream",
+    "in great style; on the",
+    "way I shot a wood",
+    "duck. At the Oxbow",
+    "we disembarked and",
+    "walked about 15",
+    "miles (~~most[?]~~ ^half^ of the",
+    "way across country)",
+    "to a rough backwoods",
+    "house, where we are now.",
+    "Fare pretty rough, but",
+    "plenty of good milk, and",
+    "we have shot our own",
+    "meat — as, besides the",
+    "duck, I killed a rabbit",
+    "and ^a^ partridge on the way."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": null
+  },
+  {
+   "id": "b2",
+   "date": "1879-09-11",
+   "kind": "tally",
+   "position": "bottom",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "1 red rabbit",
+    "1 wood duck 1 ruffed grouse"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  }
+ ],
+ "marks": [
+  {
+   "kind": "archival-page-number",
+   "value": "176",
+   "position": "top",
+   "note": null
+  },
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from reverse of leaf; ignored"
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [
+   "Oxbow"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "medium",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

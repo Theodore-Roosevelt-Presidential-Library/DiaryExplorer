@@ -1,0 +1,103 @@
+{
+ "frame": "429_0716",
+ "half": "L",
+ "volume": "1879",
+ "page_type": "diary-day",
+ "dates": [
+  "1879-04-24"
+ ],
+ "printed": {
+  "headers": [
+   "Thursday, April 24, 1879."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1879-04-24",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "I rode over early in the",
+    "morning to Chestnut",
+    "Hill to spend the day.",
+    "After lunch I went",
+    "out driving with",
+    "Rose, Alice and",
+    "Endicott. I had",
+    "to ride back to",
+    "Cambridge immediately",
+    "after dinner, to go",
+    "to a \"conversazione\" at",
+    "Laughlins, where I met",
+    "one of the Miss Long-",
+    "-fellows - a bright,",
+    "clever girl."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": "Heavy mirrored show-through overlaps the writing; image dark."
+  }
+ ],
+ "marks": [
+  {
+   "kind": "archival-page-number",
+   "value": "71",
+   "position": "top-left",
+   "note": "pencil, partly cut off"
+  },
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from reverse of leaf; ignored"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Rose",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Alice",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Endicott",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Laughlins",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Miss Long-fellows",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   "Chestnut Hill",
+   "Cambridge"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "medium",
+ "transcriber_notes": "Heading year partly obscured; read as April 24, 1879 from sequence and visible \"Thursday, April\".",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

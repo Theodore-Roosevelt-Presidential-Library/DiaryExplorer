@@ -1,0 +1,115 @@
+{
+ "frame": "429_0613",
+ "half": "R",
+ "volume": "1878",
+ "page_type": "diary-day",
+ "dates": [
+  "1878-09-10"
+ ],
+ "printed": {
+  "headers": [
+   "SEPTEMBER, TUESDAY 10. 1878."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1878-09-10",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "West, Emlen, Will T., &",
+    "one guide (Sewell), &",
+    "Fox[?] in a batteau",
+    "started down stream to",
+    "a large lake ^(Mattawamkeag[?])^ at whose",
+    "foot we are camping",
+    "out; I preceeded them",
+    "in a canoe with",
+    "another guide (Dow)",
+    "& had good fun pad-",
+    "-dling, and tramp-",
+    "-ing through the",
+    "woods, but though",
+    "I had several shots",
+    "at pigeons & ducks",
+    "I missed them all."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": "Line 2 'one' has a blotted or struck letter before it. Small insertion above 'lake' in tiny script. 'preceeded' as written."
+  },
+  {
+   "id": "b2",
+   "date": "1878-09-10",
+   "kind": "marginalia",
+   "position": "top",
+   "medium": "ink",
+   "hand": "uncertain",
+   "lines": [],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": "Dotted/dashed ink underline beneath printed 'TUESDAY 10.' in the heading (no words)."
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from reverse of leaf; ignored"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "West",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Emlen",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Will T.",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Sewell",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Fox",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Dow",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   "Mattawamkeag"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "medium",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

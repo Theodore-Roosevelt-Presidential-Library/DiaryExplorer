@@ -1,0 +1,81 @@
+{
+ "frame": "429_0564",
+ "half": "R",
+ "volume": "1878",
+ "page_type": "diary-day",
+ "dates": [
+  "1878-06-16"
+ ],
+ "printed": {
+  "headers": [
+   "June, Sunday 16. 1878."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1878-06-16",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Church in the",
+    "morning.",
+    "In the afternoon",
+    "went back to",
+    "Harvard (via",
+    "New York) to",
+    "pass my two",
+    "remaining ex-",
+    "-aminations.",
+    "I took tea at",
+    "6 W-57th St. The",
+    "house was very",
+    "gloomy and",
+    "desolate, and",
+    "thinking of",
+    "Father made",
+    "me feel so sad",
+    "and lonely."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "'6' sits in left margin. 'via' may carry an accent."
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "faint mirrored writing from reverse of leaf; ignored"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Father",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   "Harvard",
+   "New York",
+   "6 W-57th St."
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

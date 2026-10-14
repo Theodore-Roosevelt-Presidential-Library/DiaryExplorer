@@ -1,0 +1,87 @@
+{
+ "frame": "429_0967",
+ "half": "R",
+ "volume": "1880",
+ "page_type": "diary-day",
+ "dates": [
+  "1880-09-19"
+ ],
+ "printed": {
+  "headers": [
+   "September, Sunday 19. 1880."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1880-09-19",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Started early in the",
+    "morning and drove over",
+    "thirty ^miles^ in a cold, driving",
+    "rain storm; but I feel",
+    "much better than yesterday.",
+    "We lost our way several",
+    "times driving across",
+    "the prairie, and finally",
+    "had to put up for the",
+    "night at the house of a",
+    "norwegian settler. A little",
+    "before sunset it partially",
+    "cleared, and we sallied",
+    "out with our guns, returning",
+    "with several ducks and grouse.",
+    "~~partridges~~. Our new driver",
+    "is a stocky little bar-",
+    "keeper, a nice little fellow."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": "'prairie' spelled with unclear letters ('praiie'[?]); 'partridges' struck through"
+  },
+  {
+   "id": "b2",
+   "date": "1880-09-19",
+   "kind": "tally",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "2 sharptails 2 pinnated 2 duck",
+    "E2 \" \" 4 \" 4 \""
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": "the duck count digit appears overwritten"
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "faint mirrored writing from reverse"
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "medium",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

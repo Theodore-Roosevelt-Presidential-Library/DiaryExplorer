@@ -1,0 +1,115 @@
+{
+ "frame": "429_0661",
+ "half": "R",
+ "volume": "1878",
+ "page_type": "diary-day",
+ "dates": [
+  "1878-12-23"
+ ],
+ "printed": {
+  "headers": [
+   "December, Monday 23. 1878."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1878-12-23",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Went to see my",
+    "old Mission scholars.",
+    "Poor Cassin[?] is dead.",
+    "All the Roosevelts are",
+    "getting engaged.",
+    "John is crazy with",
+    "delight; Em confessed",
+    "to me that he is really",
+    "deeply in love with",
+    "sweet Miss Parish,",
+    "Doc of course is",
+    "abjectly devoted",
+    "to Fanny; ~~Em~~ Al is",
+    "carrying on a",
+    "lethargic love affair",
+    "with Miss Tuckerman."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "name on line 3 uncertain (Cassin/Cassius?); struck word before 'Al' looks like 'Em'"
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "faint mirrored writing from other side of leaf; ignored"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Cassin[?]",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Roosevelts",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "John",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Em",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Miss Parish",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Doc",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Fanny",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Al",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Miss Tuckerman",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

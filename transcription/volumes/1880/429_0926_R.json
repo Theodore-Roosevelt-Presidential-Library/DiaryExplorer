@@ -1,0 +1,88 @@
+{
+ "frame": "429_0926",
+ "half": "R",
+ "volume": "1880",
+ "page_type": "diary-day",
+ "dates": [
+  "1880-06-271880"
+ ],
+ "printed": {
+  "headers": [
+   "JUNE, SUNDAY 27. 1880."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1880-06-271880",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Breakfasted in the Club",
+    "as usual; then drove over",
+    "to the Hill, in a round-",
+    "about way to show the",
+    "boys the country. In the",
+    "afternoon Iselin and",
+    "Kingsford returned to",
+    "N. Y. In the evening",
+    "I took my darling",
+    "out in the woods, and",
+    "we had a lovely stroll.",
+    "She grows sweeter and",
+    "prettier every day - and",
+    "yet she couldn't be",
+    "sweeter or prettier than",
+    "she is."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "'couldn't' underlined in original"
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from reverse of leaf ignored"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Iselin",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Kingsford",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "my darling",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   "the Hill",
+   "N. Y."
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

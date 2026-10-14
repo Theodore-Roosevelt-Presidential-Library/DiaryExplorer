@@ -1,0 +1,70 @@
+{
+ "frame": "429_0964",
+ "half": "L",
+ "volume": "1880",
+ "page_type": "diary-day",
+ "dates": [
+  "1880-09-12"
+ ],
+ "printed": {
+  "headers": [
+   "September, Sunday 12. 1880."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1880-09-12",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Took communion at",
+    "the Methodist Church;",
+    "the services were simple",
+    "and impressive.",
+    "Much though I have",
+    "enjoyed the trip, it has",
+    "not made up to me",
+    "for being away from",
+    "my darling; nothing",
+    "ever could. But it has",
+    "done my health a",
+    "world of good."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  }
+ ],
+ "marks": [],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "darling",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   {
+    "as_written": "Methodist Church",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

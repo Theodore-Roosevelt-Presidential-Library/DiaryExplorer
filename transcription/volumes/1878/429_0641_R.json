@@ -1,0 +1,85 @@
+{
+ "frame": "429_0641",
+ "half": "R",
+ "volume": "1878",
+ "page_type": "diary-day",
+ "dates": [
+  "1878-11-05"
+ ],
+ "printed": {
+  "headers": [
+   "November, Tuesday 5. 1878."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1878-11-05",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "7.45 Prayers. 8.00 breakfast.",
+    "8.30—12 Studied. To my",
+    "utter astonishment",
+    "Nell & Mother turned",
+    "up, on for the day.",
+    "I took Nell up to",
+    "the Club, and lunched",
+    "with Darling little",
+    "Muffie in town.",
+    "Studied 3.00—5.00.",
+    "5.00—6.00 boxed. Dinner",
+    "at 6.00. Played whist",
+    "till 9.00; studied till",
+    "11.00."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from reverse of leaf"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Nell",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Mother",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Muffie",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   "the Club"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

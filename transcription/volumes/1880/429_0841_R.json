@@ -1,0 +1,61 @@
+{
+ "frame": "429_0841",
+ "half": "R",
+ "volume": "1880",
+ "page_type": "diary-day",
+ "dates": [
+  "1880-01-05"
+ ],
+ "printed": {
+  "headers": [
+   "January, Monday 5. 1880."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1880-01-05",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Began work again, as usual -",
+    "up to 3 oclock. Took Jack Tebbetts",
+    "out to drive in the cart; the",
+    "horse goes beautifully now though",
+    "sometimes a little frisky. My",
+    "cutter has come on; but there is not",
+    "snow enough yet for sleighing.",
+    "Spent the evening in the club",
+    "playing whist and reading."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  }
+ ],
+ "marks": [],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Jack Tebbetts",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

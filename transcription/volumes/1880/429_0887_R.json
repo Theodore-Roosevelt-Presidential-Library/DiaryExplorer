@@ -1,0 +1,76 @@
+{
+ "frame": "429_0887",
+ "half": "R",
+ "volume": "1880",
+ "page_type": "diary-day",
+ "dates": [
+  "1880-04-06"
+ ],
+ "printed": {
+  "headers": [
+   "April, Tuesday 6. 1880."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1880-04-06",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Drove over to Dick S's; then",
+    "drove him to the Minots;",
+    "dined at Jack Tebbetts[?]",
+    "and drove him out to",
+    "Cambridge afterwords[?]."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": "surname 'Tebbetts' and spelling of last word ('afterwords'/'afterwards') uncertain"
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "faint mirrored writing from reverse"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Dick S.",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "the Minots",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Jack Tebbetts",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   "Cambridge"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "medium",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

@@ -1,0 +1,67 @@
+{
+ "frame": "429_0966",
+ "half": "L",
+ "volume": "1880",
+ "page_type": "diary-day",
+ "dates": [
+  "1880-09-16"
+ ],
+ "printed": {
+  "headers": [
+   "September, Thursday 16. 1880."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1880-09-16",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Spent the day with old",
+    "Jack, whom we have",
+    "not seen for bew[?] nearly",
+    "two years; it is lovely",
+    "to see the old man again.",
+    "I am now feeling",
+    "in superb health and",
+    "strength."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "'bew[?]' appears to be a false start before 'nearly'"
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "faint mirrored writing from reverse"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Jack",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

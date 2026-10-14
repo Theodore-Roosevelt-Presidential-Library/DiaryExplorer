@@ -1,0 +1,78 @@
+{
+ "frame": "429_0792",
+ "half": "L",
+ "volume": "1879",
+ "page_type": "diary-day",
+ "dates": [
+  "1879-10-29"
+ ],
+ "printed": {
+  "headers": [
+   "Wednesday, October 29, 1879."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1879-10-29",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Early in the morning",
+    "started out for a 12 hour",
+    "tramp with dog and gun.",
+    "I had pretty good luck",
+    "in the morning with",
+    "rabbit and woodcock: in",
+    "the afternoon I found a",
+    "large covey of quail in a",
+    "thick wood & I followed them",
+    "till after moonrise, but the",
+    "birds were wild & the covert",
+    "- a dense cat-briar jungle which",
+    "scratched my hands and",
+    "arms ~~into a~~ ^till my^ shirt became soaked",
+    "with blood - was thick, and I",
+    "shot badly, so I only killed",
+    "two.",
+    "1 gray squirrel 2 gray rabbit",
+    "3 woodcock 2 quail."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": "line 14: 'into a' appears struck with 'till my' written above; reading of correction uncertain"
+  }
+ ],
+ "marks": [
+  {
+   "kind": "archival-page-number",
+   "value": "315[?]",
+   "position": "top",
+   "note": "pencil"
+  },
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from reverse of leaf; ignored"
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "medium",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

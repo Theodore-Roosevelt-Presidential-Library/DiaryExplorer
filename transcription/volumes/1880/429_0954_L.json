@@ -1,0 +1,87 @@
+{
+ "frame": "429_0954",
+ "half": "L",
+ "volume": "1880",
+ "page_type": "diary-day",
+ "dates": [
+  "1880-08-23"
+ ],
+ "printed": {
+  "headers": [
+   "August, Monday 23. 1880."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1880-08-23",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Went on an all",
+    "days hunting trip",
+    "in the wagon; I never",
+    "shot worse, while",
+    "Elliott hit about",
+    "everything he fired at."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "b2",
+   "date": "1880-08-23",
+   "kind": "tally",
+   "position": "bottom",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "1 grouse 1 rabbit 2 plover 6 ^sand^ snipe",
+    "Elliott 9 grouse 6[?] ^true[?]^ snipe 2 plover"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": "interlined words written above 'snipe' in each line."
+  }
+ ],
+ "marks": [
+  {
+   "kind": "ink-blot",
+   "value": null,
+   "position": "top",
+   "note": "small blot above heading at left"
+  },
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "heavy mirrored text; ignored"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Elliott",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "medium",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

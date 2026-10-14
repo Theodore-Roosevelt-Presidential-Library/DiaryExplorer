@@ -1,0 +1,190 @@
+{
+ "frame": "430_0146",
+ "half": "R",
+ "volume": "1883",
+ "page_type": "cash-account",
+ "dates": [],
+ "printed": {
+  "headers": [],
+  "title": "Cash MAY",
+  "description": "ruled cash-account page with printed column headings; printed 'PAID' heading struck through in ink, 'RECEIVED' column used"
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": null,
+   "kind": "heading",
+   "position": "top",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Income Acc't."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "b2",
+   "date": null,
+   "kind": "table",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "[illegible] Gallatin Bank[?] 688[?].44",
+    "Roosevelt & Son 1350[?].00",
+    "J. K. Gracie 150.00",
+    "Dunleith & Dubuque [illegible].00",
+    "Union Trust Co [illegible]4.00",
+    "Wilmington & Weldon 162.00",
+    "Union Trust Co [illegible]50.00",
+    "Mobile & Ohio R.R. 50.00",
+    "G. P. Putnam's Sons 114[?].95",
+    "Roosevelt & Son 1618.02",
+    "Iowa Falls & S[illegible] 105.00",
+    "Dunleith & Dubuque Bridge[?] [illegible].00",
+    "Rock[?] & Pitts[?] Con. Trust Co[?] 210.00",
+    "[illegible] & Allegheny [illegible] [illegible].00",
+    "J. K. Gracie 4.20",
+    "Roosevelt & Son 1500.00",
+    "Legislature 1200[?].00",
+    "St. Paul Minn & Manitoba 300[?].00",
+    "Iowa Falls & Sioux City 105.00",
+    "7992.41[?]"
+   ],
+   "rows": [
+    [
+     "[illegible] Gallatin Bank[?]",
+     "688[?].44"
+    ],
+    [
+     "Roosevelt & Son",
+     "1350[?].00"
+    ],
+    [
+     "J. K. Gracie",
+     "150.00"
+    ],
+    [
+     "Dunleith & Dubuque",
+     "[illegible].00"
+    ],
+    [
+     "Union Trust Co",
+     "[illegible]4.00"
+    ],
+    [
+     "Wilmington & Weldon",
+     "162.00"
+    ],
+    [
+     "Union Trust Co",
+     "[illegible]50.00"
+    ],
+    [
+     "Mobile & Ohio R.R.",
+     "50.00"
+    ],
+    [
+     "G. P. Putnam's Sons",
+     "114[?].95"
+    ],
+    [
+     "Roosevelt & Son",
+     "1618.02"
+    ],
+    [
+     "Iowa Falls & S[illegible]",
+     "105.00"
+    ],
+    [
+     "Dunleith & Dubuque Bridge[?]",
+     "[illegible].00"
+    ],
+    [
+     "Rock[?] & Pitts[?] Con. Trust Co[?]",
+     "210.00"
+    ],
+    [
+     "[illegible] & Allegheny [illegible]",
+     "[illegible].00"
+    ],
+    [
+     "J. K. Gracie",
+     "4.20"
+    ],
+    [
+     "Roosevelt & Son",
+     "1500.00"
+    ],
+    [
+     "Legislature",
+     "1200[?].00"
+    ],
+    [
+     "St. Paul Minn & Manitoba",
+     "300[?].00"
+    ],
+    [
+     "Iowa Falls & Sioux City",
+     "105.00"
+    ],
+    [
+     "total",
+     "7992.41[?]"
+    ]
+   ],
+   "columns": [
+    "source",
+    "amount received"
+   ],
+   "confidence": "low",
+   "note": "amounts in RECEIVED column; total below a rule. Numerous figures overlaid by show-through and smudging; J. K. Gracie 4.20 line has faint figures '139' to the left, possibly struck or show-through; total compares with 'Carried Over 7992.41' on 430_0147_R"
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing and print (e.g. reversed column headings) from reverse of leaf, ignored"
+  },
+  {
+   "kind": "other",
+   "value": null,
+   "position": "top",
+   "note": "faint pencil/ink scrawl above printed heading, illegible"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "J. K. Gracie",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "G. P. Putnam's Sons",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Roosevelt & Son",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "low",
+ "transcriber_notes": "continuation of the 1883 income account begun on 430_0146_L; film dark, many figures uncertain",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

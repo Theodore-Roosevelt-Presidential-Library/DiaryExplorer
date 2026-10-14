@@ -1,0 +1,71 @@
+{
+ "frame": "429_0525",
+ "half": "L",
+ "volume": "1878",
+ "page_type": "diary-day",
+ "dates": [
+  "1878-04-04"
+ ],
+ "printed": {
+  "headers": [
+   "April, Thursday 4. 1878."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1878-04-04",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Now there is",
+    "a terrible, sad",
+    "gap in our",
+    "midst; but",
+    "still I am most",
+    "deeply blest in",
+    "the love the",
+    "remaining dear",
+    "ones have for",
+    "me.",
+    "I remember",
+    "as well as if",
+    "I had seen",
+    "them but a",
+    "moment ago",
+    "every expression",
+    "of his face, every",
+    "one of his"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": "Entry continues on next page."
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "Mirrored writing from reverse of leaf; ignored."
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "medium",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

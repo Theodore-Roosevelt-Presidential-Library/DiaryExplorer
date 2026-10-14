@@ -1,0 +1,61 @@
+{
+ "frame": "429_0852",
+ "half": "L",
+ "volume": "1880",
+ "page_type": "diary-day",
+ "dates": [
+  "1880-01-26"
+ ],
+ "printed": {
+  "headers": [
+   "January, Monday 26. 1880."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1880-01-26",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "First examination of the Semi-Annuals.",
+    "Went to the Papanti Hall party in",
+    "the evening; my little darling",
+    "looked so pretty; by far the prettiest",
+    "girl in the room, and the greatest",
+    "belle; she gave me her favour,"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "Hyphen in 'Semi-Annuals' may be a colon-like mark."
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "faint mirrored writing from reverse"
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [
+   "Papanti Hall"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

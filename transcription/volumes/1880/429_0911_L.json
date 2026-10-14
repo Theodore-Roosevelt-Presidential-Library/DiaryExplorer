@@ -1,0 +1,79 @@
+{
+ "frame": "429_0911",
+ "half": "L",
+ "volume": "1880",
+ "page_type": "diary-day",
+ "dates": [
+  "1880-05-23"
+ ],
+ "printed": {
+  "headers": [
+   "May, Sunday 23. 1880."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1880-05-23",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Fanny Peabody & Cotty",
+    "are staying at the",
+    "Saltonstalls; after services",
+    "in the dear little church",
+    "we all went to walk",
+    "in the woods. In the",
+    "afternoon I took pretty",
+    "Sunshine a long drive",
+    "through the beautiful",
+    "country round Auburndale."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  }
+ ],
+ "marks": [],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Fanny Peabody",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Cotty",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "the Saltonstalls",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Sunshine",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   "Auburndale"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

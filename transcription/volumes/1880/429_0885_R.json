@@ -1,0 +1,67 @@
+{
+ "frame": "429_0885",
+ "half": "R",
+ "volume": "1880",
+ "page_type": "diary-day",
+ "dates": [
+  "1880-04-02"
+ ],
+ "printed": {
+  "headers": [
+   "April, Friday 2. 1880."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1880-04-02",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Came back to Cambridge for",
+    "my recitations; returned to",
+    "Chestnut Hill. Took darling",
+    "out driving. Spent the",
+    "evening with her.",
+    "I am so absolutely",
+    "happy, that I sometimes",
+    "almost feel as if it",
+    "must be a dream. No mortal",
+    "ever could be happier",
+    "than I am."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "'could' underlined in original"
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "faint mirrored writing from reverse"
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [
+   "Cambridge",
+   "Chestnut Hill"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

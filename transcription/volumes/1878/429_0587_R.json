@@ -1,0 +1,38 @@
+{
+ "frame": "429_0587",
+ "half": "R",
+ "volume": "1878",
+ "page_type": "diary-day",
+ "dates": [
+  "1878-08-01"
+ ],
+ "printed": {
+  "headers": [
+   "August, Thursday 1. 1878."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "faint mirrored writing from reverse"
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": false,
+ "confidence": "high",
+ "transcriber_notes": "No writing reads normally in strong ink. Upper page has heavy mirrored show-through of an entry on the reverse (rowing around Loyd's Neck with times); faint normal-reading lines lower down are show-through from two pages on. Treated as blank.",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

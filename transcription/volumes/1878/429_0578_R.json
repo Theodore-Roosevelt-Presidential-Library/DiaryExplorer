@@ -1,0 +1,77 @@
+{
+ "frame": "429_0578",
+ "half": "R",
+ "volume": "1878",
+ "page_type": "diary-day",
+ "dates": [
+  "1878-07-14"
+ ],
+ "printed": {
+  "headers": [
+   "July, Sunday 14. 1878."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1878-07-14",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Communion",
+    "Sunday.",
+    "Was rather struck,",
+    "in reading Pascal,",
+    "by the following:-",
+    "\"Deux excès: Exclure",
+    "la raison, n'admettre",
+    "que la raison\". (Apol-",
+    "-ogie de la religion,",
+    "VIII, VII). Materialism",
+    "and superstition are",
+    "equally repugnant",
+    "to me.",
+    "During service today",
+    "I could not help re-",
+    "flecting sadly on how",
+    "little use I am, or",
+    "ever shall be in"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": "Entry continues on the lower half of the facing (Saturday 13) page, marked \"(14th)\". Apostrophe in \"n'admettre\" and the roman numerals of the citation are small and somewhat uncertain."
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "faint mirrored writing from reverse"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Pascal",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "medium",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

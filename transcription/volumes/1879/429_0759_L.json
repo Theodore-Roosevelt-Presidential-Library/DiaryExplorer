@@ -1,0 +1,113 @@
+{
+ "frame": "429_0759",
+ "half": "L",
+ "volume": "1879",
+ "page_type": "diary-day",
+ "dates": [
+  "1879-08-22"
+ ],
+ "printed": {
+  "headers": [
+   "Friday, August 22, 1879."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1879-08-22",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Drove over to Cambridge",
+    "in the morning. Went",
+    "in town to see the",
+    "girls — Rose, Rosy and",
+    "Alice — off to the Glades[?].",
+    "They wanted me very",
+    "much to go down to",
+    "stay a few days with",
+    "them; and they were",
+    "all so cordial, and",
+    "Alice was so bewitching",
+    "-ly pretty that it was",
+    "frightfully hard to",
+    "refuse; I took the",
+    "night train for Matta-",
+    "-wamkeag[?] however,",
+    "as I agreed to meet",
+    "Emlen. Dined at the",
+    "Union Club with Frank Lee."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": "ink blot over start of 'frightfully'"
+  }
+ ],
+ "marks": [
+  {
+   "kind": "archival-page-number",
+   "value": "156",
+   "position": "top",
+   "note": null
+  },
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from reverse of leaf; ignored"
+  },
+  {
+   "kind": "ink-blot",
+   "value": null,
+   "position": "left-margin",
+   "note": "line 13"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Rose",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Rosy",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Alice",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Emlen",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Frank Lee",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   "Cambridge",
+   "Union Club"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "medium",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

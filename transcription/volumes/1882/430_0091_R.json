@@ -1,0 +1,44 @@
+{
+ "frame": "430_0091",
+ "half": "R",
+ "volume": "1882",
+ "page_type": "diary-day",
+ "dates": [
+  "1882-01-11"
+ ],
+ "printed": {
+  "headers": [
+   "JANUARY 11 Wednesday"
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored Jan 12 entry (incl. ink blot) across top"
+  },
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "top",
+   "note": "very faint normal-reading ghost \"[?] went on to Boston\" on first line, matching Jan 13 text; taken as show-through through the leaf, not writing on this page"
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": false,
+ "confidence": "medium",
+ "transcriber_notes": "No writing of its own; faint ghost text judged show-through.",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

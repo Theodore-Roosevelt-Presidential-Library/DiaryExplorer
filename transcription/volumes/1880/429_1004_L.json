@@ -1,0 +1,73 @@
+{
+ "frame": "429_1004",
+ "half": "L",
+ "volume": "1880",
+ "page_type": "diary-day",
+ "dates": [
+  "1880-12-07"
+ ],
+ "printed": {
+  "headers": [
+   "December, Tuesday 7. 1880."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1880-12-07",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Went to a rather stupid",
+    "dinner at the Millers.",
+    "Sat by a Miss Duncan."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "\"dinner\" partly obscured by blot"
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "faint mirrored writing from reverse"
+  },
+  {
+   "kind": "ink-blot",
+   "value": null,
+   "position": "body",
+   "note": "blots on and below lines 2-3"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "the Millers",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Miss Duncan",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "Leaf for December 5-6 not present between 429_1003 and 429_1004.",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

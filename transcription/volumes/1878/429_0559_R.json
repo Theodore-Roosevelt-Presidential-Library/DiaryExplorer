@@ -1,0 +1,79 @@
+{
+ "frame": "429_0559",
+ "half": "R",
+ "volume": "1878",
+ "page_type": "diary-day",
+ "dates": [
+  "1878-06-06"
+ ],
+ "printed": {
+  "headers": [
+   "June, Thursday 6. 1878."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1878-06-06",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "At Oyster Bay L. I.",
+    "Arrived about",
+    "mid-day.",
+    "Coming back",
+    "here has recalled",
+    "Father very vividly",
+    "and very sadly",
+    "to me. Every",
+    "nook and corner",
+    "about the place,",
+    "every piece of",
+    "furniture about",
+    "the house is",
+    "in some manner",
+    "connected with",
+    "him. It is impossible",
+    "to tell in words",
+    "how terribly I miss him."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "faint mirrored writing from reverse of leaf; ignored"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Father",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   "Oyster Bay L. I."
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

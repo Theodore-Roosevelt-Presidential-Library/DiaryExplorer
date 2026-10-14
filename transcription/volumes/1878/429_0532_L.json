@@ -1,0 +1,78 @@
+{
+ "frame": "429_0532",
+ "half": "L",
+ "volume": "1878",
+ "page_type": "diary-day",
+ "dates": [
+  "1878-04-18"
+ ],
+ "printed": {
+  "headers": [
+   "April, Thursday 18. 1878."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1878-04-18",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Have just come",
+    "across a lovely",
+    "hymn which",
+    "little Pussie has",
+    "copied for me;-",
+    "",
+    "\"Come unto me while",
+    "shadows darkly gather,",
+    "When the sad heart is",
+    "weary & distressed,",
+    "Seeking for comfort from",
+    "your heavenly father,",
+    "Come unto me and I",
+    "will give thee rest.",
+    "",
+    "Ye who have mourned when",
+    "the spring flowers were taken",
+    "When the ripe fruit fell",
+    "richly to the ground."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "Hymn copied; continues on next page."
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "Mirrored writing from reverse of leaf; ignored."
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Pussie",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

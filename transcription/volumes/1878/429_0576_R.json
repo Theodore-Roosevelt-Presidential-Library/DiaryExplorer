@@ -1,0 +1,73 @@
+{
+ "frame": "429_0576",
+ "half": "R",
+ "volume": "1878",
+ "page_type": "diary-day",
+ "dates": [
+  "1878-07-10"
+ ],
+ "printed": {
+  "headers": [
+   "July, Wednesday 10. 1878."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1878-07-10",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Rowed around",
+    "Loyd's Neck, por-",
+    "-taging the isth-",
+    "-mus, in which",
+    "operation I got",
+    "stuck in the",
+    "mud flats and",
+    "had hideous",
+    "work getting",
+    "out. Rowing home",
+    "there was a",
+    "strong south-",
+    "westerly wind",
+    "and I got was",
+    "caught in a",
+    "bad thunder-",
+    "squall. (15 miles",
+    "2 plover (& 2 gulls)."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "\"got was\" as written; \"got\" may be overwritten or uncancelled."
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "faint mirrored writing from reverse"
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [
+   "Loyd's Neck"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

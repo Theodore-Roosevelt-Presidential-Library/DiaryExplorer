@@ -1,0 +1,91 @@
+{
+ "frame": "429_0688",
+ "half": "L",
+ "volume": "1879",
+ "page_type": "diary-day",
+ "dates": [
+  "1879-02-01"
+ ],
+ "printed": {
+  "headers": [
+   "Saturday, February 1, 1879."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1879-02-01",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Went out to Worcester",
+    "to spend Sunday",
+    "with Charley Washburn.",
+    "Took tea at the",
+    "Tiffanys; met a pretty",
+    "Miss Cross. Had a",
+    "capital sleighride behind",
+    "Charleys trotter."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  }
+ ],
+ "marks": [
+  {
+   "kind": "archival-page-number",
+   "value": "23",
+   "position": "top",
+   "note": "pencil"
+  },
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from other side of leaf"
+  },
+  {
+   "kind": "other",
+   "value": null,
+   "position": "left-margin",
+   "note": "small pencil ticks"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Charley Washburn",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Tiffanys",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Miss Cross",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   "Worcester"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

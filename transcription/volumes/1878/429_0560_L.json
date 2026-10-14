@@ -1,0 +1,104 @@
+{
+ "frame": "429_0560",
+ "half": "L",
+ "volume": "1878",
+ "page_type": "diary-day",
+ "dates": [
+  "1878-06-07"
+ ],
+ "printed": {
+  "headers": [
+   "June, Friday 7. 1878."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1878-06-07",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Spent the morning",
+    "in Hults[?] Woods;",
+    "shot Parula americana",
+    "& Coturniculus passerinus.",
+    "Had a splendid",
+    "ride on Lightfoot.",
+    "Annie Murray has",
+    "come to spend a",
+    "few days with",
+    "Conie.",
+    "Aunt Annie",
+    "& Uncle Jimmie",
+    "are at Oyster Bay.",
+    "O, Father, Father",
+    "how bitterly I",
+    "miss you, mourn you",
+    "and long for you!"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": "Woods name uncertain. Possible dot after 'bitterly'."
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "faint mirrored writing from reverse of leaf; ignored"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Annie Murray",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Conie",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Aunt Annie",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Uncle Jimmie",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Father",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Lightfoot",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   "Hults[?] Woods",
+   "Oyster Bay"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

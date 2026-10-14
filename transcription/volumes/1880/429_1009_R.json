@@ -1,0 +1,139 @@
+{
+ "frame": "429_1009",
+ "half": "R",
+ "volume": "1880",
+ "page_type": "diary-day",
+ "dates": [
+  "1880-12-18"
+ ],
+ "printed": {
+  "headers": [
+   "December, Saturday 18. 1880."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1880-12-18",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "In the evening I",
+    "gave a whist club",
+    "(at Alices instigation",
+    "—she is too sweet to",
+    "me in everything);",
+    "~~to~~ Doug Robinson,",
+    "Harry Haddon, Archie",
+    "Russell, Ice Iselin,",
+    "Bob Sedgwick, Gasper",
+    "Griswold, Willys Betts,",
+    "West, Em, and my-",
+    "self. We had great",
+    "fun; I like all the",
+    "fellows (especially",
+    "Doug — who may",
+    "become a connection)",
+    "very much.",
+    "I also like young",
+    "Bigelow, Trimble, and",
+    "the Dodges."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "'everything' underlined; 'Ice', 'Gasper', 'Haddon' readings medium"
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "faint mirrored writing from reverse of leaf, ignored"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Alice",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Doug Robinson",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Harry Haddon",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Archie Russell",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Ice Iselin",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Bob Sedgwick",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Gasper Griswold",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Willys Betts",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "West",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Em",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Bigelow",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Trimble",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "the Dodges",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

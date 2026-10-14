@@ -1,0 +1,102 @@
+{
+ "frame": "429_0788",
+ "half": "R",
+ "volume": "1879",
+ "page_type": "diary-day",
+ "dates": [
+  "1879-10-22"
+ ],
+ "printed": {
+  "headers": [
+   "Wednesday, October 22, 1879."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1879-10-22",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Harry Shaw and I gave",
+    "an opera party to Mr",
+    "and Mrs. Saltonstall,",
+    "Rose and Alice. I",
+    "drove him over to the",
+    "Saltonstalls to dinner.",
+    "We did not get out,",
+    "after the Opera, till",
+    "towards 12; the horse",
+    "was very restive at",
+    "starting, and finally",
+    "reared and fell,",
+    "pitching Harry and me",
+    "out of the cart. Nothing",
+    "was hurt however."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  }
+ ],
+ "marks": [
+  {
+   "kind": "archival-page-number",
+   "value": "207[?]",
+   "position": "top",
+   "note": "pencil numeral at top corner, later mark"
+  },
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from reverse of leaf ignored"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Harry Shaw",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Mr and Mrs. Saltonstall",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Rose",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Alice",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Harry",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   "Opera"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

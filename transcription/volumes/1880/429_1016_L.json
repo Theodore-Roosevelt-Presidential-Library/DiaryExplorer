@@ -1,0 +1,77 @@
+{
+ "frame": "429_1016",
+ "half": "L",
+ "volume": "1880",
+ "page_type": "diary-day",
+ "dates": [
+  "1880-12-31"
+ ],
+ "printed": {
+  "headers": [
+   "December, Friday 31. 1880."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1880-12-31",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Darling Wifie and I",
+    "decided to go home",
+    "to-morrow.",
+    "Thus ends by",
+    "far the happiest year",
+    "I have ever spent,",
+    "for in this year I",
+    "have won the fairest",
+    "and purest and",
+    "sweetest of women for",
+    "my wife. I never",
+    "conceived it possible",
+    "that there could be",
+    "such a bright, sunny,",
+    "unselfish girl. I can",
+    "never express how I",
+    "love her; and if I",
+    "should love her twice as",
+    "much and as tenderly",
+    "it would not be",
+    "nearly as much as",
+    "she deserves; I never",
+    "can understand how",
+    "I won her!"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "faint mirrored writing from reverse of leaf, ignored"
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "Faint mirrored show-through of 29 Dec ignored.",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

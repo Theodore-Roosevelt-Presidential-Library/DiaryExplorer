@@ -1,0 +1,73 @@
+{
+ "frame": "429_0973",
+ "half": "L",
+ "volume": "1880",
+ "page_type": "diary-day",
+ "dates": [
+  "1880-09-30"
+ ],
+ "printed": {
+  "headers": [
+   "September, Thursday 30. 1880."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1880-09-30",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "I am so happy that I",
+    "hardly know what to do.",
+    "My own beautiful queen",
+    "is the same as ever and",
+    "yet with a certain added",
+    "charm that I do not",
+    "know how to describe; I",
+    "can not take my eyes",
+    "off her; she ~~seems~~ is so pure",
+    "and holy that it seems almost",
+    "profanation to touch her, no",
+    "matter how gently and",
+    "tenderly; and yet when we",
+    "are alone I can not bear",
+    "her to be a minute out",
+    "of my arms. I have been",
+    "gradually getting frightfully",
+    "homesick for her; my",
+    "happiness now is almost",
+    "too great."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "struck word before 'is so pure' read as 'seems'[?]"
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "faint mirrored writing from reverse"
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

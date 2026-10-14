@@ -1,0 +1,74 @@
+{
+ "frame": "429_0824",
+ "half": "L",
+ "volume": "1879",
+ "page_type": "cash-account",
+ "dates": [],
+ "printed": {
+  "headers": [],
+  "title": "Bills Payable. December.",
+  "description": "Printed ledger page (Date, Name, Dolls., Cts.; 'Receivable.' mid-page)."
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": null,
+   "kind": "list",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Dress",
+    "Room",
+    "Board",
+    "Education",
+    "Washing",
+    "Charity",
+    "Coal &c",
+    "Travelling",
+    "Science",
+    "Subscriptions",
+    "Sporting",
+    "Athletics",
+    "Presents",
+    "Small Chang[e]",
+    "Amusements",
+    "Expressage",
+    "Sundries"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "Expense categories; rows align with figures on facing page 429_0824_R. 'Small Chang' runs to edge of Dolls. column."
+  },
+  {
+   "id": "b2",
+   "date": null,
+   "kind": "other",
+   "position": "bottom",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Outside expenditures (see next page)"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  }
+ ],
+ "marks": [],
+ "mentions": {
+  "people": [],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

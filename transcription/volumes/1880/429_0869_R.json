@@ -1,0 +1,96 @@
+{
+ "frame": "429_0869",
+ "half": "R",
+ "volume": "1880",
+ "page_type": "diary-day",
+ "dates": [
+  "1880-03-01"
+ ],
+ "printed": {
+  "headers": [
+   "March, Monday 1. 1880."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1880-03-01",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "At about eleven o'clock",
+    "I drove my pretty love",
+    "into Boston in the",
+    "cart to pay calls. We",
+    "lunched at Ferras[?], and",
+    "drove out in the after-",
+    "noon in time to get",
+    "ready to go to a dinner",
+    "~~at~~ given to us by",
+    "the Minots.",
+    "I enjoy these long",
+    "drives with my",
+    "darling Sunshine so",
+    "much. It is beautiful",
+    "weather; and the turnout",
+    "is really very stylish;",
+    "and my love looks",
+    "so bewitchingly pretty",
+    "perched up in the high",
+    "cart, while plucky",
+    "Lightfoot bowls us",
+    "along famously; and",
+    "I feel so proud of my",
+    "pretty companion."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "restaurant name 'Ferras' uncertain"
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "faint mirrored writing from reverse"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Minots",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Sunshine",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Lightfoot",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   "Boston",
+   "Ferras"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

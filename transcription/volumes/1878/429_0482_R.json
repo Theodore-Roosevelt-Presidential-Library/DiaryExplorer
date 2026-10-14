@@ -1,0 +1,62 @@
+{
+ "frame": "429_0482",
+ "half": "R",
+ "volume": "1878",
+ "page_type": "diary-day",
+ "dates": [
+  "1878-01-07"
+ ],
+ "printed": {
+  "headers": [
+   "JANUARY, MONDAY 7. 1878."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1878-01-07",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Studies now fairly",
+    "under way again.",
+    "I think I shall",
+    "do well in all",
+    "except French 4, and",
+    "very well in the",
+    "Natural History",
+    "courses.",
+    "I am boxing with",
+    "my \"Tutor\" five",
+    "times a week; I am",
+    "going to try hard",
+    "for the light",
+    "weight cups in",
+    "boxing and",
+    "wrestling."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  }
+ ],
+ "marks": [],
+ "mentions": {
+  "people": [],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

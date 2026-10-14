@@ -1,0 +1,38 @@
+{
+ "frame": "429_0595",
+ "half": "R",
+ "volume": "1878",
+ "page_type": "diary-day",
+ "dates": [
+  "1878-08-17"
+ ],
+ "printed": {
+  "headers": [
+   "August, Saturday 17. 1878."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "faint mirrored writing from reverse"
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": false,
+ "confidence": "high",
+ "transcriber_notes": "No strong writing on this page. Faint grey normal-reading lines are visible but appear to be show-through from two pages on (same pattern as July 20); could not confirm from this batch. Treated as blank; reviewer should check against the next frame.",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

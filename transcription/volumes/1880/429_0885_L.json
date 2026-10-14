@@ -1,0 +1,85 @@
+{
+ "frame": "429_0885",
+ "half": "L",
+ "volume": "1880",
+ "page_type": "diary-day",
+ "dates": [
+  "1880-04-01"
+ ],
+ "printed": {
+  "headers": [
+   "April, Thursday 1. 1880."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1880-04-01",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Started early in the",
+    "morning with some other",
+    "students in Adv. Zoölogy",
+    "on a collecting tour to",
+    "Nahant.",
+    "In afternoon drove over",
+    "in my cart to Chestnut",
+    "Hill; sweet little Birdie[?]",
+    "was at the Francis's, so",
+    "I called for her and",
+    "took her driving. In the",
+    "evening drove with my",
+    "darling into Boston, to the",
+    "Harvard Assembly. In",
+    "spite of being engaged my",
+    "own sweet, pretty Queen was",
+    "certainly the belle"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "pet name 'Birdie' uncertain"
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "faint mirrored writing from reverse"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Birdie",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Francis's",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   "Nahant",
+   "Chestnut Hill",
+   "Boston"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

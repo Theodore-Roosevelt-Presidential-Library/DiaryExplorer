@@ -1,0 +1,56 @@
+{
+ "frame": "429_0497",
+ "half": "L",
+ "volume": "1878",
+ "page_type": "diary-day",
+ "dates": [
+  "1878-02-09"
+ ],
+ "printed": {
+  "headers": [
+   "February, Saturday 9. 1878."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1878-02-09",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "My dear",
+    "Father.",
+    "Born Sept 23d 1831"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "'23d': d is superscript"
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "faint offset of Feb 7 entry ('Semi-annual ... 91%') visible behind"
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

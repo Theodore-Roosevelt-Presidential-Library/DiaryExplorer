@@ -1,0 +1,81 @@
+{
+ "frame": "429_0653",
+ "half": "R",
+ "volume": "1878",
+ "page_type": "diary-day",
+ "dates": [
+  "1878-12-05"
+ ],
+ "printed": {
+  "headers": [
+   "December, Thursday 5. 1878."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1878-12-05",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Sparred for over a",
+    "half an hour steadily",
+    "with Sharon; getting",
+    "the worst of it of",
+    "course; but I gave",
+    "him his work.",
+    "I have gotten pretty",
+    "high marks in my",
+    "hour examinations so",
+    "far.",
+    "I enjoy the Porcellian",
+    "more and more every",
+    "day; I like almost",
+    "all the fellows—es-",
+    "pecially Otho Williams"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from reverse of leaf"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Sharon",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Otho Williams",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   "the Porcellian"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

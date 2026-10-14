@@ -1,0 +1,70 @@
+{
+ "frame": "429_0854",
+ "half": "L",
+ "volume": "1880",
+ "page_type": "diary-day",
+ "dates": [
+  "1880-01-30"
+ ],
+ "printed": {
+  "headers": [
+   "January, Friday 30. 1880."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1880-01-30",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "When I look back at the last",
+    "four months and realize the",
+    "tortures I have been through it",
+    "seems like a dream; I have",
+    "hardly had one good nights",
+    "rest; and night after night",
+    "I have not even gone to bed.",
+    "I have been pretty nearly crazy,",
+    "over my wayward, wilful",
+    "darling. But I do not think",
+    "any outsider suspected it; I",
+    "have not written a word about",
+    "it in my diary since a",
+    "year ago last Thanksgiving.",
+    "It was a real case of love",
+    "at first sight —and my first",
+    "love too."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "'had' on line 5 written heavily, possibly over another word."
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "faint mirrored writing from reverse"
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

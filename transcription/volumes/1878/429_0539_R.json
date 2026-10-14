@@ -1,0 +1,65 @@
+{
+ "frame": "429_0539",
+ "half": "R",
+ "volume": "1878",
+ "page_type": "diary-day",
+ "dates": [
+  "1878-05-03"
+ ],
+ "printed": {
+  "headers": [
+   "May, Friday 3. 1878."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1878-05-03",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "In the evening",
+    "I went round[?]",
+    "to [illegible: 2 words]",
+    "[illegible] shall",
+    "not return",
+    "till Monday."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "low",
+   "note": "writing very blurred and overlaid by show-through; lower lines on page are mirrored offset and ignored"
+  }
+ ],
+ "marks": [
+  {
+   "kind": "ink-blot",
+   "value": null,
+   "position": "bottom",
+   "note": "dark mark below entry at left, possibly a numeral; not transcribed"
+  },
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from other side of leaf / facing page ignored"
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "low",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

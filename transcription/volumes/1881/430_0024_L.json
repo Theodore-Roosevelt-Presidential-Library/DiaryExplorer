@@ -1,0 +1,130 @@
+{
+ "frame": "430_0024",
+ "half": "L",
+ "volume": "1881",
+ "page_type": "diary-day",
+ "dates": [
+  "1881-03-23",
+  "1881-03-24",
+  "1881-03-25"
+ ],
+ "printed": {
+  "headers": [
+   "March, Wednesday 23. 1881.",
+   "Thursday 24.",
+   "Friday 25."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1881-03-23",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Drove Bamie in the Park,",
+    "Walk to and down town",
+    "everyday - about 6 miles",
+    "That (& driving in the",
+    "park) is my only exercise."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "'to' after Walk written as superscript-like insertion"
+  },
+  {
+   "id": "b2",
+   "date": "1881-03-24",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Take Alice[?] a long",
+    "drive every day. Am",
+    "still working hard at",
+    "the law school; & at one",
+    "or two unsuccessful literary",
+    "projects."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": "name looks like 'Alicy'"
+  },
+  {
+   "id": "b3",
+   "date": "1881-03-25",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Lunched at the Kennedys",
+    "to meet Lord & Lady George",
+    "Campbell.",
+    "Dear Uncle Jimmie arrived",
+    "in the evening"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "faint mirrored writing from reverse of leaf; ignored"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Bamie",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Alice[?]",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Kennedys",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Lord & Lady George Campbell",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Uncle Jimmie",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   "the Park",
+   "the law school"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "medium",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

@@ -1,0 +1,71 @@
+{
+ "frame": "429_0806",
+ "half": "L",
+ "volume": "1879",
+ "page_type": "diary-day",
+ "dates": [
+  "1879-11-30"
+ ],
+ "printed": {
+  "headers": [
+   "Sunday, November 30, 1879."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1879-11-30",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "After Church I left the",
+    "Hill with the deepest",
+    "regret that the lovely five",
+    "days were over, and drove",
+    "back to Cambridge. After",
+    "Sunday School I went in",
+    "to the Whitneys, where I",
+    "took tea and spent a",
+    "most pleasant evening."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from reverse of leaf; ignored"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "the Whitneys",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   "the Hill",
+   "Cambridge"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "Pencil folio at top-left partly visible, not legible.",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

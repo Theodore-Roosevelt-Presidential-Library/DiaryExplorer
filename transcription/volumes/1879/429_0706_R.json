@@ -1,0 +1,78 @@
+{
+ "frame": "429_0706",
+ "half": "R",
+ "volume": "1879",
+ "page_type": "diary-day",
+ "dates": [
+  "1879-03-30"
+ ],
+ "printed": {
+  "headers": [
+   "Sunday, March 30, 1879."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1879-03-30",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Had a very unusually",
+    "interesting time at",
+    "Sunday School, showing",
+    "the boys a lot of",
+    "eastern photographs.",
+    "Called on Jeannie",
+    "Hooper & Mrs Tuder[?]",
+    "in the evening."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "Surname after 'Mrs' reads 'Tuder'; uncertain."
+  }
+ ],
+ "marks": [
+  {
+   "kind": "archival-page-number",
+   "value": "53",
+   "position": "top",
+   "note": "pencil, top right"
+  },
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from reverse in lower part; ignored"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Jeannie Hooper",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Mrs Tuder[?]",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

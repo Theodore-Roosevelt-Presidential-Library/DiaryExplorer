@@ -1,0 +1,115 @@
+{
+ "frame": "430_0045",
+ "half": "L",
+ "volume": "1881",
+ "page_type": "diary-day",
+ "dates": [
+  "1881-07-27",
+  "1881-07-28",
+  "1881-07-29"
+ ],
+ "printed": {
+  "headers": [
+   "July, Wednesday 27. 1881.",
+   "Thursday 28.",
+   "Friday 29."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1881-07-27",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Alice in chaise-a-porteur[?]",
+    "and I on foot went to",
+    "upper Glacier. In after-",
+    "-noon we drove to",
+    "Interlaken."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": null
+  },
+  {
+   "id": "b2",
+   "date": "1881-07-28",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Took carraige and",
+    "Dra[?] drove to Kandersteg."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": "'Dra' appears to be a false start before 'drove'; not clearly struck"
+  },
+  {
+   "id": "b3",
+   "date": "1881-07-29",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Over the magnificent",
+    "Gemmi Pass to Leuk,",
+    "and on to Visp, where to",
+    "our astonishment we",
+    "met Charley Alexander."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from reverse of leaf; ignored"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Alice",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Charley Alexander",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   "upper Glacier",
+   "Interlaken",
+   "Kandersteg",
+   "Gemmi Pass",
+   "Leuk",
+   "Visp"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "medium",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

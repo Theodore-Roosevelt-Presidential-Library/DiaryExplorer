@@ -1,0 +1,240 @@
+{
+ "frame": "429_1020",
+ "half": "L",
+ "volume": "1880",
+ "page_type": "other",
+ "dates": [],
+ "printed": {
+  "headers": [],
+  "title": "Cash Account—July.",
+  "description": "Printed cash-account ruling with column heads 'Date.', 'Received.', 'Paid.' reused by TR for a game tally"
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": null,
+   "kind": "table",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Total '73 '74 '75",
+    "Woodcock 41",
+    "'Snipe 1 1",
+    "Upland Plover 4",
+    "Golden \" 9",
+    "Blackbreast \" 6",
+    "Ringneck &c \" 13 2",
+    "'Whitetailed \" 3 3",
+    "Spurwing \" 2 2",
+    "Crocodile &c \" 6 6",
+    "Peewee &c \" 7 7",
+    "Winter Yellowlegs 38",
+    "Summer \" 16",
+    "Sandsnipe (Beach birds) 73 36 6",
+    "Rail 1",
+    "Coot 1",
+    "'Gray Heron 1 1",
+    "'White \" 8 8",
+    "Blue \" 1",
+    "Green \" 10 1",
+    "Night \" 19 6 4",
+    "Bittern 3",
+    "Least Bittern 1",
+    "50 (bracketed against the eight plover rows)",
+    "127 (bracketed against Winter Yellowlegs, Summer, Sandsnipe)",
+    "43 (bracketed against the seven heron/bittern rows)"
+   ],
+   "rows": [
+    [
+     "Woodcock",
+     "41",
+     "",
+     "",
+     ""
+    ],
+    [
+     "'Snipe",
+     "1",
+     "",
+     "1",
+     ""
+    ],
+    [
+     "Upland Plover",
+     "4",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Golden \"",
+     "9",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Blackbreast \"",
+     "6",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Ringneck &c \"",
+     "13",
+     "",
+     "",
+     "2"
+    ],
+    [
+     "'Whitetailed \"",
+     "3",
+     "3",
+     "",
+     ""
+    ],
+    [
+     "Spurwing \"",
+     "2",
+     "2",
+     "",
+     ""
+    ],
+    [
+     "Crocodile &c \"",
+     "6",
+     "6",
+     "",
+     ""
+    ],
+    [
+     "Peewee &c \"",
+     "7",
+     "7",
+     "",
+     ""
+    ],
+    [
+     "Winter Yellowlegs",
+     "38",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Summer \"",
+     "16",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Sandsnipe (Beach birds)",
+     "73",
+     "36",
+     "",
+     "6"
+    ],
+    [
+     "Rail",
+     "1",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Coot",
+     "1",
+     "",
+     "",
+     ""
+    ],
+    [
+     "'Gray Heron",
+     "1",
+     "1",
+     "",
+     ""
+    ],
+    [
+     "'White \"",
+     "8",
+     "8",
+     "",
+     ""
+    ],
+    [
+     "Blue \"",
+     "1",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Green \"",
+     "10",
+     "",
+     "1",
+     ""
+    ],
+    [
+     "Night \"",
+     "19",
+     "",
+     "6",
+     "4"
+    ],
+    [
+     "Bittern",
+     "3",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Least Bittern",
+     "1",
+     "",
+     "",
+     ""
+    ]
+   ],
+   "columns": [
+    "Game",
+    "Total",
+    "'73",
+    "'74",
+    "'75"
+   ],
+   "confidence": "high",
+   "note": "Continuation of the 'Game Bag' tally (begun on 429_1019_L), on a page with the printed title 'Cash Account—July.' (not struck). Continues across spread on 429_1020_R ('76–'80). Ditto marks as on page; tick/apostrophe marks before Snipe, Whitetailed, Gray Heron, White, as written. 'Spurwing' and 'Peewee' readings medium; 'Ringneck &c', 'Crocodile &c', 'Peewee &c' have '&c' abbreviation. Brace totals 50, 127, 43 and every row total check against yearly figures on both pages."
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "faint ghost figures ignored"
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [],
+  "dates": [
+   "'73",
+   "'74",
+   "'75"
+  ]
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

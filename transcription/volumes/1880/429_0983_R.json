@@ -1,0 +1,87 @@
+{
+ "frame": "429_0983",
+ "half": "R",
+ "volume": "1880",
+ "page_type": "diary-day",
+ "dates": [
+  "1880-10-23"
+ ],
+ "printed": {
+  "headers": [
+   "October, Saturday 23. 1880."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1880-10-23",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Early in morning went",
+    "out to Chestnut Hill",
+    "and, oh! how delighted",
+    "I was to clasp my",
+    "beloved darling again",
+    "in my arms! She has",
+    "received about 250",
+    "presents.",
+    "In the afternoon",
+    "I went out with",
+    "dear old Cotta[?] Peabody",
+    "(whom I am very",
+    "fond of) to the",
+    "Peabodys house at",
+    "Kernwood, Salem. It is",
+    "a superb place; both",
+    "grounds and house",
+    "being strikingly handsome.",
+    "Besides, I like the whole",
+    "household very much;",
+    "they are all so well read",
+    "and intelligent — and",
+    "the boys such stalwart,",
+    "manly fellows"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": "name read 'Cotta' (cf. 'Cottie'/'Cotte' elsewhere)"
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "faint mirrored writing from reverse"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Cotta Peabody",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   "Chestnut Hill",
+   "Kernwood",
+   "Salem"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "medium",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

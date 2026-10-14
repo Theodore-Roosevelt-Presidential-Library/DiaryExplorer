@@ -1,0 +1,57 @@
+{
+ "frame": "429_0980",
+ "half": "R",
+ "volume": "1880",
+ "page_type": "diary-day",
+ "dates": [
+  "1880-10-15"
+ ],
+ "printed": {
+  "headers": [
+   "October, Friday 15. 1880."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1880-10-15",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Came out to Oyster",
+    "Bay."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "only these words read normally; everything below is mirrored show-through from the October 16 page"
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "heavy mirrored show-through of the following page's entry, including the reversed printed header"
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [
+   "Oyster Bay"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

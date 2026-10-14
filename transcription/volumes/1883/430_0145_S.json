@@ -1,0 +1,113 @@
+{
+ "frame": "430_0145",
+ "half": "S",
+ "volume": "1883",
+ "page_type": "memoranda",
+ "dates": [],
+ "printed": {
+  "headers": [],
+  "title": "MISCELLANEOUS",
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": null,
+   "kind": "table",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "17th 1 buf",
+    "18 6[?] grouse 1 jack rabbit",
+    "19 1 blacktail",
+    "[2]0 10 grouse 4 teal",
+    "[2]1st 5 grouse ~~[illegible]~~ ^~~[illegible]~~^ teal 3 teal",
+    "[2]2d 1 blacktail",
+    "23d. ~~[illegible]~~ 7[?] cotton tail"
+   ],
+   "rows": [
+    [
+     "17th",
+     "1 buf"
+    ],
+    [
+     "18",
+     "6[?] grouse 1 jack rabbit"
+    ],
+    [
+     "19",
+     "1 blacktail"
+    ],
+    [
+     "[2]0",
+     "10 grouse 4 teal"
+    ],
+    [
+     "[2]1st",
+     "5 grouse ~~[illegible]~~ teal 3 teal"
+    ],
+    [
+     "[2]2d",
+     "1 blacktail"
+    ],
+    [
+     "23d.",
+     "~~[illegible]~~ 7[?] cotton tail"
+    ]
+   ],
+   "columns": [
+    "day",
+    "game"
+   ],
+   "confidence": "medium",
+   "note": "leading digits of day numbers lost in gutter; struck words heavily inked"
+  },
+  {
+   "id": "b2",
+   "date": null,
+   "kind": "list",
+   "position": "right-margin",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "17[?]",
+    "4",
+    "4",
+    "1",
+    "7",
+    "1",
+    "14",
+    "~~[illegible]~~ 8",
+    "1[?]",
+    "6",
+    "6"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "low",
+   "note": "column of figures down right edge, partly overwritten"
+  }
+ ],
+ "marks": [
+  {
+   "kind": "ink-blot",
+   "value": null,
+   "position": "body",
+   "note": "ink spot below table"
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "medium",
+ "transcriber_notes": "daily game tally, apparently same September trip as 430_0144_S; no month written",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

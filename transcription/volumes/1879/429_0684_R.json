@@ -1,0 +1,31 @@
+{
+ "frame": "429_0684",
+ "half": "R",
+ "volume": "1879",
+ "page_type": "diary-day",
+ "dates": [
+  "1879-01-21"
+ ],
+ "printed": {
+  "headers": [
+   "Tuesday, January 21, 1879."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [],
+ "marks": [],
+ "mentions": {
+  "people": [],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": false,
+ "confidence": "high",
+ "transcriber_notes": "Blank page, no entry. Next frame begins with Jan 24; pages for Jan 22-23 not in this sequence (pencil folios run 18 to 19 without break, so that leaf was likely blank/unnumbered).",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

@@ -1,0 +1,71 @@
+{
+ "frame": "429_0567",
+ "half": "L",
+ "volume": "1878",
+ "page_type": "diary-day",
+ "dates": [
+  "1878-06-21"
+ ],
+ "printed": {
+  "headers": [
+   "June, Friday 21. 1878."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1878-06-21",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Am leading the",
+    "most intensely happy",
+    "& healthy, out of doors",
+    "life. I spending",
+    "my time riding",
+    "on horseback,",
+    "making long",
+    "tramps through",
+    "woods and fields",
+    "after specimens,",
+    "or else on the",
+    "bay, rowing or",
+    "sailing — generally",
+    "in a half naked",
+    "condition and",
+    "with my gun",
+    "along. I could",
+    "not be happier,"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": "'I spending' as read (possible missing/abbreviated word). Entry continues on next page."
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "faint mirrored writing from reverse of leaf; ignored"
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

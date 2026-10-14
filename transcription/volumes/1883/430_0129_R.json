@@ -1,0 +1,76 @@
+{
+ "frame": "430_0129",
+ "half": "R",
+ "volume": "1883",
+ "page_type": "diary-day",
+ "dates": [
+  "1883-09-08"
+ ],
+ "printed": {
+  "headers": [
+   "SEPTEMBER 8 Saturday"
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1883-09-08",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Stormed all night; when",
+    "we waked up snow",
+    "covered the ground, bending",
+    "down the willow bushes",
+    "and loading the tall",
+    "pines; rained and",
+    "sleeted all day; we",
+    "stayed in tent with",
+    "roaring log fire in",
+    "front of it. In after-",
+    "noon took a three hours",
+    "brisk ride on California",
+    "through the mist and",
+    "rain.",
+    "Our camp is in a",
+    "narrow valley, by a brook",
+    "steep hills, some covered",
+    "with pine and spruce",
+    "others bare[?] with grass",
+    "and sagebrush, broken",
+    "by ravines[?] and and a",
+    "few steep cliffs, come",
+    "down round[?] us."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": "lower lines blotted and overlaid by heavy show-through"
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from reverse of leaf, ignored"
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "medium",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

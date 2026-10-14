@@ -1,0 +1,78 @@
+{
+ "frame": "429_0691",
+ "half": "L",
+ "volume": "1879",
+ "page_type": "diary-day",
+ "dates": [
+  "1879-02-09"
+ ],
+ "printed": {
+  "headers": [
+   "Sunday, February 9, 1879."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1879-02-09",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "One year ago today the",
+    "man, who was not only",
+    "my father, but was my",
+    "dearest loved friend,",
+    "died. O God give me",
+    "strength to live as he",
+    "would have wished",
+    "me! It has been very",
+    "sad to write to the",
+    "family. Fortunately",
+    "I have been studying",
+    "so hard - and on Sun-",
+    "days almost as hard",
+    "with my S. S. class re-",
+    "that I have not had",
+    "much time to think;",
+    "but there are very sad",
+    "moments, especially in the",
+    "evening and at night."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "'re-' at line end appears to be a false start or hyphenation; transcribed as written"
+  }
+ ],
+ "marks": [
+  {
+   "kind": "archival-page-number",
+   "value": "27",
+   "position": "top",
+   "note": "pencil, top left"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "father",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

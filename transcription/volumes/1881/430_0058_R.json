@@ -1,0 +1,63 @@
+{
+ "frame": "430_0058",
+ "half": "R",
+ "volume": "1881",
+ "page_type": "diary-day",
+ "dates": [
+  "1881-10-16",
+  "1881-10-17",
+  "1881-10-18"
+ ],
+ "printed": {
+  "headers": [
+   "October, Sunday 16. 1881.",
+   "Monday 17.",
+   "Tuesday 18."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1881-10-17",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Am working fairly at",
+    "my law, hard at politics,",
+    "and hardest of all at",
+    "my book (\"Naval History\")",
+    "which I expect to publish",
+    "this winter."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from reverse of leaf; ignored"
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "Sunday 16 and Tuesday 18 blank (show-through only).",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

@@ -1,0 +1,74 @@
+{
+ "frame": "429_0728",
+ "half": "R",
+ "volume": "1879",
+ "page_type": "diary-day",
+ "dates": [
+  "1879-06-08"
+ ],
+ "printed": {
+  "headers": [
+   "Sunday, June 8, 1879."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1879-06-08",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Van Rensselaer[?] and I",
+    "dined ^took tea^ at the Lanes",
+    "and spent the evening",
+    "there, very pleasantly."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "\"took tea\" written small above \"dined\"; no clear strike-through on \"dined\"."
+  }
+ ],
+ "marks": [
+  {
+   "kind": "archival-page-number",
+   "value": "10[?]",
+   "position": "top",
+   "note": "pencil, partly legible"
+  },
+  {
+   "kind": "other",
+   "value": null,
+   "position": "left-margin",
+   "note": "short vertical pencil stroke beside first line"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Van Rensselaer[?]",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "the Lanes",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

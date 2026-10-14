@@ -1,0 +1,76 @@
+{
+ "frame": "429_0486",
+ "half": "L",
+ "volume": "1878",
+ "page_type": "diary-day",
+ "dates": [
+  "1878-01-14"
+ ],
+ "printed": {
+  "headers": [
+   "JANUARY, MONDAY 14. 1878."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1878-01-14",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Went to the",
+    "Nuttall Ornitholog-",
+    "-ical club with",
+    "Hal Minot. I",
+    "like Brewster",
+    "and Allen very",
+    "much."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored January 12 entry visible below"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Hal Minot",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Brewster",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Allen",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

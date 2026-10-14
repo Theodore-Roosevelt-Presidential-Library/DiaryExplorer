@@ -1,0 +1,98 @@
+{
+ "frame": "429_0610",
+ "half": "R",
+ "volume": "1878",
+ "page_type": "diary-day",
+ "dates": [
+  "1878-09-04"
+ ],
+ "printed": {
+  "headers": [
+   "SEPTEMBER, WEDNESDAY 4. 1878."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1878-09-04",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Poor, dear Harry[?] Minot[?]:",
+    "George M. has just told",
+    "me that he has [illegible]-",
+    "-[illegible] lost his mind",
+    "and is in an insane",
+    "asylum. What a ter-",
+    "-rible thing it is to",
+    "have insanity in a",
+    "family. [illegible] I",
+    "feel for him; he is",
+    "as sweet and gentle",
+    "a fellow as I have ever",
+    "seen, and very[?] bright;",
+    "and a true friend to",
+    "me. [illegible] I sorrow for",
+    "his family.",
+    "Uncle Will[?] and Aunt",
+    "Susie have come to see[?] us."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "low",
+   "note": "Heavy mirrored show-through crosses nearly every line; name in line 1 and several words tentative."
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "very heavy mirrored show-through"
+  },
+  {
+   "kind": "ink-blot",
+   "value": null,
+   "position": "left-margin",
+   "note": "dark blot at left beside 'his family'"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Harry Minot",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "George M.",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Uncle Will",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Aunt Susie",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "low",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

@@ -1,0 +1,79 @@
+{
+ "frame": "429_0520",
+ "half": "L",
+ "volume": "1878",
+ "page_type": "diary-day",
+ "dates": [
+  "1878-03-25"
+ ],
+ "printed": {
+  "headers": [
+   "March, Monday 25. 1878."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1878-03-25",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Am tutoring",
+    "Arthur Hooper",
+    "in his german;",
+    "he has quite",
+    "a strong taste",
+    "for poetry, and",
+    "is a ~~qx~~[?] decidedly",
+    "moral young",
+    "man (except in",
+    "getting tight[?]);",
+    "also a great",
+    "athlete.",
+    "Boxed with",
+    "Teschmaker[?], and",
+    "I think beat him."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": "Line 7 has a short struck-out or blotted letter group before \"decidedly\". Surname on line 14 begins with a T- or J-like capital."
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "Mirrored writing from reverse of leaf; ignored."
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Arthur Hooper",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Teschmaker[?]",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "medium",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

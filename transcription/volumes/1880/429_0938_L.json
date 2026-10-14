@@ -1,0 +1,65 @@
+{
+ "frame": "429_0938",
+ "half": "L",
+ "volume": "1880",
+ "page_type": "diary-day",
+ "dates": [
+  "1880-07-221880"
+ ],
+ "printed": {
+  "headers": [
+   "JULY, THURSDAY 22. 1880."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1880-07-221880",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Rode over to Bar",
+    "Harbour twice;",
+    "Played tennis, and",
+    "rowed."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": "ink heavily smeared/blotted"
+  }
+ ],
+ "marks": [
+  {
+   "kind": "ink-blot",
+   "value": null,
+   "position": "body",
+   "note": "blots below entry"
+  },
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored text of July 21 ignored"
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [
+   "Bar Harbour"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "medium",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

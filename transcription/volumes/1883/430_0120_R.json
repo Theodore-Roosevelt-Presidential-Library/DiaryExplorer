@@ -1,0 +1,95 @@
+{
+ "frame": "430_0120",
+ "half": "R",
+ "volume": "1883",
+ "page_type": "diary-day",
+ "dates": [
+  "1883-08-23"
+ ],
+ "printed": {
+  "headers": [
+   "AUGUST 23 Thursday"
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1883-08-23",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Frost in night. Day clear,",
+    "cool and windy; wheeling",
+    "much better. Early in morning",
+    "a great herd of 1500 beef steers",
+    "passed us; they had been bedded",
+    "near us, and all night we",
+    "had heard the cowboys singing",
+    "and calling as they circled",
+    "slowly round the herd. Our dog,",
+    "a greyhound, died from wolf poison.",
+    "We made about 25 miles",
+    "through broken prairie; are",
+    "camped by what I suppose",
+    "to be the head waters of O'Fallon",
+    "Creek. Saw no living game;",
+    "but hundreds of buffalo",
+    "skulls and old carcasses.",
+    "Lebo is a chatty, tough old plains-",
+    "man, full of expedients, and ready",
+    "with both wits and hands. Merrifield",
+    "is a good looking fellow, who shoots",
+    "and rides beautifully; a reckless,",
+    "self confident man."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": "1884 entry. Show-through heavy in middle lines."
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing"
+  },
+  {
+   "kind": "other",
+   "value": null,
+   "position": "top",
+   "note": "diagonal light streak across top left (film artefact)"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Lebo",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Merrifield",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   "O'Fallon Creek"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "medium",
+ "transcriber_notes": "Printed 1883 heading reused in 1884.",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

@@ -1,0 +1,111 @@
+{
+ "frame": "429_0805",
+ "half": "R",
+ "volume": "1879",
+ "page_type": "diary-day",
+ "dates": [
+  "1879-11-29"
+ ],
+ "printed": {
+  "headers": [
+   "Saturday, November 29, 1879."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1879-11-29",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Rainy; so I spent the morning",
+    "in the house reading, dancing",
+    "with Mamie & Hattie[?] and",
+    "telling stories to Phil &",
+    "Cotty. After lunch went",
+    "out walking with Ell[?]",
+    "Whitney, Rose and Alice.",
+    "Drove over to call on Miss.",
+    "Julia Bacon. Spent",
+    "the evening at the Lees,",
+    "dancing and playing",
+    "whist."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": null
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from reverse of leaf; ignored"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Mamie",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Hattie[?]",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Phil",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Cotty",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Ell[?] Whitney",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Rose",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Alice",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Miss. Julia Bacon",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "the Lees",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "medium",
+ "transcriber_notes": "Pencil folio at top-right partly visible, not legible.",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

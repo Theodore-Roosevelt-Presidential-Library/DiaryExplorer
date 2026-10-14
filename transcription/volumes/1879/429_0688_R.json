@@ -1,0 +1,63 @@
+{
+ "frame": "429_0688",
+ "half": "R",
+ "volume": "1879",
+ "page_type": "diary-day",
+ "dates": [
+  "1879-02-02"
+ ],
+ "printed": {
+  "headers": [
+   "Sunday, February 2, 1879."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1879-02-02",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Passed a very pleasant",
+    "Sunday; of the same",
+    "kind that I always",
+    "pass at home."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "Stray marks after \"Sunday\" (blot or show-through) read as semicolon."
+  }
+ ],
+ "marks": [
+  {
+   "kind": "archival-page-number",
+   "value": "24",
+   "position": "top",
+   "note": "pencil"
+  },
+  {
+   "kind": "other",
+   "value": null,
+   "position": "top",
+   "note": "faint pencil scribble at top left, unreadable"
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

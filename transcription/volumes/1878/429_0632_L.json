@@ -1,0 +1,69 @@
+{
+ "frame": "429_0632",
+ "half": "L",
+ "volume": "1878",
+ "page_type": "diary-day",
+ "dates": [
+  "1878-10-17"
+ ],
+ "printed": {
+  "headers": [
+   "October, Thursday 17. 1878."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1878-10-17",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Had a very pleasant",
+    "dinner at the",
+    "Hoopers; I was very",
+    "glad to see Miss",
+    "Jeannie again."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "'pleasant' runs to page edge; 'Miss' written with long-s ligature"
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from reverse of leaf"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Hoopers",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Miss Jeannie",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

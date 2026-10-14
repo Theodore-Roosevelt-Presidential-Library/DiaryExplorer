@@ -1,0 +1,97 @@
+{
+ "frame": "429_0925",
+ "half": "R",
+ "volume": "1880",
+ "page_type": "diary-day",
+ "dates": [
+  "1880-06-25"
+ ],
+ "printed": {
+  "headers": [
+   "June, Friday 25. 1880."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1880-06-25",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Class Day. Jack Kingsford[?]",
+    "is also staying with me.",
+    "At 9.30 our class marched into",
+    "chapel (all in dress suits & silk hats)",
+    "at 11.30 into the theatre. At two",
+    "our spread in the gymnasium",
+    "began; I had my hands full",
+    "superintending &c; then at",
+    "5.15 came the exercises",
+    "round the tree; then we",
+    "went to the tea at Morgans.",
+    "At 8.15 I took possession of my",
+    "darling, and had my reward.",
+    "I had secured the same room",
+    "in Hollis that I had had last",
+    "year, and there we sat for",
+    "nearly two hours overlooking",
+    "the beautifully illuminated yard,",
+    "which looked like fairy land.",
+    "Alice was in the same dress as last",
+    "classday, and oh how marvellously pretty!",
+    "We then went to supper at the Lanes;",
+    "and thence I went to the club,",
+    "getting to bed at 4 o'clock."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": "Transcribed from full frame full/429_0925.jpg because the half-image cuts off line beginnings. Surname after 'Jack' uncertain (initial H/K/T). 'and' in 'and had my reward' is blotted."
+  }
+ ],
+ "marks": [],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Jack Kingsford[?]",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Morgans",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Alice",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "the Lanes",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   "chapel",
+   "the theatre",
+   "the gymnasium",
+   "Hollis",
+   "the club"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "medium",
+ "transcriber_notes": "BAD SPLIT: right half crops the first letters of each line; transcription made from the full frame.",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

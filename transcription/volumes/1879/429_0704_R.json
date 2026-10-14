@@ -1,0 +1,92 @@
+{
+ "frame": "429_0704",
+ "half": "R",
+ "volume": "1879",
+ "page_type": "diary-day",
+ "dates": [
+  "1879-03-26"
+ ],
+ "printed": {
+  "headers": [
+   "Wednesday, March 26, 1879."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1879-03-26",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "In the afternoon",
+    "I went out to Chest-",
+    "-nut Hill, where I",
+    "dined and spent",
+    "the night. ~~the~~ at the",
+    "Saltonstalls. They were",
+    "so cordial and so",
+    "glad to see me that",
+    "I felt exactly as if",
+    "I were at home. I",
+    "passed the evening at",
+    "the Lees, with pretty Alice.",
+    "I am going to send",
+    "her & Rose the fox and",
+    "lynx skins, made into",
+    "rugs."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "A short word after 'night.' is struck/blotted (reads like 'the'). 'her' followed by an ink blot before '&'."
+  }
+ ],
+ "marks": [
+  {
+   "kind": "archival-page-number",
+   "value": "49",
+   "position": "top",
+   "note": "pencil, top right"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Saltonstalls",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Lees",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Alice",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Rose",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   "Chestnut Hill"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

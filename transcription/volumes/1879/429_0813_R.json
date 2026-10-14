@@ -1,0 +1,116 @@
+{
+ "frame": "429_0813",
+ "half": "R",
+ "volume": "1879",
+ "page_type": "diary-day",
+ "dates": [
+  "1879-12-15"
+ ],
+ "printed": {
+  "headers": [
+   "Monday, December 15, 1879."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1879-12-15",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "In afternoon drove Jack T.",
+    "into Boston, where we called",
+    "on Mrs. Shaw & Mrs. Whitney.",
+    "In the evening went to",
+    "the first Papanti Hall",
+    "party and had a lovely",
+    "time, dancing with",
+    "pretty Nana Rotch[?].",
+    "Van Rennsaeler is",
+    "engaged to Luly[?] Lane!",
+    "I am very glad of it;",
+    "They are both perfectly",
+    "radiant. He is a very",
+    "good fellow, and she an",
+    "exceedingly sweet girl."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": null
+  }
+ ],
+ "marks": [
+  {
+   "kind": "archival-page-number",
+   "value": "553[?]",
+   "position": "top",
+   "note": "pencil folio number, partly obscured by header rule"
+  },
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from reverse of leaf; ignored"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Jack T.",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Mrs. Shaw",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Mrs. Whitney",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Nana Rotch[?]",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Van Rennsaeler",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Luly[?] Lane",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   {
+    "as_written": "Boston",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Papanti Hall",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "medium",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

@@ -1,0 +1,72 @@
+{
+ "frame": "429_0605",
+ "half": "L",
+ "volume": "1878",
+ "page_type": "diary-day",
+ "dates": [
+  "1878-08-24"
+ ],
+ "printed": {
+  "headers": [
+   "AUGUST, SATURDAY 24. 1878."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1878-08-24",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "The other day a dog",
+    "annoyed me very",
+    "much while on",
+    "horseback, and I",
+    "told the owner I",
+    "should shoot it; which",
+    "threat I fulfilled",
+    "while out riding",
+    "with West today,",
+    "rolling it over with",
+    "my revolver very",
+    "neatly as it ran",
+    "alongside the horse."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from reverse of leaf; ignored"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "West",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "Re-filming of the same page as 429_0599_L; transcription checked against this image and agrees.",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

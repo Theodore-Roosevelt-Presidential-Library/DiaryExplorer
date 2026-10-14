@@ -1,0 +1,93 @@
+{
+ "frame": "429_0742",
+ "half": "R",
+ "volume": "1879",
+ "page_type": "diary-day",
+ "dates": [
+  "1879-07-10"
+ ],
+ "printed": {
+  "headers": [
+   "Thursday, July 10, 1879."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1879-07-10",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Alfred stayed up for the",
+    "day; we rowed around",
+    "Centre Island, played lawn",
+    "tennis, rode &c. I am now",
+    "training my horse to go",
+    "in harness. Gerty, Fing[?]",
+    "& Virginia Roosevelt are",
+    "staying with West; they",
+    "are very sweet girls; I",
+    "spent this evening over",
+    "there, dancing most of",
+    "the time."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "Second name in line 6 written same way as 'Fing[?]' on 0738_R."
+  }
+ ],
+ "marks": [
+  {
+   "kind": "archival-page-number",
+   "value": "132",
+   "position": "top",
+   "note": "pencil, right of header"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Alfred",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Gerty",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Fing",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Virginia Roosevelt",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "West",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   "Centre Island"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

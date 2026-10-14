@@ -1,0 +1,79 @@
+{
+ "frame": "429_0856",
+ "half": "L",
+ "volume": "1880",
+ "page_type": "diary-day",
+ "dates": [
+  "1880-02-03"
+ ],
+ "printed": {
+  "headers": [
+   "February, Tuesday 3. 1880."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1880-02-03",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Snowing heavily; but I drove over",
+    "in my sleigh to Chestnut Hill,",
+    "the horse plunging to his belly in the",
+    "great drifts, and the wind cutting",
+    "my face like a knife. My sweet",
+    "life was just as loveable and pretty",
+    "as ever; it seems hardly possible that",
+    "I can kiss her and hold her in",
+    "my arms; she is so pure and so",
+    "innocent, and so very, very pretty.",
+    "I have never done anything to",
+    "deserve such good fortune.",
+    "Coming home I was upset in",
+    "a great drift, and dragged",
+    "about 300 yards, holding on ~~th~~ to",
+    "the reins, before I could stop the",
+    "horse. In evening went to a",
+    "party at the Rotches."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "Small mark after 'my' on line 2. Line 15: a short word struck before 'to'."
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "faint mirrored writing from reverse"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Rotches",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   "Chestnut Hill"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

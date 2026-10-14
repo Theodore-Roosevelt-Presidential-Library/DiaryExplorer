@@ -1,0 +1,89 @@
+{
+ "frame": "429_0685",
+ "half": "R",
+ "volume": "1879",
+ "page_type": "diary-day",
+ "dates": [
+  "1879-01-25"
+ ],
+ "printed": {
+  "headers": [
+   "Saturday, January 25, 1879."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1879-01-25",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "3 hour examination",
+    "in the morning.",
+    "In afternoon went",
+    "out to Chestnut",
+    "Hill to pass Sunday.",
+    "I spent most of the",
+    "evening with Mr.",
+    "Saltonstall, looking",
+    "over his old family",
+    "papers, comparing",
+    "our Egyptian and",
+    "Syrian experiences",
+    "and talking over",
+    "things in general.",
+    "Tom Lee came in and",
+    "we had a grand theol-",
+    "-ogical discussion."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  }
+ ],
+ "marks": [
+  {
+   "kind": "archival-page-number",
+   "value": "20",
+   "position": "top",
+   "note": "pencil"
+  },
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from other side of leaf"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Mr. Saltonstall",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Tom Lee",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   "Chestnut Hill"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

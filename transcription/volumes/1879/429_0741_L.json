@@ -1,0 +1,93 @@
+{
+ "frame": "429_0741",
+ "half": "L",
+ "volume": "1879",
+ "page_type": "diary-day",
+ "dates": [
+  "1879-07-07"
+ ],
+ "printed": {
+  "headers": [
+   "Monday, July 7, 1879."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1879-07-07",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Went up to ~~spen~~[?] spend",
+    "the night at the",
+    "Dodges (I shall return",
+    "tomorrow night). I like",
+    "and respect both Earl",
+    "and Cleave very much.",
+    "Went out driving, visit-",
+    "ing our old ~~[illegible]~~ places at",
+    "Mosholu and Riverdale.",
+    "Saw the two Pyne boys."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "Line 1 and line 8 each contain a short struck or blotted word."
+  }
+ ],
+ "marks": [
+  {
+   "kind": "archival-page-number",
+   "value": "130",
+   "position": "left-margin",
+   "note": "pencil, upper left"
+  },
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": null
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Dodges",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Earl",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Cleave",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Pyne boys",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   "Mosholu",
+   "Riverdale"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

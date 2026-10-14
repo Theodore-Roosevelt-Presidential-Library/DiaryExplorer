@@ -1,0 +1,44 @@
+{
+ "frame": "429_0741",
+ "half": "R",
+ "volume": "1879",
+ "page_type": "diary-day",
+ "dates": [
+  "1879-07-08"
+ ],
+ "printed": {
+  "headers": [
+   "Tuesday, July 8, 1879."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "entire page shows mirrored writing from reverse (July 9 entry); no writing on this page"
+  },
+  {
+   "kind": "archival-page-number",
+   "value": null,
+   "position": "top",
+   "note": "faint pencil mark at upper right, illegible"
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": false,
+ "confidence": "high",
+ "transcriber_notes": "Blank day; only show-through.",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

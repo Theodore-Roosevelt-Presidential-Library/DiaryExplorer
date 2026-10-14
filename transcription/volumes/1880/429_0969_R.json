@@ -1,0 +1,100 @@
+{
+ "frame": "429_0969",
+ "half": "R",
+ "volume": "1880",
+ "page_type": "diary-day",
+ "dates": [
+  "1880-09-23"
+ ],
+ "printed": {
+  "headers": [
+   "September, Thursday 23. 1880."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1880-09-23",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Got off pretty early; it was",
+    "cloudy all day, raining",
+    "sometimes. We had only",
+    "fair success in the stubble",
+    "fields, but I had capital",
+    "fun in a big slew, wading",
+    "about after ducks, until",
+    "I went head over heels",
+    "in a mudhole, gun & all.",
+    "Reached Moorehead in the",
+    "evening, which we spent",
+    "with dear old John",
+    "Elliott. We have had great",
+    "fun this trip; I have never",
+    "had a better hunt; but",
+    "I am awfully homesick",
+    "for Alice, and shall be too",
+    "delighted to see her again."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "b2",
+   "date": "1880-09-23",
+   "kind": "tally",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "3 chicken 4 duck 2 dove 4 plover 2 grebe",
+    "7 \" 6 \" 2 \""
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "faint mirrored writing from reverse"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "John Elliott",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Alice",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   "Moorehead"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

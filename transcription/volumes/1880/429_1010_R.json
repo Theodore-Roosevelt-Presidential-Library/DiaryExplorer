@@ -1,0 +1,86 @@
+{
+ "frame": "429_1010",
+ "half": "R",
+ "volume": "1880",
+ "page_type": "diary-day",
+ "dates": [
+  "1880-12-20"
+ ],
+ "printed": {
+  "headers": [
+   "December, Monday 20. 1880."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1880-12-20",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Went to the Patriarch",
+    "Ball which was",
+    "great fun; Corinne",
+    "was a great belle",
+    "and my own",
+    "sweet little mistress",
+    "had a great deal",
+    "of attention. I had",
+    "some superb waltzes",
+    "with Lucy Tuckerman,",
+    "Emily Post, & Miss",
+    "Livingstone."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "faint mirrored writing from reverse of leaf, ignored"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Corinne",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Lucy Tuckerman",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Emily Post",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Miss Livingstone",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "Faint show-through below entry ignored.",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

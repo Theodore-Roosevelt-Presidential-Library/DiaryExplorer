@@ -1,0 +1,94 @@
+{
+ "frame": "429_0591",
+ "half": "R",
+ "volume": "1878",
+ "page_type": "diary-day",
+ "dates": [
+  "1878-08-09"
+ ],
+ "printed": {
+  "headers": [
+   "August, Friday 9. 1878."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1878-08-09",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Jack and I went",
+    "out sailing; the",
+    "breeze was almost",
+    "a reefer, but we",
+    "kept all our",
+    "canvass up, and",
+    "had a glorious",
+    "time.",
+    "Oyster Bay is the",
+    "perfection of a",
+    "place for fellows;",
+    "I often wonder if",
+    "any one[?] could",
+    "have a happier",
+    "time than I am",
+    "having.",
+    "Six months ago - it",
+    "seems so much longer."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": "Words in line 13 partly obscured by show-through."
+  },
+  {
+   "id": "b2",
+   "date": "1878-08-09",
+   "kind": "marginalia",
+   "position": "top",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "[underline]"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "Heavy ink line drawn under the printed \"Friday 9.\" in the heading."
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "faint mirrored writing from reverse"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Jack",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   "Oyster Bay"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "medium",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

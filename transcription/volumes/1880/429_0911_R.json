@@ -1,0 +1,75 @@
+{
+ "frame": "429_0911",
+ "half": "R",
+ "volume": "1880",
+ "page_type": "diary-day",
+ "dates": [
+  "1880-05-24"
+ ],
+ "printed": {
+  "headers": [
+   "May, Monday 24. 1880."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1880-05-24",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Spent the whole day with",
+    "my dearly loved darling.",
+    "In the morning I read aloud",
+    "while she sewed; though she",
+    "looked so bewitchingly pretty",
+    "that I had to stop all the",
+    "time to pet & caress her.",
+    "In the afternoon I took",
+    "her out in the cart, and",
+    "after making several calls",
+    "we wound up at the",
+    "Whitneys, where we took",
+    "tea and had a very",
+    "jolly time, driving home",
+    "in the moonlight about",
+    "ten oclock."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  }
+ ],
+ "marks": [
+  {
+   "kind": "other",
+   "value": null,
+   "position": "bottom",
+   "note": "Small dark marks at lower left edge of page, partly cut off; not legible."
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "the Whitneys",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

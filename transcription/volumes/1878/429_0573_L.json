@@ -1,0 +1,91 @@
+{
+ "frame": "429_0573",
+ "half": "L",
+ "volume": "1878",
+ "page_type": "diary-day",
+ "dates": [
+  "1878-07-03"
+ ],
+ "printed": {
+  "headers": [
+   "July, Wednesday 3. 1878."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1878-07-03",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "At 7 am was down",
+    "on the Russia to",
+    "see Annie Murray,",
+    "whom I found",
+    "very sweet and",
+    "pretty and a little",
+    "wee bit out of",
+    "temper.",
+    "Took Aunt Susie",
+    "out to Oyster Bay",
+    "Elliott and I",
+    "in his 21 foot sail-",
+    "-boat the Daphné,",
+    "started out at 9.30^p.m^,",
+    "with a light but",
+    "steady southerly wind,",
+    "and cast anchor in",
+    "Rye Harbour at 1.30^a.m^"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "Accent-like mark over final e of 'Daphne'. Entry continues on next page."
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "faint mirrored writing from reverse of leaf; ignored"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Annie Murray",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Aunt Susie",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Elliott",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   "Russia",
+   "Oyster Bay",
+   "Rye Harbour"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

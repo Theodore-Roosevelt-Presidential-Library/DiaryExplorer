@@ -1,0 +1,99 @@
+{
+ "frame": "429_0761",
+ "half": "L",
+ "volume": "1879",
+ "page_type": "diary-day",
+ "dates": [
+  "1879-08-26"
+ ],
+ "printed": {
+  "headers": [
+   "Tuesday, August 26, 1879."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1879-08-26",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Emlen, Arthur Cutler,",
+    "Will Dow, Will Sewall[?]",
+    "& I started for Mt.",
+    "Katahdin. Drove 23",
+    "miles; and then carried",
+    "our packs about 10,",
+    "when we went into",
+    "camp. I carried about",
+    "45 lbs, including my",
+    "gun & cartridges.",
+    "Crossing a stream I",
+    "lost one of my",
+    "shoes ~~crossing a stream~~;",
+    "fortunately I had",
+    "brought a pair of",
+    "moccasins tied to",
+    "my pack."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": null
+  }
+ ],
+ "marks": [
+  {
+   "kind": "archival-page-number",
+   "value": "160",
+   "position": "top",
+   "note": null
+  },
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from reverse of leaf; ignored"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Emlen",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Arthur Cutler",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Will Dow",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Will Sewall",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   "Mt. Katahdin"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "medium",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

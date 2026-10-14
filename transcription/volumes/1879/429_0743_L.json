@@ -1,0 +1,79 @@
+{
+ "frame": "429_0743",
+ "half": "L",
+ "volume": "1879",
+ "page_type": "diary-day",
+ "dates": [
+  "1879-07-11"
+ ],
+ "printed": {
+  "headers": [
+   "Friday, July 11, 1879."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1879-07-11",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Emlen stayed up for a",
+    "holiday, spending the day",
+    "with me. We rowed round",
+    "Centre Island, and led",
+    "the usual active, out of",
+    "doors life; with at the",
+    "same ^time^ a delightful sense",
+    "of ease and absence of",
+    "care - that constitutes the",
+    "chief charm of Oyster Bay",
+    "~~fr~~[?] to me."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  }
+ ],
+ "marks": [
+  {
+   "kind": "archival-page-number",
+   "value": "133",
+   "position": "left-margin",
+   "note": "pencil, upper left"
+  },
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "lower half mirrored writing"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Emlen",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   "Centre Island",
+   "Oyster Bay"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

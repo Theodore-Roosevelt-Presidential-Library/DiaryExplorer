@@ -1,0 +1,90 @@
+{
+ "frame": "429_0928",
+ "half": "R",
+ "volume": "1880",
+ "page_type": "diary-day",
+ "dates": [
+  "1880-07-11880"
+ ],
+ "printed": {
+  "headers": [
+   "JULY, THURSDAY 1. 1880."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1880-07-11880",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Alice, Rosy and Rose",
+    "went back to Oyster",
+    "Bay with us; we",
+    "reached it late in",
+    "the evening. My cart",
+    "arrived safely with",
+    "the horse.",
+    "Looking back at",
+    "my college career it",
+    "is very pleasant to",
+    "feel that there is",
+    "nothing I should",
+    "care to change in",
+    "it; my career (both",
+    "in and out of college)",
+    "has been more suc-",
+    "cessful than that",
+    "of any man I",
+    "have known."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "'my career' and 'has been more successful than that of any man I have known' underlined in original"
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from reverse of leaf ignored"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Alice",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Rosy",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Rose",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   "Oyster Bay"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

@@ -1,0 +1,71 @@
+{
+ "frame": "429_1011",
+ "half": "R",
+ "volume": "1880",
+ "page_type": "diary-day",
+ "dates": [
+  "1880-12-22"
+ ],
+ "printed": {
+  "headers": [
+   "December, Wednesday 22. 1880."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1880-12-22",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "When the ground is",
+    "very slippery I use the",
+    "buggy instead of the",
+    "cart. I love to take",
+    "my sweet little wife",
+    "up by the Riverside",
+    "Park; it is a beautiful",
+    "drive now, with the",
+    "snowy palisades showing",
+    "in fine relief against",
+    "the gray winter skies,",
+    "and[?] with the dark, waters",
+    "~~ice~~[?] of the Hudson, covered",
+    "with ice, at their feet."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": "first word of line 12 unclear ('an'/'and'); first word of line 13 appears struck ('ice'[?]); comma after 'dark' as written"
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "faint mirrored writing from reverse of leaf, ignored"
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [
+   "Riverside Park",
+   "palisades",
+   "Hudson"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "medium",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

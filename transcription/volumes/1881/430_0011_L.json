@@ -1,0 +1,135 @@
+{
+ "frame": "430_0011",
+ "half": "L",
+ "volume": "1881",
+ "page_type": "diary-day",
+ "dates": [
+  "1881-01-04",
+  "1881-01-05",
+  "1881-01-06"
+ ],
+ "printed": {
+  "headers": [
+   "January, Tuesday 4. 1881.",
+   "Wednesday 5.",
+   "Thursday 6."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1881-01-04",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Began work at Law-School",
+    "Took mother on sleigh ride,",
+    "Whist Club at Robinsons.",
+    "Always walk up and",
+    "down to & from Law School"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "b2",
+   "date": "1881-01-05",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Took Alice a long",
+    "sleighride. Went to",
+    "dinner at James",
+    "Roosevelts; then ball",
+    "at Delmonicos — Mrs",
+    "Kings."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "Dots after \"James\" appear to be smudges/show-through."
+  },
+  {
+   "id": "b3",
+   "date": "1881-01-06",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Dinner at Astors.",
+    "Organizing free",
+    "trade club. Every",
+    "moment of my",
+    "time occupied."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": null
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "mother",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Robinsons",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Alice",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "James Roosevelts",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Mrs Kings",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Astors",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   "Law School",
+   "Delmonicos"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

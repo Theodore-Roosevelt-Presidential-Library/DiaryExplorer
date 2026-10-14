@@ -1,0 +1,68 @@
+{
+ "frame": "429_0936",
+ "half": "L",
+ "volume": "1880",
+ "page_type": "diary-day",
+ "dates": [
+  "1880-07-181880"
+ ],
+ "printed": {
+  "headers": [
+   "JULY, SUNDAY 18. 1880."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1880-07-181880",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Spent the entire day",
+    "with my darling.",
+    "Oh, how blessed I",
+    "am in her love; and",
+    "how tenderly I shall",
+    "love and cherish her.",
+    "She is the sweetest,",
+    "prettiest, purest, gentlest,",
+    "and noblest of women."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": "first two lines heavily inked/blurred"
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from reverse of leaf ignored"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "my darling",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "medium",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

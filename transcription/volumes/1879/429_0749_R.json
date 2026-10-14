@@ -1,0 +1,108 @@
+{
+ "frame": "429_0749",
+ "half": "R",
+ "volume": "1879",
+ "page_type": "diary-day",
+ "dates": [
+  "1879-07-26"
+ ],
+ "printed": {
+  "headers": [
+   "Saturday, July 26, 1879."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1879-07-26",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "I am leading the most",
+    "healthful, pleasant, out of",
+    "doors life - driving, riding",
+    "rowing, sailing, swimming,",
+    "walking & shooting, ~~&~~",
+    "all day long. Two days",
+    "out of three one of the",
+    "boys - Will, Em, Al or",
+    "West - stays up with",
+    "me. I wish Johnny Elliott",
+    "were here. By Jove, these",
+    "five are friends worth",
+    "having.",
+    "In the evening we",
+    "read, play whist, or dance.",
+    "A pretty little Miss Hale,",
+    "a Philadelphian, is staying",
+    "with Aunt Lizzie; I take her",
+    "out rowing quite often"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "Entry may continue on following page."
+  }
+ ],
+ "marks": [
+  {
+   "kind": "archival-page-number",
+   "value": "142",
+   "position": "top",
+   "note": "pencil, right of header"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Will",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Em",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Al",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "West",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Johnny Elliott",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Miss Hale",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Aunt Lizzie",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

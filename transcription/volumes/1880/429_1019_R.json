@@ -1,0 +1,231 @@
+{
+ "frame": "429_1019",
+ "half": "R",
+ "volume": "1880",
+ "page_type": "other",
+ "dates": [],
+ "printed": {
+  "headers": [],
+  "title": "Cash Account—June.",
+  "description": "Printed cash-account ruling with column heads 'Date.', 'Received.', 'Paid.' (title not struck on this page)"
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": null,
+   "kind": "table",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "'76 '77 '78 '79 '80",
+    "'79=1",
+    "'79=1",
+    "'79=1",
+    "'77=1 '79=1",
+    "'80=1",
+    "'78=1 '79=4",
+    "'78=8 '79=11 '80=1",
+    "'76=2 '77=4 '78=3 '79=3",
+    "'77=1 '78=1 '79=5",
+    "'77=2 '78=16 '79=28",
+    "'80=69",
+    "'80=26",
+    "'76=1 '78=6 '79=16 '80=5",
+    "'78=1 '79=2",
+    "'78=3 '80=8"
+   ],
+   "rows": [
+    [
+     "Lynx",
+     "",
+     "",
+     "",
+     "1",
+     ""
+    ],
+    [
+     "Fox",
+     "",
+     "",
+     "",
+     "1",
+     ""
+    ],
+    [
+     "Raccoon",
+     "",
+     "",
+     "",
+     "1",
+     ""
+    ],
+    [
+     "Deer",
+     "",
+     "1",
+     "",
+     "1",
+     ""
+    ],
+    [
+     "Jack Rabbit",
+     "",
+     "",
+     "",
+     "",
+     "1"
+    ],
+    [
+     "White Rabbit",
+     "",
+     "",
+     "1",
+     "4",
+     ""
+    ],
+    [
+     "Wood Rabbit",
+     "",
+     "",
+     "8",
+     "11",
+     "1"
+    ],
+    [
+     "Gray Squirrel",
+     "2",
+     "4",
+     "3",
+     "3",
+     ""
+    ],
+    [
+     "Syrian Squirrel",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Canada Grouse",
+     "",
+     "1",
+     "1",
+     "5",
+     ""
+    ],
+    [
+     "Ruffed Grouse",
+     "",
+     "2",
+     "16",
+     "28",
+     ""
+    ],
+    [
+     "Prarie Grouse",
+     "",
+     "",
+     "",
+     "",
+     "69"
+    ],
+    [
+     "Sharptail Grouse",
+     "",
+     "",
+     "",
+     "",
+     "26"
+    ],
+    [
+     "American Quail",
+     "1",
+     "",
+     "6",
+     "16",
+     "5"
+    ],
+    [
+     "Gray Partridge",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Redlegged Partridge",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Syrian Quail",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Wild Pigeon",
+     "",
+     "",
+     "1",
+     "2",
+     ""
+    ],
+    [
+     "Carolina Dove",
+     "",
+     "",
+     "3",
+     "",
+     "8"
+    ]
+   ],
+   "columns": [
+    "Game (label from facing page 429_1019_L, not written here)",
+    "'76",
+    "'77",
+    "'78",
+    "'79",
+    "'80"
+   ],
+   "confidence": "high",
+   "note": "Continuation of the Game Bag table from the facing page; only year headings and figures are written on this page. Row assignment made by ruled-line position and confirmed by row totals on the facing page. Rows for Egyptian dove, Rock Pigeon, Hoopoo have no entries here."
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "faint mirrored figures from reverse ignored"
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [],
+  "dates": [
+   "'76",
+   "'77",
+   "'78",
+   "'79",
+   "'80"
+  ]
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

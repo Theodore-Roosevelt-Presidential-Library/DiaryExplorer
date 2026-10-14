@@ -1,0 +1,77 @@
+{
+ "frame": "429_0898",
+ "half": "R",
+ "volume": "1880",
+ "page_type": "diary-day",
+ "dates": [
+  "1880-04-28"
+ ],
+ "printed": {
+  "headers": [
+   "April, Wednesday 28. 1880."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1880-04-28",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "In the afternoon played",
+    "tennis with Harry Chapin.",
+    "In the evening went to the",
+    "Pudding theatricals, which",
+    "were excellent.",
+    "I did not study much",
+    "the early part of this year,",
+    "and since my engagement",
+    "I have hardly studied atall.",
+    "I never work atall except",
+    "on three days (usually Tuesday,",
+    "Wednesday and either Thursday",
+    "or Friday), and do not",
+    "average more than five hours",
+    "on those days; but my marks",
+    "were so good the first three",
+    "years that I can afford to be",
+    "idle now."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "faint mirrored writing from reverse"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Harry Chapin",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

@@ -1,0 +1,85 @@
+{
+ "frame": "429_0926",
+ "half": "L",
+ "volume": "1880",
+ "page_type": "diary-day",
+ "dates": [
+  "1880-06-261880"
+ ],
+ "printed": {
+  "headers": [
+   "JUNE, SATURDAY 26. 1880."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1880-06-261880",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "We all breakfasted in the",
+    "club; then I took Kingsford",
+    "Iselin and Nell[?] over to the Lees,",
+    "in my cart, to dinner. After-",
+    "wards we went to a far-[?]",
+    "garden party at the Lowells."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": "first word preceded by a stray mark; 'far-' uncertain; 'Nell' could be 'Bell'"
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from reverse of leaf ignored"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Kingsford",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Iselin",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Nell",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "the Lees",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "the Lowells",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "medium",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

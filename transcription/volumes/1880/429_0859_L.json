@@ -1,0 +1,81 @@
+{
+ "frame": "429_0859",
+ "half": "L",
+ "volume": "1880",
+ "page_type": "diary-day",
+ "dates": [
+  "1880-02-09"
+ ],
+ "printed": {
+  "headers": [
+   "February, Monday 9. 1880."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1880-02-09",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Dined at Jim Parker's; then",
+    "went to the Papanti party",
+    "which I danced with Nanna",
+    "Rotch; afterwards drove out with",
+    "Dick in his cutter to Chestnut",
+    "Hill. The thermometer was below",
+    "Zero, but we were too heavily",
+    "wrapped up to heed the cold; and",
+    "it was a splendid sleigh ride."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "'which' could be 'where'; 'Nanna' as read."
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "faint mirrored writing from reverse"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Jim Parker",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Nanna Rotch",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Dick",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   "Papanti",
+   "Chestnut Hill"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

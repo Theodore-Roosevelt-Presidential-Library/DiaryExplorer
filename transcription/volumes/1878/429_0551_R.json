@@ -1,0 +1,71 @@
+{
+ "frame": "429_0551",
+ "half": "R",
+ "volume": "1878",
+ "page_type": "diary-day",
+ "dates": [
+  "1878-05-23"
+ ],
+ "printed": {
+  "headers": [
+   "May, Thursday 23. 1878."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1878-05-23",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Rather unwell and",
+    "feverish; had a",
+    "terribly distinct",
+    "and weird dream",
+    "about [illegible]. It",
+    "has made me",
+    "feel very sad.",
+    "Now and then sud-",
+    "-den memories of",
+    "him are so vivid",
+    "that I can almost",
+    "feel as if he were",
+    "by me; but it",
+    "is only almost,",
+    "and when I fully",
+    "realize this I feel, oh",
+    "so lonely! \"The Lord",
+    "is my comforter\"."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": "both instances of \"almost\" underlined; word after \"about\" obscured by blot/show-through"
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from other side of leaf / facing page ignored"
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "medium",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

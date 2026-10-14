@@ -1,0 +1,122 @@
+{
+ "frame": "430_0040",
+ "half": "L",
+ "volume": "1881",
+ "page_type": "diary-day",
+ "dates": [
+  "1881-06-27",
+  "1881-06-28",
+  "1881-06-29"
+ ],
+ "printed": {
+  "headers": [
+   "June, Monday 27. 1881.",
+   "Tuesday 28.",
+   "Wednesday 29."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1881-06-27",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "We went by steamer",
+    "up to Colico; then took",
+    "our carraige & three horses,",
+    "driven by Lombardino",
+    "(good driver & nice fellow) & came",
+    "on to Chiavenna. Are going",
+    "in ^our^ carraige for a fortnight"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "last line runs into Tuesday heading area"
+  },
+  {
+   "id": "b2",
+   "date": "1881-06-28",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Went over Splugen Pass.",
+    "Took lunch in a vile",
+    "inn at Campo Dolcino.",
+    "The pass was very grand.",
+    "Are spending night in",
+    "Splugen; good german-",
+    "swiss inn."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "b3",
+   "date": "1881-06-29",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "In morning drove through",
+    "the wildly magnificent",
+    "Via Mala; Lunched at",
+    "Thusis & walked up to",
+    "Rhaetian Castle. Then through",
+    "beautiful gorge to Tiefenkastin,",
+    "Torrent roaring under our windows."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": "'Tiefenkastin' spelling uncertain"
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "faint mirrored writing from reverse of leaf; ignored"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Lombardino",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   "Colico",
+   "Chiavenna",
+   "Splugen Pass",
+   "Campo Dolcino",
+   "Splugen",
+   "Via Mala",
+   "Thusis",
+   "Rhaetian Castle",
+   "Tiefenkastin"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "medium",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

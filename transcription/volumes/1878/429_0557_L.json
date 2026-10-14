@@ -1,0 +1,63 @@
+{
+ "frame": "429_0557",
+ "half": "L",
+ "volume": "1878",
+ "page_type": "diary-day",
+ "dates": [
+  "1878-06-01"
+ ],
+ "printed": {
+  "headers": [
+   "June, Saturday 1. 1878."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1878-06-01",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Annual in French",
+    "Have been feeling",
+    "rather under the",
+    "weather this week,",
+    "unluckily.",
+    "Our freshmen nine",
+    "beat Yale '81. dis-",
+    "-gracefully."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "Punctuation after '81 uncertain (period or comma)."
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "faint mirrored writing from reverse of leaf; ignored"
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [
+   "Yale"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

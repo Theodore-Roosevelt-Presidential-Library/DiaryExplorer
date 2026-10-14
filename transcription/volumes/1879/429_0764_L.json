@@ -1,0 +1,79 @@
+{
+ "frame": "429_0764",
+ "half": "L",
+ "volume": "1879",
+ "page_type": "diary-day",
+ "dates": [
+  "1879-09-01"
+ ],
+ "printed": {
+  "headers": [
+   "Monday, September 1, 1879."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1879-09-01",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Was up before sunrise,",
+    "and took a trip to[?]",
+    "round some barrens and",
+    "bogs; crippled a duck",
+    "in a logan, but it",
+    "crawled off among the",
+    "rushes. In the afternoon",
+    "we shouldered our",
+    "packs, broke camp &",
+    "started for Island Falls.",
+    "After crossing the",
+    "Wissaticook[?] went into",
+    "camp for the night.",
+    "Am in beautiful condition;",
+    "& find I can walk,",
+    "wrestle or shoot with",
+    "most of these lumbermen."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": null
+  }
+ ],
+ "marks": [
+  {
+   "kind": "archival-page-number",
+   "value": "166",
+   "position": "top",
+   "note": null
+  },
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from reverse of leaf; ignored"
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [
+   "Island Falls",
+   "Wissaticook"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "medium",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

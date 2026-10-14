@@ -1,0 +1,69 @@
+{
+ "frame": "430_0065",
+ "half": "L",
+ "volume": "1881",
+ "page_type": "diary-day",
+ "dates": [
+  "1881-10-25",
+  "1881-10-26",
+  "1881-10-27"
+ ],
+ "printed": {
+  "headers": [
+   "October, Tuesday 25. 1881.",
+   "Wednesday 26.",
+   "Thursday 27."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1881-10-26",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Most of my friends",
+    "are standing by me",
+    "like trumps,",
+    "I have a good chance",
+    "of being elected if I am",
+    "not sold out."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": "Heavy dark diagonal/vertical strokes and bracket-like lines cross the text; they may be cancellation strokes or ink offset from the facing page (cf. Oct 29 on 430_0065_R). Text not treated as struck through. 'I have' written nearly joined."
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from reverse of leaf"
+  },
+  {
+   "kind": "ink-blot",
+   "value": null,
+   "position": "top",
+   "note": "dark ink offset/specks under Tuesday 25; not legible"
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "medium",
+ "transcriber_notes": "Frame is out of sequence: precedes Oct 31 spread (430_0061).",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

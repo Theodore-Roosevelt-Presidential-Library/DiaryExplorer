@@ -1,0 +1,62 @@
+{
+ "frame": "430_0069",
+ "half": "L",
+ "volume": "1881",
+ "page_type": "diary-day",
+ "dates": [
+  "1881-11-18",
+  "1881-11-19",
+  "1881-11-20"
+ ],
+ "printed": {
+  "headers": [
+   "November, Friday 18. 1881.",
+   "Saturday 19.",
+   "Sunday 20."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1881-11-20",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "News Boy lodging house",
+    "as usual. Also taking",
+    "care of Orthopaedic."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "'Orthopaedic' spelled with ligature-like 'ae'."
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from reverse of leaf"
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [
+   "News Boy lodging house"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "refilm of 430_0064",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

@@ -1,0 +1,87 @@
+{
+ "frame": "429_0663",
+ "half": "R",
+ "volume": "1878",
+ "page_type": "diary-day",
+ "dates": [
+  "1878-12-27"
+ ],
+ "printed": {
+  "headers": [
+   "December, Friday 27. 1878."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1878-12-27",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Still in the house.",
+    "Emlen has been",
+    "very touching",
+    "about his love",
+    "for Grace Parish.",
+    "Dear old fellow!",
+    "I wish him",
+    "every success,",
+    "with all my",
+    "heart.",
+    "Old Nell seems",
+    "to be doing",
+    "very well.",
+    "What a wonder-",
+    "ful set of rela-",
+    "-tions I have got -",
+    "cousins and all,",
+    "especially my own family."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "faint mirrored writing from other side of leaf; ignored"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Emlen",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Grace Parish",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Old Nell",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

@@ -1,0 +1,41 @@
+{
+ "frame": "430_0109",
+ "half": "R",
+ "volume": "1883",
+ "page_type": "printed-matter",
+ "dates": [],
+ "printed": {
+  "headers": [],
+  "title": null,
+  "description": "Printed 1883 calendar for all twelve months."
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": null,
+   "kind": "other",
+   "position": "body",
+   "medium": "pencil",
+   "hand": "uncertain",
+   "lines": [],
+   "rows": null,
+   "columns": null,
+   "confidence": "low",
+   "note": "Pencil marks/boxes around February 5, 12 and 19 (Mondays) and small ticks elsewhere in calendar; no words."
+  }
+ ],
+ "marks": [],
+ "mentions": {
+  "people": [],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": false,
+ "confidence": "high",
+ "transcriber_notes": "Only small marks on printed calendar.",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

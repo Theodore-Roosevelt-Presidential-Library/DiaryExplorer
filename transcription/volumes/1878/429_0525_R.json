@@ -1,0 +1,59 @@
+{
+ "frame": "429_0525",
+ "half": "R",
+ "volume": "1878",
+ "page_type": "diary-day",
+ "dates": [
+  "1878-04-05"
+ ],
+ "printed": {
+  "headers": [
+   "April, Friday 5. 1878."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1878-04-04",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "actions and ges-",
+    "-tures. Sometimes",
+    "when I fully",
+    "realize my loss",
+    "I feel as if",
+    "I should go wild."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "Continues from previous page (entry begun April 4)."
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "Mirrored writing from reverse of leaf; ignored."
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "Faint grey writing in the lower half reads normally but matches the April 7 page text; treated as show-through from an adjacent leaf and not transcribed.",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

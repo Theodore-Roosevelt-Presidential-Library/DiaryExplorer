@@ -1,0 +1,114 @@
+{
+ "frame": "430_0032",
+ "half": "L",
+ "volume": "1881",
+ "page_type": "diary-day",
+ "dates": [
+  "1881-05-10",
+  "1881-05-11",
+  "1881-05-12"
+ ],
+ "printed": {
+  "headers": [
+   "May, Tuesday 10. 1881.",
+   "Wednesday 11.",
+   "Thursday 12."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1881-05-10",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "The weather is perfectly",
+    "beautiful and the",
+    "drives lovely,"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "b2",
+   "date": "1881-05-11",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "My law school work",
+    "is over; my will",
+    "drawn up; and my",
+    "horse going to the",
+    "country."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "b3",
+   "date": "1881-05-12",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "At 3. oclock sailed on",
+    "the \"Celtic\" for England,",
+    "Lots of people down to",
+    "see us off.",
+    "Hurrah! for a sum-",
+    "-mer abroad with the",
+    "darling little wife."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "faint mirrored writing from reverse of leaf; ignored"
+  },
+  {
+   "kind": "ink-blot",
+   "value": null,
+   "position": "top",
+   "note": "ink blots in Tuesday 10 entry"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "darling little wife",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   "England"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

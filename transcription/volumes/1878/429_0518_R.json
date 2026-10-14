@@ -1,0 +1,63 @@
+{
+ "frame": "429_0518",
+ "half": "R",
+ "volume": "1878",
+ "page_type": "diary-day",
+ "dates": [
+  "1878-03-22"
+ ],
+ "printed": {
+  "headers": [
+   "March, Friday 22. 1878."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1878-03-21",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "~~and~~ pure as he",
+    "was wise and good.",
+    "But I have very",
+    "much left to be",
+    "grateful for. Truly",
+    "in all my fam-",
+    "-ily relations I",
+    "have been blessed",
+    "far beyond the",
+    "lot of most men."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "Continues from previous page (entry begun March 21)."
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "Mirrored writing from reverse of leaf; ignored."
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

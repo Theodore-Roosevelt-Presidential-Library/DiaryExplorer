@@ -1,0 +1,126 @@
+{
+ "frame": "429_0791",
+ "half": "L",
+ "volume": "1879",
+ "page_type": "diary-day",
+ "dates": [
+  "1879-10-27"
+ ],
+ "printed": {
+  "headers": [
+   "Monday, October 27, 1879."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1879-10-27",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "My 21st birthday. Uncle",
+    "Jim, Aunt Lizzie, Aunt",
+    "Annie, Doc, Em & Al came",
+    "out to stay with us. In the",
+    "evening a good many girls",
+    "-including pretty Emily Swan-",
+    "came to tea, and we had great",
+    "fun dancing, playing charades",
+    "&c &c. My presents were very",
+    "valuable, and all are just",
+    "too lovely to me for anything.",
+    "I have had so much happiness in",
+    "my life so far that I feel,",
+    "no matter what sorrows come,",
+    "the joys will have overbalanced",
+    "them. And yet on this day I can",
+    "not help thinking with sadness about",
+    "Father, my best and most loved and",
+    "revered friend; may God help me to live",
+    "as he would have wished."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "last line written below the ruled frame"
+  }
+ ],
+ "marks": [
+  {
+   "kind": "archival-page-number",
+   "value": "312",
+   "position": "top",
+   "note": "pencil"
+  },
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from reverse of leaf; ignored"
+  },
+  {
+   "kind": "ink-blot",
+   "value": null,
+   "position": "left-margin",
+   "note": "dark blot beside first lines"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Uncle Jim",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Aunt Lizzie",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Aunt Annie",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Doc",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Em",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Al",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Emily Swan",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Father",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

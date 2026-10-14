@@ -1,0 +1,94 @@
+{
+ "frame": "429_0592",
+ "half": "L",
+ "volume": "1878",
+ "page_type": "diary-day",
+ "dates": [
+  "1878-08-10"
+ ],
+ "printed": {
+  "headers": [
+   "August, Saturday 10. 1878."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1878-08-10",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "The Harvard rank-list",
+    "arrived today; my",
+    "marks for last year",
+    "were French IV, 51;",
+    "Themes 69; Nat. Hist",
+    "3, 79; Hist. 87;",
+    "Nat. Hist 8, 89; Germ IV,",
+    "92; Germ V, 96. My",
+    "average is about 85,",
+    "10 per cent better than",
+    "last year. I am well",
+    "satisfied; & my dearest",
+    "Father would have",
+    "been so pleased.",
+    "Funnily enough",
+    "I am rather laid",
+    "up by an attack",
+    "of cholera morbus."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "b2",
+   "date": "1878-08-10",
+   "kind": "marginalia",
+   "position": "top",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "[underline]"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "Heavy ink line drawn under the printed \"Saturday\" in the heading."
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "faint mirrored writing from reverse"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Father",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   "Harvard"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

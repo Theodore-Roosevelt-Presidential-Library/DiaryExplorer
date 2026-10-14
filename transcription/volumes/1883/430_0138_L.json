@@ -1,0 +1,57 @@
+{
+ "frame": "430_0138",
+ "half": "L",
+ "volume": "1883",
+ "page_type": "diary-day",
+ "dates": [
+  "1883-09-25"
+ ],
+ "printed": {
+  "headers": [
+   "SEPTEMBER 25 Tuesday"
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1883-09-25",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Bear skins ~~[illegible]~~ drying;",
+    "so did not break camp;",
+    "hunted to north of",
+    "~~river~~ ^creek^; no game."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": "struck word in line 1 unreadable; interlinear 'creek' reading uncertain"
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from reverse of leaf, ignored"
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "medium",
+ "transcriber_notes": "lower page shows mirrored show-through of the Sept 24 entry",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

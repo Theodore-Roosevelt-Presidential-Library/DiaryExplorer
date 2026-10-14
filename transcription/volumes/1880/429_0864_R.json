@@ -1,0 +1,79 @@
+{
+ "frame": "429_0864",
+ "half": "R",
+ "volume": "1880",
+ "page_type": "diary-day",
+ "dates": [
+  "1880-02-20"
+ ],
+ "printed": {
+  "headers": [
+   "February, Friday 20. 1880."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1880-02-20",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Spent the day with the family;",
+    "^drove^ ~~went~~ to a great family dinner",
+    "at the Lees. The ^drive^ ~~ride~~ home, in",
+    "the bright, cold moonlight over",
+    "the smooth, frozen roads was",
+    "just perfect. Then I went up to",
+    "the Pudding, where we had a",
+    "great fight; staying up till",
+    "quarter of six, when as it was",
+    "too late to go to bed I played",
+    "billiards in the club till",
+    "breakfast time."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "Two corrections: 'went' struck with 'drove' above; 'ride' struck with 'drive' above."
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "faint mirrored writing from reverse"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "the family",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Lees",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   "the Pudding",
+   "the club"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

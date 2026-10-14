@@ -1,0 +1,75 @@
+{
+ "frame": "429_0776",
+ "half": "L",
+ "volume": "1879",
+ "page_type": "diary-day",
+ "dates": [
+  "1879-09-25"
+ ],
+ "printed": {
+  "headers": [
+   "Thursday, September 25, 1879."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1879-09-25",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "It is ever so pleasant",
+    "to get back again",
+    "among all the",
+    "fellows, who greeted",
+    "me with uproarious",
+    "cordiality. I am",
+    "keeping my horse",
+    "and dogcart at",
+    "Pikes Stable; I",
+    "have really got",
+    "a very stylish",
+    "turnout. I intend",
+    "to have lovely fun",
+    "this winter."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  }
+ ],
+ "marks": [
+  {
+   "kind": "archival-page-number",
+   "value": "190[?]",
+   "position": "top",
+   "note": "pencil numeral at top corner, later mark"
+  },
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from reverse of leaf ignored"
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [
+   "Pikes Stable"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

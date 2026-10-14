@@ -1,0 +1,63 @@
+{
+ "frame": "429_0488",
+ "half": "R",
+ "volume": "1878",
+ "page_type": "diary-day",
+ "dates": [
+  "1878-01-19"
+ ],
+ "printed": {
+  "headers": [
+   "JANUARY, SATURDAY 19. 1878."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1878-01-19",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Dined with",
+    "Harry Shaw, go-",
+    "-ing to a party",
+    "afterwards."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": "'afterwards' partly obscured by an ink smudge/blot"
+  }
+ ],
+ "marks": [
+  {
+   "kind": "ink-blot",
+   "value": null,
+   "position": "body",
+   "note": "smudge over 'afterwards'"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Harry Shaw",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

@@ -1,0 +1,106 @@
+{
+ "frame": "429_0730",
+ "half": "R",
+ "volume": "1879",
+ "page_type": "diary-day",
+ "dates": [
+  "1879-06-14"
+ ],
+ "printed": {
+  "headers": [
+   "Saturday, June 14, 1879."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1879-06-14",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Breakfasted with the",
+    "Porc. at 5.30[?], and my",
+    "horse was before the",
+    "door and I rode over",
+    "to the Bacons where I",
+    "lunched, spending the",
+    "day very pleasantly",
+    "with Miss Nellie &",
+    "Miss Julia. I rode",
+    "back to Cambridge",
+    "at about 6. p.m.; at",
+    "7.30 we had a Porc.",
+    "dinner. Charley Morgan",
+    "got very drunk, and, not",
+    "having been sober for a",
+    "week, nearly had the D. Ts; I",
+    "slept in his room; & walking home",
+    "next morning in a dress suit",
+    "nearly walked on a proctor"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": "Upper half overlaid by heavy mirrored show-through; time in line 2 uncertain. Entry runs to the bottom of the page and may continue on the next page."
+  }
+ ],
+ "marks": [
+  {
+   "kind": "archival-page-number",
+   "value": "109[?]",
+   "position": "top",
+   "note": "pencil, partly legible"
+  },
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from reverse of leaf; ignored"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Porc.",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "the Bacons",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Miss Nellie",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Miss Julia",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Charley Morgan",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   "Cambridge"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "medium",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

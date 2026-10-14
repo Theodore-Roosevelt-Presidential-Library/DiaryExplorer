@@ -1,0 +1,72 @@
+{
+ "frame": "429_0613",
+ "half": "L",
+ "volume": "1878",
+ "page_type": "diary-day",
+ "dates": [
+  "1878-09-09"
+ ],
+ "printed": {
+  "headers": [
+   "SEPTEMBER, MONDAY 9. 1878."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1878-09-09",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Spent the day",
+    "hunting partridges",
+    "but did not even",
+    "see one"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "b2",
+   "date": "1878-09-09",
+   "kind": "marginalia",
+   "position": "top",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "seven months ago."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "Written just below the printed heading, which is underlined in heavy ink beneath 'MONDAY 9.'"
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from reverse of leaf; ignored"
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

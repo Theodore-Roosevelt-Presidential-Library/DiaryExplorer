@@ -1,0 +1,88 @@
+{
+ "frame": "429_0960",
+ "half": "L",
+ "volume": "1880",
+ "page_type": "diary-day",
+ "dates": [
+  "1880-09-04"
+ ],
+ "printed": {
+  "headers": [
+   "September, Saturday 4. 1880."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1880-09-04",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Reached Caroll at 4 o'c in",
+    "the morning; started as",
+    "soon as possible in a two",
+    "horse wagon out on the",
+    "beautiful, rolling, fenceless",
+    "prarie, and did not",
+    "reach home till nine",
+    "o'c p.m. There were more",
+    "birds than we have before",
+    "seen, and I shot better",
+    "than I yet have, though",
+    "I missed several easy",
+    "shots. Troubled both by",
+    "colic and asthma."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": "'Caroll' medium confidence."
+  },
+  {
+   "id": "b2",
+   "date": "1880-09-04",
+   "kind": "tally",
+   "position": "bottom",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "6 grouse 2 quail",
+    "E 6 grouse"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  }
+ ],
+ "marks": [],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "E",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   {
+    "as_written": "Caroll",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "medium",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

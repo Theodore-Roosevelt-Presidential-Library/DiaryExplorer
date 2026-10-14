@@ -1,0 +1,65 @@
+{
+ "frame": "429_0992",
+ "half": "R",
+ "volume": "1880",
+ "page_type": "diary-day",
+ "dates": [
+  "1880-11-10"
+ ],
+ "printed": {
+  "headers": [
+   "November, Wednesday 10. 1880."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1880-11-10",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "We took a lovely long",
+    "drive towards Desauris[?]",
+    "Island, Locust Valley",
+    "and Glen Cove.",
+    "I doubt if there",
+    "was ever a happier",
+    "honeymoon than ours",
+    "has been."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "place name in line 2 uncertain (reads \"Desauris\" / \"Desausus\")"
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "faint mirrored writing from reverse"
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [
+   "Desauris Island",
+   "Locust Valley",
+   "Glen Cove"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

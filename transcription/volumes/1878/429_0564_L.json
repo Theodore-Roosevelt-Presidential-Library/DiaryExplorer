@@ -1,0 +1,96 @@
+{
+ "frame": "429_0564",
+ "half": "L",
+ "volume": "1878",
+ "page_type": "diary-day",
+ "dates": [
+  "1878-06-15"
+ ],
+ "printed": {
+  "headers": [
+   "June, Saturday 15. 1878."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1878-06-15",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Fanny, Conie, West",
+    "& myself went",
+    "on a picnic to",
+    "Yellow Banks.",
+    "In the afternoon",
+    "I took Fanny",
+    "^out for^ ~~on~~ a long ride;",
+    "we had a very",
+    "pleasant ride.",
+    "I like her",
+    "very much.",
+    "Aunt Annie and",
+    "Uncle Jimmie have",
+    "come to spend some",
+    "weeks with us."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": "'out for' written in left margin over/above a struck 'on' (uncertain)."
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "faint mirrored writing from reverse of leaf; ignored"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Fanny",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Conie",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "West",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Aunt Annie",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Uncle Jimmie",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   "Yellow Banks"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

@@ -1,0 +1,66 @@
+{
+ "frame": "429_0494",
+ "half": "L",
+ "volume": "1878",
+ "page_type": "diary-day",
+ "dates": [
+  "1878-02-03"
+ ],
+ "printed": {
+  "headers": [
+   "FEBRUARY, SUNDAY 3. 1878."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1878-02-03",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Have been",
+    "spending Sunday",
+    "with the",
+    "Hoopers.—of course",
+    "pleasantly.",
+    "My opinion of",
+    "Miss Jeannie",
+    "grows more and",
+    "more."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  }
+ ],
+ "marks": [],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Hoopers",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Miss Jeannie",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

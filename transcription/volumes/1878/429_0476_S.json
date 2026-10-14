@@ -1,0 +1,34 @@
+{
+ "frame": "429_0476",
+ "half": "S",
+ "volume": "1878",
+ "page_type": "microfilm-target",
+ "dates": [],
+ "printed": {
+  "headers": [],
+  "title": "THEODORE ROOSEVELT PAPERS / Series 8 / Personal Diaries / 1878 - 1882",
+  "description": "Typed microfilm title card for the series"
+ },
+ "handwriting": [],
+ "marks": [
+  {
+   "kind": "microfilm-target",
+   "value": "THEODORE ROOSEVELT PAPERS Series 8 Personal Diaries 1878 - 1882",
+   "position": "body",
+   "note": "typed title card"
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": false,
+ "confidence": "high",
+ "transcriber_notes": "Microfilm title card; no diary content.",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

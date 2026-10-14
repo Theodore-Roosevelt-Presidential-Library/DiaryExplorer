@@ -1,0 +1,69 @@
+{
+ "frame": "430_0053",
+ "half": "L",
+ "volume": "1881",
+ "page_type": "diary-day",
+ "dates": [
+  "1881-09-13",
+  "1881-09-14",
+  "1881-09-15"
+ ],
+ "printed": {
+  "headers": [
+   "September, Tuesday 13. 1881.",
+   "Wednesday 14.",
+   "Thursday 15."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1881-09-14",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Have enjoyed the",
+    "time so much. Spend[?]",
+    "most of the day",
+    "with the dear old",
+    "sea-captain, Uncle",
+    "Jimmie Bulloch"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from reverse of leaf; ignored"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Uncle Jimmie Bulloch",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "Tuesday 13 and Thursday 15 blank (show-through only).",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

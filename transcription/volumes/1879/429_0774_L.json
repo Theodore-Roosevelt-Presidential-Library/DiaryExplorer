@@ -1,0 +1,81 @@
+{
+ "frame": "429_0774",
+ "half": "L",
+ "volume": "1879",
+ "page_type": "diary-day",
+ "dates": [
+  "1879-09-21"
+ ],
+ "printed": {
+  "headers": [
+   "Sunday, September 21, 1879."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1879-09-21",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Paddled up to Island",
+    "Falls, to stay over night.",
+    "Packed up for good, as",
+    "I start tomorrow. A",
+    "porcupine blundered into",
+    "camp, and was ignomin-",
+    "iously expelled with",
+    "the tin dipper. What",
+    "glorious fun I am",
+    "having this year! No",
+    "fellow ever had a better",
+    "time than I have.",
+    "And my life has such",
+    "absurd contrasts. At one time",
+    "I live in the height of",
+    "luxury; and then for a",
+    "month will undergo really",
+    "severe toil and hardship",
+    "-and I enjoy both extremes",
+    "almost equally."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "last line written below the printed frame"
+  }
+ ],
+ "marks": [
+  {
+   "kind": "archival-page-number",
+   "value": "186[?]",
+   "position": "top",
+   "note": "pencil numeral at top corner, later mark"
+  },
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from reverse of leaf ignored"
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [
+   "Island Falls"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

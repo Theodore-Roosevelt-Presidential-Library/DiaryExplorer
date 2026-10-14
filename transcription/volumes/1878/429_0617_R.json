@@ -1,0 +1,91 @@
+{
+ "frame": "429_0617",
+ "half": "R",
+ "volume": "1878",
+ "page_type": "diary-day",
+ "dates": [
+  "1878-09-18"
+ ],
+ "printed": {
+  "headers": [
+   "September, Wednesday 18. 1878."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1878-09-18",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "The three of us got",
+    "up at four in the",
+    "morning, and",
+    "started after ducks",
+    "before daylight,",
+    "but saw nothing.",
+    "When we got back",
+    "to the old camp",
+    "I took Will Dow",
+    "and tramped",
+    "about ten miles",
+    "through the woods,",
+    "getting four shots.",
+    "I use[?] like moc-",
+    "casins to walk",
+    "through the woods.",
+    "with very much"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": "second word of 'I use[?] like' unclear; last line 'with very much' as written"
+  },
+  {
+   "id": "b2",
+   "date": "1878-09-18",
+   "kind": "tally",
+   "position": "bottom",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "1 merganser 3 ruffed grouse."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from reverse of leaf"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Will Dow",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "medium",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

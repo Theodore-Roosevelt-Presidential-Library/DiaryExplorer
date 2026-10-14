@@ -1,0 +1,137 @@
+{
+ "frame": "430_0046",
+ "half": "L",
+ "volume": "1881",
+ "page_type": "diary-day",
+ "dates": [
+  "1881-08-02",
+  "1881-08-03",
+  "1881-08-04"
+ ],
+ "printed": {
+  "headers": [
+   "August, Tuesday 2. 1881.",
+   "Wednesday 3.",
+   "Thursday 4."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1881-08-02",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Came down to Zermatt.",
+    "Alexander left us, to our",
+    "regret. The Gardiners",
+    "& Baylies & Kennedys",
+    "are here."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "b2",
+   "date": "1881-08-03",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "At 9. ~~p.m.~~ a.m. started",
+    "for the Matterhorn",
+    "with two guides, Taug-",
+    "walder & ~~Ze~~ Zum Taugwald[?].",
+    "Club hut at seven."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": "struck words are scribbled out; readings uncertain"
+  },
+  {
+   "id": "b3",
+   "date": "1881-08-04",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Started from hut at ~~[illegible]~~ ^3^.45;",
+    "summit at 7.00; back at",
+    "Zermatt at 3.30, very",
+    "laborious and rather",
+    "dangerous, but I am",
+    "not very tired. Am in",
+    "excellent training."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": "'3' written above an overwritten digit; '7.00' also appears overwritten"
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from reverse of leaf; ignored"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Alexander",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "The Gardiners",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Baylies",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Kennedys",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Taugwalder",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Zum Taugwald",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   "Zermatt",
+   "Matterhorn",
+   "Club hut"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "medium",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

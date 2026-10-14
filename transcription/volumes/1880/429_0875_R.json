@@ -1,0 +1,68 @@
+{
+ "frame": "429_0875",
+ "half": "R",
+ "volume": "1880",
+ "page_type": "diary-day",
+ "dates": [
+  "1880-03-13"
+ ],
+ "printed": {
+  "headers": [
+   "March, Saturday 13. 1880."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1880-03-13",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "~~D~~ Went over to Cambridge",
+    "to ~~th~~ see the sparring and",
+    "wrestling. Came back in",
+    "afternoon, and drove in",
+    "town with my beloved",
+    "darling to a dinner at",
+    "the Amory's."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "false starts struck at line beginnings"
+  }
+ ],
+ "marks": [
+  {
+   "kind": "ink-blot",
+   "value": null,
+   "position": "top",
+   "note": "small mark at right end of first line"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Amory's",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   "Cambridge"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

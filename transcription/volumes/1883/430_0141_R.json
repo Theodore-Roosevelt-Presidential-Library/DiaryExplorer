@@ -1,0 +1,104 @@
+{
+ "frame": "430_0141",
+ "half": "R",
+ "volume": "1883",
+ "page_type": "diary-day",
+ "dates": [
+  "1883-10-02"
+ ],
+ "printed": {
+  "headers": [
+   "OCTOBER 2 Tuesday"
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1883-10-02",
+   "kind": "heading",
+   "position": "top",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "sept 30th"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "printed 'OCTOBER 2 Tuesday' struck through in ink; TR's date written to its left"
+  },
+  {
+   "id": "b2",
+   "date": "1883-10-02",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Shot 7 sharptail grouse;",
+    "very heavy frost last",
+    "night. Hard days journey;",
+    "cold and windy; roads",
+    "heavy; one of the",
+    "team played out and",
+    "we had to put",
+    "Spleit-ear in the",
+    "harness. It was after",
+    "dark when we went",
+    "into camp among",
+    "the fantastic \"medicine",
+    "buttes\"; a most picturesque",
+    "camp, blazing pitch",
+    "pine fire, in a ~~angle~~",
+    "angle of a sandstone",
+    "cliff, under pine trees."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "b3",
+   "date": "1883-10-02",
+   "kind": "tally",
+   "position": "bottom",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "7 sharptail grouse"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from reverse of leaf, ignored"
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [
+   "medicine buttes"
+  ],
+  "dates": [
+   "sept 30th"
+  ]
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "printed header struck through by TR and replaced with 'sept 30th'",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

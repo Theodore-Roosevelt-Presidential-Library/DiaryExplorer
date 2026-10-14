@@ -1,0 +1,91 @@
+{
+ "frame": "429_0820",
+ "half": "R",
+ "volume": "1879",
+ "page_type": "diary-day",
+ "dates": [
+  "1879-12-29"
+ ],
+ "printed": {
+  "headers": [
+   "Monday, December 29, 1879."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1879-12-29",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Jack Kinsford[?], Ell",
+    "Whitney & myself showed",
+    "the three Chestnut Hill",
+    "girls about town in the",
+    "morning; we all lunched",
+    "at Ulert[?] and Hillys[?];",
+    "In the evening Aunt",
+    "Lizzie gave us a theatre",
+    "party, and we had an",
+    "uproariously jolly time"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": null
+  }
+ ],
+ "marks": [
+  {
+   "kind": "archival-page-number",
+   "value": "567[?]",
+   "position": "top",
+   "note": "pencil folio number, partly obscured by header rule"
+  },
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from reverse of leaf; ignored"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Jack Kinsford[?]",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Ell Whitney",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Aunt Lizzie",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   {
+    "as_written": "Chestnut Hill",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "medium",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

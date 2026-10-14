@@ -1,0 +1,108 @@
+{
+ "frame": "429_0988",
+ "half": "L",
+ "volume": "1880",
+ "page_type": "diary-day",
+ "dates": [
+  "1880-11-01"
+ ],
+ "printed": {
+  "headers": [
+   "November, Monday 1. 1880."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1880-11-01",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "We are all alone in the",
+    "comfortable country house,",
+    "with it's roaring wood",
+    "fires and warm rooms,",
+    "and it's beautiful",
+    "autumn weather. Mary",
+    "Ann & Kate are model",
+    "servants; and the old",
+    "negro Davis (who al-",
+    "ways alludes to Alice",
+    "as \"the good lady\")",
+    "takes excellent care of",
+    "the horse. The horse, by the",
+    "way, and a dear,",
+    "clumsy, handsome colly dog",
+    "Dare by name, are",
+    "really friends, as much",
+    "as if they were human;",
+    "and besides them we",
+    "have an idiotic small",
+    "calf and a melan-",
+    "-choly ^cat^ calf, ^both of^ which Baby",
+    "can never resist teasing.",
+    "It is impossible to"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "\"cat\" written above \"calf\" in line 22, which appears blotted/possibly cancelled; \"both of\" inserted above with caret. Entry continues on next page."
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "faint mirrored writing from reverse"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Mary Ann",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Kate",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Davis",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Alice",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Dare",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Baby",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

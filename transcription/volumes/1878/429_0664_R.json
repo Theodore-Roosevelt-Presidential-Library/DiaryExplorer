@@ -1,0 +1,80 @@
+{
+ "frame": "429_0664",
+ "half": "R",
+ "volume": "1878",
+ "page_type": "diary-day",
+ "dates": [
+  "1878-12-29"
+ ],
+ "printed": {
+  "headers": [
+   "December, Sunday 29. 1878."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1878-12-29",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Went to Church. In",
+    "afternoon took a",
+    "long tramp with",
+    "Jack. He is the",
+    "best companion",
+    "on a trip of this",
+    "kind I know.",
+    "I always enjoy",
+    "these winter excursions",
+    "to Oyster Bay so",
+    "much. The shooting",
+    "though very poor",
+    "is great fun, and",
+    "after the cold",
+    "and fatigue, of the",
+    "day, one appreciates",
+    "so a warm supper and",
+    "rousing wood fire.",
+    "Snowed in the night"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "last line written smaller below the final ruled line, possibly added later"
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "faint mirrored writing from other side of leaf; ignored"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Jack",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   "Oyster Bay"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

@@ -1,0 +1,65 @@
+{
+ "frame": "429_0896",
+ "half": "L",
+ "volume": "1880",
+ "page_type": "diary-day",
+ "dates": [
+  "1880-04-23"
+ ],
+ "printed": {
+  "headers": [
+   "April, Friday 23. 1880."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1880-04-23",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "I drove back to Cambridge",
+    "in the morning, returning",
+    "to Chestnut Hill in the",
+    "afternoon. In the evening",
+    "we play whist, read, or the",
+    "girls play on the piano; and",
+    "I generally have an hour or",
+    "two by ~~hin~~[?] myself with my",
+    "own sweet little queen."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": "a short word before 'myself' appears cancelled/overwritten; reading uncertain"
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "faint mirrored writing from reverse"
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [
+   "Cambridge",
+   "Chestnut Hill"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

@@ -1,0 +1,71 @@
+{
+ "frame": "429_0943",
+ "half": "R",
+ "volume": "1880",
+ "page_type": "diary-day",
+ "dates": [
+  "1880-08-21880"
+ ],
+ "printed": {
+  "headers": [
+   "AUGUST, MONDAY 2. 1880."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1880-08-21880",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "The Welds are just",
+    "too sweet to us for any-",
+    "thing. In the evening,",
+    "if we can't go out on",
+    "the rocks, Alice and I",
+    "generally retire to the",
+    "kitchen by ourselves."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "faint ink"
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from reverse of leaf ignored"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "the Welds",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Alice",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

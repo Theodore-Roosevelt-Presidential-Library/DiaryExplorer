@@ -1,0 +1,58 @@
+{
+ "frame": "429_0917",
+ "half": "R",
+ "volume": "1880",
+ "page_type": "diary-day",
+ "dates": [
+  "1880-06-05"
+ ],
+ "printed": {
+  "headers": [
+   "June, Saturday 5. 1880."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1880-06-05",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Spent the day with my",
+    "darling, reading aloud &c;",
+    "I drove ^took^ her a long and",
+    "very beautiful drive in",
+    "the cart."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": "'took' written above 'drove'; no clear cancellation stroke through 'drove' is visible on the film, though it was probably meant as a replacement."
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "Mirrored/ghost text from other leaves below the entry."
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

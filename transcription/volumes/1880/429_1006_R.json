@@ -1,0 +1,103 @@
+{
+ "frame": "429_1006",
+ "half": "R",
+ "volume": "1880",
+ "page_type": "diary-day",
+ "dates": [
+  "1880-12-12"
+ ],
+ "printed": {
+  "headers": [
+   "December, Sunday 12. 1880."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1880-12-12",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "I love Sunday; we",
+    "breakfast late in our",
+    "morning dresses and",
+    "jackets. We then go to",
+    "church; come home to",
+    "dinner; in the after-",
+    "noon I walk with",
+    "Alice, or if it is bad",
+    "weather stay in the",
+    "house with her; at tea",
+    "West, Hillborne, Uncle",
+    "Jimmie and Aunt",
+    "Annie appear; then I",
+    "go down to the News",
+    "Boys; and when I",
+    "return to the house, spend",
+    "the rest of the evening",
+    "with the dear family.",
+    "My purest saintliest",
+    "little darling has joined",
+    "the church. Now we are",
+    "one in everything. My",
+    "cup of happiness is",
+    "almost running over."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "\"everything\" underlined in original; \"Hillborne\" reading medium"
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "faint mirrored writing from reverse of leaf, ignored"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Alice",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "West",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Hillborne",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Uncle Jimmie",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Aunt Annie",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

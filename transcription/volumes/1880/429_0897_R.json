@@ -1,0 +1,92 @@
+{
+ "frame": "429_0897",
+ "half": "R",
+ "volume": "1880",
+ "page_type": "diary-day",
+ "dates": [
+  "1880-04-26"
+ ],
+ "printed": {
+  "headers": [
+   "April, Monday 26. 1880."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1880-04-26",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "In the morning Alice studied and",
+    "practised music a couple of hours,",
+    "while I pumped the water up and studied;",
+    "then we played tennis; then she sewed",
+    "while I read Prescotts Conquest of",
+    "Peru aloud. In the afternoon I",
+    "took my sweet, sunny faced",
+    "darling for a three hours ride",
+    "in my dog cart, all round the country,",
+    "way up to Dedham and the Blue",
+    "Hills. After tea I read aloud",
+    "to Bella and Georgie, romped with",
+    "them, and told them stories - the",
+    "other girls all coming in as",
+    "auditors. Played whist till",
+    "nine oclock; then spent an hour",
+    "alone with my sweet queen.",
+    "This is a fair sample of my",
+    "days; and no wonder I am",
+    "supremely happy."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "faint mirrored writing from reverse"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Alice",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Bella",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Georgie",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   "Dedham",
+   "the Blue Hills"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

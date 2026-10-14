@@ -1,0 +1,77 @@
+{
+ "frame": "430_0066",
+ "half": "L",
+ "volume": "1881",
+ "page_type": "diary-day",
+ "dates": [
+  "1881-10-31",
+  "1881-11-01",
+  "1881-11-02"
+ ],
+ "printed": {
+  "headers": [
+   "October, Monday 31. 1881.",
+   "November, Tuesday 1.",
+   "Wednesday 2."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1881-11-01",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "All my friends stand",
+    "by me like trumps,",
+    "except Al, Em &",
+    "Uncle Jim."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": "'stand' runs to the right edge of the page; final letter partly cut off at the edge."
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from reverse of leaf"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Al",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Em",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Uncle Jim",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "medium",
+ "transcriber_notes": "refilm of 430_0061",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

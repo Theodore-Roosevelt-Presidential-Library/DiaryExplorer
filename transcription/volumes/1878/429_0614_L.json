@@ -1,0 +1,90 @@
+{
+ "frame": "429_0614",
+ "half": "L",
+ "volume": "1878",
+ "page_type": "diary-day",
+ "dates": [
+  "1878-09-11"
+ ],
+ "printed": {
+  "headers": [
+   "SEPTEMBER, WEDNESDAY 11. 1878."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1878-09-11",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "In the morning Emlen",
+    "and I paddled about",
+    "Mattawomkeag Lake in",
+    "the canoe; I had two",
+    "or three shots with the",
+    "rifle at a loon which",
+    "was over a hundred",
+    "yards off, and came",
+    "pretty close to him.",
+    "In the afternoon Em &",
+    "I tramped about ten",
+    "miles through the woods",
+    "after partridges; we saw",
+    "~~but~~ ^only^ one bird but enjoyed",
+    "the walk very much; he",
+    "and I are great companions",
+    "and he is a true friend.",
+    "1 partridge. (ruffed grouse)."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": "Word at start of line 14 appears struck/overwritten with 'only' above; struck word reading uncertain."
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored show-through ignored"
+  },
+  {
+   "kind": "other",
+   "value": null,
+   "position": "top",
+   "note": "short dashed ink mark beneath printed 'WEDNESDAY' in heading"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Emlen",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Em",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   "Mattawomkeag Lake"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "medium",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

@@ -1,0 +1,114 @@
+{
+ "frame": "430_0025",
+ "half": "R",
+ "volume": "1881",
+ "page_type": "diary-day",
+ "dates": [
+  "1881-04-01",
+  "1881-04-02",
+  "1881-04-03"
+ ],
+ "printed": {
+  "headers": [
+   "April, Friday 1. 1881.",
+   "Saturday 2.",
+   "Sunday 3."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1881-04-01",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Took Edith to drive,"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "b2",
+   "date": "1881-04-02",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Dinner Party; sat be-",
+    "tween Maria[?] Potter &",
+    "Christine Kean; after-",
+    "wards called to Lulu",
+    "McAllister. Pleasantest one I",
+    "have been to this winter."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": "'Maria' and 'Kean' uncertain"
+  },
+  {
+   "id": "b3",
+   "date": "1881-04-03",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "~~Dinner party~~"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "struck through"
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "faint mirrored writing from reverse of leaf; ignored"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Edith",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Maria[?] Potter",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Christine Kean",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Lulu McAllister",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "medium",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

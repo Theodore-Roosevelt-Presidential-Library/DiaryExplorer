@@ -1,0 +1,85 @@
+{
+ "frame": "429_0584",
+ "half": "L",
+ "volume": "1878",
+ "page_type": "diary-day",
+ "dates": [
+  "1878-07-25"
+ ],
+ "printed": {
+  "headers": [
+   "July, Thursday 25. 1878."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1878-07-25",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Went in town;",
+    "called on poor",
+    "Cassin[?]. In evening",
+    "came out here to",
+    "the Dickeys; I like",
+    "them ever so much,",
+    "they are so sweet",
+    "and homelike.",
+    "Honest old Charles",
+    "Dickey is coming",
+    "to Harvard next",
+    "year, and I shall",
+    "do the best I",
+    "can for him."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": "Name in line 3 uncertain."
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "faint mirrored writing from reverse"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Cassin[?]",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "the Dickeys",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Charles Dickey",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   "Harvard"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "medium",
+ "transcriber_notes": "Previous frame ends at July 22; the July 23-24 opening does not appear in this batch.",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

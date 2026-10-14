@@ -1,0 +1,130 @@
+{
+ "frame": "430_0038",
+ "half": "R",
+ "volume": "1881",
+ "page_type": "diary-day",
+ "dates": [
+  "1881-06-18",
+  "1881-06-19",
+  "1881-06-20"
+ ],
+ "printed": {
+  "headers": [
+   "June, Saturday 18. 1881.",
+   "Sunday 19.",
+   "Monday 20."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1881-06-18",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "after some slight",
+    "misadventures arrived",
+    "at Venice, very dirty",
+    "& rather tired. But",
+    "Venice is loveliest[?] place",
+    "we have been to yet; fairy."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": "'very dirty' and 'tired' appear underlined; 'loveliest' uncertain"
+  },
+  {
+   "id": "b2",
+   "date": "1881-06-19",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Hotel Danielli; old",
+    "Palace; lovely rooms",
+    "facing San Giorgio",
+    "Majore & Liddo. In",
+    "evening rowed through",
+    "the water-streets.",
+    "Beautiful,"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "b3",
+   "date": "1881-06-20",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "In the morning to see",
+    "Titians master piece;",
+    "then through palace of",
+    "doges. In evening",
+    "in gondola to the",
+    "Liddo. Then to Piazza",
+    "San Marco to hear Music."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "faint mirrored writing from reverse of leaf; ignored"
+  },
+  {
+   "kind": "ink-blot",
+   "value": null,
+   "position": "right-margin",
+   "note": "large round blot beside Sunday 19 entry"
+  },
+  {
+   "kind": "other",
+   "value": null,
+   "position": "left-margin",
+   "note": "metal clasp/ribbon visible at top left"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Titian",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   "Venice",
+   "Hotel Danielli",
+   "San Giorgio Majore",
+   "Liddo",
+   "palace of doges",
+   "Piazza San Marco"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "medium",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

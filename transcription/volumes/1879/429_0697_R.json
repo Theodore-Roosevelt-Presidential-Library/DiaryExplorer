@@ -1,0 +1,83 @@
+{
+ "frame": "429_0697",
+ "half": "R",
+ "volume": "1879",
+ "page_type": "diary-day",
+ "dates": [
+  "1879-03-06"
+ ],
+ "printed": {
+  "headers": [
+   "Thursday, March 6, 1879."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1879-03-06",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Seawall, Dow and I",
+    "started with a pung",
+    "and a shaggy, lean horse",
+    "for a logging camp 30",
+    "miles distant, reaching",
+    "it after dusk. When we",
+    "started the thermometer was",
+    "10° below zero, but I was too",
+    "well wrapped up to heed",
+    "the cold. The roads were",
+    "frightful; none but a",
+    "backwoods horse could travel",
+    "them. I saw several flocks",
+    "of snow buntings, a red",
+    "crossbill and a small",
+    "party of grosbeaks which",
+    "were very tame and",
+    "confiding. I also saw the tracks of",
+    "a mouse - probably hesperomys."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  }
+ ],
+ "marks": [
+  {
+   "kind": "archival-page-number",
+   "value": "38",
+   "position": "top",
+   "note": "pencil, top right"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Seawall",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Dow",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

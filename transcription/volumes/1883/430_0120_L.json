@@ -1,0 +1,98 @@
+{
+ "frame": "430_0120",
+ "half": "L",
+ "volume": "1883",
+ "page_type": "diary-day",
+ "dates": [
+  "1883-08-22"
+ ],
+ "printed": {
+  "headers": [
+   "AUGUST 22 Wednesday"
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1883-08-22",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Lowering and cloud[y]",
+    "very heavy wheeling.",
+    "M. & I rode off; skirting",
+    "some deep, branching",
+    "brush bottomed coolies",
+    "we spied a white tail",
+    "buck feeding; I shot",
+    "him through both",
+    "shoulders at a hundred",
+    "yards; good horns, but",
+    "still in velvet. Also",
+    "2 sage hens; all with",
+    "Winchester. Camped at",
+    "extremely muddy pool in",
+    "dried creek, early (at 3 in",
+    "afternoon); we needed to dry our",
+    "things; first place to water our",
+    "horses; only made 12 miles, through",
+    "the deep, heavy, water soaked soil.",
+    "Went through rolling prairie, [illegible]",
+    "and then in the abruptly ^broken^ and fantas-",
+    "tically shaped Bad Lands. No lun[ch][?]"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": "1884 entry (no date written by TR). Words at right edge partly lost in binding. Heavy show-through."
+  },
+  {
+   "id": "b2",
+   "date": "1883-08-22",
+   "kind": "tally",
+   "position": "bottom",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "1 white tail buck. 2 sage grouse"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": null
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "M.",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   "Bad Lands"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "medium",
+ "transcriber_notes": "Printed 1883 heading reused in 1884.",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

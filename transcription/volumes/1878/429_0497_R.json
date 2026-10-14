@@ -1,0 +1,38 @@
+{
+ "frame": "429_0497",
+ "half": "R",
+ "volume": "1878",
+ "page_type": "diary-day",
+ "dates": [
+  "1878-02-10"
+ ],
+ "printed": {
+  "headers": [
+   "February, Sunday 10. 1878."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "faint grey text reading normally, identical to the Feb 12 entry ('He has just been buried...'); judged ink offset seen through the leaf, not writing on this page"
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": false,
+ "confidence": "medium",
+ "transcriber_notes": "Page appears blank. Faint non-mirrored grey text matches Feb 12 entry word for word, so treated as offset/show-through, not transcribed. Reviewer should confirm.",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

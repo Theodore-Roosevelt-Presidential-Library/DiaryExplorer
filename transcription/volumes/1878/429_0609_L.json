@@ -1,0 +1,82 @@
+{
+ "frame": "429_0609",
+ "half": "L",
+ "volume": "1878",
+ "page_type": "diary-day",
+ "dates": [
+  "1878-09-01"
+ ],
+ "printed": {
+  "headers": [
+   "SEPTEMBER, SUNDAY 1. 1878."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1878-09-01",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "I had a long talk",
+    "with Uncle Jim",
+    "about my future",
+    "life; I have absolute-",
+    "-ly no idea what",
+    "I shall do when",
+    "I leave college.",
+    "Oh, Father, my",
+    "Father no words",
+    "can tell how I",
+    "shall miss your",
+    "counsel and ad-",
+    "-vice!",
+    "However for the next",
+    "two years my duty is",
+    "clear - to study well",
+    "and live like a brave",
+    "Christian gentleman"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "Last words of the final lines run to the gutter edge; any final punctuation not visible."
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from reverse of leaf; ignored"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Uncle Jim",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Father",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

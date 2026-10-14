@@ -1,0 +1,71 @@
+{
+ "frame": "429_0843",
+ "half": "L",
+ "volume": "1880",
+ "page_type": "diary-day",
+ "dates": [
+  "1880-01-08"
+ ],
+ "printed": {
+  "headers": [
+   "January, Thursday 8. 1880."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1880-01-08",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Went to the Harvard Assembly,",
+    "dancing the german with",
+    "Julia Bacon. Met two very",
+    "sweet, pretty girls from",
+    "Albany - the Miss. Rathbones."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "'Miss.' written with long-s form ('Mifs.')."
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from reverse of leaf"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Julia Bacon",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Miss. Rathbones",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   "Albany"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

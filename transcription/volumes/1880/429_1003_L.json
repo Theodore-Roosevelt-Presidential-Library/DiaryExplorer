@@ -1,0 +1,92 @@
+{
+ "frame": "429_1003",
+ "half": "L",
+ "volume": "1880",
+ "page_type": "diary-day",
+ "dates": [
+  "1880-12-03"
+ ],
+ "printed": {
+  "headers": [
+   "December, Friday 3. 1880."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1880-12-03",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "We had a very large",
+    "dinner party; I sat be-",
+    "tween Mrs. Newbold &",
+    "Mrs. Astor; & also talked",
+    "a good deal to Mrs.",
+    "Cutting & Mrs. Potter.",
+    "Enjoyed it very much;",
+    "I like Astor & Cutting."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "faint mirrored writing from reverse"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Mrs. Newbold",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Mrs. Astor",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Mrs. Cutting",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Mrs. Potter",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Astor",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Cutting",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

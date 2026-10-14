@@ -1,0 +1,121 @@
+{
+ "frame": "430_0041",
+ "half": "R",
+ "volume": "1881",
+ "page_type": "diary-day",
+ "dates": [
+  "1881-07-06",
+  "1881-07-07",
+  "1881-07-08"
+ ],
+ "printed": {
+  "headers": [
+   "July, Wednesday 6. 1881.",
+   "Thursday 7.",
+   "Friday 8."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1881-07-06",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Later news say Garfield is",
+    "not dead. This means",
+    "work in the future for",
+    "all men who wish",
+    "their country well."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "b2",
+   "date": "1881-07-07",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Crossed the snow-covered",
+    "Stelvio; very grand.",
+    "After we had crossed",
+    "summit heavy rains",
+    "washed away road, hem-",
+    "ming us in, and we turned",
+    "back & spent night at Trafoi."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "b3",
+   "date": "1881-07-08",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Into the Adige valley. Lunched",
+    "by the Haider[?] See; most a-",
+    "musing inquisitive german",
+    "hostess. Are staying at Hoch-",
+    "Finstermunz, by superb gorge.",
+    "Lombardino knows no german;",
+    "so I have to translate for him."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": null
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from reverse of leaf; ignored"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Garfield",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Lombardino",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   "Stelvio",
+   "Trafoi",
+   "Adige valley",
+   "Haider See",
+   "Hoch-Finstermunz"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "medium",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

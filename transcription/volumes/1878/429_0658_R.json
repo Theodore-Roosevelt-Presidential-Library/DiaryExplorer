@@ -1,0 +1,88 @@
+{
+ "frame": "429_0658",
+ "half": "R",
+ "volume": "1878",
+ "page_type": "diary-day",
+ "dates": [
+  "1878-12-15"
+ ],
+ "printed": {
+  "headers": [
+   "December, Sunday 15. 1878."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1878-12-15",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "This week everything",
+    "seems to conspire to re-",
+    "-mind me of Father. The",
+    "whole Sunday School went",
+    "to the funeral of one of",
+    "the children. When",
+    "the coffin came into",
+    "church, it recalled the~~x~~",
+    "day when I saw the",
+    "body of him I loved dearest",
+    "carried so, with such",
+    "vividness that it",
+    "almost unmanned",
+    "me. I was afraid",
+    "I should break down in",
+    "church. It has made",
+    "me feel very homesick"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "cancelled stroke after 'the' at end of line 8; entry continues beyond this page"
+  }
+ ],
+ "marks": [
+  {
+   "kind": "stain",
+   "value": null,
+   "position": "body",
+   "note": "grey stain over upper lines"
+  },
+  {
+   "kind": "ink-blot",
+   "value": null,
+   "position": "body",
+   "note": "ink spot at left margin, line 3"
+  },
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "faint mirrored writing from other side of leaf; ignored"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Father",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

@@ -1,0 +1,68 @@
+{
+ "frame": "429_0861",
+ "half": "R",
+ "volume": "1880",
+ "page_type": "diary-day",
+ "dates": [
+  "1880-02-14"
+ ],
+ "printed": {
+  "headers": [
+   "February, Saturday 14. 1880."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1880-02-14",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Drove back to Cambridge in",
+    "the morning, announced my",
+    "engagement to the Club, and",
+    "\"set up\" champagne. In the",
+    "evening went to a leap year",
+    "party at the Fishes[?]."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "Family name at end uncertain (Fishes/Fiskes)."
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "faint mirrored writing from reverse"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Fishes[?]",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   "Cambridge",
+   "the Club"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

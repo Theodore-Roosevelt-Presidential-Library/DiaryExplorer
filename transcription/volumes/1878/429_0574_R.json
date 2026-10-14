@@ -1,0 +1,79 @@
+{
+ "frame": "429_0574",
+ "half": "R",
+ "volume": "1878",
+ "page_type": "diary-day",
+ "dates": [
+  "1878-07-06"
+ ],
+ "printed": {
+  "headers": [
+   "July, Saturday 6. 1878."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1878-07-06",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Rowed around",
+    "Centre Island. 8 miles",
+    "Started 8.[?]1; Plum",
+    "Pt 9.15; ~~Pine~~ Centre",
+    "Island neck 10.00;",
+    "returned 10.33.",
+    "The portage took",
+    "14 minutes, and",
+    "the tide was",
+    "so low I had to",
+    "make a circuit",
+    "of half a mile.",
+    "Shot the rifle",
+    "with Alfred in",
+    "the afternoon,",
+    "beating him by",
+    "54 to 18."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "Middle digit of start time overwritten (3 or 5)."
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "faint mirrored writing from reverse of leaf; ignored"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Alfred",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   "Centre Island",
+   "Plum Pt"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

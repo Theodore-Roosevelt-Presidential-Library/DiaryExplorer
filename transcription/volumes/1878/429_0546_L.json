@@ -1,0 +1,92 @@
+{
+ "frame": "429_0546",
+ "half": "L",
+ "volume": "1878",
+ "page_type": "diary-day",
+ "dates": [
+  "1878-05-12"
+ ],
+ "printed": {
+  "headers": [
+   "May, Sunday 12. 1878."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1878-05-12",
+   "kind": "heading",
+   "position": "top",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Orange, N.J."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "b2",
+   "date": "1878-05-12",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Had a lovely",
+    "quiet Sunday.",
+    "I have not",
+    "been here for",
+    "many years;",
+    "then my loved",
+    "Father was",
+    "with me.",
+    "All the family",
+    "seem to be looking",
+    "very well. It does",
+    "me positive good,",
+    "morally and mentally,",
+    "to be with them",
+    "even for a short",
+    "time."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": "upper lines heavily overlaid by show-through"
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from other side of leaf / facing page ignored"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Father",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   "Orange, N.J."
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "medium",
+ "transcriber_notes": "Frame duplicates 429_0545 (same page refilmed); transcription repeated.",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

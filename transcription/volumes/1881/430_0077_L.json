@@ -1,0 +1,79 @@
+{
+ "frame": "430_0077",
+ "half": "L",
+ "volume": "1881",
+ "page_type": "memoranda",
+ "dates": [],
+ "printed": {
+  "headers": [],
+  "title": "Memoranda.",
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": null,
+   "kind": "heading",
+   "position": "top",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Trip. Abroad"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "b2",
+   "date": null,
+   "kind": "table",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "s d",
+    "May 20th: Doctor & Fees £[?]8.",
+    "\" 22d Hotel (2days) 4 8 8",
+    "\" Parasol &c, & Fees 2 11 4",
+    "\" 23d Fares[?] &c 1 5 0",
+    "\" 24th Hotel Bill 7 1 10",
+    "\" \" Charity, Fees &c 3 13 2",
+    "\" 25th Fares &c 4 — 0",
+    "\" 26th, Excursion 2 0 0",
+    "\" \" Bill 4 0 0",
+    "\" 28th 45 9",
+    "June 1st–10th: Presents 20",
+    "\" Amusements 30",
+    "\" Travelling 50[?]",
+    "June 10th"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": "Pounds/shillings/pence columns; '£8' appears overwritten. Total '45 9' ruled above and below. 'Fares' on 23d uncertain."
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from reverse of leaf"
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "medium",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

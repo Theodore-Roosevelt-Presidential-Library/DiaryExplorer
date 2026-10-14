@@ -1,0 +1,113 @@
+{
+ "frame": "429_0757",
+ "half": "R",
+ "volume": "1879",
+ "page_type": "diary-day",
+ "dates": [
+  "1879-08-19"
+ ],
+ "printed": {
+  "headers": [
+   "Tuesday, August 19, 1879."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1879-08-19",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Went in to New York.",
+    "I wonder if there",
+    "could be two better",
+    "guardians than Uncle",
+    "Jim Roosevelt and",
+    "Uncle Jimmie Gracie!",
+    "I can't imagine it.",
+    "I dined at the",
+    "University Club with",
+    "Robinson, Haddon,",
+    "Stratton, Sedgwick",
+    "and Kingsford. We",
+    "had a very jolly",
+    "dinner; they are",
+    "all capital fellows."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  }
+ ],
+ "marks": [
+  {
+   "kind": "archival-page-number",
+   "value": "153",
+   "position": "top",
+   "note": null
+  },
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from reverse of leaf; ignored"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Uncle Jim Roosevelt",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Uncle Jimmie Gracie",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Robinson",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Haddon",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Stratton",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Sedgwick",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Kingsford",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   "New York",
+   "University Club"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

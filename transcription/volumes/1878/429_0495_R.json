@@ -1,0 +1,44 @@
+{
+ "frame": "429_0495",
+ "half": "R",
+ "volume": "1878",
+ "page_type": "diary-day",
+ "dates": [
+  "1878-02-06"
+ ],
+ "printed": {
+  "headers": [
+   "FEBRUARY, WEDNESDAY 6. 1878."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "Mirrored writing from the reverse (February 7 page) at top; nothing written for February 6"
+  },
+  {
+   "kind": "stain",
+   "value": null,
+   "position": "right-margin",
+   "note": "grey band along right edge"
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": false,
+ "confidence": "high",
+ "transcriber_notes": "Blank day; only mirrored show-through visible.",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

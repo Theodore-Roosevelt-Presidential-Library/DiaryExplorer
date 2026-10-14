@@ -1,0 +1,81 @@
+{
+ "frame": "429_0767",
+ "half": "R",
+ "volume": "1879",
+ "page_type": "diary-day",
+ "dates": [
+  "1879-09-08"
+ ],
+ "printed": {
+  "headers": [
+   "Monday, September 8, 1879."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1879-09-08",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Rained hard all day. We",
+    "started early; for several hours",
+    "it was rapid, shoal water,",
+    "through which we waded, drag-",
+    "-ging the heavy dugout over",
+    "the rocks and shallows; then we",
+    "got into deeper, dead water,",
+    "but this was nearly as bad",
+    "owing to the beaver dams",
+    "and log jams, which we had",
+    "to cut through or pull round.",
+    "There were some falls we had to",
+    "get up, taking every thing out of",
+    "the boat; then we poled up through",
+    "more dead water; then paddled",
+    "through the lower Munsungun Lake,",
+    "& half way up the middle one, where we",
+    "camped. Tired out, & wet through, hungry",
+    "& cold — but am having a lovely time.",
+    "But no trace of game."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "last line written below the ruled frame"
+  }
+ ],
+ "marks": [
+  {
+   "kind": "archival-page-number",
+   "value": "173",
+   "position": "top",
+   "note": null
+  },
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from reverse of leaf; ignored"
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [
+   "lower Munsungun Lake"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

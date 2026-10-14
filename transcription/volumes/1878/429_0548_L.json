@@ -1,0 +1,82 @@
+{
+ "frame": "429_0548",
+ "half": "L",
+ "volume": "1878",
+ "page_type": "diary-day",
+ "dates": [
+  "1878-05-16"
+ ],
+ "printed": {
+  "headers": [
+   "May, Thursday 16. 1878."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1878-05-16",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Walked in town",
+    "with Jack Tebbets[?].",
+    "He is a very",
+    "rough diamond; but",
+    "still, I think, a",
+    "diamond. He was",
+    "really touching",
+    "about Father;",
+    "no one who ^came^ [illegible]",
+    "in contact with",
+    "Father could pos-",
+    "-sibly help loving",
+    "and admiring him.",
+    "I have been ac-",
+    "-customed to so",
+    "implicitly rely",
+    "on him that",
+    "I sometimes feel"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": "\"came\" written above a smudged word; entry runs on to next page; surname uncertain"
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from other side of leaf / facing page ignored"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Jack Tebbets",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Father",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "medium",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

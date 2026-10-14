@@ -1,0 +1,107 @@
+{
+ "frame": "429_0966",
+ "half": "R",
+ "volume": "1880",
+ "page_type": "diary-day",
+ "dates": [
+  "1880-09-17"
+ ],
+ "printed": {
+  "headers": [
+   "September, Friday 17. 1880."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1880-09-17",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Nell and I started out",
+    "in a wagon and pair",
+    "driven by a solemn old",
+    "german, driving north",
+    "beyond the buffalo river.",
+    "We hunted grouse in",
+    "the ~~[illegible]~~ stubble fields",
+    "and ducks in the",
+    "slews; the grouse were wild,",
+    "and we only saw the",
+    "\"white bellies\" — no",
+    "chickens. I shot well,",
+    "better than Elliott.",
+    "We saw jack rabbits",
+    "for the first time; we",
+    "stopped shooting after",
+    "sunset and drove five",
+    "miles in the light of the",
+    "full moon to the",
+    "rough but comfortable house",
+    "of a settler."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "b2",
+   "date": "1880-09-17",
+   "kind": "tally",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "( 1 ~~[illegible] duck~~",
+    "1 [illegible] old drake[?]",
+    "2 dipper[?]",
+    "4 sharptail grouse 3 ducks",
+    "~~4 shar~~ 1 grebe 1 coot 1 jack rabbit",
+    "E. 5 sharptails 1 jack rabbit"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "low",
+   "note": "game tally; small cramped interlined words above '3 ducks' partly illegible"
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "faint mirrored writing from reverse"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Nell",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Elliott",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   "buffalo river"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "low",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

@@ -1,0 +1,80 @@
+{
+ "frame": "429_0707",
+ "half": "R",
+ "volume": "1879",
+ "page_type": "diary-day",
+ "dates": [
+  "1879-04-01"
+ ],
+ "printed": {
+  "headers": [
+   "Tuesday, April 1, 1879."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1879-04-01",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Otho Williams, Jim[?] Wright,",
+    "Charley Sprague and",
+    "myself had a very",
+    "pleasant game supper",
+    "in the Porc."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  }
+ ],
+ "marks": [
+  {
+   "kind": "archival-page-number",
+   "value": "55",
+   "position": "top",
+   "note": "pencil, top right"
+  },
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "heavy mirrored writing from reverse fills lower two-thirds; ignored"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Otho Williams",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Jim[?] Wright",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Charley Sprague",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

@@ -1,0 +1,77 @@
+{
+ "frame": "429_0907",
+ "half": "R",
+ "volume": "1880",
+ "page_type": "diary-day",
+ "dates": [
+  "1880-05-16"
+ ],
+ "printed": {
+  "headers": [
+   "May, Sunday 16. 1880."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1880-05-16",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Church in the morning;",
+    "then I took Cotty, Georgie,",
+    "& Bella out walking in",
+    "the woods. In the after-",
+    "-noon drove Baby darling",
+    "way through Waverly",
+    "& Belmont; a lovely drive."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "'Cotty' and 'Baby' readings slightly uncertain in letterforms but likely."
+  }
+ ],
+ "marks": [],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Cotty",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Georgie",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Bella",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Baby darling",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   "Waverly",
+   "Belmont"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

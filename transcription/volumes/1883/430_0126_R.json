@@ -1,0 +1,112 @@
+{
+ "frame": "430_0126",
+ "half": "R",
+ "volume": "1883",
+ "page_type": "diary-day",
+ "dates": [
+  "1883-09-02"
+ ],
+ "printed": {
+  "headers": [
+   "SEPTEMBER 2 Sunday"
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": null,
+   "kind": "heading",
+   "position": "over-printed-title",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Aug 31st"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "Written after struck printed \"SEPTEMBER\"."
+  },
+  {
+   "id": "b2",
+   "date": null,
+   "kind": "marginalia",
+   "position": "top",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "[illegible] post[?]"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "low",
+   "note": "Small faint writing left of the printed month."
+  },
+  {
+   "id": "b3",
+   "date": "1883-09-02",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Kept on up Clear Creek;",
+    "camped about six miles",
+    "~~before~~ N.W.[?] of the little",
+    "town of Buffalo (before reaching",
+    "it). Country still treeless,",
+    "broken & rolling; many",
+    "ranches, some well",
+    "built. Have for last",
+    "three days been in",
+    "sight of the snow streaked",
+    "Bighorn Mts. Made a",
+    "good shot with the",
+    "rifle at a jackrabbit,",
+    "cutting him nearly in",
+    "two at about 75 yds."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": "Entry for 31 Aug 1884 per TR's heading. Compass abbreviation after struck \"before\" unclear; an \"E\" appears written above it."
+  },
+  {
+   "id": "b4",
+   "date": "1883-09-02",
+   "kind": "tally",
+   "position": "bottom",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "jack rabbit"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  }
+ ],
+ "marks": [],
+ "mentions": {
+  "people": [],
+  "places": [
+   "Clear Creek",
+   "Buffalo",
+   "Bighorn Mts."
+  ],
+  "dates": [
+   "Aug 31st [1884]"
+  ]
+ },
+ "has_tr_writing": true,
+ "confidence": "medium",
+ "transcriber_notes": "Printed 1883 heading reused in 1884.",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

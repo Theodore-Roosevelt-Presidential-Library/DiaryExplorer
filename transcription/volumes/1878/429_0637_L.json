@@ -1,0 +1,107 @@
+{
+ "frame": "429_0637",
+ "half": "L",
+ "volume": "1878",
+ "page_type": "diary-day",
+ "dates": [
+  "1878-10-27"
+ ],
+ "printed": {
+  "headers": [
+   "October, Sunday 27. 1878."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1878-10-27",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "My twentieth birth-",
+    "day. Lovely though",
+    "it is to be spendin[?]",
+    "it with darling",
+    "Muffie, Bysie and",
+    "Pussie[?], I can",
+    "not help having",
+    "some very sad",
+    "thoughts about",
+    "my beloved Father.",
+    "Oh, Father, sometimes",
+    "I feel as though",
+    "I would give",
+    "half my life to",
+    "see you but",
+    "for a moment!",
+    "Oh, what loving memories",
+    "I have of you!"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": "'Pussie' begins with a B-like overstroke; reading uncertain. 'spendin' runs to the page edge."
+  },
+  {
+   "id": "b2",
+   "date": "1878-10-27",
+   "kind": "other",
+   "position": "bottom",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "2 pay[?] Gundrill[?]"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "low",
+   "note": "Short line squeezed at foot of page; meaning unclear."
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from reverse of leaf"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Muffie",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Bysie",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Pussie",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Father",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "medium",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

@@ -1,0 +1,78 @@
+{
+ "frame": "429_0717",
+ "half": "L",
+ "volume": "1879",
+ "page_type": "diary-day",
+ "dates": [
+  "1879-05-14"
+ ],
+ "printed": {
+  "headers": [
+   "Wednesday, May 14, 1879."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1879-05-14",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "My horse is a little",
+    "lame from yesterday's",
+    "exploits; so I could",
+    "not go to the Salton-",
+    "-stalls to dinner.",
+    "Spent the evening",
+    "in the Δ K E, drowning",
+    "my sorrows; I have",
+    "been an awful fool",
+    "to ride the horse so",
+    "hard."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": null
+  }
+ ],
+ "marks": [
+  {
+   "kind": "archival-page-number",
+   "value": null,
+   "position": "top-left",
+   "note": "pencil folio partly cut off"
+  },
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from reverse of leaf; ignored"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "the Salton-stalls",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   "Δ K E"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "medium",
+ "transcriber_notes": "Sequence jumps from April 25 (frame 0716) to May 14; intervening pages not in this frame. Lower half is mirrored show-through.",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

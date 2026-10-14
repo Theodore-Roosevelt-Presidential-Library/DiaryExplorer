@@ -1,0 +1,110 @@
+{
+ "frame": "430_0048",
+ "half": "L",
+ "volume": "1881",
+ "page_type": "diary-day",
+ "dates": [
+  "1881-08-14",
+  "1881-08-15",
+  "1881-08-16"
+ ],
+ "printed": {
+  "headers": [
+   "August, Sunday 14. 1881.",
+   "Monday 15.",
+   "Tuesday 16."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1881-08-14",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Turn-verein in full",
+    "force."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "b2",
+   "date": "1881-08-15",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Took the boat to",
+    "Cologne."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "b3",
+   "date": "1881-08-16",
+   "kind": "marginalia",
+   "position": "top",
+   "medium": "unknown",
+   "hand": "uncertain",
+   "lines": [
+    "[illegible: 2 words]"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "low",
+   "note": "faint small writing just under 'Tuesday 16' heading; hand and medium unclear"
+  },
+  {
+   "id": "b4",
+   "date": "1881-08-16",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Saw cathedral; liked it",
+    "better than any except",
+    "that at Milan."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from reverse of leaf; ignored"
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [
+   "Cologne",
+   "Milan"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "low",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

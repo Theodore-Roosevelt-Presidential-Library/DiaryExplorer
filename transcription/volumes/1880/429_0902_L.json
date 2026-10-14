@@ -1,0 +1,91 @@
+{
+ "frame": "429_0902",
+ "half": "L",
+ "volume": "1880",
+ "page_type": "diary-day",
+ "dates": [
+  "1880-05-05"
+ ],
+ "printed": {
+  "headers": [
+   "May, Wednesday 5. 1880."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1880-05-05",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "I drove Minot Weld up in",
+    "the cart to Frank Codman's",
+    "farm, at Lincoln, 12 miles",
+    "away. We spent all day",
+    "there, and had great fun.",
+    "I have certainly lived",
+    "like a prince for my last",
+    "two years in college. I have",
+    "had just as much money",
+    "as I could spend; belonged to",
+    "the Porcellian Club; have had",
+    "some capital hunting trips;",
+    "my life has been varied; I",
+    "have kept a good horse and",
+    "cart; I have had half a dozen",
+    "good and true friends in college,",
+    "and several very pleasant fam-",
+    "ilies outside; a lovely home;",
+    "I have had but little work, only",
+    "enough to give me an occupation;",
+    "and to crown all - infinitely above",
+    "everything else put together - I have",
+    "won the sweetest of girls for my wife.",
+    "No man ever had so pleasant a",
+    "college course."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "last line written below the final ruled line"
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "faint mirrored writing from reverse"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Minot Weld",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Frank Codman",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   "Lincoln"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

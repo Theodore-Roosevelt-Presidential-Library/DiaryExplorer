@@ -1,0 +1,111 @@
+{
+ "frame": "430_0015",
+ "half": "L",
+ "volume": "1881",
+ "page_type": "diary-day",
+ "dates": [
+  "1881-01-28",
+  "1881-01-29",
+  "1881-01-30"
+ ],
+ "printed": {
+  "headers": [
+   "January, Friday 28. 1881.",
+   "Saturday 29.",
+   "Sunday 30."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1881-01-28",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Dinner at the",
+    "Morans."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "b2",
+   "date": "1881-01-29",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Evening party",
+    "with juggling",
+    "& feats at Hilbornes[?]",
+    "[illegible]"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": "Last line is a smudged/blotted trace beneath the entry; may be offset rather than writing."
+  },
+  {
+   "id": "b3",
+   "date": "1881-01-30",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "A good many people",
+    "at the tea, as [illegible]",
+    "usual."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": "Ink smudging over \"many\" and around \"as\"; a smudged mark after \"as\" not readable."
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": null
+  },
+  {
+   "kind": "ink-blot",
+   "value": null,
+   "position": "body",
+   "note": "Smudges in Saturday and Sunday entries."
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Morans",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Hilbornes[?]",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "medium",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

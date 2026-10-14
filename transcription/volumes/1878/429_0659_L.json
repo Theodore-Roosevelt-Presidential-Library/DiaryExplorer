@@ -1,0 +1,79 @@
+{
+ "frame": "429_0659",
+ "half": "L",
+ "volume": "1878",
+ "page_type": "diary-day",
+ "dates": [
+  "1878-12-18"
+ ],
+ "printed": {
+  "headers": [
+   "December, Wednesday 18. 1878."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1878-12-18",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Went up to the ΔK.E",
+    "Theatricals which were",
+    "really remarkably good -",
+    "very clever and with",
+    "hardly any smut[?]. Stayed",
+    "up there till about 12. It",
+    "was a pretty wet night",
+    "and I had capital",
+    "fun. Afterwards went",
+    "up to the club where",
+    "I stayed till about 2 a.m",
+    "Otho Williams and",
+    "I, being the two",
+    "worst billiard players,",
+    "^in the Club^ have great matches",
+    "together. I like him",
+    "very much."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "'in the Club' written in left margin with a caret/mark '1' indicating insertion"
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "faint mirrored writing from other side of leaf; ignored"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Otho Williams",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   "ΔK.E",
+   "the club"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "Pages for Dec 16-17 are not in this frame sequence (0658_R is Dec 15; this is Dec 18).",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

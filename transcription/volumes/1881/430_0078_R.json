@@ -1,0 +1,76 @@
+{
+ "frame": "430_0078",
+ "half": "R",
+ "volume": "1881",
+ "page_type": "cash-account",
+ "dates": [],
+ "printed": {
+  "headers": [],
+  "title": "Cash Account—November.",
+  "description": "Ruled cash account page with Received/Paid columns"
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": null,
+   "kind": "table",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "1880",
+    "761.59",
+    "544.03",
+    "449.78",
+    "350.48",
+    "3889.80",
+    "235.55",
+    "558.07",
+    "1070.12",
+    "",
+    "133.18",
+    "7992.50"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "Column of amounts matching categories on facing page; total ruled above 7992.50. Blank line before 133.18."
+  },
+  {
+   "id": "b2",
+   "date": null,
+   "kind": "heading",
+   "position": "over-printed-title",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "1881"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "Written large over printed 'Received. Paid.' column heading."
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from reverse of leaf"
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

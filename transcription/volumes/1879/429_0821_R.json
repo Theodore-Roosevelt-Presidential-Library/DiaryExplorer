@@ -1,0 +1,86 @@
+{
+ "frame": "429_0821",
+ "half": "R",
+ "volume": "1879",
+ "page_type": "diary-day",
+ "dates": [
+  "1879-12-31"
+ ],
+ "printed": {
+  "headers": [
+   "Wednesday, December 31, 1879."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1879-12-31",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Drove Rose round the",
+    "park in a buggy; took",
+    "Alice out walking[?]; Alfred",
+    "gave the three men &",
+    "myself a lunch in the",
+    "down town club; in the",
+    "evening we had a small",
+    "party, and danced the",
+    "old year out and",
+    "drank the new year",
+    "in."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": "'walking' has a correction/overwritten letters above its start."
+  }
+ ],
+ "marks": [
+  {
+   "kind": "archival-page-number",
+   "value": "569[?]",
+   "position": "top",
+   "note": "pencil folio number, partly obscured by header rule"
+  },
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from reverse of leaf; ignored"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Rose",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Alice",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Alfred",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "medium",
+ "transcriber_notes": "Lower half shows mirrored Game Bag table from reverse; ignored.",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

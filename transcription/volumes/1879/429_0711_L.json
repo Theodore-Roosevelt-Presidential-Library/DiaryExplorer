@@ -1,0 +1,88 @@
+{
+ "frame": "429_0711",
+ "half": "L",
+ "volume": "1879",
+ "page_type": "diary-day",
+ "dates": [
+  "1879-04-08"
+ ],
+ "printed": {
+  "headers": [
+   "Tuesday, April 8, 1879."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1879-04-08",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Went to the dog show.",
+    "Lizzie Moran[?] lunched",
+    "with us. Took Annie",
+    "Murray to the rehearsal",
+    "of the Fancy Dress Ball.",
+    "Took the night train",
+    "for Boston. Both boys",
+    "have enjoyed the",
+    "holiday intensely and",
+    "so have I. Motherling",
+    "is almost well again"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": "first lines written lighter than the rest"
+  }
+ ],
+ "marks": [
+  {
+   "kind": "archival-page-number",
+   "value": "2",
+   "position": "top",
+   "note": "pencil, partly visible left of heading; probably 62"
+  },
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from reverse of leaf; ignored"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Lizzie Moran[?]",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Annie Murray",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Motherling",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   "Boston"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "medium",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

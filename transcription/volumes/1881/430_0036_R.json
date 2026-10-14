@@ -1,0 +1,130 @@
+{
+ "frame": "430_0036",
+ "half": "R",
+ "volume": "1881",
+ "page_type": "diary-day",
+ "dates": [
+  "1881-06-06",
+  "1881-06-07",
+  "1881-06-08"
+ ],
+ "printed": {
+  "headers": [
+   "June, Monday 6. 1881.",
+   "Tuesday 7.",
+   "Wednesday 8."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1881-06-06",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "~~Shopping; clothes~~.",
+    "Lunch with some of",
+    "Douglasses relations;",
+    "British Museum (beauti-",
+    "ful sculptures); dinner",
+    "at Kingsfords."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "b2",
+   "date": "1881-06-07",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "We went out on",
+    "coach to Windsor",
+    "castle; rainy but",
+    "great fun.",
+    "Dined with Chapin,",
+    "Weld & Shaw."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "b3",
+   "date": "1881-06-08",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Grosvenor Gallery;",
+    "shopping; Shaw &",
+    "Chapin to dinner"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "faint mirrored writing from reverse of leaf; ignored"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Douglas",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Kingsfords",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Chapin",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Weld",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Shaw",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   "British Museum",
+   "Windsor castle",
+   "Grosvenor Gallery"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

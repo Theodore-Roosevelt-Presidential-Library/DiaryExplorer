@@ -1,0 +1,71 @@
+{
+ "frame": "429_0592",
+ "half": "R",
+ "volume": "1878",
+ "page_type": "diary-day",
+ "dates": [
+  "1878-08-11"
+ ],
+ "printed": {
+  "headers": [
+   "August, Sunday 11. 1878."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1878-08-11",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "For ~~th~~ almost the",
+    "first time this year",
+    "I did not go to",
+    "church, thanks to",
+    "the cholera morbus.",
+    "As usual when",
+    "I have nothing",
+    "to do (a rare event,",
+    "thank fortune) I",
+    "have been think-",
+    "-ing a great",
+    "deal of Father."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "faint mirrored writing from reverse"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Father",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "Lower page shows mirrored show-through only.",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

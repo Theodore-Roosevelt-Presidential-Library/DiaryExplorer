@@ -1,0 +1,63 @@
+{
+ "frame": "430_0091",
+ "half": "L",
+ "volume": "1882",
+ "page_type": "diary-day",
+ "dates": [
+  "1882-01-10"
+ ],
+ "printed": {
+  "headers": [
+   "JANUARY 10 Tuesday"
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1882-01-10",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "I very much like my",
+    "fellow members as",
+    "a whole, especially",
+    "those from the country;",
+    "the city members are",
+    "of a much poorer",
+    "stamp, especially the",
+    "democrats, who are",
+    "mainly Irishmen",
+    "The wrangling goes",
+    "on with great",
+    "bitterness between",
+    "the Tammany and",
+    "Anti tammany",
+    "factions, while we",
+    "Republicans can",
+    "look on with indifference."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  }
+ ],
+ "marks": [],
+ "mentions": {
+  "people": [],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

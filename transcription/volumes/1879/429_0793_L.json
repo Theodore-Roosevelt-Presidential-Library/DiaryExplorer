@@ -1,0 +1,86 @@
+{
+ "frame": "429_0793",
+ "half": "L",
+ "volume": "1879",
+ "page_type": "diary-day",
+ "dates": [
+  "1879-10-31"
+ ],
+ "printed": {
+  "headers": [
+   "Friday, October 31, 1879."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1879-10-31",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Took an old gunner, \"Ramson\",",
+    "and drove off to an old",
+    "farm house about eight miles",
+    "off; spent six or seven[?] hours",
+    "walking through the woods",
+    "and stubble fields. the",
+    "quail were plenty; but",
+    "scattered easily and had to",
+    "be whistled together.",
+    "In the evening went to a",
+    "very pleasant \"All-Hallow-Een\"",
+    "party at the Swans, where we",
+    "had great fun, going through",
+    "the canonical rites and",
+    "dancing besides.",
+    "3 rabbit 3 woodcock 9 quail."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": "line 4: 'six or seven' uncertain, second word appears written 'even'; tally at foot of page"
+  }
+ ],
+ "marks": [
+  {
+   "kind": "archival-page-number",
+   "value": "317",
+   "position": "top",
+   "note": "pencil"
+  },
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from reverse of leaf; ignored"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Ramson",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "the Swans",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "medium",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

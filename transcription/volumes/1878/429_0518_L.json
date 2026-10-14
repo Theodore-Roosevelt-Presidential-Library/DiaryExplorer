@@ -1,0 +1,73 @@
+{
+ "frame": "429_0518",
+ "half": "L",
+ "volume": "1878",
+ "page_type": "diary-day",
+ "dates": [
+  "1878-03-21"
+ ],
+ "printed": {
+  "headers": [
+   "March, Thursday 21. 1878."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1878-03-21",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Sometimes, when",
+    "I by accident",
+    "think of him,",
+    "it seems utterly",
+    "impossible to",
+    "realize that I",
+    "shall never seem[?]",
+    "him again, till",
+    "we meet in",
+    "that Better Land.",
+    "It is as if part",
+    "of myself had",
+    "been taken away.",
+    "Every event of",
+    "my life is bound",
+    "up with him;",
+    "he was as pure",
+    "and unselfish"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": "Word on line 7 is smudged/overwritten; reads like \"seem\" (possibly \"see\" altered). Entry continues on next page."
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "Mirrored writing from reverse of leaf; ignored."
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [
+   "Better Land"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "medium",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

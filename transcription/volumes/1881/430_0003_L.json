@@ -1,0 +1,34 @@
+{
+ "frame": "430_0003",
+ "half": "L",
+ "volume": "1881",
+ "page_type": "printed-matter",
+ "dates": [],
+ "printed": {
+  "headers": [],
+  "title": "Calendar for 1881.",
+  "description": "Full-year calendar for 1881."
+ },
+ "handwriting": [],
+ "marks": [
+  {
+   "kind": "other",
+   "value": null,
+   "position": "body",
+   "note": "Small dark ink marks around Aug. 11 and 25 in calendar; may be accidental."
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": false,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

@@ -1,0 +1,64 @@
+{
+ "frame": "430_0092",
+ "half": "L",
+ "volume": "1882",
+ "page_type": "diary-day",
+ "dates": [
+  "1882-01-12"
+ ],
+ "printed": {
+  "headers": [
+   "JANUARY 12 Thursday"
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1882-01-12",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Again adjourned and",
+    "I went down to",
+    "New York."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "Ink blot over end of \"down\"."
+  }
+ ],
+ "marks": [
+  {
+   "kind": "ink-blot",
+   "value": null,
+   "position": "body",
+   "note": "blot on line 2"
+  },
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "faint Jan 10 text ghost"
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [
+   "New York"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

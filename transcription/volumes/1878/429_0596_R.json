@@ -1,0 +1,95 @@
+{
+ "frame": "429_0596",
+ "half": "R",
+ "volume": "1878",
+ "page_type": "diary-day",
+ "dates": [
+  "1878-08-19"
+ ],
+ "printed": {
+  "headers": [
+   "AUGUST, MONDAY 19. 1878."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1878-08-19",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Edith, Corinne",
+    "& Jack, Emlen and",
+    "I went out sailing",
+    "and took our",
+    "lunch at Yellow-",
+    "banks.",
+    "Am teaching",
+    "Jack to spar;",
+    "had a little",
+    "match with Em",
+    "and rather used",
+    "him up. He",
+    "beat me rifle",
+    "shooting."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "Line 2 '&' written run into 'Jack'."
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from reverse of leaf; ignored"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Edith",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Corinne",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Jack",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Emlen",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Em",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   "Yellowbanks"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

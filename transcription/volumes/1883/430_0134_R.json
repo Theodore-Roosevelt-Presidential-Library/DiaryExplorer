@@ -1,0 +1,94 @@
+{
+ "frame": "430_0134",
+ "half": "R",
+ "volume": "1883",
+ "page_type": "diary-day",
+ "dates": [
+  "1883-09-18"
+ ],
+ "printed": {
+  "headers": [
+   "SEPTEMBER 18 Tuesday"
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1883-09-18",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "We all three started",
+    "out on foot to beat",
+    "through the woods for",
+    "bear; walked all day,",
+    "but saw no bear. Lebo,",
+    "however, started up a",
+    "bull elk, which he",
+    "fired at and missed;",
+    "it ran across my",
+    "way and stood",
+    "behind some trees; I",
+    "could only see part",
+    "of its flank, which",
+    "I fired into; away",
+    "it started, and, running",
+    "at top speed in my",
+    "light moccasins, I",
+    "got another shot",
+    "and broke his",
+    "back."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "b2",
+   "date": "1883-09-18",
+   "kind": "tally",
+   "position": "bottom",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "1 elk."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from reverse of leaf, ignored"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Lebo",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

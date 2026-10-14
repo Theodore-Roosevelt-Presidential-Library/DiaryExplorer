@@ -1,0 +1,86 @@
+{
+ "frame": "429_0825",
+ "half": "L",
+ "volume": "1879",
+ "page_type": "memoranda",
+ "dates": [],
+ "printed": {
+  "headers": [],
+  "title": "Memoranda.",
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": null,
+   "kind": "table",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Expenditures in addition to",
+    "my regular allowance.",
+    "1877 1878 1879",
+    "Travelling 158.00 100.00 250.00",
+    "Stable 125.00 652.79",
+    "Clothes &c 27.85",
+    "Wedding Presents & clothes 190.00"
+   ],
+   "rows": [
+    [
+     "Travelling",
+     "158.00",
+     "100.00",
+     "250.00"
+    ],
+    [
+     "Stable",
+     "",
+     "125.00",
+     "652.79"
+    ],
+    [
+     "Clothes &c",
+     "",
+     "27.85",
+     ""
+    ],
+    [
+     "Wedding Presents & clothes",
+     "",
+     "",
+     "190.00"
+    ]
+   ],
+   "columns": [
+    "Item",
+    "1877",
+    "1878",
+    "1879"
+   ],
+   "confidence": "high",
+   "note": "A small mark (dot or '0') in the 1878 column on the Wedding row is not counted as a figure."
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored figures of the expense table from reverse; ignored, incl. mirrored digits at bottom left"
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

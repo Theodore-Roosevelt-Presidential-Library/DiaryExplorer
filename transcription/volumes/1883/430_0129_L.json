@@ -1,0 +1,85 @@
+{
+ "frame": "430_0129",
+ "half": "L",
+ "volume": "1883",
+ "page_type": "diary-day",
+ "dates": [
+  "1883-09-07"
+ ],
+ "printed": {
+  "headers": [
+   "SEPTEMBER 7 Friday"
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1883-09-07",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Ponies nearly done up,",
+    "so made a camp to",
+    "stretch hides, dry meat",
+    "&c.",
+    "An old bull elk,",
+    "whistling & calling,",
+    "almost came into camp",
+    "last night; today I",
+    "went off alone on",
+    "foot to trail him",
+    "up; was absent all",
+    "day but never saw",
+    "him; shot a rabbit",
+    "and a grouse on",
+    "the way home. Rubber[?]",
+    "wagon sheet makes",
+    "pretty good tents[?]."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": null
+  },
+  {
+   "id": "b2",
+   "date": "1883-09-07",
+   "kind": "tally",
+   "position": "bottom",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "1 red[?] rabbit; 1 blue grouse"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": null
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from reverse of leaf, ignored"
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "medium",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

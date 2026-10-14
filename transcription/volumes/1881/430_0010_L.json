@@ -1,0 +1,34 @@
+{
+ "frame": "430_0010",
+ "half": "L",
+ "volume": "1881",
+ "page_type": "printed-matter",
+ "dates": [],
+ "printed": {
+  "headers": [],
+  "title": "Rates of Postage.",
+  "description": "Domestic and foreign postage rates."
+ },
+ "handwriting": [],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "bottom",
+   "note": "Dark ink marks along bottom border and below it, appear to be bleed-through from the facing/reverse diary page."
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": false,
+ "confidence": "medium",
+ "transcriber_notes": "Dark marks at bottom read as bleed-through, not writing on this page.",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

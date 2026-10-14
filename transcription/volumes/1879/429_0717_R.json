@@ -1,0 +1,44 @@
+{
+ "frame": "429_0717",
+ "half": "R",
+ "volume": "1879",
+ "page_type": "diary-day",
+ "dates": [
+  "1879-05-15"
+ ],
+ "printed": {
+  "headers": [
+   "Thursday, May 15, 1879."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [],
+ "marks": [
+  {
+   "kind": "archival-page-number",
+   "value": null,
+   "position": "top",
+   "note": "faint pencil folio, unreadable"
+  },
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from reverse of leaf; ignored"
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": false,
+ "confidence": "high",
+ "transcriber_notes": "Treated as blank. Page carries a faint grey non-mirrored ghost text (\"...the class races, which were exceedingly good... In the afternoon I went out to pass Sunday at Milton with the Whitneys... We spent the evening singing, dancing &c\") resembling the ghost duplicates seen on April 9/10; probably an image of another page, not writing on this page. Reviewer should confirm.",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

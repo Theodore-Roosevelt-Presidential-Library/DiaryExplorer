@@ -1,0 +1,122 @@
+{
+ "frame": "429_0739",
+ "half": "L",
+ "volume": "1879",
+ "page_type": "diary-day",
+ "dates": [
+  "1879-07-03"
+ ],
+ "printed": {
+  "headers": [
+   "Thursday, July 3, 1879."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1879-07-03",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "I have been getting myself",
+    "into condition with the",
+    "row boat; rowing to Lloyds",
+    "neck &c. Today I tried",
+    "my horse jumping; he",
+    "went fairly, but at one",
+    "fence we got a regular",
+    "cropper, the horse rolling",
+    "right over on me. In the",
+    "evening Em, West, Al &",
+    "myself sailed down to",
+    "Matinnicock Pt, where we",
+    "met Will who was",
+    "sailing up with the two",
+    "Haddons, Doug. Robinson",
+    "and Percy King - all",
+    "good fellows. Pretty",
+    "\"Little Jane T.\" has",
+    "arrived."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  }
+ ],
+ "marks": [
+  {
+   "kind": "archival-page-number",
+   "value": "126",
+   "position": "left-margin",
+   "note": "pencil, upper left, partly legible"
+  },
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "faint"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Em",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "West",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Al",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Will",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Haddons",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Doug. Robinson",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Percy King",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Little Jane T.",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   "Lloyds neck",
+   "Matinnicock Pt"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "Dates jump from June 30 (frame 0738 R) to July 3; pages for July 1-2 not present in this sequence (possibly leaf missing or not filmed).",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

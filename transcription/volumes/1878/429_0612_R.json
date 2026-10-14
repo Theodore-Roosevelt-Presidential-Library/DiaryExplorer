@@ -1,0 +1,101 @@
+{
+ "frame": "429_0612",
+ "half": "R",
+ "volume": "1878",
+ "page_type": "diary-day",
+ "dates": [
+  "1878-09-08"
+ ],
+ "printed": {
+  "headers": [
+   "SEPTEMBER, SUNDAY 8. 1878."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1878-09-08",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "In the morning took",
+    "a walk & read the",
+    "bible, learning by heart",
+    "the XIX Psalm — a most",
+    "beautiful hymn of",
+    "praise. There is no church",
+    "here, but in the afternoon",
+    "I went to a Methodist",
+    "meeting in the school",
+    "house. Thinking about",
+    "poor Hal Minot has a-",
+    "-gain made me think",
+    "much and oh so",
+    "sadly of Father's death;",
+    "I try whenever I can",
+    "only to recall his",
+    "grand and beautiful",
+    "life. Oh, Father, Father!"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "b2",
+   "date": "1878-09-08",
+   "kind": "marginalia",
+   "position": "top",
+   "medium": "ink",
+   "hand": "uncertain",
+   "lines": [],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": "Heavy ink underline beneath printed 'SUNDAY' in the date heading (no words)."
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored show-through ignored"
+  },
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "top",
+   "note": "faint mirrored show-through of the Sept. 9 note 'seven months ago' below heading"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Hal Minot",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Father",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

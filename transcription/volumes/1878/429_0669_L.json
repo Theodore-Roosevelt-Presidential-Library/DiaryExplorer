@@ -1,0 +1,34 @@
+{
+ "frame": "429_0669",
+ "half": "L",
+ "volume": "1878",
+ "page_type": "memoranda",
+ "dates": [],
+ "printed": {
+  "headers": [],
+  "title": "Memoranda.",
+  "description": "ruled page with printed 'Dolls. Cts.' column headings"
+ },
+ "handwriting": [],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored 1878 cash summary figures from the reverse visible; ignored"
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": false,
+ "confidence": "high",
+ "transcriber_notes": "Blank apart from show-through of the Cash Account Summary on the other side of the leaf.",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

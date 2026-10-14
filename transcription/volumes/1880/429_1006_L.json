@@ -1,0 +1,99 @@
+{
+ "frame": "429_1006",
+ "half": "L",
+ "volume": "1880",
+ "page_type": "diary-day",
+ "dates": [
+  "1880-12-11"
+ ],
+ "printed": {
+  "headers": [
+   "December, Saturday 11. 1880."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1880-12-11",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "There was a grand reception",
+    "at our house; I enjoyed",
+    "it very much; as I could",
+    "move round and talk",
+    "to whomever I wanted",
+    "to. I like some of the",
+    "New York girls (more",
+    "especially the married",
+    "women, as Mrs. Astor,",
+    "Mrs. Cutting & Mrs.",
+    "Newbold) very much,",
+    "but I am not very",
+    "fond of going out.",
+    "However, Alice is uni-",
+    "versally and greatly",
+    "admired; and she seems",
+    "to grow more beautiful",
+    "day by day. She",
+    "couldn't grow any",
+    "sweeter, or lovlier.",
+    "She seems very happy;",
+    "and oh, how happy",
+    "she has made me!"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "\"couldn't\" underlined in original"
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "faint mirrored writing from reverse of leaf, ignored"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Mrs. Astor",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Mrs. Cutting",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Mrs. Newbold",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Alice",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   "New York"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

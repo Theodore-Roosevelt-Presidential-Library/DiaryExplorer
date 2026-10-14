@@ -1,0 +1,65 @@
+{
+ "frame": "429_0646",
+ "half": "L",
+ "volume": "1878",
+ "page_type": "diary-day",
+ "dates": [
+  "1878-11-16"
+ ],
+ "printed": {
+  "headers": [
+   "November, Saturday 16. 1878."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1878-11-16",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Political Economy",
+    "examination.",
+    "In afternoon",
+    "went out to",
+    "George Minots, where",
+    "I spend the night."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "'to' preceded by a small stroke or blot."
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from reverse of leaf"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "George Minot",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "Previous frame ends at Nov. 13; Nov. 14-15 not in this batch (check for a skipped frame).",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

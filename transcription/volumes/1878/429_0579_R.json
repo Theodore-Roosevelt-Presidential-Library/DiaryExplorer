@@ -1,0 +1,38 @@
+{
+ "frame": "429_0579",
+ "half": "R",
+ "volume": "1878",
+ "page_type": "diary-day",
+ "dates": [
+  "1878-07-16"
+ ],
+ "printed": {
+  "headers": [
+   "July, Tuesday 16. 1878."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "faint mirrored writing from reverse"
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": false,
+ "confidence": "high",
+ "transcriber_notes": "No writing reads normally on this page. The page is filled with strong mirrored show-through of a full entry from the reverse of the leaf (apparently the July 17 entry, mentioning Lake Ronkonkoma); not transcribed here.",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

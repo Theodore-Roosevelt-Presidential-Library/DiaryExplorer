@@ -1,0 +1,72 @@
+{
+ "frame": "430_0136",
+ "half": "L",
+ "volume": "1883",
+ "page_type": "diary-day",
+ "dates": [
+  "1883-09-21"
+ ],
+ "printed": {
+  "headers": [
+   "SEPTEMBER 21 Friday"
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1883-09-21",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Went (with wagon again)",
+    "to Fort McKinney; Dined",
+    "at Fort.",
+    "(Doctor Tyrell. 2 soldiers",
+    "8th cavalry near Fort",
+    "Wingate in New Mexico killed",
+    "by Grizzly in 1872)"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": "'in' before 1872 small and raised"
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from reverse of leaf, ignored"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Doctor Tyrell",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   "Fort McKinney",
+   "Fort Wingate",
+   "New Mexico"
+  ],
+  "dates": [
+   "1872"
+  ]
+ },
+ "has_tr_writing": true,
+ "confidence": "medium",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

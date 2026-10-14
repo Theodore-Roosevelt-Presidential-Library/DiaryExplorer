@@ -1,0 +1,107 @@
+{
+ "frame": "429_0774",
+ "half": "R",
+ "volume": "1879",
+ "page_type": "diary-day",
+ "dates": [
+  "1879-09-22"
+ ],
+ "printed": {
+  "headers": [
+   "Monday, September 22, 1879."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1879-09-22",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Seawall, Dow & I started",
+    "in a birch down the",
+    "Mattawamkeag. We paddled",
+    "down stream about 10",
+    "miles below the lake,",
+    "landing several times",
+    "to look for partridges. Dow",
+    "and I, by making a",
+    "circuit through the woods,",
+    "ambushed a flock of",
+    "fish ducks, of which ~~I~~ we",
+    "killed several; I had",
+    "several very long shots",
+    "- at loons, ^& cranes^ with the",
+    "rifle, but missed them.",
+    "I shall be ^very^ sorry to end",
+    "this trip; and yet how",
+    "I shall enjoy getting back",
+    "to Harvard."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "first word partly obscured by blot; reading 'Seawall' from later pages"
+  },
+  {
+   "id": "b2",
+   "date": "1879-09-22",
+   "kind": "tally",
+   "position": "bottom",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "3 Merganser."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  }
+ ],
+ "marks": [
+  {
+   "kind": "archival-page-number",
+   "value": "187[?]",
+   "position": "top",
+   "note": "pencil numeral at top corner, later mark"
+  },
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from reverse of leaf ignored"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Seawall",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Dow",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   "Mattawamkeag",
+   "Harvard"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

@@ -1,0 +1,72 @@
+{
+ "frame": "429_0992",
+ "half": "L",
+ "volume": "1880",
+ "page_type": "diary-day",
+ "dates": [
+  "1880-11-09"
+ ],
+ "printed": {
+  "headers": [
+   "November, Tuesday 9. 1880."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1880-11-09",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "A beautiful Indian Summer",
+    "day; in the morning we",
+    "played tennis and sat",
+    "on the piazza while",
+    "I read aloud from \"the",
+    "Betrothed\"; in the after-",
+    "-noon I rowed my",
+    "sweet Baby round Centre",
+    "Island, and we saw",
+    "a beautiful sunset on the",
+    "water."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "faint mirrored writing from reverse"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Baby",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   "Centre Island"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

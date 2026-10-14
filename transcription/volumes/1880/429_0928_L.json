@@ -1,0 +1,85 @@
+{
+ "frame": "429_0928",
+ "half": "L",
+ "volume": "1880",
+ "page_type": "diary-day",
+ "dates": [
+  "1880-06-301880"
+ ],
+ "printed": {
+  "headers": [
+   "JUNE, WEDNESDAY 30. 1880."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1880-06-301880",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Commencement Day. Received",
+    "my degree; I actually am",
+    "an alumnus! I can not",
+    "imagine any man's having",
+    "a more happy and satisfactory",
+    "four years than I have had.",
+    "Spent most of the day in the",
+    "club; drove over to a garden",
+    "party at the Dexters in the",
+    "evening; from there drove my",
+    "bewitching Queen to Chestnut",
+    "Hill; then drove Nell[?] back to",
+    "Cambridge."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "'Nell' could be 'Bell'"
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from reverse of leaf ignored"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "the Dexters",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Queen",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Nell",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   "Chestnut Hill",
+   "Cambridge"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

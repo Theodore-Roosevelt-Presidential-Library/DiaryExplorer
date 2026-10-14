@@ -1,0 +1,87 @@
+{
+ "frame": "429_0675",
+ "half": "L",
+ "volume": "1879",
+ "page_type": "diary-day",
+ "dates": [
+  "1879-01-02"
+ ],
+ "printed": {
+  "headers": [
+   "Thursday, January 2, 1879."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1879-01-02",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "There was quite a",
+    "heavy snow storm",
+    "going on, but I",
+    "went out hunting;",
+    "but finally the",
+    "snow completely",
+    "covered the rabbit",
+    "tracks so I gave",
+    "up.",
+    "In afternoon",
+    "went in town. (N.Y[?]"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": "Heavy show-through; last line ending \"(N.Y\" uncertain."
+  },
+  {
+   "id": "b2",
+   "date": "1879-01-02",
+   "kind": "tally",
+   "position": "bottom",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "3 rabbits"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  }
+ ],
+ "marks": [
+  {
+   "kind": "archival-page-number",
+   "value": "2",
+   "position": "top",
+   "note": "pencil, top left"
+  },
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from other side of leaf"
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [
+   "N.Y"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "medium",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

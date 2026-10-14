@@ -1,0 +1,121 @@
+{
+ "frame": "429_0683",
+ "half": "L",
+ "volume": "1879",
+ "page_type": "diary-day",
+ "dates": [
+  "1879-01-18"
+ ],
+ "printed": {
+  "headers": [
+   "Saturday, January 18, 1879."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1879-01-18",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Late last night was aroused by",
+    "a deputation of about half the Porc.",
+    "who came down to tell me I was",
+    "elected 5th man of the first nine",
+    "of the Pudding. I was dressed",
+    "nolens volens, taken up to the",
+    "club and all around, and did",
+    "not get to bed till 6. a.m.",
+    "The others of the 1st nine are Bob Bacon,",
+    "Dick Trimble, Billy Hooper, Charley Ware",
+    "(myself) Harry Jackson, Harry Shaw, Charley",
+    "Morgan & Jeff Miller.",
+    "In the evening we had a",
+    "Porc. Dinner given by Harry Shaw",
+    "and Minot Weld; it was a great",
+    "success and many graduates",
+    "were out. Late in the evening some",
+    "of the men, getting awfully drunk,",
+    "raised particular Cain,"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "Lines listing the first nine written smaller; entry may continue on following page."
+  }
+ ],
+ "marks": [
+  {
+   "kind": "archival-page-number",
+   "value": "17",
+   "position": "top",
+   "note": "pencil"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Bob Bacon",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Dick Trimble",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Billy Hooper",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Charley Ware",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Harry Jackson",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Harry Shaw",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Charley Morgan",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Jeff Miller",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Minot Weld",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   "Porc.",
+   "the Pudding"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

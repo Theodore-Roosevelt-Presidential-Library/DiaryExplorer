@@ -1,0 +1,56 @@
+{
+ "frame": "430_0081",
+ "half": "L",
+ "volume": "1882",
+ "page_type": "cover",
+ "dates": [],
+ "printed": {
+  "headers": [],
+  "title": null,
+  "description": "Inside front cover with pasted printed stationer's label: 'CALLAHAN & GARTLAN[?] STATIONERS PRINTERS, LITHOGRAPHERS & Manufacturers of BLANK BOOKS 30 Pine Street, NEW YORK.' (label torn at right edge)"
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": null,
+   "kind": "inscription",
+   "position": "top",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Theodore Roosevelt"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  }
+ ],
+ "marks": [
+  {
+   "kind": "tear",
+   "value": null,
+   "position": "top",
+   "note": "stationer label torn at upper right"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Theodore Roosevelt",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "Inside front cover (pastedown) with ownership signature below stationer label.",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

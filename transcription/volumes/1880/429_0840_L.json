@@ -1,0 +1,105 @@
+{
+ "frame": "429_0840",
+ "half": "L",
+ "volume": "1880",
+ "page_type": "diary-day",
+ "dates": [
+  "1880-01-02"
+ ],
+ "printed": {
+  "headers": [
+   "January, Friday 2. 1880."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1880-01-02",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "After breakfast took Alice out to drive in",
+    "the Park. At 11 our six guests went",
+    "back to Boston; we have enjoyed their",
+    "visit exceedingly. In the evening went",
+    "to a theatre party and supper with",
+    "Bell[?], Iselin, Robinson, Russell, Stratton,",
+    "the two Haddons and Bob Sedgwick -",
+    "in fact the whist club."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": null
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from reverse of leaf"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Alice",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Bell",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Iselin",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Robinson",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Russell",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Stratton",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Haddons",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Bob Sedgwick",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   "the Park",
+   "Boston"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "medium",
+ "transcriber_notes": "Mirrored show-through of the 'Theodore Roosevelt' signature and Jan 1 entry visible; ignored.",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

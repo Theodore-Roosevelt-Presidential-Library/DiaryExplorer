@@ -1,0 +1,84 @@
+{
+ "frame": "429_0765",
+ "half": "R",
+ "volume": "1879",
+ "page_type": "diary-day",
+ "dates": [
+  "1879-09-04"
+ ],
+ "printed": {
+  "headers": [
+   "Thursday, September 4, 1879."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1879-09-04",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Spent the day pre-",
+    "-paring for my Mun-",
+    "-sungun trip; I shall",
+    "go in a canoe, ~~with~~",
+    "alone with Seawall.",
+    "For provisions I",
+    "take tea, pork and",
+    "hardtack ^& some flour^; we have",
+    "a shelter tent, two",
+    "blankets & some cooking",
+    "utensils; & one complete",
+    "change of underclothing",
+    "each. I take 50",
+    "cartridges for the rifle",
+    "and 100 for the shot-",
+    "gun. I shall only",
+    "use moccasins"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  }
+ ],
+ "marks": [
+  {
+   "kind": "archival-page-number",
+   "value": "169",
+   "position": "top",
+   "note": null
+  },
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from reverse of leaf; ignored"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Seawall",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   "Munsungun"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

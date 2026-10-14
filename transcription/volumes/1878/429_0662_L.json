@@ -1,0 +1,78 @@
+{
+ "frame": "429_0662",
+ "half": "L",
+ "volume": "1878",
+ "page_type": "diary-day",
+ "dates": [
+  "1878-12-24"
+ ],
+ "printed": {
+  "headers": [
+   "December, Tuesday 24. 1878."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1878-12-24",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Jack Elliott came",
+    "on from Philadel-",
+    "-phia - just the",
+    "same dear old",
+    "absentminded fellow",
+    "as ever. It is a",
+    "relief to find some",
+    "one not in love.",
+    "Am bothered a",
+    "little by what",
+    "Doc calls an",
+    "\"ephemeral fever\"."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "followed by a line of scribbled flourishes/dashes below the text"
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "faint mirrored writing from other side of leaf; ignored"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Jack Elliott",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Doc",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   "Philadelphia"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

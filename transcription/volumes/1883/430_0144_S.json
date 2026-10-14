@@ -1,0 +1,171 @@
+{
+ "frame": "430_0144",
+ "half": "S",
+ "volume": "1883",
+ "page_type": "memoranda",
+ "dates": [],
+ "printed": {
+  "headers": [],
+  "title": "MISCELLANEOUS",
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": null,
+   "kind": "heading",
+   "position": "top",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Sporting trip on",
+    "Little Missouri, Dakotah,",
+    "Sept 10th - 26th, 1883"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "b2",
+   "date": null,
+   "kind": "table",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "1 buffalo bull - 1",
+    "2 blacktail bucks 2",
+    "4 jack rabbit",
+    "6 cotton tail 6",
+    "7 sage cock \" 7",
+    "21 sharp tail grouse 21",
+    "2 geese 2",
+    "4 mallard 4",
+    "7 teal",
+    "54"
+   ],
+   "rows": [
+    [
+     "1",
+     "buffalo bull",
+     "1"
+    ],
+    [
+     "2",
+     "blacktail bucks",
+     "2"
+    ],
+    [
+     "4",
+     "jack rabbit",
+     ""
+    ],
+    [
+     "6",
+     "cotton tail",
+     "6"
+    ],
+    [
+     "7",
+     "sage cock \"",
+     "7"
+    ],
+    [
+     "21",
+     "sharp tail grouse",
+     "21"
+    ],
+    [
+     "2",
+     "geese",
+     "2"
+    ],
+    [
+     "4",
+     "mallard",
+     "4"
+    ],
+    [
+     "7",
+     "teal",
+     ""
+    ],
+    [
+     "54",
+     "",
+     ""
+    ]
+   ],
+   "columns": [
+    "count",
+    "game",
+    "count (repeated)"
+   ],
+   "confidence": "medium",
+   "note": "'7 teal' underlined, total 54 below; left count for jack rabbit partly blotted"
+  },
+  {
+   "id": "b3",
+   "date": null,
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "with Sharp's rifle,",
+    "45[?] calibre, 100 grains",
+    "of powder (ball weighing",
+    "nearly two ounces) and",
+    "with no. 10 double",
+    "barrel choke bore, given",
+    "me by Elliott — the last",
+    "by all odds the best gun",
+    "in my battery."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": "first line continues the '54' total line"
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing/print from reverse of leaf, ignored"
+  },
+  {
+   "kind": "other",
+   "value": null,
+   "position": "right-margin",
+   "note": "stray characters ('c', '4(') at right edge belong to an underlying/adjacent leaf visible past the page edge"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Elliott",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   "Little Missouri",
+   "Dakotah"
+  ],
+  "dates": [
+   "Sept 10th - 26th, 1883"
+  ]
+ },
+ "has_tr_writing": true,
+ "confidence": "medium",
+ "transcriber_notes": "single page; game tally summary for Sept 10-26, 1883. Mentions.dates: Sept 10th - 26th, 1883",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

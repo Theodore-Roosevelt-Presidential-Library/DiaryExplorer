@@ -1,0 +1,72 @@
+{
+ "frame": "429_0932",
+ "half": "L",
+ "volume": "1880",
+ "page_type": "diary-day",
+ "dates": [
+  "1880-07-81880"
+ ],
+ "printed": {
+  "headers": [
+   "JULY, THURSDAY 8. 1880."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1880-07-81880",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "In the morning I",
+    "rowed; in the afternoon",
+    "I took my darling",
+    "a long drive, through",
+    "\"Old Kentuck\" and",
+    "back of Glen Cove and[?]",
+    "Norwich; I spent the",
+    "evening in the summer",
+    "house with her."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": "ink heavy/blurred; word after 'Glen Cove' smudged"
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from reverse of leaf ignored"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "my darling",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   "Old Kentuck",
+   "Glen Cove",
+   "Norwich"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "medium",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

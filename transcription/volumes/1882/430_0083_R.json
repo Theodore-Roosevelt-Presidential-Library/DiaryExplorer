@@ -1,0 +1,34 @@
+{
+ "frame": "430_0083",
+ "half": "R",
+ "volume": "1882",
+ "page_type": "printed-matter",
+ "dates": [],
+ "printed": {
+  "headers": [],
+  "title": "1882 calendar",
+  "description": "Printed full-year calendar for 1882 (January-December)."
+ },
+ "handwriting": [],
+ "marks": [
+  {
+   "kind": "ink-blot",
+   "value": null,
+   "position": "body",
+   "note": "dark ink smudges/blots in the January-March columns (near Jan 22/29, Jan 31-Feb 1, Feb 19/26, Mar 5/12); not legible as writing"
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": false,
+ "confidence": "medium",
+ "transcriber_notes": "Ink smudges on calendar near Jan 22-Mar 12 look like blots, not words; one blot by Mar 5 might be a scribble. No handwriting transcribed.",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

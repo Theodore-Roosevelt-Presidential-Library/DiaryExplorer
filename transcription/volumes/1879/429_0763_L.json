@@ -1,0 +1,95 @@
+{
+ "frame": "429_0763",
+ "half": "L",
+ "volume": "1879",
+ "page_type": "diary-day",
+ "dates": [
+  "1879-08-30"
+ ],
+ "printed": {
+  "headers": [
+   "Saturday, August 30, 1879."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1879-08-30",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "In the morning",
+    "walked half way",
+    "round the lake",
+    "but saw nothing;",
+    "there are ^very few^ ~~few~~ partridges",
+    "and ~~not a[?]~~ few",
+    "ducks round here;",
+    "larger game is",
+    "not scarce, but",
+    "almost impossible",
+    "to get at. In the",
+    "afternoon walked",
+    "some distance down",
+    "beside Sandy Brook;",
+    "coming home killed",
+    "a duck in Moose",
+    "Pond. Trout of small",
+    "size are very plentiful."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": null
+  },
+  {
+   "id": "b2",
+   "date": "1879-08-30",
+   "kind": "tally",
+   "position": "bottom",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "1 black duck"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  }
+ ],
+ "marks": [
+  {
+   "kind": "archival-page-number",
+   "value": "164",
+   "position": "top",
+   "note": null
+  },
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from reverse of leaf; ignored"
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [
+   "Sandy Brook",
+   "Moose Pond"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "medium",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

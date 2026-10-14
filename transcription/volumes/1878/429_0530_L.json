@@ -1,0 +1,64 @@
+{
+ "frame": "429_0530",
+ "half": "L",
+ "volume": "1878",
+ "page_type": "diary-day",
+ "dates": [
+  "1878-04-14"
+ ],
+ "printed": {
+  "headers": [
+   "April, Sunday 14. 1878."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1878-04-14",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Had a theolog-",
+    "ical discussion",
+    "with the boys.",
+    "As my subject[?]",
+    "I took[?] the",
+    "\"Trust in the",
+    "Lord, and do",
+    "good\".",
+    "\"Lord, I believe;",
+    "help thou mine",
+    "unbelief!\""
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "low",
+   "note": "Lines 4-5 heavily overlapped by show-through; readings uncertain."
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "Mirrored writing from reverse of leaf; ignored."
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "low",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

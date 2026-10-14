@@ -1,0 +1,75 @@
+{
+ "frame": "429_0770",
+ "half": "R",
+ "volume": "1879",
+ "page_type": "diary-day",
+ "dates": [
+  "1879-09-14"
+ ],
+ "printed": {
+  "headers": [
+   "Sunday, September 14, 1879."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1879-09-14",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Went to \"church\", read",
+    "my bible, and spent",
+    "the rest of the",
+    "day shaving, bathing",
+    "and getting things",
+    "ready for a new",
+    "expedition. I always like",
+    "these backwoods meeting",
+    "houses; and I don't know",
+    "a better or more intelli-",
+    "-gent race of men than",
+    "these shrewd, plucky,",
+    "honest Yankees — all",
+    "of them hunters, lum-",
+    "-bermen or small",
+    "farmers."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  }
+ ],
+ "marks": [
+  {
+   "kind": "archival-page-number",
+   "value": "179",
+   "position": "top",
+   "note": null
+  },
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from reverse of leaf; ignored"
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

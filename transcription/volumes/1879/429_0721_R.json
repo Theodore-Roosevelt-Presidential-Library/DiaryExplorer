@@ -1,0 +1,96 @@
+{
+ "frame": "429_0721",
+ "half": "R",
+ "volume": "1879",
+ "page_type": "diary-day",
+ "dates": [
+  "1879-05-23"
+ ],
+ "printed": {
+  "headers": [
+   "Friday, May 23, 1879."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1879-05-23",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Glee Club concert in the",
+    "evening. I sat by Miss",
+    "Bacon. Afterwards there",
+    "was dancing in",
+    "Memorial Hall and I",
+    "had some lovely",
+    "waltzes with Alice,",
+    "Rose, Luly[?] Lane &",
+    "Miss Francis."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  }
+ ],
+ "marks": [
+  {
+   "kind": "archival-page-number",
+   "value": "76[?]",
+   "position": "top",
+   "note": "faint pencil"
+  },
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from reverse of leaf; ignored"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Miss Bacon",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Alice",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Rose",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Luly[?] Lane",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Miss Francis",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   "Memorial Hall"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "Lower half is mirrored show-through; ignored.",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

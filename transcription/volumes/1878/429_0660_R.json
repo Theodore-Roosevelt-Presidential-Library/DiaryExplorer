@@ -1,0 +1,72 @@
+{
+ "frame": "429_0660",
+ "half": "R",
+ "volume": "1878",
+ "page_type": "diary-day",
+ "dates": [
+  "1878-12-21"
+ ],
+ "printed": {
+  "headers": [
+   "December, Saturday 21. 1878."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1878-12-21",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Went on to N.Y.",
+    "It is ever so",
+    "pleasant to get",
+    "home again; I",
+    "enjoy college to the",
+    "full, and yet I",
+    "am always only",
+    "too delighted to",
+    "get home. Truly",
+    "these are the golden",
+    "years of my life.",
+    "I can not ima-",
+    "gine a fellow having",
+    "a happier time",
+    "than I have had",
+    "since I have been",
+    "in College."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "faint mirrored writing from other side of leaf; ignored"
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [
+   "N.Y."
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

@@ -1,0 +1,85 @@
+{
+ "frame": "429_0715",
+ "half": "R",
+ "volume": "1879",
+ "page_type": "diary-day",
+ "dates": [
+  "1879-04-23"
+ ],
+ "printed": {
+  "headers": [
+   "Wednesday, April 23, 1879."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1879-04-23",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Now that the beautiful",
+    "spring weather has fairly",
+    "set in, I get up in",
+    "time to study an hour",
+    "or two before breakfast,",
+    "and so have my",
+    "afternoons and",
+    "evenings pretty much",
+    "to myself - for I",
+    "have done my hard",
+    "studying for this year.",
+    "One reason I enjoy",
+    "riding here so much is",
+    "that there are so many",
+    "places, - Milton, Jamaica",
+    "Plains, Forrest Hill, Chestnut",
+    "Hill &c - where I can ride over",
+    "& stay to dinner or lunch. Besides",
+    "the rides through all the country",
+    "round Boston are beautiful."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "last line written below the ruled frame"
+  }
+ ],
+ "marks": [
+  {
+   "kind": "archival-page-number",
+   "value": "70",
+   "position": "top",
+   "note": "pencil"
+  },
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from reverse of leaf; ignored"
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [
+   "Milton",
+   "Jamaica Plains",
+   "Forrest Hill",
+   "Chestnut Hill",
+   "Boston"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

@@ -1,0 +1,93 @@
+{
+ "frame": "429_0801",
+ "half": "L",
+ "volume": "1879",
+ "page_type": "diary-day",
+ "dates": [
+  "1879-11-18"
+ ],
+ "printed": {
+  "headers": [
+   "Tuesday, November 18, 1879."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1879-11-18",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Rainy; so took a buggy with",
+    "Dick and drove over to the",
+    "Lees to dinner; a good many",
+    "fellows came in afterwards",
+    "and we had the jolliest",
+    "kind of a time, dancing",
+    "and talking. It seems very",
+    "natural to have the girls",
+    "at Chestnut Hill. Just",
+    "before starting back Dick",
+    "took a glass of brandy which",
+    "rather set him up so that",
+    "he insisted on galloping the",
+    "horse, which of course ran away",
+    "4 or 5[?] times; I nearly died",
+    "laughing."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": "'4 or 5' partly in left margin, uncertain"
+  }
+ ],
+ "marks": [
+  {
+   "kind": "archival-page-number",
+   "value": "332[?]",
+   "position": "top",
+   "note": "pencil"
+  },
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from reverse of leaf; ignored"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Dick",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "the Lees",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "the girls",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   "Chestnut Hill"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "medium",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

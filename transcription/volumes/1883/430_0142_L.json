@@ -1,0 +1,75 @@
+{
+ "frame": "430_0142",
+ "half": "L",
+ "volume": "1883",
+ "page_type": "diary-day",
+ "dates": [
+  "1883-10-03"
+ ],
+ "printed": {
+  "headers": [
+   "OCTOBER 3 Wednesday"
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1883-10-03",
+   "kind": "heading",
+   "position": "over-printed-title",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "1"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "TR's numeral '1' written over the printed day number (3), re-dating the page"
+  },
+  {
+   "id": "b2",
+   "date": "1883-10-03",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Furious hurricane blowing,",
+    "with driving rain squalls.",
+    "Afraid to venture on prairie",
+    "so stayed in camp all",
+    "day."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from reverse of leaf, ignored"
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [],
+  "dates": [
+   "1"
+  ]
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "printed day number obscured by TR's overwritten '1'; printed date inferred as 3 from weekday and sequence. Lower page: mirrored show-through of 430_0141_R",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

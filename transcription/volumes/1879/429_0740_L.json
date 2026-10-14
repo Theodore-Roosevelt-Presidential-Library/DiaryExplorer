@@ -1,0 +1,87 @@
+{
+ "frame": "429_0740",
+ "half": "L",
+ "volume": "1879",
+ "page_type": "diary-day",
+ "dates": [
+  "1879-07-05"
+ ],
+ "printed": {
+  "headers": [
+   "Saturday, July 5, 1879."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1879-07-05",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "In the morning took a long",
+    "ride with Emlen[?], teaching",
+    "our horses how to jump; then",
+    "rowed round Hog Island",
+    "with West. Spent the after-",
+    "noon with the whole party,",
+    "playing lawn tennis &c.",
+    "In the evening we all (about",
+    "20 fellows & girls, matrons &c)",
+    "went out for a moon-",
+    "light sail; coming home,",
+    "we danced, sang, told",
+    "stories &c. I am leading",
+    "the most delightful life",
+    "a fellow well could."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  }
+ ],
+ "marks": [
+  {
+   "kind": "archival-page-number",
+   "value": "128",
+   "position": "left-margin",
+   "note": "pencil, upper left"
+  },
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": null
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Emlen",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "West",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   "Hog Island"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

@@ -1,0 +1,92 @@
+{
+ "frame": "429_0644",
+ "half": "L",
+ "volume": "1878",
+ "page_type": "diary-day",
+ "dates": [
+  "1878-11-10"
+ ],
+ "printed": {
+  "headers": [
+   "November, Sunday 10. 1878."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1878-11-10",
+   "kind": "heading",
+   "position": "over-printed-title",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Saturday"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "Written above printed 'SUNDAY 10.', which is struck through by hand (~~Sunday 10.~~)."
+  },
+  {
+   "id": "b2",
+   "date": "1878-11-10",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Took breakfast at",
+    "the club at about",
+    "10.a.m.",
+    "Drove over to see",
+    "football match",
+    "with Harry Chapin.",
+    "In afternoon drove",
+    "over to Minot",
+    "Welds, where I shall",
+    "stay till Monday",
+    "morning."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from reverse of leaf"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Harry Chapin",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Minot Weld",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   "the club"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "Printed 'Sunday 10.' struck and relabeled 'Saturday'. Date field kept as printed date.",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

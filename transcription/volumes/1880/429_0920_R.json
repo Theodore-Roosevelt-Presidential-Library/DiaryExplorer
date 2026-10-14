@@ -1,0 +1,66 @@
+{
+ "frame": "429_0920",
+ "half": "R",
+ "volume": "1880",
+ "page_type": "diary-day",
+ "dates": [
+  "1880-06-13"
+ ],
+ "printed": {
+  "headers": [
+   "June, Sunday 13. 1880."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1880-06-13",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Breakfasted in the club;",
+    "dined at the Lanes.",
+    "Am still up to my",
+    "ears in work; quite a",
+    "novel sensation, I have",
+    "loafed so long. I have",
+    "been studying nine or",
+    "ten hours a day; my",
+    "amusements being an",
+    "hour's walk or lawn tennis",
+    "in the afternoon and an",
+    "hours whist, ^in the club^ in the evening",
+    "I have missed my darling",
+    "dreadfully."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "'in the club' inserted above the line after 'whist,'."
+  }
+ ],
+ "marks": [],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "the Lanes",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

@@ -1,0 +1,81 @@
+{
+ "frame": "429_0715",
+ "half": "L",
+ "volume": "1879",
+ "page_type": "diary-day",
+ "dates": [
+  "1879-04-22"
+ ],
+ "printed": {
+  "headers": [
+   "Tuesday, April 22, 1879."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1879-04-22",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Took a ride on my",
+    "horse; he ^it^ will be",
+    "the greatest pleasure",
+    "to me this spring,",
+    "as I shall ride",
+    "him every day the",
+    "weather is even",
+    "decent. It was the",
+    "one thing wanting",
+    "for perfect enjoyment.",
+    "In the afternoon",
+    "I went in to the",
+    "Jeffries' to look over",
+    "their collections & dined",
+    "there. Played whist",
+    "in the evening."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "\"it\" written above \"he\"; no clear strike-through on \"he\". \"perfect\" underlined."
+  }
+ ],
+ "marks": [
+  {
+   "kind": "archival-page-number",
+   "value": null,
+   "position": "top-left",
+   "note": "pencil folio, partly cut off (probably 69)"
+  },
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from reverse of leaf; ignored"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "the Jeffries'",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

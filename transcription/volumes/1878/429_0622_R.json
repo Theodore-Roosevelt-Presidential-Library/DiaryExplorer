@@ -1,0 +1,87 @@
+{
+ "frame": "429_0622",
+ "half": "R",
+ "volume": "1878",
+ "page_type": "diary-day",
+ "dates": [
+  "1878-09-28"
+ ],
+ "printed": {
+  "headers": [
+   "September, Saturday 28. 1878."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1878-09-28",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "I find that my",
+    "recitations, lectures",
+    "and labratory",
+    "work will occupy",
+    "about 20 hours a",
+    "week. I have a",
+    "recitation every",
+    "day, including",
+    "Saturday, at 9 a.m.",
+    "Harry Shaw and",
+    "Dick Saltonstall",
+    "both asked me to",
+    "spend tomorrow",
+    "with them. Our",
+    "club table is at",
+    "Mrs Wilsons, where the",
+    "food, service & atten-",
+    "dance are excellent."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from reverse of leaf"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Harry Shaw",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Dick Saltonstall",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Mrs Wilsons",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

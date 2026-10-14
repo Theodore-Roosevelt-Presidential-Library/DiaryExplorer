@@ -1,0 +1,64 @@
+{
+ "frame": "429_0712",
+ "half": "R",
+ "volume": "1879",
+ "page_type": "diary-day",
+ "dates": [
+  "1879-04-11"
+ ],
+ "printed": {
+  "headers": [
+   "Friday, April 11, 1879."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1879-04-11",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Called on Miss. Nana",
+    "Rotch and spent",
+    "the afternoon there",
+    "- teaching her the",
+    "five step waltz."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  }
+ ],
+ "marks": [
+  {
+   "kind": "archival-page-number",
+   "value": "64",
+   "position": "top",
+   "note": "pencil"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Miss. Nana Rotch",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

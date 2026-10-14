@@ -1,0 +1,129 @@
+{
+ "frame": "429_0858",
+ "half": "R",
+ "volume": "1880",
+ "page_type": "diary-day",
+ "dates": [
+  "1880-02-08"
+ ],
+ "printed": {
+  "headers": [
+   "February, Sunday 8. 1880."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1880-02-08",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Started at work at a Mission",
+    "School over in East Cambridge.",
+    "I have certainly got a",
+    "marvellously hightoned and honorable",
+    "set of friends; they are not brilliant,",
+    "but they are plucky, honourable and",
+    "rigidly virtuous, and with plenty of",
+    "common sense. First comes Elliott;",
+    "then Jack Elliott, West, Emlen, Alfred",
+    "and Dick Saltonstall; then",
+    "Minot Weld, John Tebbets, Harry",
+    "Chapin and Harry Shaw. And now",
+    "that I have won the sweetest",
+    "and purest of women my",
+    "happiness is indeed complete.",
+    "Took tea and spent",
+    "the evening most pleasantly",
+    "at the Whitneys."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "Line 4 appears 'honorable', line 6 'honourable' — both as read. First 'Elliott' on line 8 slightly uncertain."
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "faint mirrored writing from reverse"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Elliott",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Jack Elliott",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "West",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Emlen",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Alfred",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Dick Saltonstall",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Minot Weld",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "John Tebbets",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Harry Chapin",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Harry Shaw",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Whitneys",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   "East Cambridge"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

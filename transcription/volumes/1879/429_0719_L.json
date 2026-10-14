@@ -1,0 +1,79 @@
+{
+ "frame": "429_0719",
+ "half": "L",
+ "volume": "1879",
+ "page_type": "diary-day",
+ "dates": [
+  "1879-05-18"
+ ],
+ "printed": {
+  "headers": [
+   "Sunday, May 18, 1879."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1879-05-18",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "In the morning we drove",
+    "over to Lake Ponkapoag[?]",
+    "through the Blue Hills;",
+    "the scenery around there",
+    "is very beautiful; and",
+    "the country is now",
+    "simply ~~beautiful~~ perfect.",
+    "In the afternoon I",
+    "took a long walk",
+    "through the woods",
+    "with Miss Bessie."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  }
+ ],
+ "marks": [
+  {
+   "kind": "archival-page-number",
+   "value": null,
+   "position": "top-left",
+   "note": "faint pencil folio, unreadable"
+  },
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from reverse of leaf; ignored"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Miss Bessie",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   "Lake Ponkapoag[?]",
+   "the Blue Hills"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "Lower lines are mirrored show-through of May 17; ignored.",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

@@ -1,0 +1,71 @@
+{
+ "frame": "430_0114",
+ "half": "L",
+ "volume": "1883",
+ "page_type": "diary-day",
+ "dates": [
+  "1883-01-04"
+ ],
+ "printed": {
+  "headers": [
+   "JANUARY 4 Thursday"
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1883-01-04",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Today we heard the",
+    "evidence in the case",
+    "of the contested election",
+    "between Sprague and Blis[?]",
+    "The former was counted",
+    "out beyond a shadow",
+    "of doubt."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "Second name may be cut off at right edge."
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from Jan 3 and Jan 2 pages"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Sprague",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Blis[?]",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

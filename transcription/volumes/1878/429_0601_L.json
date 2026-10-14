@@ -1,0 +1,87 @@
+{
+ "frame": "429_0601",
+ "half": "L",
+ "volume": "1878",
+ "page_type": "diary-day",
+ "dates": [
+  "1878-08-16"
+ ],
+ "printed": {
+  "headers": [
+   "AUGUST, FRIDAY 16. 1878."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1878-08-16",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Edith Carow[?] came to",
+    "spend two weeks with",
+    "Corinne.",
+    "Emlen, Jack &",
+    "I sailed over",
+    "to [illegible] the Con-",
+    "-necticut shore, &",
+    "coming home in the",
+    "afternoon got caught",
+    "in a bad rain",
+    "storm."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": "Second word of line 1 partly blotted; place name in line 6 unclear."
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from reverse of leaf; ignored"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Edith",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Corinne",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Emlen",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Jack",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   "Connecticut shore"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "medium",
+ "transcriber_notes": "Frame filmed out of date sequence (Aug. 16–17 after Aug. 26–27).",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

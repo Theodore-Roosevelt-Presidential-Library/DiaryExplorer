@@ -1,0 +1,73 @@
+{
+ "frame": "429_0606",
+ "half": "R",
+ "volume": "1878",
+ "page_type": "diary-day",
+ "dates": [
+  "1878-08-27"
+ ],
+ "printed": {
+  "headers": [
+   "AUGUST, TUESDAY 27. 1878."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1878-08-27",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "The wind was very",
+    "light and we",
+    "sailed till ~~6~~",
+    "8 p.m before",
+    "reaching New",
+    "London. We",
+    "divided our time",
+    "between swimming,",
+    "reading the New",
+    "Symposium, clam-",
+    "-bering about the",
+    "rigging and",
+    "playing whist —",
+    "with a good deal",
+    "of sheer doing",
+    "nothing. It is",
+    "very lazy but very",
+    "pleasant."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": "Line 3 ends with a blotted/overwritten character (possibly '6'), rendered as struck; uncertain."
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from reverse of leaf; ignored"
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [
+   "New London"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "medium",
+ "transcriber_notes": "Re-filming of the same page as 429_0600_R; transcription checked against this image and agrees.",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

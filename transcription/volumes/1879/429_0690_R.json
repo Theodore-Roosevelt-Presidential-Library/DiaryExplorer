@@ -1,0 +1,54 @@
+{
+ "frame": "429_0690",
+ "half": "R",
+ "volume": "1879",
+ "page_type": "diary-day",
+ "dates": [
+  "1879-02-06"
+ ],
+ "printed": {
+  "headers": [
+   "Thursday, February 6, 1879."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1879-02-06",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Semiannuals began"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "Small mark before \"Semiannuals\" (possibly an opening quote or stray stroke) not transcribed."
+  }
+ ],
+ "marks": [
+  {
+   "kind": "archival-page-number",
+   "value": "26",
+   "position": "top",
+   "note": "pencil"
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

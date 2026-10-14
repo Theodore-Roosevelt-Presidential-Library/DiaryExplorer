@@ -1,0 +1,74 @@
+{
+ "frame": "430_0100",
+ "half": "S",
+ "volume": "1882",
+ "page_type": "diary-day",
+ "dates": [
+  "1882-02-03",
+  "1882-02-04"
+ ],
+ "printed": {
+  "headers": [
+   "FEBRUARY 3 Friday",
+   "FEBRUARY 4 Saturday"
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1882-02-03",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Legislature met and",
+    "adjourned over till",
+    "next Wednesday at",
+    "12, Alice and I",
+    "shall stay in Albany."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "Feb 3: mirrored Feb 2 entry below"
+  },
+  {
+   "kind": "other",
+   "value": null,
+   "position": "top",
+   "note": "faint pencil mark at upper right corner of Feb 4 page"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Alice",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   "Albany"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "Unsplit spread (Feb 3 left, Feb 4 right). Feb 4 blank.",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

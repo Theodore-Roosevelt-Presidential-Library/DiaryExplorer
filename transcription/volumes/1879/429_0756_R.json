@@ -1,0 +1,99 @@
+{
+ "frame": "429_0756",
+ "half": "R",
+ "volume": "1879",
+ "page_type": "diary-day",
+ "dates": [
+  "1879-08-17"
+ ],
+ "printed": {
+  "headers": [
+   "Sunday, August 17, 1879."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1879-08-17",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Every Sunday",
+    "we have morning and",
+    "evening prayers; I wish",
+    "we could have them",
+    "every day.",
+    "Motherling is just",
+    "too sweet and pretty",
+    "for anything; and",
+    "I doubt if there",
+    "ever were two more",
+    "^lovely^ ~~noble~~ and unselfish",
+    "girls than dear,",
+    "noble Bysie, and",
+    "darling little",
+    "Pussie. These three, and",
+    "my best friend, old brother",
+    "Nelly give me as happy",
+    "a home as a man could",
+    "possibly have."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "'lovely' written in left margin over/beside struck 'noble'"
+  }
+ ],
+ "marks": [
+  {
+   "kind": "archival-page-number",
+   "value": "151[?]",
+   "position": "top",
+   "note": "partly legible"
+  },
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from reverse of leaf; ignored"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Motherling",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Bysie",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Pussie",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Nelly",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

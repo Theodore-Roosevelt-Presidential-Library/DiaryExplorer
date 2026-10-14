@@ -1,0 +1,89 @@
+{
+ "frame": "429_0884",
+ "half": "R",
+ "volume": "1880",
+ "page_type": "diary-day",
+ "dates": [
+  "1880-03-31"
+ ],
+ "printed": {
+  "headers": [
+   "March, Wednesday 31. 1880."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1880-03-31",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Bowling party in afternoon.",
+    "then went to a dinner at",
+    "Youngs, for \"Big six\":—",
+    "Harry, ^Shaw,^ Harry Chapin, Minot",
+    "Weld, Jack Tebbets[?], Dick",
+    "Saltonstall and myself.",
+    "Went to a very funny",
+    "piece at the theatre."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "'Shaw,' inserted above line after 'Harry,'; surname 'Tebbets' uncertain"
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored show-through of reverse entry below; ignored"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Harry Shaw",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Harry Chapin",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Minot Weld",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Jack Tebbets",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Dick Saltonstall",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   "Youngs"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

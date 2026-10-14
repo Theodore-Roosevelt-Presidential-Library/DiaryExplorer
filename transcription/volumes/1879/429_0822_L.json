@@ -1,0 +1,183 @@
+{
+ "frame": "429_0822",
+ "half": "L",
+ "volume": "1879",
+ "page_type": "memoranda",
+ "dates": [],
+ "printed": {
+  "headers": [],
+  "title": "Memoranda.",
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": null,
+   "kind": "table",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Game Bag",
+    "Total 1874 1875",
+    "Raccoon 1",
+    "Deer 2",
+    "Red Hare 5",
+    "Gray Hare 21 2",
+    "Gray Squirrel 19 3 4",
+    "Ruffed Grouse 50 2 2",
+    "Canada \" 7",
+    "Quail 23",
+    "Woodcock 41",
+    "Snipe 1 1",
+    "Plover &c. 16 2",
+    "Sandsnipe &c 40 6",
+    "Wild pigeon 5 2",
+    "Carolina dove 3",
+    "Ducks 37 2 4",
+    "Herons 32 7 4",
+    "Loons 4 2",
+    "307 17 26"
+   ],
+   "rows": [
+    [
+     "Raccoon",
+     "1",
+     "",
+     ""
+    ],
+    [
+     "Deer",
+     "2",
+     "",
+     ""
+    ],
+    [
+     "Red Hare",
+     "5",
+     "",
+     ""
+    ],
+    [
+     "Gray Hare",
+     "21",
+     "2",
+     ""
+    ],
+    [
+     "Gray Squirrel",
+     "19",
+     "3",
+     "4"
+    ],
+    [
+     "Ruffed Grouse",
+     "50",
+     "2",
+     "2"
+    ],
+    [
+     "Canada \"",
+     "7",
+     "",
+     ""
+    ],
+    [
+     "Quail",
+     "23",
+     "",
+     ""
+    ],
+    [
+     "Woodcock",
+     "41",
+     "",
+     ""
+    ],
+    [
+     "Snipe",
+     "1",
+     "1",
+     ""
+    ],
+    [
+     "Plover &c.",
+     "16",
+     "",
+     "2"
+    ],
+    [
+     "Sandsnipe &c",
+     "40",
+     "",
+     "6"
+    ],
+    [
+     "Wild pigeon",
+     "5",
+     "",
+     "2"
+    ],
+    [
+     "Carolina dove",
+     "3",
+     "",
+     ""
+    ],
+    [
+     "Ducks",
+     "37",
+     "2",
+     "4"
+    ],
+    [
+     "Herons",
+     "32",
+     "7",
+     "4"
+    ],
+    [
+     "Loons",
+     "4",
+     "",
+     "2"
+    ],
+    [
+     "",
+     "307",
+     "17",
+     "26"
+    ]
+   ],
+   "columns": [
+    "Species",
+    "Total",
+    "1874",
+    "1875"
+   ],
+   "confidence": "high",
+   "note": "Heading 'Game Bag' spans this and the facing page. Last row is column totals. A smudged mark in the 1875 column on the Woodcock row is not a figure."
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from reverse; ignored"
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "Game Bag table continues on 429_0822_R (1876-1879).",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

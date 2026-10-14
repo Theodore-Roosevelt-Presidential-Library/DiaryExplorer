@@ -1,0 +1,83 @@
+{
+ "frame": "430_0131",
+ "half": "R",
+ "volume": "1883",
+ "page_type": "diary-day",
+ "dates": [
+  "1883-09-12"
+ ],
+ "printed": {
+  "headers": [
+   "SEPTEMBER 12 Wednesday"
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1883-09-12",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "M. & I took a long tramp",
+    "through the woods",
+    "stillhunting, but",
+    "without success; we",
+    "saw nothing except",
+    "two or three deer tracks.",
+    "Snow lies on the",
+    "ground through the",
+    "woods, and the small",
+    "pools or tarns are all",
+    "frozen over.",
+    "These pine and",
+    "spruce forests, with",
+    "their sights & sounds",
+    "or more often, absence",
+    "of sound, remind me",
+    "of the great woods of",
+    "Maine and the Adiron-",
+    "dacks; they have a",
+    "weird, melancholy",
+    "fascination for me."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from reverse of leaf, ignored"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "M.",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   "Maine",
+   "Adirondacks"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

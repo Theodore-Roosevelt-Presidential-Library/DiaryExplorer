@@ -1,0 +1,93 @@
+{
+ "frame": "429_0962",
+ "half": "R",
+ "volume": "1880",
+ "page_type": "diary-day",
+ "dates": [
+  "1880-09-09"
+ ],
+ "printed": {
+  "headers": [
+   "September, Thursday 9. 1880."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1880-09-09",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "In the morning we",
+    "started off after chickens",
+    "getting a couple of dozen",
+    "before dinner; it is glorious",
+    "autumn weather, cool and",
+    "clear and driving around",
+    "in the wagon over the",
+    "prairie is great fun. In",
+    "the afternoon Nell and",
+    "I paddled round the",
+    "lake in an old flat",
+    "-bottom after ducks and",
+    "snipe; he shot well and",
+    "I didn't. Finally my",
+    "second and last gun also",
+    "broke! which knocks me",
+    "up for the present. We",
+    "have had very hard luck",
+    "this trip; a constant succession",
+    "of unavoidable accidents."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "b2",
+   "date": "1880-09-09",
+   "kind": "tally",
+   "position": "bottom",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "6 grouse 21 yellowlegs &c",
+    "E 8 grouse 3 ducks 1 grebe"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  }
+ ],
+ "marks": [],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Nell",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "E",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

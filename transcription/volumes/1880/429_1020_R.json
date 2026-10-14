@@ -1,0 +1,274 @@
+{
+ "frame": "429_1020",
+ "half": "R",
+ "volume": "1880",
+ "page_type": "other",
+ "dates": [],
+ "printed": {
+  "headers": [],
+  "title": "Cash Account—July.",
+  "description": "Printed cash-account ruling with column heads 'Date.', 'Received.', 'Paid.'"
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": null,
+   "kind": "table",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "'76 '77 '78 '79 '80",
+    "'76=1 '78=14 '79=26",
+    "'78=1 '80=3",
+    "'77=2 '78=2 '80=5",
+    "'77=2 '78=2 '80=2",
+    "'76=3 '77=2 '80=6",
+    "'77=2 '78=3 '80=33",
+    "'77=2 '79=2 '80=12",
+    "'76=6 '77=8 '78=5 '79=6 '80=6",
+    "'80=1",
+    "'80=1",
+    "'77=1",
+    "'76=2 '77=4 '78=2 '79=1",
+    "'76=4 '77=3 '78=2",
+    "'77=1 '80=2",
+    "'77=1"
+   ],
+   "rows": [
+    [
+     "Woodcock",
+     "1",
+     "",
+     "14",
+     "26",
+     ""
+    ],
+    [
+     "Snipe",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Upland Plover",
+     "",
+     "",
+     "1",
+     "",
+     "3"
+    ],
+    [
+     "Golden Plover",
+     "",
+     "2",
+     "2",
+     "",
+     "5"
+    ],
+    [
+     "Blackbreast Plover",
+     "",
+     "2",
+     "2",
+     "",
+     "2"
+    ],
+    [
+     "Ringneck &c Plover",
+     "3",
+     "2",
+     "",
+     "",
+     "6"
+    ],
+    [
+     "Whitetailed",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Spurwing",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Crocodile &c",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Peewee &c",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Winter Yellowlegs",
+     "",
+     "2",
+     "3",
+     "",
+     "33"
+    ],
+    [
+     "Summer Yellowlegs",
+     "",
+     "2",
+     "",
+     "2",
+     "12"
+    ],
+    [
+     "Sandsnipe (Beach birds)",
+     "6",
+     "8",
+     "5",
+     "6",
+     "6"
+    ],
+    [
+     "Rail",
+     "",
+     "",
+     "",
+     "",
+     "1"
+    ],
+    [
+     "Coot",
+     "",
+     "",
+     "",
+     "",
+     "1"
+    ],
+    [
+     "Gray Heron",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "White Heron",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Blue Heron",
+     "",
+     "1",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Green Heron",
+     "2",
+     "4",
+     "2",
+     "1",
+     ""
+    ],
+    [
+     "Night Heron",
+     "4",
+     "3",
+     "2",
+     "",
+     ""
+    ],
+    [
+     "Bittern",
+     "",
+     "1",
+     "",
+     "",
+     "2"
+    ],
+    [
+     "Least Bittern",
+     "",
+     "1",
+     "",
+     "",
+     ""
+    ]
+   ],
+   "columns": [
+    "Game (label from facing page 429_1020_L, not written here)",
+    "'76",
+    "'77",
+    "'78",
+    "'79",
+    "'80"
+   ],
+   "confidence": "high",
+   "note": "Continuation of the game tally from the facing page; a rule is drawn under the year headings '78 '79 '80. Row assignment by ruled-line position, confirmed by row totals on facing page."
+  },
+  {
+   "id": "b2",
+   "date": null,
+   "kind": "other",
+   "position": "body",
+   "medium": "ink",
+   "hand": "uncertain",
+   "lines": [
+    "~~1~~[?]",
+    "~~4~~[?]",
+    "~~4~~[?]",
+    "~~1~~[?] ~~2~~[?]",
+    "~~4~~[?] ~~1~~[?]"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "low",
+   "note": "Small figures in an unheaded space between the '76 and '77 columns on the Blue, Green, Night, Bittern and Least Bittern rows, apparently struck or overwritten (crossed strokes). Not included in row totals, which balance without them. Also a stray mark on the Sandsnipe row between '76 and '77."
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "faint mirrored writing from reverse ignored"
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [],
+  "dates": [
+   "'76",
+   "'77",
+   "'78",
+   "'79",
+   "'80"
+  ]
+ },
+ "has_tr_writing": true,
+ "confidence": "medium",
+ "transcriber_notes": "Lower rows contain struck/cancelled figures in an unheaded column; low confidence block b2.",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

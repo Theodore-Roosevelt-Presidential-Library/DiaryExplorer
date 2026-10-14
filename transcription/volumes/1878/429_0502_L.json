@@ -1,0 +1,69 @@
+{
+ "frame": "429_0502",
+ "half": "L",
+ "volume": "1878",
+ "page_type": "diary-day",
+ "dates": [
+  "1878-02-17"
+ ],
+ "printed": {
+  "headers": [
+   "February, Sunday 17. 1878."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1878-02-17",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "He was as wise and",
+    "good in public as",
+    "in private life. He",
+    "was a great",
+    "personal worker",
+    "among the poor;",
+    "some of his old",
+    "\"patients\" whom",
+    "I visited have",
+    "been very touching",
+    "about him.",
+    "By the way,",
+    "it is very",
+    "pleasant to see",
+    "my old Mission",
+    "scholars again."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "'By the way,' begins an indented new paragraph."
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "faint mirrored writing from reverse of leaf; not transcribed"
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "Second filming of the same spread as 429_0501 (Feb 17-18); transcription matches 429_0501_L.",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

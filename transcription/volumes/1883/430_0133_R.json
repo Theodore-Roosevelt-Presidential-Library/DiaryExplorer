@@ -1,0 +1,96 @@
+{
+ "frame": "430_0133",
+ "half": "R",
+ "volume": "1883",
+ "page_type": "diary-day",
+ "dates": [
+  "1883-09-16"
+ ],
+ "printed": {
+  "headers": [
+   "SEPTEMBER 16 Sunday"
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1883-09-16",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "In morning skinned",
+    "the grizzly.",
+    "In afternoon M. &",
+    "I rode out on horseback.",
+    "Down to canyon;",
+    "superb scenery. Emptied",
+    "the winchester at a",
+    "blacktail buck; shot very",
+    "badly; killed him at",
+    "sixth shot. While skinning",
+    "him (near dusk) saw",
+    "a female grizzly and her",
+    "nearly full grown cub;",
+    "we ran after them on",
+    "foot about a mile, over",
+    "awful ground; I mortally",
+    "wounded the old one; she",
+    "turned to bay and M,",
+    "who was ahead, finished",
+    "her; he ^mortally^ wounded the cub;",
+    "I cut it off and finished",
+    "it, the ball going clean through ^him from end to end^"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": "last line: 'him from end to end' written above 'going clean through' as an interlinear addition"
+  },
+  {
+   "id": "b2",
+   "date": "1883-09-16",
+   "kind": "tally",
+   "position": "bottom",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "2 bears 1 blacktail buck."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from reverse of leaf, ignored"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "M.",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "medium",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

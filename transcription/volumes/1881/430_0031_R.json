@@ -1,0 +1,126 @@
+{
+ "frame": "430_0031",
+ "half": "R",
+ "volume": "1881",
+ "page_type": "diary-day",
+ "dates": [
+  "1881-05-07",
+  "1881-05-08",
+  "1881-05-09"
+ ],
+ "printed": {
+  "headers": [
+   "May, Saturday 7. 1881.",
+   "Sunday 8.",
+   "Monday 9."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1881-05-07",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Little theatre party",
+    "for Rosy, Dick &",
+    "Fanny Smith &",
+    "Romy[?] Colgate."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": "'Romy' uncertain"
+  },
+  {
+   "id": "b2",
+   "date": "1881-05-08",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Excellent sermon at",
+    "Dr. Halls.",
+    "We have had no",
+    "end of bother packing",
+    "up."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "b3",
+   "date": "1881-05-09",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Went to, a meeting",
+    "of the the Directors",
+    "of the Orthopaedic",
+    "Dispensary,"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "'the' written twice"
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "faint mirrored writing from reverse of leaf; ignored"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Rosy",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Dick",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Fanny Smith",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Romy[?] Colgate",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Dr. Hall",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   "Orthopaedic Dispensary"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "medium",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

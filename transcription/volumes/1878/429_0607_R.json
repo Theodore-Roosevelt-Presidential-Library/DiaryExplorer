@@ -1,0 +1,73 @@
+{
+ "frame": "429_0607",
+ "half": "R",
+ "volume": "1878",
+ "page_type": "diary-day",
+ "dates": [
+  "1878-08-29"
+ ],
+ "printed": {
+  "headers": [
+   "AUGUST, THURSDAY 29. 1878."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1878-08-29",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "There was a fair",
+    "steady breeze and",
+    "we got under weigh",
+    "early in the morning",
+    "and all day long",
+    "we sailed in a",
+    "straight course",
+    "by the low",
+    "& sandy bluffs",
+    "of the Long",
+    "Island coast;",
+    "I passed a good",
+    "of deal of time in",
+    "the cross trees, whist",
+    "and discussions about",
+    "materialism and politics",
+    "occupying the remain-",
+    "-der."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": "'&' at start of line 9 appears written over another character. 'of' at start of line 13 is as it appears (stray/misplaced word)."
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from reverse of leaf; ignored"
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [
+   "Long Island"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "medium",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

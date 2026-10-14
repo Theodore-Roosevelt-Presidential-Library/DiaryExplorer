@@ -1,0 +1,152 @@
+{
+ "frame": "429_0823",
+ "half": "R",
+ "volume": "1879",
+ "page_type": "cash-account",
+ "dates": [],
+ "printed": {
+  "headers": [],
+  "title": "Bills Payable. January.",
+  "description": "Printed ledger page (Date, Name, Dolls., Cts.; 'Receivable.' mid-page), headings struck through by TR."
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": null,
+   "kind": "heading",
+   "position": "over-printed-title",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Sum^m^ary spent in"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "Written above struck printed heading; second 'm' inserted above."
+  },
+  {
+   "id": "b2",
+   "date": null,
+   "kind": "other",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "~~BILLS PAYABLE. JANUARY.~~",
+    "~~NAME.~~",
+    "~~Dolls. Cts.~~",
+    "~~RECEIVABLE.~~"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "TR's strike-throughs of printed headings (printed text itself is in 'printed')."
+  },
+  {
+   "id": "b3",
+   "date": null,
+   "kind": "table",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "1878 1877",
+    "198.50 177.00",
+    "96.30 82.50",
+    "304.65 147.50",
+    "418.10 188.00",
+    "179.40 122.00",
+    "137.50 300.00",
+    "125.00 7.00",
+    "57.00 32.00",
+    "33.00 11.00",
+    "233.00 303.25",
+    "135.75 139.75",
+    "131.25 232.00",
+    "2049.45 1742.00"
+   ],
+   "rows": [
+    [
+     "198.50",
+     "177.00"
+    ],
+    [
+     "96.30",
+     "82.50"
+    ],
+    [
+     "304.65",
+     "147.50"
+    ],
+    [
+     "418.10",
+     "188.00"
+    ],
+    [
+     "179.40",
+     "122.00"
+    ],
+    [
+     "137.50",
+     "300.00"
+    ],
+    [
+     "125.00",
+     "7.00"
+    ],
+    [
+     "57.00",
+     "32.00"
+    ],
+    [
+     "33.00",
+     "11.00"
+    ],
+    [
+     "233.00",
+     "303.25"
+    ],
+    [
+     "135.75",
+     "139.75"
+    ],
+    [
+     "131.25",
+     "232.00"
+    ],
+    [
+     "2049.45",
+     "1742.00"
+    ]
+   ],
+   "columns": [
+    "1878",
+    "1877"
+   ],
+   "confidence": "high",
+   "note": "'75' of 135.75 written above struck 'RECEIVABLE.'; '1877' heading possibly written over another digit. Last row is totals."
+  }
+ ],
+ "marks": [
+  {
+   "kind": "archival-page-number",
+   "value": "573[?]",
+   "position": "top",
+   "note": null
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

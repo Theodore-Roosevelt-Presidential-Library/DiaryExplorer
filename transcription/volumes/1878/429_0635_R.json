@@ -1,0 +1,96 @@
+{
+ "frame": "429_0635",
+ "half": "R",
+ "volume": "1878",
+ "page_type": "diary-day",
+ "dates": [
+  "1878-10-24"
+ ],
+ "printed": {
+  "headers": [
+   "October, Thursday 24. 1878."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1878-10-24",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Took a long tramp",
+    "with Jack[?] Tebbetts[?],",
+    "who has improved",
+    "wonderfully; I like",
+    "him very much",
+    "indeed.",
+    "Have just received",
+    "a letter telling me",
+    "that Cornelius has",
+    "distinguished him",
+    "-self by marrying",
+    "a french actress!",
+    "He is a disgrace",
+    "to the family -",
+    "the vulgar brute."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": "name in line 2 uncertain"
+  },
+  {
+   "id": "b2",
+   "date": "1878-10-24",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "P.S. She turns out",
+    "to be a mere",
+    "courtezan! a harlot!"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "'mere', 'courtezan' and 'harlot' underlined; postscript added below entry"
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from reverse of leaf"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Jack Tebbetts",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Cornelius",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "medium",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

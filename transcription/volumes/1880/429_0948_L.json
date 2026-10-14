@@ -1,0 +1,67 @@
+{
+ "frame": "429_0948",
+ "half": "L",
+ "volume": "1880",
+ "page_type": "diary-day",
+ "dates": [
+  "1880-08-11"
+ ],
+ "printed": {
+  "headers": [
+   "August, Wednesday 11. 1880."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1880-08-11",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Spent a lovely day with",
+    "my sweetest Queen, and",
+    "at last, with a heavy",
+    "heart in spite of the",
+    "shortness of the proposed",
+    "separation, bade her fare-",
+    "well for ~~six~~ ^seven^ weeks; and",
+    "took the night train",
+    "for New York."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": "'six' struck through with 'seven' written above it (reading of both small words medium confidence); 'separation' has an overwritten letter."
+  }
+ ],
+ "marks": [],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Queen",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   {
+    "as_written": "New York",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "medium",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

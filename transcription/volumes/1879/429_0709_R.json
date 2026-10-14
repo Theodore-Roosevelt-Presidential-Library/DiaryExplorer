@@ -1,0 +1,97 @@
+{
+ "frame": "429_0709",
+ "half": "R",
+ "volume": "1879",
+ "page_type": "diary-day",
+ "dates": [
+  "1879-04-05"
+ ],
+ "printed": {
+  "headers": [
+   "Saturday, April 5, 1879."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1879-04-05",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Nell gave us a dinner at",
+    "the Jockey Club, with",
+    "Grove Porter, The[?] Iselin,",
+    "Harold & Smith Hadden.",
+    "I drove out in Harold",
+    "Haddon's dog cart, the",
+    "others coming in drags.",
+    "We enjoyed ourselves",
+    "extremely, I like Hadden",
+    "very much."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": "Word before 'Iselin' looks like 'The' (possibly an abbreviated first name). Surname spelled both 'Hadden' and 'Haddon' as written."
+  }
+ ],
+ "marks": [
+  {
+   "kind": "archival-page-number",
+   "value": "5[?]",
+   "position": "top",
+   "note": "pencil, top right, partly legible"
+  },
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "faint mirrored writing from reverse; ignored"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Nell",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Grove Porter",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "The[?] Iselin",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Harold Hadden",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Smith Hadden",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   "Jockey Club"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "medium",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

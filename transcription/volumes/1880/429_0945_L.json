@@ -1,0 +1,64 @@
+{
+ "frame": "429_0945",
+ "half": "L",
+ "volume": "1880",
+ "page_type": "diary-day",
+ "dates": [
+  "1880-08-51880"
+ ],
+ "printed": {
+  "headers": [
+   "AUGUST, THURSDAY 5. 1880."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1880-08-51880",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Drove Darling Queenie",
+    "over to dine at Schooner",
+    "Head."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "faint ink"
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from reverse of leaf ignored"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Queenie",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   "Schooner Head"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

@@ -1,0 +1,72 @@
+{
+ "frame": "429_0897",
+ "half": "L",
+ "volume": "1880",
+ "page_type": "diary-day",
+ "dates": [
+  "1880-04-25"
+ ],
+ "printed": {
+  "headers": [
+   "April, Sunday 25. 1880."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1880-04-25",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Went to the dear little Chestnut",
+    "Hill church in the morning.",
+    "Everything out here is",
+    "perfectly ideal.",
+    "I took my darling a long",
+    "drive in the afternoon, through",
+    "way beyond the Charles",
+    "Words can not tell how I",
+    "love her; more and more",
+    "every day.",
+    "I doubt if any man",
+    "was ever more happy than",
+    "I am; I always enjoyed",
+    "myself, but I have never",
+    "been so happy as during these",
+    "last three months."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "faint mirrored writing from reverse"
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [
+   "Chestnut Hill",
+   "the Charles"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

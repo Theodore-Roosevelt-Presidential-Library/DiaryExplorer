@@ -1,0 +1,74 @@
+{
+ "frame": "430_0148",
+ "half": "R",
+ "volume": "1883",
+ "page_type": "cash-account",
+ "dates": [],
+ "printed": {
+  "headers": [],
+  "title": "Bills Payable NOVEMBER",
+  "description": "ruled account page; printed 'Bills Payable NOVEMBER' heading with column headings, and printed 'Receivable' sub-heading at mid-page"
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": null,
+   "kind": "table",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Dubuque & Dakota. 150.00",
+    "Dunleith & Dubuque 75.00",
+    "Rock & Pittsburg 150.00"
+   ],
+   "rows": [
+    [
+     "Dubuque & Dakota.",
+     "150.00"
+    ],
+    [
+     "Dunleith & Dubuque",
+     "75.00"
+    ],
+    [
+     "Rock & Pittsburg",
+     "150.00"
+    ]
+   ],
+   "columns": [
+    "source",
+    "amount"
+   ],
+   "confidence": "medium",
+   "note": null
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored print/writing from reverse of leaf, ignored"
+  },
+  {
+   "kind": "tear",
+   "value": null,
+   "position": "body",
+   "note": "lower right corner of leaf torn/cut away diagonally; a folded flap projects at right edge"
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "medium",
+ "transcriber_notes": "rows pair with dates '1884 Jan 1st / Feb 1st' on facing page 430_0148_L",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

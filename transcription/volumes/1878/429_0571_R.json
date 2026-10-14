@@ -1,0 +1,71 @@
+{
+ "frame": "429_0571",
+ "half": "R",
+ "volume": "1878",
+ "page_type": "diary-day",
+ "dates": [
+  "1878-06-30"
+ ],
+ "printed": {
+  "headers": [
+   "June, Sunday 30. 1878."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1878-06-30",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Had a very good",
+    "sermon. I was",
+    "much struck with",
+    "one remark, that",
+    "Christianity gives",
+    "us, on this earth,",
+    "rest in trouble,",
+    "not from trouble.",
+    "Nothing but my",
+    "faith in the Lord",
+    "Jesus Christ could",
+    "have carried me",
+    "through this, my",
+    "terrible time of",
+    "trial and sorrow.",
+    "We passed the evening",
+    "largely in singing",
+    "hymns, as usual"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "'from' underlined. Line starts read from full frame."
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "faint mirrored writing from reverse of leaf; ignored"
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "BAD SPLIT: left part of page (start of lines and 'June,' heading) cut off in half image; transcribed from full/429_0571.jpg.",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

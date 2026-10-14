@@ -1,0 +1,105 @@
+{
+ "frame": "429_0644",
+ "half": "R",
+ "volume": "1878",
+ "page_type": "diary-day",
+ "dates": [
+  "1878-11-11"
+ ],
+ "printed": {
+  "headers": [
+   "November, Monday 11. 1878."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1878-11-11",
+   "kind": "heading",
+   "position": "over-printed-title",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Sunday"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "Written above printed 'MONDAY 11.', which is struck through by hand (~~Monday 11.~~)."
+  },
+  {
+   "id": "b2",
+   "date": "1878-11-11",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Church in morning;",
+    "walked home with",
+    "Miss Wheelright. In",
+    "afternoon drove over",
+    "with Minot in his",
+    "tilbury to Dick",
+    "Saltonstalls, where",
+    "we took tea and",
+    "came home at 10",
+    "oclock by moon",
+    "light. Miss Alice",
+    "Lee was there, as",
+    "sweet and pretty",
+    "as ever; and I",
+    "enjoyed myself",
+    "most heartily."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from reverse of leaf"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Miss Wheelright",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Minot",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Dick Saltonstall",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Miss Alice Lee",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "Printed 'Monday 11.' struck and relabeled 'Sunday'. Date field kept as printed date.",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

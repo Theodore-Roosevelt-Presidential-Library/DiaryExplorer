@@ -1,0 +1,62 @@
+{
+ "frame": "429_0938",
+ "half": "R",
+ "volume": "1880",
+ "page_type": "diary-day",
+ "dates": [
+  "1880-07-231880"
+ ],
+ "printed": {
+  "headers": [
+   "JULY, FRIDAY 23. 1880."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1880-07-231880",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Spent the morning",
+    "and playing",
+    "tennis; in the",
+    "afternoon walked",
+    "round to see",
+    "the various",
+    "sights; the scenery",
+    "is perfectly",
+    "magnificent."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": "first lines heavily smeared; 'Spent the morning and playing' read as written"
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from reverse of leaf ignored"
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "medium",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

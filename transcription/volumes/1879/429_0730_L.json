@@ -1,0 +1,79 @@
+{
+ "frame": "429_0730",
+ "half": "L",
+ "volume": "1879",
+ "page_type": "diary-day",
+ "dates": [
+  "1879-06-13"
+ ],
+ "printed": {
+  "headers": [
+   "Friday, June 13, 1879."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1879-06-13",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Passed my last exam-",
+    "-ination.",
+    "In the afternoon I",
+    "rode over to the",
+    "Saltonstalls, and spent",
+    "the afternoon walking",
+    "with Rose. I took",
+    "dinner there; after-",
+    "wards went out",
+    "walking with Alice."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  }
+ ],
+ "marks": [
+  {
+   "kind": "archival-page-number",
+   "value": null,
+   "position": "top-left",
+   "note": "pencil mark partly cut off"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "the Saltonstalls",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Rose",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Alice",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "Sequence jumps from June 10 (frame 0729) to June 13; June 11-12 not in this frame.",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

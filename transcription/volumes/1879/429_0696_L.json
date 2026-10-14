@@ -1,0 +1,80 @@
+{
+ "frame": "429_0696",
+ "half": "L",
+ "volume": "1879",
+ "page_type": "diary-day",
+ "dates": [
+  "1879-03-03"
+ ],
+ "printed": {
+  "headers": [
+   "Monday, March 3, 1879."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1879-03-03",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Went off on a tramp through",
+    "the woods with Will Dow. Walked",
+    "up to Dyer Brook, then a couple",
+    "of miles along it, and then",
+    "struck out in the woods. The best",
+    "walking was on the hardwood",
+    "grounds; it was fearfully hard",
+    "work in some of the thick, swampy",
+    "spruce and cedar thickets, but not",
+    "as bad as in summer. I saw an",
+    "arctic woodpecker by a stream and",
+    "some Hudsonian[?] chickadees in a",
+    "spruce wood, and ~~some~~ ^two^ whiskey jacks",
+    "came round us at lunch time; we",
+    "saw two or three hare tracks, and once",
+    "the round footprints of a canada lynx,",
+    "and found where a spruce partridge had",
+    "passed the night: but in an 8 hour",
+    "tramp, these were the only traces of life."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": "'Hudsonian' heavily inked, possibly written over another word. 'some' struck with 'two' above. Initial 't' of 'The best' may be lower-case."
+  }
+ ],
+ "marks": [
+  {
+   "kind": "archival-page-number",
+   "value": null,
+   "position": "left-margin",
+   "note": "faint pencil mark at top left, illegible"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Will Dow",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   "Dyer Brook"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "medium",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

@@ -1,0 +1,61 @@
+{
+ "frame": "430_0149",
+ "half": "S",
+ "volume": "1883",
+ "page_type": "cover",
+ "dates": [],
+ "printed": {
+  "headers": [],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": null,
+   "kind": "table",
+   "position": "top",
+   "medium": "pencil",
+   "hand": "uncertain",
+   "lines": [
+    "1 490[?]",
+    "1 180[?]",
+    "1 90[?]",
+    "1 70[?]",
+    "1 100[?]",
+    "1 20[?]",
+    "1 [illegible]",
+    "1 [illegible]",
+    "1 [illegible]",
+    "[illegible]",
+    "[illegible]",
+    "[illegible]"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "low",
+   "note": "very faint column of figures, a rule drawn below the ninth line; a second faint column of figures at upper right is unreadable"
+  }
+ ],
+ "marks": [
+  {
+   "kind": "other",
+   "value": null,
+   "position": "body",
+   "note": "dark cover board; vertical crease/crack mid-cover; page edges visible at left"
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "low",
+ "transcriber_notes": "back cover of the volume (dark), with faint pencil figures near the top; readings tentative",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

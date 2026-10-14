@@ -1,0 +1,86 @@
+{
+ "frame": "429_1008",
+ "half": "L",
+ "volume": "1880",
+ "page_type": "diary-day",
+ "dates": [
+  "1880-12-15"
+ ],
+ "printed": {
+  "headers": [
+   "December, Wednesday 15. 1880."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1880-12-15",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "The horse is in",
+    "superb spirits, and",
+    "the weather is beau-",
+    "tiful; I enjoy my",
+    "~~rides~~ drives with",
+    "Alice most intensely;",
+    "especially when we",
+    "go up the Riverside",
+    "Park by the beautiful",
+    "Hudson. When my",
+    "sweetest little wife can't",
+    "go I always take",
+    "the dear little mother.",
+    "It is lovely to live",
+    "as we are now; it",
+    "would be hard to",
+    "imagine a pleasanter",
+    "home. The little wife",
+    "is just the ~~[illegible]~~ winningest[?],",
+    "brightest, prettiest little",
+    "queen imaginable; and",
+    "I perfectly worship her.",
+    "How I marvel at",
+    "my good luck!"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": "struck word before 'drives' read as 'rides'[?]; word after 'the' in 'just the ...' overwritten/struck, reading uncertain"
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "faint mirrored writing from reverse of leaf, ignored"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Alice",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   "Riverside Park",
+   "Hudson"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "medium",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

@@ -1,0 +1,48 @@
+{
+ "frame": "430_0073",
+ "half": "L",
+ "volume": "1881",
+ "page_type": "diary-day",
+ "dates": [
+  "1881-12-12",
+  "1881-12-13",
+  "1881-12-14"
+ ],
+ "printed": {
+  "headers": [
+   "December, Monday 12. 1881.",
+   "Tuesday 13.",
+   "Wednesday 14."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from reverse of leaf"
+  },
+  {
+   "kind": "ink-blot",
+   "value": null,
+   "position": "top",
+   "note": "dark fragmentary ink offset under Monday 12; not legible as writing on this page"
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": false,
+ "confidence": "high",
+ "transcriber_notes": "Blank days.",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

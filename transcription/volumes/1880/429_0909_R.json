@@ -1,0 +1,121 @@
+{
+ "frame": "429_0909",
+ "half": "R",
+ "volume": "1880",
+ "page_type": "diary-day",
+ "dates": [
+  "1880-05-20"
+ ],
+ "printed": {
+  "headers": [
+   "May, Thursday 20. 1880."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1880-05-20",
+   "kind": "heading",
+   "position": "over-printed-title",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Wednesday",
+    "~~Thursday~~"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "TR wrote 'Wednesday' above the printed 'Thursday 20.', which is struck through by pen (struck word is printed)."
+  },
+  {
+   "id": "b2",
+   "date": "1880-05-20",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Drove Dick over to make a",
+    "call on Miss Georgie Heyward,",
+    "Joe Whitney's fiançée; had",
+    "an absurd time. Went to",
+    "a very pleasant O.K. dinner;",
+    "afterwards to the D.K.E."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "Entry headed by TR 'Wednesday' (i.e. May 19) though written under printed Thursday 20."
+  },
+  {
+   "id": "b3",
+   "date": "1880-05-20",
+   "kind": "heading",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Thursday 20th"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "b4",
+   "date": "1880-05-20",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Drove over to the Lees to",
+    "stay a few days. Played",
+    "tennis in the afternoon."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  }
+ ],
+ "marks": [],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Dick",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Miss Georgie Heyward",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Joe Whitney",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "the Lees",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "TR corrected day headings: printed Thursday 20 relabelled Wednesday; second entry headed 'Thursday 20th'.",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

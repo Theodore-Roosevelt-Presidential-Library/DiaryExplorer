@@ -1,0 +1,127 @@
+{
+ "frame": "429_1024",
+ "half": "L",
+ "volume": "1880",
+ "page_type": "endpaper",
+ "dates": [],
+ "printed": {
+  "headers": [],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": null,
+   "kind": "table",
+   "position": "top",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "~~[illegible]~~ [illegible] 60,40",
+    "~~[illegible]~~",
+    "Spent in Aug 100 dollars",
+    "Shot ~~[illegible]~~ in Aug :35 birds",
+    "Spent in Sep 319,00",
+    "famous[?] bill 15,40",
+    "Gunning bills 126,00",
+    "Law School 100,00",
+    "Presents 100,00",
+    "341,40",
+    "660,40"
+   ],
+   "rows": [
+    [
+     "Spent in Aug",
+     "100 dollars"
+    ],
+    [
+     "Shot in Aug",
+     "35 birds"
+    ],
+    [
+     "Spent in Sep",
+     "319,00"
+    ],
+    [
+     "famous[?] bill",
+     "15,40"
+    ],
+    [
+     "Gunning bills",
+     "126,00"
+    ],
+    [
+     "Law School",
+     "100,00"
+    ],
+    [
+     "Presents",
+     "100,00"
+    ],
+    [
+     "(bracketed subtotal)",
+     "341,40"
+    ],
+    [
+     "(total)",
+     "660,40"
+    ]
+   ],
+   "columns": [
+    "Item",
+    "Amount"
+   ],
+   "confidence": "low",
+   "note": "Hasty ink notes on an unruled endpaper. Top line: a struck word, then a word read only as '[illegible]' (possibly beginning 'E'), then '60,40'; below it a further struck word under an ink blot. In 'Shot ... in Aug' a word is struck and a small '3'[?] stands above 'in'. 'famous[?] bill' first word uncertain. Small figures '223' and '22' written beside 'Law School' and 'Presents'. Brace total 341,40 (written vertically) = 15,40+126,00+100,00+100,00; 660,40 = 319,00 + 341,40. Large ink blots."
+  },
+  {
+   "id": "b2",
+   "date": null,
+   "kind": "list",
+   "position": "bottom",
+   "medium": "unknown",
+   "hand": "TR",
+   "lines": [
+    "Sporting 100,00",
+    "Travelling 159,00",
+    "Present 35,00",
+    "Church 25,00"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": "Fainter writing (pencil or faded ink) in lower half, with a long brace in the right margin; each item preceded by a dash. 'Church' very faint. Other dark smudges on the page (e.g. reversed figures near the bottom) appear to be wet-ink offset from the facing page, not writing."
+  }
+ ],
+ "marks": [
+  {
+   "kind": "ink-blot",
+   "value": null,
+   "position": "body",
+   "note": "several large blots"
+  },
+  {
+   "kind": "other",
+   "value": null,
+   "position": "body",
+   "note": "offset (mirror) smudges of ink from facing page 429_1024_R"
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [],
+  "dates": [
+   "Aug",
+   "Sep"
+  ]
+ },
+ "has_tr_writing": true,
+ "confidence": "low",
+ "transcriber_notes": "Endpaper with expense notes; several words illegible.",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

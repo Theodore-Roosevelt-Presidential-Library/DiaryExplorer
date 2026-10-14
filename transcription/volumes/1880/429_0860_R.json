@@ -1,0 +1,59 @@
+{
+ "frame": "429_0860",
+ "half": "R",
+ "volume": "1880",
+ "page_type": "diary-day",
+ "dates": [
+  "1880-02-12"
+ ],
+ "printed": {
+  "headers": [
+   "February, Thursday 12. 1880."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1880-02-12",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "A.D.Φ dinner of 25 men in",
+    "Town; I presided. It was one",
+    "of the pleasantest dinners I",
+    "have ever been to; the songs,",
+    "stories and speeches were all",
+    "excellent."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "'Φ' is the Greek letter phi."
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "heavy mirrored show-through of the 8 February entry"
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

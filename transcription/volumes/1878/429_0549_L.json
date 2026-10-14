@@ -1,0 +1,83 @@
+{
+ "frame": "429_0549",
+ "half": "L",
+ "volume": "1878",
+ "page_type": "diary-day",
+ "dates": [
+  "1878-05-18"
+ ],
+ "printed": {
+  "headers": [
+   "May, Saturday 18. 1878."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1878-05-16",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "do when I leave",
+    "college.",
+    "But [illegible] infin-",
+    "-itely greater [illegible]",
+    "the thought of",
+    "how I shall miss",
+    "his love!"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "low",
+   "note": "continues from previous page (entry begun May 16); heavy show-through; a small word (\"added\"[?]) appears above line 4, possibly an interlineation or show-through"
+  },
+  {
+   "id": "b2",
+   "date": "1878-05-18",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Pellew[?], by the way,",
+    "seems to be rapidly",
+    "going to the dogs."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": "name uncertain"
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from other side of leaf / facing page ignored"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Pellew",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "low",
+ "transcriber_notes": "Lower half of page is mirrored offset of facing page; ignored.",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

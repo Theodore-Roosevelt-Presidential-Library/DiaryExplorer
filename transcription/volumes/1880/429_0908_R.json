@@ -1,0 +1,38 @@
+{
+ "frame": "429_0908",
+ "half": "R",
+ "volume": "1880",
+ "page_type": "diary-day",
+ "dates": [
+  "1880-05-18"
+ ],
+ "printed": {
+  "headers": [
+   "May, Tuesday 18. 1880."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "Faint grey text (about 10 lines, including what looks like a 'Thursday 20th' heading) reads left-to-right but is very pale; appears to come from another leaf, not ink on this page. Not transcribed."
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": false,
+ "confidence": "medium",
+ "transcriber_notes": "Page appears blank; faint non-mirrored ghost text present, likely from another leaf. Reviewer should confirm.",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

@@ -1,0 +1,101 @@
+{
+ "frame": "429_0611",
+ "half": "L",
+ "volume": "1878",
+ "page_type": "diary-day",
+ "dates": [
+  "1878-09-05"
+ ],
+ "printed": {
+  "headers": [
+   "SEPTEMBER, THURSDAY 5. 1878."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1878-09-05",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Went in to New",
+    "York, where I pass",
+    "the night. Call[?] on",
+    "poor Cousin [illegible]; he is",
+    "dying by inches.",
+    "Cousin Sam Roose-",
+    "-velt is dead; it",
+    "is terrible for his",
+    "poor daughters. I",
+    "have been feeling",
+    "very sad about",
+    "dear old Hal",
+    "Minot.",
+    "In the evening Jack",
+    "Roosevelt, Emlen & I",
+    "had a very pleasant",
+    "dinner at the Union",
+    "League Club."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": "Heavy show-through on this page; transcribed from the full frame because the half is cut off."
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "heavy mirrored show-through"
+  },
+  {
+   "kind": "ink-blot",
+   "value": null,
+   "position": "right-margin",
+   "note": "blots near lines 16 and 18"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Cousin Sam Roosevelt",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Hal Minot",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Jack Roosevelt",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Emlen",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   "New York",
+   "Union League Club"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "medium",
+ "transcriber_notes": "BAD SPLIT: the Sept. 5 page is cut off at the right edge of the L half; its right portion appears at the left of the R half. Transcribed from full/429_0611.jpg.",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

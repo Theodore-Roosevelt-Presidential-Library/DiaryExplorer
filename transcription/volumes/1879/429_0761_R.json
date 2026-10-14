@@ -1,0 +1,93 @@
+{
+ "frame": "429_0761",
+ "half": "R",
+ "volume": "1879",
+ "page_type": "diary-day",
+ "dates": [
+  "1879-08-27"
+ ],
+ "printed": {
+  "headers": [
+   "Wednesday, August 27, 1879."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1879-08-27",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Walked up to the",
+    "head of Katahdin ~~Lake~~",
+    "Lake where we camped.",
+    "I get along very well",
+    "with my pack. Killed",
+    "4 ducks in a logan,",
+    "after a rather neat",
+    "stalk; also picked up",
+    "a couple of partridges.",
+    "We caught a few trout.",
+    "Black flies are pretty",
+    "^bad^ ~~frightfully~~; but they do not",
+    "bother us at night; ~~and~~",
+    "It is very pleasant & like",
+    "old time[?] in the evenings,",
+    "round the roaring logs",
+    "of the camp fire."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": "struck word at end of line 13 read as 'and', uncertain"
+  },
+  {
+   "id": "b2",
+   "date": "1879-08-27",
+   "kind": "tally",
+   "position": "bottom",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "2[?] ruffed grouse 1 wood duck 3 black duck"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": null
+  }
+ ],
+ "marks": [
+  {
+   "kind": "archival-page-number",
+   "value": "161",
+   "position": "top",
+   "note": null
+  },
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from reverse of leaf; ignored"
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [
+   "Katahdin Lake"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "medium",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

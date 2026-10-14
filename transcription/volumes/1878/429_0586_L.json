@@ -1,0 +1,93 @@
+{
+ "frame": "429_0586",
+ "half": "L",
+ "volume": "1878",
+ "page_type": "diary-day",
+ "dates": [
+  "1878-07-29"
+ ],
+ "printed": {
+  "headers": [
+   "July, Monday 29. 1878."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1878-07-29",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Rowed to Loyds Neck,",
+    "shooting through the",
+    "marsh. At high tide",
+    "it is good fun to",
+    "paddle through the",
+    "lagoons and among",
+    "the winding channels,",
+    "with an occasional",
+    "shot at a heron or",
+    "snipe. In the afternoon",
+    "a strong southerly breeze",
+    "came up, so I rigged",
+    "my sail and went",
+    "out three or four miles",
+    "into the sound. Cuff[?]",
+    "has left for a three weeks",
+    "holiday"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": "Name \"Cuff\"[?] uncertain (same name as July 12). \"holiday\" squeezed small at line start."
+  },
+  {
+   "id": "b2",
+   "date": "1878-07-29",
+   "kind": "tally",
+   "position": "bottom",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "3 sand snipe."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "faint mirrored writing from reverse"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Cuff[?]",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   "Loyds Neck"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "medium",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

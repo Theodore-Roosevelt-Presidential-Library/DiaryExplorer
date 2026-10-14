@@ -1,0 +1,77 @@
+{
+ "frame": "429_0521",
+ "half": "L",
+ "volume": "1878",
+ "page_type": "diary-day",
+ "dates": [
+  "1878-03-27"
+ ],
+ "printed": {
+  "headers": [
+   "March, Wednesday 27. 1878."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1878-03-26",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "-ly darling",
+    "Muffie[?], more",
+    "than ~~words~~[?]",
+    "words can tell,",
+    "but my, but",
+    "my love for",
+    "him was some-",
+    "-thing even greater.",
+    "I have been",
+    "astonished at",
+    "the quiet way",
+    "I have gone",
+    "about my occu-",
+    "pations and",
+    "even amusements",
+    "as if nothing",
+    "had happened;",
+    "and yet I"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": "Continues from previous page (entry begun March 26); continues on next page. Line 3 has a struck word."
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "Mirrored writing from reverse of leaf; ignored."
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Muffie[?]",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "medium",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

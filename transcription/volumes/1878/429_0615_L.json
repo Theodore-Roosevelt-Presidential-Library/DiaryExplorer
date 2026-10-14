@@ -1,0 +1,72 @@
+{
+ "frame": "429_0615",
+ "half": "L",
+ "volume": "1878",
+ "page_type": "diary-day",
+ "dates": [
+  "1878-09-13"
+ ],
+ "printed": {
+  "headers": [
+   "SEPTEMBER, FRIDAY 13. 1878."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1878-09-13",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Rained all day so",
+    "we stayed in camp",
+    "- reading, playing",
+    "euchre and whist",
+    "and practising with",
+    "our rifles. I again",
+    "waited a couple of",
+    "hours for ducks,",
+    "getting one long",
+    "and unsuccessful",
+    "shot. I killed",
+    "a bat and a",
+    "nighthawk."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored show-through ignored"
+  },
+  {
+   "kind": "other",
+   "value": null,
+   "position": "left-margin",
+   "note": "edge of another leaf with letter fragments visible at far left; not part of this page"
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "Left strip shows the cut edge of an adjacent leaf; ignored.",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

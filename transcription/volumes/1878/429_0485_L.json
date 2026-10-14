@@ -1,0 +1,90 @@
+{
+ "frame": "429_0485",
+ "half": "L",
+ "volume": "1878",
+ "page_type": "diary-day",
+ "dates": [
+  "1878-01-12"
+ ],
+ "printed": {
+  "headers": [
+   "JANUARY, SATURDAY 12. 1878."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1878-01-12",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Dancing class in",
+    "the evening. Some",
+    "very sweet girls",
+    "in Boston—as the[?]",
+    "Carrie Goodwin,",
+    "Bessie Whitney",
+    "and the two",
+    "Miss Roaches. Also",
+    "Pauline Revere",
+    "Spent the night",
+    "with Arthur",
+    "Hooper. (Not com-",
+    "-ing back till",
+    "Monday)."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "'the[?]' after 'as' is cramped at line end and uncertain"
+  }
+ ],
+ "marks": [],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Carrie Goodwin",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Bessie Whitney",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Miss Roaches",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Pauline Revere",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Arthur Hooper",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   "Boston"
+  ],
+  "dates": [
+   "Monday"
+  ]
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

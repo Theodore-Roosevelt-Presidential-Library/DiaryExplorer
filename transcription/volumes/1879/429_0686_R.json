@@ -1,0 +1,31 @@
+{
+ "frame": "429_0686",
+ "half": "R",
+ "volume": "1879",
+ "page_type": "diary-day",
+ "dates": [
+  "1879-01-27"
+ ],
+ "printed": {
+  "headers": [
+   "Monday, January 27, 1879."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [],
+ "marks": [],
+ "mentions": {
+  "people": [],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": false,
+ "confidence": "high",
+ "transcriber_notes": "Blank page, no entry. Next frame begins with Jan 30; pages for Jan 28-29 not in this sequence (likely a blank, unnumbered leaf).",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

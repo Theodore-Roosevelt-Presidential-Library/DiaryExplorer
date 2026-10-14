@@ -1,0 +1,123 @@
+{
+ "frame": "430_0034",
+ "half": "L",
+ "volume": "1881",
+ "page_type": "diary-day",
+ "dates": [
+  "1881-05-22",
+  "1881-05-23",
+  "1881-05-24"
+ ],
+ "printed": {
+  "headers": [
+   "May, Sunday 22. 1881.",
+   "Monday 23.",
+   "Tuesday 24."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1881-05-22",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Dear little English Church in",
+    "morning. In afternoon heard",
+    "bells of Shandon, then",
+    "drove to Castle Blarney;",
+    "crumbling, ivy covered ruin.",
+    "Flowers all out; birds",
+    "singing; everything lovely."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "b2",
+   "date": "1881-05-23",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Took R.R. for Killarney.",
+    "Excellent hotel, by",
+    "beautiful lake. Jaunting",
+    "car to ivy-covered Mul-",
+    "cross Abbey & Ross Castle; &",
+    "Tore Cascade. Boat home.",
+    "Scenery lovely. Hurrah!"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "b3",
+   "date": "1881-05-24",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "We drove to Dunloe's Gap;",
+    "Alice on pony, I walked",
+    "through it; very wild and",
+    "grand; then took boat",
+    "down through beautiful upper",
+    "lake. Most lovely day.",
+    "Poor devil fainting from hunger.",
+    "Had him fed & sent to Cork."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": "last two lines cramped at page foot"
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "faint mirrored writing from reverse of leaf; ignored"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Alice",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   "English Church",
+   "Shandon",
+   "Castle Blarney",
+   "Killarney",
+   "Mulcross Abbey",
+   "Ross Castle",
+   "Tore Cascade",
+   "Dunloe's Gap",
+   "Cork"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "medium",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

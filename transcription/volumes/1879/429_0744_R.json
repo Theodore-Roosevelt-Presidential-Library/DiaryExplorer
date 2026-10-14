@@ -1,0 +1,72 @@
+{
+ "frame": "429_0744",
+ "half": "R",
+ "volume": "1879",
+ "page_type": "diary-day",
+ "dates": [
+  "1879-07-14"
+ ],
+ "printed": {
+  "headers": [
+   "Monday, July 14, 1879."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1879-07-14",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Rowed across the sound",
+    "to Sheffield Island",
+    "light and back, a",
+    "distance of 30 miles.",
+    "Going over there was no",
+    "wind and the tide was",
+    "with me, so I took but",
+    "2 3/4 hours; coming back",
+    "I took 4 1/2 hours, as",
+    "there was a heavy head",
+    "wind and I shipped",
+    "a good deal of water.",
+    "In the evening we",
+    "danced, played charades",
+    "&c - there being several",
+    "fellows and girls staying",
+    "in the house."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  }
+ ],
+ "marks": [
+  {
+   "kind": "archival-page-number",
+   "value": "135",
+   "position": "top",
+   "note": "pencil, right of header"
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [
+   "Sheffield Island light"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

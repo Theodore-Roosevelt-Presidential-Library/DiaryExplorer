@@ -1,0 +1,138 @@
+{
+ "frame": "430_0036",
+ "half": "L",
+ "volume": "1881",
+ "page_type": "diary-day",
+ "dates": [
+  "1881-06-03",
+  "1881-06-04",
+  "1881-06-05"
+ ],
+ "printed": {
+  "headers": [
+   "June, Friday 3. 1881.",
+   "Saturday 4.",
+   "Sunday 5."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1881-06-03",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "We drove out on a [illegible]",
+    "coach to the Epsom",
+    "races, with Shaw, Weld",
+    "Chapin & the Lawrences.",
+    "Great fun. Theatre in",
+    "evening."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": "word at end of first line overwritten/blotted, possibly cancelled"
+  },
+  {
+   "id": "b2",
+   "date": "1881-06-04",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "South Kensington",
+    "Museum very interesting.",
+    "Gilbert & Sullivan's",
+    "new Comic Opera in",
+    "evening,"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "b3",
+   "date": "1881-06-05",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "St. Pauls in morning;",
+    "lovely music.",
+    "Westminster Abbey in",
+    "afternoon; excellent",
+    "sermon from Dean",
+    "Stanley."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "faint mirrored writing from reverse of leaf; ignored"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Shaw",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Weld",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Chapin",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "the Lawrences",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Gilbert & Sullivan",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Dean Stanley",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   "Epsom",
+   "South Kensington Museum",
+   "St. Pauls",
+   "Westminster Abbey"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "medium",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

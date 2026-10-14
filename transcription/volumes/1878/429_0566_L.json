@@ -1,0 +1,84 @@
+{
+ "frame": "429_0566",
+ "half": "L",
+ "volume": "1878",
+ "page_type": "diary-day",
+ "dates": [
+  "1878-06-19"
+ ],
+ "printed": {
+  "headers": [
+   "June, Wednesday 19. 1878."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1878-06-19",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Oyster Bay L. I.",
+    "Came out here",
+    "in the afternoon;",
+    "in the morning",
+    "I visited poor",
+    "Cattie[?].",
+    "I owe everything",
+    "I have and[?] am",
+    "to Father; he",
+    "did everything",
+    "for me, and I",
+    "nothing for him.",
+    "I remember so well",
+    "how, years ago, when",
+    "I was a very weak,",
+    "asthmatic child,",
+    "he used to walk[?]",
+    "up and down"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": "Ink blot obscures word between 'have' and 'am'. Name 'Cattie' uncertain. Entry continues on next page."
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "faint mirrored writing from reverse of leaf; ignored"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Cattie[?]",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Father",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   "Oyster Bay L. I."
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

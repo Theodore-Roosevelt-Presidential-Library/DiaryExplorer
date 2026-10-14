@@ -1,0 +1,159 @@
+{
+ "frame": "429_1022",
+ "half": "L",
+ "volume": "1880",
+ "page_type": "other",
+ "dates": [],
+ "printed": {
+  "headers": [],
+  "title": "Cash Account—September.",
+  "description": "Printed cash-account ruling with column heads 'Date.', 'Received.', 'Paid.' reused for game summary"
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": null,
+   "kind": "heading",
+   "position": "top",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Summary of"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "written below printed title; continues as 'Game Bag' on facing page 429_1022_R"
+  },
+  {
+   "id": "b2",
+   "date": null,
+   "kind": "table",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Total",
+    "Lynx 1",
+    "Fox 1",
+    "Coon 1",
+    "Deer 2",
+    "Rabbit 28",
+    "Squirrel 21",
+    "Grouse 152",
+    "Quail &c 32",
+    "Pigeon 134",
+    "Woodcock 41",
+    "Snipe 128",
+    "Plover 50",
+    "Rail, Coot &c &c 10",
+    "Heron 43",
+    "Goose 1",
+    "Duck 54",
+    "Loon &c 8",
+    "707"
+   ],
+   "rows": [
+    [
+     "Lynx",
+     "1"
+    ],
+    [
+     "Fox",
+     "1"
+    ],
+    [
+     "Coon",
+     "1"
+    ],
+    [
+     "Deer",
+     "2"
+    ],
+    [
+     "Rabbit",
+     "28"
+    ],
+    [
+     "Squirrel",
+     "21"
+    ],
+    [
+     "Grouse",
+     "152"
+    ],
+    [
+     "Quail &c",
+     "32"
+    ],
+    [
+     "Pigeon",
+     "134"
+    ],
+    [
+     "Woodcock",
+     "41"
+    ],
+    [
+     "Snipe",
+     "128"
+    ],
+    [
+     "Plover",
+     "50"
+    ],
+    [
+     "Rail, Coot &c &c",
+     "10"
+    ],
+    [
+     "Heron",
+     "43"
+    ],
+    [
+     "Goose",
+     "1"
+    ],
+    [
+     "Duck",
+     "54"
+    ],
+    [
+     "Loon &c",
+     "8"
+    ],
+    [
+     "(total)",
+     "707"
+    ]
+   ],
+   "columns": [
+    "Game",
+    "Total"
+   ],
+   "confidence": "high",
+   "note": "Summary of the preceding game tally by group. Totals sum to 707. 'Rail, Coot &c &c' reading medium. Year-by-year figures for each row on facing page 429_1022_R."
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "faint ghost figures ignored"
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

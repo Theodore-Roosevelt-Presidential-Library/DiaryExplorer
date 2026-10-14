@@ -1,0 +1,89 @@
+{
+ "frame": "429_0850",
+ "half": "R",
+ "volume": "1880",
+ "page_type": "diary-day",
+ "dates": [
+  "1880-01-23"
+ ],
+ "printed": {
+  "headers": [
+   "January, Friday 23. 1880."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1880-01-23",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Went down to Salem, with Mrs.",
+    "Saltonstall, Mrs. Lee, Rose and",
+    "Alice. I am staying in a",
+    "very curious old House, with",
+    "Ht[?] belonging to Miss. Saltonstall.",
+    "In the evening went to a",
+    "^very jolly^ ~~great~~ party at Hamilton Hall"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": "First word of line 5 unclear ('Ht'?). 'Miss.' written with long-s form. Line 7: 'great' struck and 'very jolly' written above it."
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "faint mirrored writing from reverse"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Mrs. Saltonstall",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Mrs. Lee",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Rose",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Alice",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Miss. Saltonstall",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   "Salem",
+   "Hamilton Hall"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "medium",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

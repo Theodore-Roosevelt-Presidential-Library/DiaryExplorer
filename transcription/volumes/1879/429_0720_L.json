@@ -1,0 +1,82 @@
+{
+ "frame": "429_0720",
+ "half": "L",
+ "volume": "1879",
+ "page_type": "diary-day",
+ "dates": [
+  "1879-05-20"
+ ],
+ "printed": {
+  "headers": [
+   "Tuesday, May 20, 1879."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1879-05-20",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "After dinner Dick S. and",
+    "I drove over in a buggy",
+    "to Chestnut Hill where",
+    "I passed a very pleas-",
+    "ant evening; I brought",
+    "the girls out some gold",
+    "and silver charms.",
+    "I am afraid",
+    "I have lamed my",
+    "horse hopelessly; it is",
+    "very tough luck; but",
+    "at least I did have",
+    "royal sport for the",
+    "three weeks and a half",
+    "I had him."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  }
+ ],
+ "marks": [
+  {
+   "kind": "archival-page-number",
+   "value": "73",
+   "position": "top-left",
+   "note": "pencil"
+  },
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from reverse of leaf; ignored"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Dick S.",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   "Chestnut Hill"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

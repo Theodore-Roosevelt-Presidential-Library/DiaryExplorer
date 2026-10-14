@@ -1,0 +1,43 @@
+{
+ "frame": "430_0003",
+ "half": "R",
+ "volume": "1881",
+ "page_type": "printed-matter",
+ "dates": [],
+ "printed": {
+  "headers": [],
+  "title": "Astronomical Calculations, 1881.",
+  "description": "Eclipses, planets brightest, movable feasts and chronological cycles."
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": null,
+   "kind": "heading",
+   "position": "top",
+   "medium": "ink",
+   "hand": "uncertain",
+   "lines": [
+    "\"Theodore\""
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": "Written above printed border, in quotation marks; possibly a different hand."
+  }
+ ],
+ "marks": [],
+ "mentions": {
+  "people": [],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": false,
+ "confidence": "medium",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

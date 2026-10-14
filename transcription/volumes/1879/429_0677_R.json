@@ -1,0 +1,50 @@
+{
+ "frame": "429_0677",
+ "half": "R",
+ "volume": "1879",
+ "page_type": "diary-day",
+ "dates": [
+  "1879-01-07"
+ ],
+ "printed": {
+  "headers": [
+   "Tuesday, January 7, 1879."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [],
+ "marks": [
+  {
+   "kind": "archival-page-number",
+   "value": "7",
+   "position": "top",
+   "note": "pencil"
+  },
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from other side of leaf"
+  },
+  {
+   "kind": "other",
+   "value": "//",
+   "position": "top",
+   "note": "small pencil strokes after printed year"
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": false,
+ "confidence": "high",
+ "transcriber_notes": "No entry for Jan 7; the visible writing is mirrored show-through of the Jan 8 entry.",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

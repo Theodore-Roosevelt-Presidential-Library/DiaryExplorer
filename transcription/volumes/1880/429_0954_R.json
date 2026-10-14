@@ -1,0 +1,82 @@
+{
+ "frame": "429_0954",
+ "half": "R",
+ "volume": "1880",
+ "page_type": "diary-day",
+ "dates": [
+  "1880-08-24"
+ ],
+ "printed": {
+  "headers": [
+   "August, Tuesday 24. 1880."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1880-08-24",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Before the sun was up",
+    "we started off, tramp-",
+    "ing in sullen silence",
+    "through the wet",
+    "prarie grass; but we",
+    "found few birds and",
+    "~~shot~~ very badly."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": "first word of last line is heavily struck; reading 'shot' uncertain."
+  },
+  {
+   "id": "b2",
+   "date": "1880-08-24",
+   "kind": "tally",
+   "position": "bottom",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "2 dove 2 plover 2 sandsnipe",
+    "E 2 grouse."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "heavy mirrored text from 25 Aug; ignored"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "E",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "medium",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

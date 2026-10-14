@@ -1,0 +1,132 @@
+{
+ "frame": "429_0629",
+ "half": "L",
+ "volume": "1878",
+ "page_type": "diary-day",
+ "dates": [
+  "1878-10-11"
+ ],
+ "printed": {
+  "headers": [
+   "October, Friday 11. 1878."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1878-10-11",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Have finally decided",
+    "to go into the",
+    "Porcellian; my classmates",
+    "who are in it are",
+    "Minot Weld, Harry",
+    "Shaw, Dick Trimble,",
+    "Charley Morgan and",
+    "George Griswold.",
+    "The A.D men from our",
+    "class are Bob Bacon,",
+    "Billy Hooper, Billy",
+    "Blodgett, Charley Ware,",
+    "Harry Jackson and",
+    "Freddy Allen &",
+    "Johnny Samson."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": "'A.D' may be written with a delta-like A; final '&' uncertain"
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from reverse of leaf"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Minot Weld",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Harry Shaw",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Dick Trimble",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Charley Morgan",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "George Griswold",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Bob Bacon",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Billy Hooper",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Billy Blodgett",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Charley Ware",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Harry Jackson",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Freddy Allen",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Johnny Samson",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   "Porcellian",
+   "A.D"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

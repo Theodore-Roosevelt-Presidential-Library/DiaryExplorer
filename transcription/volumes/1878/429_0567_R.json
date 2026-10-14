@@ -1,0 +1,97 @@
+{
+ "frame": "429_0567",
+ "half": "R",
+ "volume": "1878",
+ "page_type": "diary-day",
+ "dates": [
+  "1878-06-22"
+ ],
+ "printed": {
+  "headers": [
+   "June, Saturday 22. 1878."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": null,
+   "kind": "other",
+   "position": "top",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "~~Saturday 22.~~"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": "Printed day heading struck through in ink; faint unreadable writing above it."
+  },
+  {
+   "id": "b2",
+   "date": "1878-06-21",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "except at those",
+    "bitter ^moments^ when I",
+    "realize what I",
+    "have lost. Father",
+    "was himself so",
+    "invariably cheerful",
+    "that I feel it",
+    "would be wrong",
+    "for me to be gloomy,",
+    "and besides, fortunately",
+    "or unfortunately, I",
+    "am of a very",
+    "buoyant temper — being",
+    "a bit of an optimist.",
+    "Had a glorious",
+    "20-mile ride on",
+    "Lightfoot; canter-",
+    "-ing the whole time."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "continues from previous page (June 21 entry); 'wrong' underlined. TR struck the printed 'Saturday 22' and used this page for June 21."
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "faint mirrored writing from reverse of leaf; ignored"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Father",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Lightfoot",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "medium",
+ "transcriber_notes": "Printed heading struck by TR; the Saturday 22 entry is written on the next page (printed Sunday 23).",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

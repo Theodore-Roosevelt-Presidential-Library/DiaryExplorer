@@ -1,0 +1,73 @@
+{
+ "frame": "429_0991",
+ "half": "L",
+ "volume": "1880",
+ "page_type": "diary-day",
+ "dates": [
+  "1880-11-07"
+ ],
+ "printed": {
+  "headers": [
+   "November, Sunday 7. 1880."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1880-11-07",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "In the morning I",
+    "read aloud from the",
+    "bible; in the afternoon",
+    "we took a long walk",
+    "through woods and fields,",
+    "in the beautiful, clear,",
+    "cool Autumn weather. Alice",
+    "is a beautiful walker, with",
+    "her long, firm step, and",
+    "clambers over fences about",
+    "as easily as I do.",
+    "My old hunter keeps",
+    "us pretty well supplied",
+    "with woodcock & partridge."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "faint mirrored writing from reverse"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Alice",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "frame": "429_0959",
+ "half": "L",
+ "volume": "1880",
+ "page_type": "diary-day",
+ "dates": [
+  "1880-09-02"
+ ],
+ "printed": {
+  "headers": [
+   "September, Thursday 2. 1880."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "top",
+   "note": "mirrored text of the 1 Sept entry (darker in top lines, possibly ink offset) and of the 31 Aug entry; not writing on this page"
+  },
+  {
+   "kind": "ink-blot",
+   "value": null,
+   "position": "top",
+   "note": "dark blots among the top lines"
+  },
+  {
+   "kind": "other",
+   "value": null,
+   "position": "body",
+   "note": "dark elongated object or stain at lower right"
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": false,
+ "confidence": "medium",
+ "transcriber_notes": "No entry for this day; the mirrored text at top reads as show-through/offset of the 1 Sept page, not handwriting on this page.",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

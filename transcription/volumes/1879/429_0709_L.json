@@ -1,0 +1,81 @@
+{
+ "frame": "429_0709",
+ "half": "L",
+ "volume": "1879",
+ "page_type": "diary-day",
+ "dates": [
+  "1879-04-04"
+ ],
+ "printed": {
+  "headers": [
+   "Friday, April 4, 1879."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1879-04-04",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Miss Christine & Miss Lucy",
+    "Kean lunched with us; I",
+    "like them very much.",
+    "Darling little Muffie",
+    "has gotten sick, and it",
+    "makes me feel miserable."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  }
+ ],
+ "marks": [
+  {
+   "kind": "archival-page-number",
+   "value": null,
+   "position": "left-margin",
+   "note": "faint pencil mark top left"
+  },
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "heavy mirrored writing from reverse below the entry; ignored"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Miss Christine Kean",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Miss Lucy Kean",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Muffie",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

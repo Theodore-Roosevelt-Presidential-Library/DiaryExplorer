@@ -1,0 +1,164 @@
+{
+ "frame": "429_1018",
+ "half": "L",
+ "volume": "1880",
+ "page_type": "cash-account",
+ "dates": [],
+ "printed": {
+  "headers": [],
+  "title": "Cash Account—January.",
+  "description": "Printed column heads 'Date.', 'Received.', 'Paid.'; title struck through by TR"
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": null,
+   "kind": "heading",
+   "position": "over-printed-title",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Summary of",
+    "1878"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "printed title 'Cash Account—January.' struck through; ink blot over the '7' of 1878"
+  },
+  {
+   "id": "b2",
+   "date": null,
+   "kind": "table",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Dolls. Cts",
+    "Dress 401.30",
+    "Room 220.75",
+    "Board 305.50",
+    "Stable 125.00",
+    "Education 185.80",
+    "Washing 50.00",
+    "Presents 80.00",
+    "Charity 147.00",
+    "Coal &c 60.60",
+    "Travelling 229.25",
+    "Science 57.50",
+    "Club Dues & subscriptions 133.75",
+    "Sporting 172.10",
+    "Amusements 32.75",
+    "Sundries 101.00",
+    "2302.30"
+   ],
+   "rows": [
+    [
+     "Dress",
+     "401.30"
+    ],
+    [
+     "Room",
+     "220.75"
+    ],
+    [
+     "Board",
+     "305.50"
+    ],
+    [
+     "Stable",
+     "125.00"
+    ],
+    [
+     "Education",
+     "185.80"
+    ],
+    [
+     "Washing",
+     "50.00"
+    ],
+    [
+     "Presents",
+     "80.00"
+    ],
+    [
+     "Charity",
+     "147.00"
+    ],
+    [
+     "Coal &c",
+     "60.60"
+    ],
+    [
+     "Travelling",
+     "229.25"
+    ],
+    [
+     "Science",
+     "57.50"
+    ],
+    [
+     "Club Dues & subscriptions",
+     "133.75"
+    ],
+    [
+     "Sporting",
+     "172.10"
+    ],
+    [
+     "Amusements",
+     "32.75"
+    ],
+    [
+     "Sundries",
+     "101.00"
+    ],
+    [
+     "(total)",
+     "2302.30"
+    ]
+   ],
+   "columns": [
+    "Category",
+    "1878 (Dolls. Cts)"
+   ],
+   "confidence": "high",
+   "note": "Figures written across printed Received./Paid. columns. 'Club Dues & subscriptions' reading of 'Dues &' medium (cramped). Column sums exactly to 2302.30. Rows continue across the spread to 429_1018_R (1879, 1880)."
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "faint ghost of Cash Account—Summary figures ignored"
+  },
+  {
+   "kind": "ink-blot",
+   "value": null,
+   "position": "top",
+   "note": "blot over '7' in 1878"
+  },
+  {
+   "kind": "stain",
+   "value": null,
+   "position": "left-margin",
+   "note": "white specks/damage at inner margin"
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [],
+  "dates": [
+   "1878"
+  ]
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

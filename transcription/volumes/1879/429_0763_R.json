@@ -1,0 +1,75 @@
+{
+ "frame": "429_0763",
+ "half": "R",
+ "volume": "1879",
+ "page_type": "diary-day",
+ "dates": [
+  "1879-08-31"
+ ],
+ "printed": {
+  "headers": [
+   "Sunday, August 31, 1879."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1879-08-31",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Loafed about camp,",
+    "cleaning guns, mending",
+    "clothes, ~~cleaning~~ bathing",
+    "in the lake &c. You get",
+    "pretty dirty in camp.",
+    "Black flies have been",
+    "very numerous this trip,",
+    "and have been a great",
+    "annoyance to the others;",
+    "funnily enough they",
+    "do not bother me very",
+    "much. There are plenty",
+    "of fish round here; game is",
+    "very scarce; but I",
+    "am enjoying myself",
+    "exceedingly"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  }
+ ],
+ "marks": [
+  {
+   "kind": "archival-page-number",
+   "value": "165",
+   "position": "top",
+   "note": null
+  },
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from reverse of leaf; ignored"
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

@@ -1,0 +1,96 @@
+{
+ "frame": "430_0128",
+ "half": "R",
+ "volume": "1883",
+ "page_type": "diary-day",
+ "dates": [
+  "1883-09-06"
+ ],
+ "printed": {
+  "headers": [
+   "SEPTEMBER 6 Thursday"
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1883-09-06",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Only made about six",
+    "miles over pretty rough",
+    "trail; camped by a",
+    "rushing mountain torrent",
+    "\"Park\" country; broken,",
+    "steep and rolling; wooded",
+    "with open glades; small",
+    "lakes & clear streams.",
+    "M. & I went out in",
+    "afternoon on foot, through",
+    "cedar wooded steep",
+    "hills. We separated; I",
+    "found a[?] fresh tracks",
+    "of a band of elk, and",
+    "followed them up",
+    "till I came on them;",
+    "killed an old cow",
+    "and a bull calf as",
+    "they ran off through",
+    "the woods, M after wards[?]",
+    "killed one. No bull in",
+    "the band."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": "'a' in 'found a fresh tracks' has a mark over it, possibly struck"
+  },
+  {
+   "id": "b2",
+   "date": "1883-09-06",
+   "kind": "tally",
+   "position": "bottom",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "2 elk"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": null
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from reverse of leaf, ignored"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "M.",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "medium",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

@@ -1,0 +1,146 @@
+{
+ "frame": "429_0708",
+ "half": "L",
+ "volume": "1879",
+ "page_type": "diary-day",
+ "dates": [
+  "1879-04-02"
+ ],
+ "printed": {
+  "headers": [
+   "Wednesday, April 2, 1879."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1879-04-02",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "I gave a little lunch-",
+    "party in my rooms.",
+    "Mrs Saltonstall matron-",
+    "ized; the girls were Alice,",
+    "Rose, Nana & Emily Rotch,",
+    "Bessie Whitney & Lulu Lane;",
+    "the fellows Minot, Dick ^Saltonstall^, Jack",
+    "Tebbetts, Harry Shaw, Gardy",
+    "Lane & Ell. Whitney. We",
+    "took them over the Porcel-",
+    "-lian and Pudding, and",
+    "passed a lovely day. I",
+    "gave Alice the lynx skin, made",
+    "into a rug; and Rose the fox.",
+    "Alice is making me a pair of",
+    "slippers. En passant, Nana R.",
+    "is very sweet & pretty. Took the",
+    "night boat for New York with",
+    "Minot & Dick who are going",
+    "to spend the vacation week with me."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "'Saltonstall' inserted above between 'Dick' and 'Jack'. Last line written below the ruled frame."
+  }
+ ],
+ "marks": [
+  {
+   "kind": "archival-page-number",
+   "value": "56",
+   "position": "left-margin",
+   "note": "pencil, top left"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Mrs Saltonstall",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Alice",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Rose",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Nana Rotch",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Emily Rotch",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Bessie Whitney",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Lulu Lane",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Minot",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Dick Saltonstall",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Jack Tebbetts",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Harry Shaw",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Gardy Lane",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Ell. Whitney",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Nana R.",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   "New York"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

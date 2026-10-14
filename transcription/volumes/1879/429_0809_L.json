@@ -1,0 +1,96 @@
+{
+ "frame": "429_0809",
+ "half": "L",
+ "volume": "1879",
+ "page_type": "diary-day",
+ "dates": [
+  "1879-12-06"
+ ],
+ "printed": {
+  "headers": [
+   "Saturday, December 6, 1879."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1879-12-06",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "In the morning drove over",
+    "to Minot Welds where I",
+    "spent most of the day.",
+    "Dined in Boston at",
+    "Harry Shaws, afterwards",
+    "going to a commerce",
+    "party at his cousins; where",
+    "I passed a very pleasant",
+    "evening with a pretty",
+    "Miss Silsbee.",
+    "I enjoy my horse and",
+    "cart more and more",
+    "every day. I am afraid",
+    "going out will tire me",
+    "somewhat, as I get up",
+    "every morning at 7.15 no-",
+    "matter how late I have been",
+    "up - except Saturday and",
+    "Sunday."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  }
+ ],
+ "marks": [
+  {
+   "kind": "archival-page-number",
+   "value": "347[?]",
+   "position": "top",
+   "note": "pencil"
+  },
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from reverse of leaf; ignored"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Minot Weld",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Harry Shaw",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Miss Silsbee",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   "Boston"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

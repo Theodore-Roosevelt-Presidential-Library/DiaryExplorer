@@ -1,0 +1,73 @@
+{
+ "frame": "429_0743",
+ "half": "R",
+ "volume": "1879",
+ "page_type": "diary-day",
+ "dates": [
+  "1879-07-12"
+ ],
+ "printed": {
+  "headers": [
+   "Saturday, July 12, 1879."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1879-07-12",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Elliott stayed up for a",
+    "holiday; so I spent the",
+    "day with him, sailing,",
+    "playing lawn tennis &c.",
+    "Am teaching ^my^ the horse to",
+    "trot, as I think of put-",
+    "ting him in a tilbury",
+    "next winter."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "'my' written above 'the', apparently as a correction; 'the' not clearly struck."
+  }
+ ],
+ "marks": [
+  {
+   "kind": "archival-page-number",
+   "value": "134",
+   "position": "top",
+   "note": "pencil, right of header"
+  },
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "lower half mirrored writing"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Elliott",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

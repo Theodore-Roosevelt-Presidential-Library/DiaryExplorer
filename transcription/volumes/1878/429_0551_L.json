@@ -1,0 +1,77 @@
+{
+ "frame": "429_0551",
+ "half": "L",
+ "volume": "1878",
+ "page_type": "diary-day",
+ "dates": [
+  "1878-05-22"
+ ],
+ "printed": {
+  "headers": [
+   "May, Wednesday 22. 1878."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1878-05-22",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Dick Saltonstall",
+    "came out to",
+    "the ΔKE theatri-",
+    "-cals; he is an",
+    "old trump and",
+    "I am glad he is",
+    "going to be at our",
+    "table next year.",
+    "A good many",
+    "fellows—among",
+    "them Pellew[?]—",
+    "were awfully",
+    "drunk."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "Greek letters Delta Kappa Epsilon written as ΔKE"
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from other side of leaf / facing page ignored"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Dick Saltonstall",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Pellew",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

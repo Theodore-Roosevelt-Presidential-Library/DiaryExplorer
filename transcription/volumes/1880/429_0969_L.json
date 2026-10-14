@@ -1,0 +1,85 @@
+{
+ "frame": "429_0969",
+ "half": "L",
+ "volume": "1880",
+ "page_type": "diary-day",
+ "dates": [
+  "1880-09-22"
+ ],
+ "printed": {
+  "headers": [
+   "September, Wednesday 22. 1880."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1880-09-22",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Started in tolerably good",
+    "season, hunting through",
+    "the ~~f~~ stubble fields",
+    "after chicken and",
+    "whitebellies; we both",
+    "of us shot pretty",
+    "well. At dusk we",
+    "again camped in the",
+    "woods in a bend of",
+    "the Buffalo river; we",
+    "have no tent or regular",
+    "outfit, and sleep on",
+    "the ground; we have'n't",
+    "even a frying pan."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "b2",
+   "date": "1880-09-22",
+   "kind": "tally",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "4 sharptails 3 chicken 2 plover 2 dove",
+    "E3 \" \" 7 \" 2 \""
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "faint mirrored writing from reverse"
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [
+   "Buffalo river"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

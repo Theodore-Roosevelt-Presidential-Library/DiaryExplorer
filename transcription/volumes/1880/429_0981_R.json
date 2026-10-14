@@ -1,0 +1,77 @@
+{
+ "frame": "429_0981",
+ "half": "R",
+ "volume": "1880",
+ "page_type": "diary-day",
+ "dates": [
+  "1880-10-17"
+ ],
+ "printed": {
+  "headers": [
+   "October, Sunday 17. 1880."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1880-10-17",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "This is the last Sunday",
+    "I shall spend here be-",
+    "-fore I am married;",
+    "when next I come",
+    "to Oyster Bay it",
+    "will be with my",
+    "darling bride. I do",
+    "so hope and pray",
+    "I can make her",
+    "happy; I shall try",
+    "very hard to be",
+    "as unselfish and",
+    "sunny tempered as",
+    "she is. It almost",
+    "frightens me, in spite",
+    "of my ^our^ happiness, to",
+    "think that perhaps I",
+    "may not make her",
+    "happy; but I shall try",
+    "so hard; and if ever",
+    "man loved woman",
+    "I love her."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "'our' interlined above, between 'my' and 'happiness'; 'my' not struck"
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "faint mirrored writing from reverse"
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [
+   "Oyster Bay"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

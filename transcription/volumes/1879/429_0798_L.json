@@ -1,0 +1,101 @@
+{
+ "frame": "429_0798",
+ "half": "L",
+ "volume": "1879",
+ "page_type": "diary-day",
+ "dates": [
+  "1879-11-12"
+ ],
+ "printed": {
+  "headers": [
+   "Wednesday, November 12, 1879."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1879-11-12",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Drove Minot Weld over",
+    "to the Saltonstalls; we",
+    "went out walking with",
+    "Rosy and Rose.",
+    "I spend most of",
+    "my spare time in",
+    "Cambridge in the club;",
+    "and I also go a good",
+    "deal to the A.D.C.[?], where",
+    "the fellows are very pleasant",
+    "and intellectual - a rare",
+    "thing with college boys.",
+    "I have been off on a ~~good~~ ^great^",
+    "many sprees this year, and have",
+    "been studying well and keeping",
+    "late hours; thanks to the",
+    "magnificent condition I am in",
+    "after the summer I seem to stand",
+    "it pretty well."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": "'A.D.C.' final letter unclear; 'good' struck with 'great' written above"
+  }
+ ],
+ "marks": [
+  {
+   "kind": "archival-page-number",
+   "value": "327[?]",
+   "position": "top",
+   "note": "pencil"
+  },
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from reverse of leaf; ignored"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Minot Weld",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "the Saltonstalls",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Rosy",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Rose",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   "Cambridge"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "medium",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

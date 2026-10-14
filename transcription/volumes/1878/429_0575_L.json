@@ -1,0 +1,77 @@
+{
+ "frame": "429_0575",
+ "half": "L",
+ "volume": "1878",
+ "page_type": "diary-day",
+ "dates": [
+  "1878-07-07"
+ ],
+ "printed": {
+  "headers": [
+   "July, Sunday 7. 1878."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1878-07-07",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Have been feeling",
+    "very heart sick",
+    "for Father; when",
+    "singing tonight,",
+    "we none of us",
+    "could sing \"Safe",
+    "in the arms of",
+    "Jesus\"; we sang",
+    "it together on",
+    "that terrible Sun-",
+    "-day. I read to-",
+    "-day at prayers",
+    "one of his favour-",
+    "-ite chapters — Is. LV.",
+    "I can never thank",
+    "God sufficiently for",
+    "having given me such",
+    "a lovely, affectionate family."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "faint mirrored writing from reverse of leaf; ignored"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Father",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

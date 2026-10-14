@@ -1,0 +1,88 @@
+{
+ "frame": "429_0700",
+ "half": "R",
+ "volume": "1879",
+ "page_type": "diary-day",
+ "dates": [
+  "1879-03-12"
+ ],
+ "printed": {
+  "headers": [
+   "Wednesday, March 12, 1879."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1879-03-12",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "In the morning went the round",
+    "(7 miles) of the lucivee traps, which",
+    "contained nothing, but we saw a",
+    "coon cross the road ahead of us,",
+    "and following his tracks half a",
+    "mile I shot him from a dead",
+    "tree. About 10 a.m we started",
+    "through the woods for Matta-",
+    "womkeag Lake, at the foot",
+    "of which we camped",
+    "out for the night. The",
+    "snowshoing, for the first",
+    "time since I have been",
+    "up here, was capital.",
+    "On the way down I",
+    "picked up a couple",
+    "of spruce partridges in a",
+    "swamp."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "b2",
+   "date": "1879-03-12",
+   "kind": "tally",
+   "position": "bottom",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "1 raccoon 2 canada grouse."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  }
+ ],
+ "marks": [
+  {
+   "kind": "archival-page-number",
+   "value": "44",
+   "position": "top",
+   "note": "pencil, top right"
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [
+   "Mattawomkeag Lake"
+  ],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

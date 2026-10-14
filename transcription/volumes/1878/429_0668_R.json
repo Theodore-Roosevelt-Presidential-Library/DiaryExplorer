@@ -1,0 +1,147 @@
+{
+ "frame": "429_0668",
+ "half": "R",
+ "volume": "1878",
+ "page_type": "cash-account",
+ "dates": [],
+ "printed": {
+  "headers": [],
+  "title": "Cash Account—Summary.",
+  "description": "printed summary form listing months January–December with 'Received.' and 'Paid.' columns"
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": null,
+   "kind": "heading",
+   "position": "top",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "1878"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "written after printed title"
+  },
+  {
+   "id": "b2",
+   "date": null,
+   "kind": "table",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "January 275.00 198.50",
+    "February ~~[illegible].95~~ 96.30",
+    "March 324.45 304.65",
+    "April 735.00 418.10",
+    "May 179.40",
+    "June 137.50",
+    "July 125.00 125.00",
+    "August 57.00 57.00",
+    "September 33.00 33.00",
+    "October 500.00 233.00",
+    "November 135.75",
+    "December 131.25",
+    "2049.45 2049.45"
+   ],
+   "rows": [
+    [
+     "January",
+     "275.00",
+     "198.50"
+    ],
+    [
+     "February",
+     "~~[illegible].95~~",
+     "96.30"
+    ],
+    [
+     "March",
+     "324.45",
+     "304.65"
+    ],
+    [
+     "April",
+     "735.00",
+     "418.10"
+    ],
+    [
+     "May",
+     "",
+     "179.40"
+    ],
+    [
+     "June",
+     "",
+     "137.50"
+    ],
+    [
+     "July",
+     "125.00",
+     "125.00"
+    ],
+    [
+     "August",
+     "57.00",
+     "57.00"
+    ],
+    [
+     "September",
+     "33.00",
+     "33.00"
+    ],
+    [
+     "October",
+     "500.00",
+     "233.00"
+    ],
+    [
+     "November",
+     "",
+     "135.75"
+    ],
+    [
+     "December",
+     "",
+     "131.25"
+    ],
+    [
+     "",
+     "2049.45",
+     "2049.45"
+    ]
+   ],
+   "columns": [
+    "month (printed)",
+    "Received",
+    "Paid"
+   ],
+   "confidence": "medium",
+   "note": "February 'Received' figure blotted/scribbled out (only '.95' legible; received column totals 2049.45 without it); September received figure read as 33 (first digit possibly corrected). A pen stroke runs down from the received total."
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "faint mirrored writing from other side of leaf; ignored"
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "medium",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

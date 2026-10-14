@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-<title>Roosevelt's 1884 Diary</title>
+<title>Roosevelt's Diaries</title>
 <meta name="description" content="Turn the pages of Theodore Roosevelt's 1884 pocket diary, on loan from the Library of Congress to the Theodore Roosevelt Presidential Library, with a page-by-page transcription.">
 <meta property="og:title" content="Theodore Roosevelt's 1884 Diary">
 <meta property="og:description" content="Turn the pages of Theodore Roosevelt's 1884 pocket diary, with a page-by-page transcription.">
@@ -19,7 +19,7 @@
   <header class="topbar">
     <div class="brand">
       <span class="eyebrow">Theodore Roosevelt Presidential Library</span>
-      <h1>Roosevelt's 1884 Diary</h1>
+      <h1>Roosevelt's Diaries</h1>
     </div>
     <div class="topbar-actions">
       <button class="btn ghost" id="btnEntries" aria-haspopup="dialog">All entries</button>
@@ -27,6 +27,8 @@
       <button class="btn ghost fs" id="btnFull" aria-label="Full screen" title="Full screen"><svg viewBox="0 0 24 24" aria-hidden="true"><path class="fs-open" d="M4 9V4h5M20 9V4h-5M4 15v5h5M20 15v5h-5"/><path class="fs-close" d="M9 4v5H4M15 4v5h5M9 20v-5H4M15 20v-5h5"/></svg><span class="fs-label">Full screen</span></button>
     </div>
   </header>
+
+  <nav class="shelf" id="shelf" aria-label="Choose a diary"></nav>
 
   <main class="layout">
     <section class="stage" aria-label="Diary">
@@ -72,9 +74,11 @@
     <span class="eyebrow">Library of Congress · Theodore Roosevelt Papers</span>
     <h2 id="introTitle">A year in Roosevelt's pocket</h2>
     <p>This small leather pocket diary carried Theodore Roosevelt through 1884. In February he marked one page with an X. By summer he was riding the Badlands. Turn its pages, read every entry, and see what he left blank.</p>
+    <p class="intro-more">Six earlier diaries, from his Harvard years through his first trip west, sit on the shelf beside it.</p>
     <div class="intro-actions">
       <button class="btn primary" id="introFeb14">Open to February 14</button>
       <button class="btn" id="introCover">Start at the cover</button>
+      <button class="btn" id="introShelf">Start in 1878</button>
     </div>
     <p class="hint">Drag a page corner, swipe, or use the arrows to turn pages.</p>
   </div>
@@ -87,7 +91,7 @@
       <h2 id="entriesTitle">Every page with writing</h2>
       <button class="btn icon close" data-close aria-label="Close">×</button>
     </div>
-    <input type="search" id="search" placeholder="Search the transcription — try “Elkhorn” or “antelope”" aria-label="Search the transcription">
+    <input type="search" id="search" placeholder="Search all seven diaries — try “Alice” or “Elkhorn”" aria-label="Search the diaries">
     <div id="highlights"></div>
     <ol class="entry-list" id="entryList"></ol>
   </div>
@@ -101,6 +105,7 @@
       <button class="btn icon close" data-close aria-label="Close">×</button>
     </div>
     <p>An “Excelsior Diary” for 1884, with one printed page for each day of the year and account pages at the back. Roosevelt wrote on about fifty of its 400-plus pages. Most of the other days are blank.</p>
+    <p>Roosevelt kept seven pocket diaries from 1878 to 1884. The Library of Congress holds all of them. The 1884 diary is shown from new full-color scans; the six earlier volumes come from the black-and-white microfilm made in the 1960s. Where the film skips a blank leaf or photographs a page twice, the book here follows the film.</p>
     <h3>Reading the transcription</h3>
     <ul class="legend">
       <li><span class="unc">word<sup>?</sup></span> uncertain reading</li>

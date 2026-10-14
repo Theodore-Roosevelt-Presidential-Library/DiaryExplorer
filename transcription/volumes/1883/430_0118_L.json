@@ -1,0 +1,106 @@
+{
+ "frame": "430_0118",
+ "half": "L",
+ "volume": "1883",
+ "page_type": "diary-day",
+ "dates": [
+  "1883-08-18"
+ ],
+ "printed": {
+  "headers": [
+   "AUGUST 18 Saturday"
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": null,
+   "kind": "heading",
+   "position": "over-printed-title",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "16th",
+    "1884"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "\"16th\" written over/beside struck printed \"18\"; \"1884\" written after \"AUGUST\"."
+  },
+  {
+   "id": "b2",
+   "date": "1883-08-18",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Have been spending a couple",
+    "of weeks on my ranche, on",
+    "the Little Missouri; I now",
+    "intend starting out for",
+    "a two months trip overland",
+    "to the Bighorn Mountains.",
+    "My companions are my",
+    "foreman, William Merrifield,",
+    "who is to hunt with me, and",
+    "an old french halfbreed",
+    "named Lebo, who is to drive",
+    "the team and to cook &c.",
+    "I take a light \"prairie schooner\"",
+    "with a canvas cover, drawn by",
+    "two stout horses, to carry our",
+    "goods, and four riding ponies",
+    "for Merrifield and myself to ride.",
+    "One of these is Blackie, a stout,",
+    "swift rather vicious pony; Whitey[?],",
+    "very enduring; Brownie, willing",
+    "and swift, but very nervous; and",
+    "Roachie, quiet and rather",
+    "small. I cary a buckskin suit,"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": "Entry written 16 August 1884 (per TR's heading); continues on next page."
+  }
+ ],
+ "marks": [],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "William Merrifield",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Lebo",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Merrifield",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [
+   "Little Missouri",
+   "Bighorn Mountains"
+  ],
+  "dates": [
+   "16th August 1884"
+  ]
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "Printed 1883 date heading reused by TR in 1884: he struck/overwrote the printed day number and wrote the 1884 date. Printed day numbers partly obscured; read from 1883 calendar (Aug 18 Saturday / Aug 19 Sunday).",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

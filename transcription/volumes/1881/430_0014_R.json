@@ -1,0 +1,116 @@
+{
+ "frame": "430_0014",
+ "half": "R",
+ "volume": "1881",
+ "page_type": "diary-day",
+ "dates": [
+  "1881-01-25",
+  "1881-01-26",
+  "1881-01-27"
+ ],
+ "printed": {
+  "headers": [
+   "January, Tuesday 25. 1881.",
+   "Wednesday 26.",
+   "Thursday 27."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1881-01-25",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Very jolly dinner at",
+    "Rosy Roosevelts,"
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "b2",
+   "date": "1881-01-26",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "The sleighing is better",
+    "this year than I have",
+    "ever seen it; I take my",
+    "darling wife out",
+    "every day."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "id": "b3",
+   "date": "1881-01-27",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Took Rosamunna[?] Peabody",
+    "out in my sleigh;",
+    "Party at Oothout[?]."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": null
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": null
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Rosy Roosevelts",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "wife",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Rosamunna[?] Peabody",
+    "identified_as": null,
+    "certain": false
+   },
+   {
+    "as_written": "Oothout[?]",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "high",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

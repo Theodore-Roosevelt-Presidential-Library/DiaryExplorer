@@ -1,0 +1,74 @@
+{
+ "frame": "429_0955",
+ "half": "L",
+ "volume": "1880",
+ "page_type": "diary-day",
+ "dates": [
+  "1880-08-25"
+ ],
+ "printed": {
+  "headers": [
+   "August, Wednesday 25. 1880."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [
+  {
+   "id": "b1",
+   "date": "1880-08-25",
+   "kind": "entry",
+   "position": "body",
+   "medium": "ink",
+   "hand": "TR",
+   "lines": [
+    "Rained all day, so",
+    "stayed in the house.",
+    "~~O~~ Two of the men, a",
+    "texan desperado and a",
+    "jovial, stalwart irish boy",
+    "got fighting drunk; I",
+    "expected a row but it",
+    "did not occur. The other two",
+    "men (a canny scot and",
+    "a goodnatured german) were",
+    "on the side of peace. Any-",
+    "how, Nell and I are trav-",
+    "elling on our muscle, and",
+    "don't give a hang for",
+    "any man."
+   ],
+   "rows": null,
+   "columns": null,
+   "confidence": "medium",
+   "note": "a false-start letter before 'Two' appears cancelled; 'stayed' overwritten."
+  }
+ ],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "bottom",
+   "note": "mirrored tally from facing page; ignored"
+  }
+ ],
+ "mentions": {
+  "people": [
+   {
+    "as_written": "Nell",
+    "identified_as": null,
+    "certain": false
+   }
+  ],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": true,
+ "confidence": "medium",
+ "transcriber_notes": "",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}

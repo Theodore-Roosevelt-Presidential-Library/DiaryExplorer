@@ -1,0 +1,42 @@
+{
+ "frame": "430_0054",
+ "half": "L",
+ "volume": "1881",
+ "page_type": "diary-day",
+ "dates": [
+  "1881-09-19",
+  "1881-09-20",
+  "1881-09-21"
+ ],
+ "printed": {
+  "headers": [
+   "September, Monday 19. 1881.",
+   "Tuesday 20.",
+   "Wednesday 21."
+  ],
+  "title": null,
+  "description": null
+ },
+ "handwriting": [],
+ "marks": [
+  {
+   "kind": "show-through",
+   "value": null,
+   "position": "body",
+   "note": "mirrored writing from reverse of leaf; ignored"
+  }
+ ],
+ "mentions": {
+  "people": [],
+  "places": [],
+  "dates": []
+ },
+ "has_tr_writing": false,
+ "confidence": "medium",
+ "transcriber_notes": "All three days blank. Monday 19 has dark fragmentary strokes that appear mirrored (show-through/offset); not transcribed.",
+ "review": {
+  "status": "unreviewed",
+  "reviewer": null,
+  "date": null
+ }
+}
