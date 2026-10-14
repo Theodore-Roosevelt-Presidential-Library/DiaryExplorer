@@ -261,7 +261,7 @@
     archival.forEach(m => items.push(`<li><span class="k">${kindName[m.kind]}${m.value ? ': ' + esc(m.value) : ''}</span> <span>(later pencil, not Roosevelt's)</span></li>`));
     physical.forEach(m => items.push(`<li><span class="k">${kindName[m.kind] || m.kind}</span>${m.note ? ' — ' + esc(m.note) : ''}</li>`));
     if (p._w) items.unshift(`<li><span class="k">Written in</span> ${[...new Set(p.handwriting.map(b => b.medium).filter(x => x !== 'unknown'))].join(' and ') || 'unknown'}</li>`);
-    items.push(`<li><span class="k">Scan</span> LOC image ${p.seq} of 410 · <a href="https://www.loc.gov/item/mss382990724/" target="_blank" rel="noopener" class="loc-link">view at LOC</a></li>`);
+    items.push(`<li><span class="k">Scan</span> LOC image ${p.seq} of 410 · <a href="https://www.loc.gov/resource/mss38299a.80701/?sp=${parseInt(p.seq, 10)}" target="_blank" rel="noopener" class="loc-link">view at LOC</a></li>`);
     if (CFG.showDrafts && p.transcriber_notes) items.push(`<li><span class="k">Transcriber's notes</span><div class="notes-raw">${esc(p.transcriber_notes)}</div></li>`);
     return `<details class="page-meta"><summary>About this page</summary><ul class="meta-list">${items.join('')}</ul></details>`;
   }
@@ -319,6 +319,39 @@
   $('#zoomIn').onclick = () => viewer && viewer.viewport.zoomBy(1.5);
   $('#zoomOut').onclick = () => viewer && viewer.viewport.zoomBy(1 / 1.5);
 
+  /* ---------- full screen ---------- */
+  // In an iframe: go true full screen when the embed allows it; otherwise break out to the full site in a new tab.
+  // Standalone: toggle browser full screen.
+  function wireFullscreen() {
+    const btn = $('#btnFull');
+    const inFrame = (() => { try { return window.self !== window.top; } catch { return true; } })();
+    const canFS = !!(document.fullscreenEnabled || document.webkitFullscreenEnabled);
+    const isFS = () => !!(document.fullscreenElement || document.webkitFullscreenElement);
+    if (!canFS && !inFrame) { btn.hidden = true; return; }
+    const sync = () => {
+      const on = isFS();
+      document.body.classList.toggle('is-fs', on);
+      btn.setAttribute('aria-label', on ? 'Exit full screen' : 'Full screen');
+      btn.title = on ? 'Exit full screen' : 'Full screen';
+      $('.fs-label', btn).textContent = on ? 'Exit' : 'Full screen';
+      setTimeout(fitBook, 60);
+    };
+    document.addEventListener('fullscreenchange', sync);
+    document.addEventListener('webkitfullscreenchange', sync);
+    btn.onclick = () => {
+      if (isFS()) { (document.exitFullscreen || document.webkitExitFullscreen).call(document); return; }
+      if (canFS) {
+        const el = document.documentElement;
+        const req = el.requestFullscreen || el.webkitRequestFullscreen;
+        Promise.resolve(req.call(el)).catch(() => inFrame && breakOut());
+      } else breakOut();
+    };
+    function breakOut() {
+      const seq = book[visible()[0]] ? book[visible()[0]].seq : '';
+      window.open(location.origin + location.pathname + (current ? '#' + seq : ''), '_blank', 'noopener');
+    }
+  }
+
   /* ---------- wiring ---------- */
   function closeAll() { $$('.overlay').forEach(o => { if (o.id !== 'intro') o.hidden = true; }); }
   function wire() {
@@ -327,6 +360,7 @@
     $('#skipBlank').onchange = e => store.set('skip', e.target.checked);
     $('#btnEntries').onclick = () => { $('#entries').hidden = false; if (!KIOSK) $('#search').focus(); };
     $('#btnAbout').onclick = () => { $('#about').hidden = false; };
+    wireFullscreen();
     $('#introFeb14').onclick = () => { $('#intro').hidden = true; go(idxBySeq[CFG.startSeq || '0066']); };
     $('#introCover').onclick = () => { $('#intro').hidden = true; };
     $$('[data-close]').forEach(b => b.onclick = closeAll);

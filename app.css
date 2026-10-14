@@ -202,3 +202,12 @@ body.kiosk .tl-day.w{height:34px}
 }
 @media (max-width:860px){ .layout{display:flex;flex-direction:column} }
 @media (prefers-reduced-motion:reduce){*{transition:none!important}}
+
+/* full screen button */
+.btn.fs{display:inline-flex;align-items:center;gap:6px}
+.btn.fs svg{width:18px;height:18px;fill:none;stroke:currentColor;stroke-width:2;stroke-linecap:round;stroke-linejoin:round}
+.btn.fs .fs-close{display:none}
+body.is-fs .btn.fs .fs-open{display:none}
+body.is-fs .btn.fs .fs-close{display:inline}
+@media (max-width:860px){.btn.fs .fs-label{display:none}}
+body.kiosk .btn.fs{display:none}
