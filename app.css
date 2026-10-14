@@ -211,3 +211,11 @@ body.is-fs .btn.fs .fs-open{display:none}
 body.is-fs .btn.fs .fs-close{display:inline}
 @media (max-width:860px){.btn.fs .fs-label{display:none}}
 body.kiosk .btn.fs{display:none}
+
+/* zoom lives outside the book so it never starts a page turn */
+.pg-tools{display:inline-flex;align-items:center;gap:10px}
+.zoom-link{display:inline-flex;align-items:center;gap:4px;border:1px solid rgba(37,40,42,.25);background:#fff;border-radius:999px;padding:3px 10px 3px 8px;font-size:12px;font-weight:600;color:var(--ink);cursor:pointer}
+.zoom-link:hover{border-color:var(--rust)}
+.zoom-link svg,.zoom-nav svg{width:14px;height:14px;fill:none;stroke:currentColor;stroke-width:2.2;stroke-linecap:round}
+.btn.nav.zoom-nav svg{width:20px;height:20px}
+.controls{position:relative}

@@ -25,6 +25,7 @@
   let current = 0;
   let MINW = 160;
 
+  const ZOOM_SVG = '<svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="6"/><path d="M20 20l-4.5-4.5M11 8v6M8 11h6"/></svg>';
   const MONTHS = ['January','February','March','April','May','June','July','August','September','October','November','December'];
 
   Promise.all([
@@ -78,8 +79,7 @@
       const isCover = i === 0 || i === book.length - 1;
       d.className = 'page ' + (i === 0 ? 'right' : (i % 2 ? 'left' : 'right')) + (isCover ? ' cover' : '');
       if (isCover) d.dataset.density = 'hard';
-      d.innerHTML = `<img class="pimg" data-seq="${p.seq}" alt="${esc(altText(p))}" draggable="false"><div class="shade"></div>` +
-        `<button class="zoom-btn" data-zoom="${p.seq}" aria-label="Zoom into ${esc(dateLabel(p))}"><svg viewBox="0 0 24 24"><circle cx="11" cy="11" r="6"/><path d="M20 20l-4.5-4.5M11 8v6M8 11h6"/></svg></button>`;
+      d.innerHTML = `<img class="pimg" data-seq="${p.seq}" alt="${esc(altText(p))}" draggable="false"><div class="shade"></div>` ;
       el.appendChild(d);
     });
 
@@ -213,7 +213,7 @@
 
   function pageHTML(p, sideLabel) {
     const head = p.printed && p.printed.header ? p.printed.header.raw : (p.printed && p.printed.title) || dateLabel(p);
-    let h = `<section class="pg"><div class="pg-head"><span class="printed">${esc(head)}</span><span class="side-tag">${esc(sideLabel)}</span></div>`;
+    let h = `<section class="pg"><div class="pg-head"><span class="printed">${esc(head)}</span><span class="pg-tools"><span class="side-tag">${esc(sideLabel)}</span><button class="zoom-link" data-zoom="${p.seq}" aria-label="Zoom into ${esc(dateLabel(p))}">${ZOOM_SVG}Zoom</button></span></div>`;
     const note = NOTES[p.seq];
     if (note) h += `<div class="curator"><h4>Curator's note${note.status !== 'approved' ? '<span class="badge">Draft</span>' : ''}</h4>${note.title ? `<h5>${esc(note.title)}</h5>` : ''}<p>${esc(note.body)}</p></div>`;
 
@@ -298,9 +298,23 @@
   }
 
   /* ---------- zoom ---------- */
-  let viewer;
+  let viewer, zoomSeq = null;
+  function zoomStep(dir) {
+    const i = idxBySeq[zoomSeq]; if (i === undefined) return;
+    const j = Math.max(0, Math.min(book.length - 1, i + dir));
+    if (j !== i) openZoom(book[j].seq);
+  }
+  function closeZoom() {
+    if ($('#zoom').hidden) return;
+    $('#zoom').hidden = true;
+    const i = idxBySeq[zoomSeq];
+    if (i !== undefined && !visible().includes(i)) { flip.turnToPage(i); current = i; onTurn(); }
+  }
   function openZoom(seq) {
+    zoomSeq = seq;
     const p = DATA.pages.find(x => x.seq === seq);
+    const zi = idxBySeq[seq];
+    $('#zoomPrev').disabled = !zi; $('#zoomNext').disabled = zi === book.length - 1;
     const z = $('#zoom'); z.hidden = false;
     $('#zoomLabel').textContent = dateLabel(p);
     if (viewer) viewer.destroy();
@@ -317,6 +331,8 @@
     viewer.addOnceHandler('open-failed', () => { viewer.open({ type: 'image', url: p.image.local }); });
   }
   $('#zoomIn').onclick = () => viewer && viewer.viewport.zoomBy(1.5);
+  $('#zoomPrev').onclick = () => zoomStep(-1);
+  $('#zoomNext').onclick = () => zoomStep(1);
   $('#zoomOut').onclick = () => viewer && viewer.viewport.zoomBy(1 / 1.5);
 
   /* ---------- full screen ---------- */
@@ -353,10 +369,11 @@
   }
 
   /* ---------- wiring ---------- */
-  function closeAll() { $$('.overlay').forEach(o => { if (o.id !== 'intro') o.hidden = true; }); }
+  function closeAll() { closeZoom(); $$('.overlay').forEach(o => { if (o.id !== 'intro') o.hidden = true; }); }
   function wire() {
     $('#btnPrev').onclick = () => step(-1);
     $('#btnNext').onclick = () => step(1);
+    $('#btnZoom').onclick = () => { const v = visible().map(i => book[i]); const p = v.find(x => x._w) || v[v.length - 1]; openZoom(p.seq); };
     $('#skipBlank').onchange = e => store.set('skip', e.target.checked);
     $('#btnEntries').onclick = () => { $('#entries').hidden = false; if (!KIOSK) $('#search').focus(); };
     $('#btnAbout').onclick = () => { $('#about').hidden = false; };
@@ -368,6 +385,7 @@
     document.addEventListener('click', e => { const z = e.target.closest('[data-zoom]'); if (z) { e.stopPropagation(); openZoom(z.dataset.zoom); } }, true);
     addEventListener('keydown', e => {
       if (e.key === 'Escape') { closeAll(); return; }
+      if (!$('#zoom').hidden) { if (e.key === 'ArrowRight') zoomStep(1); if (e.key === 'ArrowLeft') zoomStep(-1); return; }
       if (!$('#intro').hidden || $$('.overlay.sheet').some(o => !o.hidden) || !$('#zoom').hidden) return;
       if (e.target.matches('input')) return;
       if (e.key === 'ArrowRight') step(1);

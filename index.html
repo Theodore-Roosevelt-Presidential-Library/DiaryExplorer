@@ -56,6 +56,7 @@
       </label>
     </div>
     <button class="btn nav" id="btnNext" aria-label="Next"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M9 5l7 7-7 7"/></svg></button>
+    <button class="btn nav zoom-nav" id="btnZoom" aria-label="Zoom into this page" title="Zoom"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="6"/><path d="M20 20l-4.5-4.5M11 8v6M8 11h6"/></svg></button>
   </nav>
 
   <div class="timeline" id="timeline" aria-label="1884 at a glance"></div>
@@ -122,6 +123,8 @@
   <div class="zoom-bar">
     <span id="zoomLabel"></span>
     <div>
+      <button class="btn small" id="zoomPrev" aria-label="Previous page">‹ Page</button>
+      <button class="btn small" id="zoomNext" aria-label="Next page">Page ›</button>
       <button class="btn small" id="zoomIn" aria-label="Zoom in">+</button>
       <button class="btn small" id="zoomOut" aria-label="Zoom out">−</button>
       <button class="btn small" data-close>Close</button>
